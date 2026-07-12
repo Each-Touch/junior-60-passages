@@ -1,0 +1,1093 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Confucianism has been followed by Chinese people for more than 2,000 years, and it has influenced Chinese culture throughout this era.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "In modern socialism, Confucian values continue to guide how we treat others.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Confucianism teaches Ren, Yi, Li, Ji and Xin, which are general virtues around the world.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "It can be as simple as giving care to a neighbour who has a fever, but it promotes friendship and harmony so that some wars may be avoided.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "Confucius said, \"What you do not want done to yourself, do not do to others.\"",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "It is quite similar to the golden rule in western countries, which encourages people to be friendly.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "The meaning of Yi is a little harder to express.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "It can be thought of as duty or even respect.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "While Ren is mostly about our opinions and feelings, Yi is about how we should act.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Generally, Yi is the way we should connect with people.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "For example, we say polite words such as pardon or excuse me to show our respect.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "In Confucian writings, discussions about Yi also include how to remember ancestors.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Xin emphasises that one should be honest in relationships.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "This means we shouldn't ever lie or cheat.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "In this way, we can build strong and lasting relationships with others.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Perhaps the most well-known Confucian virtue is Xiao.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "Xiao means loving, respecting, obeying and taking care of one's parents, as well as grandfather and grandmother.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "Xiao is important for a harmonious society.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "Without it, the whole world would fall into a mess.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "according",
+      "text": "According",
+      "file": "assets/audio/words/according.mp3",
+      "exists": false
+    },
+    {
+      "key": "act",
+      "text": "act",
+      "file": "assets/audio/words/act.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "ancestors",
+      "text": "ancestors",
+      "file": "assets/audio/words/ancestors.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "around",
+      "text": "around",
+      "file": "assets/audio/words/around.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "avoided",
+      "text": "avoided",
+      "file": "assets/audio/words/avoided.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "been",
+      "text": "been",
+      "file": "assets/audio/words/been.mp3",
+      "exists": false
+    },
+    {
+      "key": "build",
+      "text": "build",
+      "file": "assets/audio/words/build.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "but",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "care",
+      "text": "care",
+      "file": "assets/audio/words/care.mp3",
+      "exists": false
+    },
+    {
+      "key": "cheat",
+      "text": "cheat",
+      "file": "assets/audio/words/cheat.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinese",
+      "text": "Chinese",
+      "file": "assets/audio/words/chinese.mp3",
+      "exists": false
+    },
+    {
+      "key": "confucian",
+      "text": "Confucian",
+      "file": "assets/audio/words/confucian.mp3",
+      "exists": false
+    },
+    {
+      "key": "confucianism",
+      "text": "Confucianism",
+      "file": "assets/audio/words/confucianism.mp3",
+      "exists": false
+    },
+    {
+      "key": "confucius",
+      "text": "Confucius",
+      "file": "assets/audio/words/confucius.mp3",
+      "exists": false
+    },
+    {
+      "key": "connect",
+      "text": "connect",
+      "file": "assets/audio/words/connect.mp3",
+      "exists": false
+    },
+    {
+      "key": "continue",
+      "text": "continue",
+      "file": "assets/audio/words/continue.mp3",
+      "exists": false
+    },
+    {
+      "key": "countries",
+      "text": "countries",
+      "file": "assets/audio/words/countries.mp3",
+      "exists": false
+    },
+    {
+      "key": "culture",
+      "text": "culture",
+      "file": "assets/audio/words/culture.mp3",
+      "exists": false
+    },
+    {
+      "key": "discussions",
+      "text": "discussions",
+      "file": "assets/audio/words/discussions.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "done",
+      "text": "done",
+      "file": "assets/audio/words/done.mp3",
+      "exists": false
+    },
+    {
+      "key": "duty",
+      "text": "duty",
+      "file": "assets/audio/words/duty.mp3",
+      "exists": false
+    },
+    {
+      "key": "emphasises",
+      "text": "emphasises",
+      "file": "assets/audio/words/emphasises.mp3",
+      "exists": false
+    },
+    {
+      "key": "encourages",
+      "text": "encourages",
+      "file": "assets/audio/words/encourages.mp3",
+      "exists": false
+    },
+    {
+      "key": "era",
+      "text": "era",
+      "file": "assets/audio/words/era.mp3",
+      "exists": false
+    },
+    {
+      "key": "even",
+      "text": "even",
+      "file": "assets/audio/words/even.mp3",
+      "exists": false
+    },
+    {
+      "key": "ever",
+      "text": "ever",
+      "file": "assets/audio/words/ever.mp3",
+      "exists": false
+    },
+    {
+      "key": "example",
+      "text": "example",
+      "file": "assets/audio/words/example.mp3",
+      "exists": false
+    },
+    {
+      "key": "excuse",
+      "text": "excuse",
+      "file": "assets/audio/words/excuse.mp3",
+      "exists": false
+    },
+    {
+      "key": "express",
+      "text": "express",
+      "file": "assets/audio/words/express.mp3",
+      "exists": false
+    },
+    {
+      "key": "fall",
+      "text": "fall",
+      "file": "assets/audio/words/fall.mp3",
+      "exists": false
+    },
+    {
+      "key": "feeling",
+      "text": "feeling",
+      "file": "assets/audio/words/feeling.mp3",
+      "exists": false
+    },
+    {
+      "key": "feelings",
+      "text": "feelings",
+      "file": "assets/audio/words/feelings.mp3",
+      "exists": false
+    },
+    {
+      "key": "fever",
+      "text": "fever",
+      "file": "assets/audio/words/fever.mp3",
+      "exists": false
+    },
+    {
+      "key": "followed",
+      "text": "followed",
+      "file": "assets/audio/words/followed.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "friendly",
+      "text": "friendly",
+      "file": "assets/audio/words/friendly.mp3",
+      "exists": false
+    },
+    {
+      "key": "friendship",
+      "text": "friendship",
+      "file": "assets/audio/words/friendship.mp3",
+      "exists": false
+    },
+    {
+      "key": "general",
+      "text": "general",
+      "file": "assets/audio/words/general.mp3",
+      "exists": false
+    },
+    {
+      "key": "generally",
+      "text": "Generally",
+      "file": "assets/audio/words/generally.mp3",
+      "exists": false
+    },
+    {
+      "key": "giving",
+      "text": "giving",
+      "file": "assets/audio/words/giving.mp3",
+      "exists": false
+    },
+    {
+      "key": "golden",
+      "text": "golden",
+      "file": "assets/audio/words/golden.mp3",
+      "exists": false
+    },
+    {
+      "key": "grandfather",
+      "text": "grandfather",
+      "file": "assets/audio/words/grandfather.mp3",
+      "exists": false
+    },
+    {
+      "key": "grandmother",
+      "text": "grandmother",
+      "file": "assets/audio/words/grandmother.mp3",
+      "exists": false
+    },
+    {
+      "key": "guide",
+      "text": "guide",
+      "file": "assets/audio/words/guide.mp3",
+      "exists": false
+    },
+    {
+      "key": "harder",
+      "text": "harder",
+      "file": "assets/audio/words/harder.mp3",
+      "exists": false
+    },
+    {
+      "key": "harmonious",
+      "text": "harmonious",
+      "file": "assets/audio/words/harmonious.mp3",
+      "exists": false
+    },
+    {
+      "key": "harmony",
+      "text": "harmony",
+      "file": "assets/audio/words/harmony.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "honest",
+      "text": "honest",
+      "file": "assets/audio/words/honest.mp3",
+      "exists": false
+    },
+    {
+      "key": "how",
+      "text": "how",
+      "file": "assets/audio/words/how.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "In",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "include",
+      "text": "include",
+      "file": "assets/audio/words/include.mp3",
+      "exists": false
+    },
+    {
+      "key": "influenced",
+      "text": "influenced",
+      "file": "assets/audio/words/influenced.mp3",
+      "exists": false
+    },
+    {
+      "key": "into",
+      "text": "into",
+      "file": "assets/audio/words/into.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "it",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "ji",
+      "text": "Ji",
+      "file": "assets/audio/words/ji.mp3",
+      "exists": false
+    },
+    {
+      "key": "known",
+      "text": "known",
+      "file": "assets/audio/words/known.mp3",
+      "exists": false
+    },
+    {
+      "key": "lasting",
+      "text": "lasting",
+      "file": "assets/audio/words/lasting.mp3",
+      "exists": false
+    },
+    {
+      "key": "li",
+      "text": "Li",
+      "file": "assets/audio/words/li.mp3",
+      "exists": false
+    },
+    {
+      "key": "lie",
+      "text": "lie",
+      "file": "assets/audio/words/lie.mp3",
+      "exists": false
+    },
+    {
+      "key": "little",
+      "text": "little",
+      "file": "assets/audio/words/little.mp3",
+      "exists": false
+    },
+    {
+      "key": "love",
+      "text": "love",
+      "file": "assets/audio/words/love.mp3",
+      "exists": false
+    },
+    {
+      "key": "loving",
+      "text": "loving",
+      "file": "assets/audio/words/loving.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "me",
+      "text": "me",
+      "file": "assets/audio/words/me.mp3",
+      "exists": false
+    },
+    {
+      "key": "meaning",
+      "text": "meaning",
+      "file": "assets/audio/words/meaning.mp3",
+      "exists": false
+    },
+    {
+      "key": "means",
+      "text": "means",
+      "file": "assets/audio/words/means.mp3",
+      "exists": false
+    },
+    {
+      "key": "mess",
+      "text": "mess",
+      "file": "assets/audio/words/mess.mp3",
+      "exists": false
+    },
+    {
+      "key": "modern",
+      "text": "modern",
+      "file": "assets/audio/words/modern.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "most",
+      "text": "most",
+      "file": "assets/audio/words/most.mp3",
+      "exists": false
+    },
+    {
+      "key": "mostly",
+      "text": "mostly",
+      "file": "assets/audio/words/mostly.mp3",
+      "exists": false
+    },
+    {
+      "key": "neighbour",
+      "text": "neighbour",
+      "file": "assets/audio/words/neighbour.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "obeying",
+      "text": "obeying",
+      "file": "assets/audio/words/obeying.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "ones",
+      "text": "one's",
+      "file": "assets/audio/words/ones.mp3",
+      "exists": false
+    },
+    {
+      "key": "opinions",
+      "text": "opinions",
+      "file": "assets/audio/words/opinions.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "others",
+      "text": "others",
+      "file": "assets/audio/words/others.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "pardon",
+      "text": "pardon",
+      "file": "assets/audio/words/pardon.mp3",
+      "exists": false
+    },
+    {
+      "key": "parents",
+      "text": "parents",
+      "file": "assets/audio/words/parents.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "perhaps",
+      "text": "Perhaps",
+      "file": "assets/audio/words/perhaps.mp3",
+      "exists": false
+    },
+    {
+      "key": "polite",
+      "text": "polite",
+      "file": "assets/audio/words/polite.mp3",
+      "exists": false
+    },
+    {
+      "key": "promotes",
+      "text": "promotes",
+      "file": "assets/audio/words/promotes.mp3",
+      "exists": false
+    },
+    {
+      "key": "quite",
+      "text": "quite",
+      "file": "assets/audio/words/quite.mp3",
+      "exists": false
+    },
+    {
+      "key": "relationships",
+      "text": "relationships",
+      "file": "assets/audio/words/relationships.mp3",
+      "exists": false
+    },
+    {
+      "key": "remember",
+      "text": "remember",
+      "file": "assets/audio/words/remember.mp3",
+      "exists": false
+    },
+    {
+      "key": "ren",
+      "text": "Ren",
+      "file": "assets/audio/words/ren.mp3",
+      "exists": false
+    },
+    {
+      "key": "respect",
+      "text": "respect",
+      "file": "assets/audio/words/respect.mp3",
+      "exists": false
+    },
+    {
+      "key": "respected",
+      "text": "respected",
+      "file": "assets/audio/words/respected.mp3",
+      "exists": false
+    },
+    {
+      "key": "respecting",
+      "text": "respecting",
+      "file": "assets/audio/words/respecting.mp3",
+      "exists": false
+    },
+    {
+      "key": "rule",
+      "text": "rule",
+      "file": "assets/audio/words/rule.mp3",
+      "exists": false
+    },
+    {
+      "key": "said",
+      "text": "said",
+      "file": "assets/audio/words/said.mp3",
+      "exists": false
+    },
+    {
+      "key": "say",
+      "text": "say",
+      "file": "assets/audio/words/say.mp3",
+      "exists": false
+    },
+    {
+      "key": "should",
+      "text": "should",
+      "file": "assets/audio/words/should.mp3",
+      "exists": false
+    },
+    {
+      "key": "shouldnt",
+      "text": "shouldn't",
+      "file": "assets/audio/words/shouldnt.mp3",
+      "exists": false
+    },
+    {
+      "key": "show",
+      "text": "show",
+      "file": "assets/audio/words/show.mp3",
+      "exists": false
+    },
+    {
+      "key": "similar",
+      "text": "similar",
+      "file": "assets/audio/words/similar.mp3",
+      "exists": false
+    },
+    {
+      "key": "simple",
+      "text": "simple",
+      "file": "assets/audio/words/simple.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "socialism",
+      "text": "socialism",
+      "file": "assets/audio/words/socialism.mp3",
+      "exists": false
+    },
+    {
+      "key": "society",
+      "text": "society",
+      "file": "assets/audio/words/society.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "strong",
+      "text": "strong",
+      "file": "assets/audio/words/strong.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "taking",
+      "text": "taking",
+      "file": "assets/audio/words/taking.mp3",
+      "exists": false
+    },
+    {
+      "key": "teacher",
+      "text": "teacher",
+      "file": "assets/audio/words/teacher.mp3",
+      "exists": false
+    },
+    {
+      "key": "teaches",
+      "text": "teaches",
+      "file": "assets/audio/words/teaches.mp3",
+      "exists": false
+    },
+    {
+      "key": "than",
+      "text": "than",
+      "file": "assets/audio/words/than.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "this",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "thought",
+      "text": "thought",
+      "file": "assets/audio/words/thought.mp3",
+      "exists": false
+    },
+    {
+      "key": "throughout",
+      "text": "throughout",
+      "file": "assets/audio/words/throughout.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "treat",
+      "text": "treat",
+      "file": "assets/audio/words/treat.mp3",
+      "exists": false
+    },
+    {
+      "key": "values",
+      "text": "values",
+      "file": "assets/audio/words/values.mp3",
+      "exists": false
+    },
+    {
+      "key": "virtue",
+      "text": "virtue",
+      "file": "assets/audio/words/virtue.mp3",
+      "exists": false
+    },
+    {
+      "key": "virtues",
+      "text": "virtues",
+      "file": "assets/audio/words/virtues.mp3",
+      "exists": false
+    },
+    {
+      "key": "want",
+      "text": "want",
+      "file": "assets/audio/words/want.mp3",
+      "exists": false
+    },
+    {
+      "key": "wars",
+      "text": "wars",
+      "file": "assets/audio/words/wars.mp3",
+      "exists": false
+    },
+    {
+      "key": "way",
+      "text": "way",
+      "file": "assets/audio/words/way.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "we",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "western",
+      "text": "western",
+      "file": "assets/audio/words/western.mp3",
+      "exists": false
+    },
+    {
+      "key": "what",
+      "text": "What",
+      "file": "assets/audio/words/what.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "while",
+      "text": "While",
+      "file": "assets/audio/words/while.mp3",
+      "exists": false
+    },
+    {
+      "key": "who",
+      "text": "who",
+      "file": "assets/audio/words/who.mp3",
+      "exists": false
+    },
+    {
+      "key": "whole",
+      "text": "whole",
+      "file": "assets/audio/words/whole.mp3",
+      "exists": false
+    },
+    {
+      "key": "wise",
+      "text": "wise",
+      "file": "assets/audio/words/wise.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "without",
+      "text": "Without",
+      "file": "assets/audio/words/without.mp3",
+      "exists": false
+    },
+    {
+      "key": "words",
+      "text": "words",
+      "file": "assets/audio/words/words.mp3",
+      "exists": false
+    },
+    {
+      "key": "world",
+      "text": "world",
+      "file": "assets/audio/words/world.mp3",
+      "exists": false
+    },
+    {
+      "key": "would",
+      "text": "would",
+      "file": "assets/audio/words/would.mp3",
+      "exists": false
+    },
+    {
+      "key": "writings",
+      "text": "writings",
+      "file": "assets/audio/words/writings.mp3",
+      "exists": false
+    },
+    {
+      "key": "xiao",
+      "text": "Xiao",
+      "file": "assets/audio/words/xiao.mp3",
+      "exists": false
+    },
+    {
+      "key": "xin",
+      "text": "Xin",
+      "file": "assets/audio/words/xin.mp3",
+      "exists": false
+    },
+    {
+      "key": "years",
+      "text": "years",
+      "file": "assets/audio/words/years.mp3",
+      "exists": false
+    },
+    {
+      "key": "yi",
+      "text": "Yi",
+      "file": "assets/audio/words/yi.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "yourself",
+      "text": "yourself",
+      "file": "assets/audio/words/yourself.mp3",
+      "exists": false
+    }
+  ]
+}

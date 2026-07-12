@@ -1,0 +1,991 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Nature is amazing!",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "Take a close look at the world of insects, and you'll discover many unbelievable things.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Consider butterflies.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "They have beautiful, colourful wings, and strong, fantastic flying skills.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "On summer days, you always see them flying freely over gardens and wild fields.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "How a butterfly appears is one of the amazing wonders of nature.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "In the beginning, female butterflies lay a small egg on a leaf or stem of a plant.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "The egg will become something completely different in a few days.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "It first becomes a walking insect called caterpillar.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "It then has legs, eyes and a body that looks fat.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "But it is still not a butterfly.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Soon, after growing big, the caterpillar produces silk threads to make a cover for itself.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "It covers itself in a nice protective blanket to go to sleep.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "It ties itself to a leaf or a branch, where it is not easy for birds to find.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "This stage is known as the pupa stage.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "The pupa stays shut until it finishes the transformation.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "After a period of time, the blanket breaks and a wet, weak butterfly appears.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "It may look ugly at first, but shortly, the wings fill with blood, and the beautiful, colourful butterfly spreads its wings.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "Now this insect can fly to the left and to the right to look for food and a partner.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "After a few weeks, this adult butterfly lays her eggs, and the cycle begins all over again.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "adult",
+      "text": "adult",
+      "file": "assets/audio/words/adult.mp3",
+      "exists": false
+    },
+    {
+      "key": "after",
+      "text": "after",
+      "file": "assets/audio/words/after.mp3",
+      "exists": false
+    },
+    {
+      "key": "again",
+      "text": "again",
+      "file": "assets/audio/words/again.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "always",
+      "text": "always",
+      "file": "assets/audio/words/always.mp3",
+      "exists": false
+    },
+    {
+      "key": "amazing",
+      "text": "amazing",
+      "file": "assets/audio/words/amazing.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "appears",
+      "text": "appears",
+      "file": "assets/audio/words/appears.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "beautiful",
+      "text": "beautiful",
+      "file": "assets/audio/words/beautiful.mp3",
+      "exists": false
+    },
+    {
+      "key": "become",
+      "text": "become",
+      "file": "assets/audio/words/become.mp3",
+      "exists": false
+    },
+    {
+      "key": "becomes",
+      "text": "becomes",
+      "file": "assets/audio/words/becomes.mp3",
+      "exists": false
+    },
+    {
+      "key": "beginning",
+      "text": "beginning",
+      "file": "assets/audio/words/beginning.mp3",
+      "exists": false
+    },
+    {
+      "key": "begins",
+      "text": "begins",
+      "file": "assets/audio/words/begins.mp3",
+      "exists": false
+    },
+    {
+      "key": "big",
+      "text": "big",
+      "file": "assets/audio/words/big.mp3",
+      "exists": false
+    },
+    {
+      "key": "birds",
+      "text": "birds",
+      "file": "assets/audio/words/birds.mp3",
+      "exists": false
+    },
+    {
+      "key": "blanket",
+      "text": "blanket",
+      "file": "assets/audio/words/blanket.mp3",
+      "exists": false
+    },
+    {
+      "key": "blood",
+      "text": "blood",
+      "file": "assets/audio/words/blood.mp3",
+      "exists": false
+    },
+    {
+      "key": "body",
+      "text": "body",
+      "file": "assets/audio/words/body.mp3",
+      "exists": false
+    },
+    {
+      "key": "branch",
+      "text": "branch",
+      "file": "assets/audio/words/branch.mp3",
+      "exists": false
+    },
+    {
+      "key": "breaks",
+      "text": "breaks",
+      "file": "assets/audio/words/breaks.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "But",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "butterflies",
+      "text": "butterflies",
+      "file": "assets/audio/words/butterflies.mp3",
+      "exists": false
+    },
+    {
+      "key": "butterfly",
+      "text": "butterfly",
+      "file": "assets/audio/words/butterfly.mp3",
+      "exists": false
+    },
+    {
+      "key": "called",
+      "text": "called",
+      "file": "assets/audio/words/called.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "caterpillar",
+      "text": "caterpillar",
+      "file": "assets/audio/words/caterpillar.mp3",
+      "exists": false
+    },
+    {
+      "key": "close",
+      "text": "close",
+      "file": "assets/audio/words/close.mp3",
+      "exists": false
+    },
+    {
+      "key": "colourful",
+      "text": "colourful",
+      "file": "assets/audio/words/colourful.mp3",
+      "exists": false
+    },
+    {
+      "key": "completely",
+      "text": "completely",
+      "file": "assets/audio/words/completely.mp3",
+      "exists": false
+    },
+    {
+      "key": "consider",
+      "text": "Consider",
+      "file": "assets/audio/words/consider.mp3",
+      "exists": false
+    },
+    {
+      "key": "cover",
+      "text": "cover",
+      "file": "assets/audio/words/cover.mp3",
+      "exists": false
+    },
+    {
+      "key": "covers",
+      "text": "covers",
+      "file": "assets/audio/words/covers.mp3",
+      "exists": false
+    },
+    {
+      "key": "cycle",
+      "text": "cycle",
+      "file": "assets/audio/words/cycle.mp3",
+      "exists": false
+    },
+    {
+      "key": "days",
+      "text": "days",
+      "file": "assets/audio/words/days.mp3",
+      "exists": false
+    },
+    {
+      "key": "different",
+      "text": "different",
+      "file": "assets/audio/words/different.mp3",
+      "exists": false
+    },
+    {
+      "key": "discover",
+      "text": "discover",
+      "file": "assets/audio/words/discover.mp3",
+      "exists": false
+    },
+    {
+      "key": "easy",
+      "text": "easy",
+      "file": "assets/audio/words/easy.mp3",
+      "exists": false
+    },
+    {
+      "key": "egg",
+      "text": "egg",
+      "file": "assets/audio/words/egg.mp3",
+      "exists": false
+    },
+    {
+      "key": "eggs",
+      "text": "eggs",
+      "file": "assets/audio/words/eggs.mp3",
+      "exists": false
+    },
+    {
+      "key": "eyes",
+      "text": "eyes",
+      "file": "assets/audio/words/eyes.mp3",
+      "exists": false
+    },
+    {
+      "key": "fantastic",
+      "text": "fantastic",
+      "file": "assets/audio/words/fantastic.mp3",
+      "exists": false
+    },
+    {
+      "key": "fat",
+      "text": "fat",
+      "file": "assets/audio/words/fat.mp3",
+      "exists": false
+    },
+    {
+      "key": "female",
+      "text": "female",
+      "file": "assets/audio/words/female.mp3",
+      "exists": false
+    },
+    {
+      "key": "few",
+      "text": "few",
+      "file": "assets/audio/words/few.mp3",
+      "exists": false
+    },
+    {
+      "key": "fields",
+      "text": "fields",
+      "file": "assets/audio/words/fields.mp3",
+      "exists": false
+    },
+    {
+      "key": "fill",
+      "text": "fill",
+      "file": "assets/audio/words/fill.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "finishes",
+      "text": "finishes",
+      "file": "assets/audio/words/finishes.mp3",
+      "exists": false
+    },
+    {
+      "key": "first",
+      "text": "first",
+      "file": "assets/audio/words/first.mp3",
+      "exists": false
+    },
+    {
+      "key": "fly",
+      "text": "fly",
+      "file": "assets/audio/words/fly.mp3",
+      "exists": false
+    },
+    {
+      "key": "flying",
+      "text": "flying",
+      "file": "assets/audio/words/flying.mp3",
+      "exists": false
+    },
+    {
+      "key": "food",
+      "text": "food",
+      "file": "assets/audio/words/food.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "freely",
+      "text": "freely",
+      "file": "assets/audio/words/freely.mp3",
+      "exists": false
+    },
+    {
+      "key": "gardens",
+      "text": "gardens",
+      "file": "assets/audio/words/gardens.mp3",
+      "exists": false
+    },
+    {
+      "key": "go",
+      "text": "go",
+      "file": "assets/audio/words/go.mp3",
+      "exists": false
+    },
+    {
+      "key": "growing",
+      "text": "growing",
+      "file": "assets/audio/words/growing.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "her",
+      "text": "her",
+      "file": "assets/audio/words/her.mp3",
+      "exists": false
+    },
+    {
+      "key": "how",
+      "text": "How",
+      "file": "assets/audio/words/how.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "In",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "insect",
+      "text": "insect",
+      "file": "assets/audio/words/insect.mp3",
+      "exists": false
+    },
+    {
+      "key": "insects",
+      "text": "insects",
+      "file": "assets/audio/words/insects.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "its",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "itself",
+      "text": "itself",
+      "file": "assets/audio/words/itself.mp3",
+      "exists": false
+    },
+    {
+      "key": "known",
+      "text": "known",
+      "file": "assets/audio/words/known.mp3",
+      "exists": false
+    },
+    {
+      "key": "lay",
+      "text": "lay",
+      "file": "assets/audio/words/lay.mp3",
+      "exists": false
+    },
+    {
+      "key": "lays",
+      "text": "lays",
+      "file": "assets/audio/words/lays.mp3",
+      "exists": false
+    },
+    {
+      "key": "leaf",
+      "text": "leaf",
+      "file": "assets/audio/words/leaf.mp3",
+      "exists": false
+    },
+    {
+      "key": "left",
+      "text": "left",
+      "file": "assets/audio/words/left.mp3",
+      "exists": false
+    },
+    {
+      "key": "legs",
+      "text": "legs",
+      "file": "assets/audio/words/legs.mp3",
+      "exists": false
+    },
+    {
+      "key": "look",
+      "text": "look",
+      "file": "assets/audio/words/look.mp3",
+      "exists": false
+    },
+    {
+      "key": "looks",
+      "text": "looks",
+      "file": "assets/audio/words/looks.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "nature",
+      "text": "Nature",
+      "file": "assets/audio/words/nature.mp3",
+      "exists": false
+    },
+    {
+      "key": "nice",
+      "text": "nice",
+      "file": "assets/audio/words/nice.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "now",
+      "text": "Now",
+      "file": "assets/audio/words/now.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "On",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "over",
+      "text": "over",
+      "file": "assets/audio/words/over.mp3",
+      "exists": false
+    },
+    {
+      "key": "partner",
+      "text": "partner",
+      "file": "assets/audio/words/partner.mp3",
+      "exists": false
+    },
+    {
+      "key": "period",
+      "text": "period",
+      "file": "assets/audio/words/period.mp3",
+      "exists": false
+    },
+    {
+      "key": "plant",
+      "text": "plant",
+      "file": "assets/audio/words/plant.mp3",
+      "exists": false
+    },
+    {
+      "key": "produces",
+      "text": "produces",
+      "file": "assets/audio/words/produces.mp3",
+      "exists": false
+    },
+    {
+      "key": "protective",
+      "text": "protective",
+      "file": "assets/audio/words/protective.mp3",
+      "exists": false
+    },
+    {
+      "key": "pupa",
+      "text": "pupa",
+      "file": "assets/audio/words/pupa.mp3",
+      "exists": false
+    },
+    {
+      "key": "right",
+      "text": "right",
+      "file": "assets/audio/words/right.mp3",
+      "exists": false
+    },
+    {
+      "key": "see",
+      "text": "see",
+      "file": "assets/audio/words/see.mp3",
+      "exists": false
+    },
+    {
+      "key": "shortly",
+      "text": "shortly",
+      "file": "assets/audio/words/shortly.mp3",
+      "exists": false
+    },
+    {
+      "key": "shut",
+      "text": "shut",
+      "file": "assets/audio/words/shut.mp3",
+      "exists": false
+    },
+    {
+      "key": "silk",
+      "text": "silk",
+      "file": "assets/audio/words/silk.mp3",
+      "exists": false
+    },
+    {
+      "key": "skills",
+      "text": "skills",
+      "file": "assets/audio/words/skills.mp3",
+      "exists": false
+    },
+    {
+      "key": "sleep",
+      "text": "sleep",
+      "file": "assets/audio/words/sleep.mp3",
+      "exists": false
+    },
+    {
+      "key": "small",
+      "text": "small",
+      "file": "assets/audio/words/small.mp3",
+      "exists": false
+    },
+    {
+      "key": "something",
+      "text": "something",
+      "file": "assets/audio/words/something.mp3",
+      "exists": false
+    },
+    {
+      "key": "soon",
+      "text": "Soon",
+      "file": "assets/audio/words/soon.mp3",
+      "exists": false
+    },
+    {
+      "key": "spreads",
+      "text": "spreads",
+      "file": "assets/audio/words/spreads.mp3",
+      "exists": false
+    },
+    {
+      "key": "stage",
+      "text": "stage",
+      "file": "assets/audio/words/stage.mp3",
+      "exists": false
+    },
+    {
+      "key": "stays",
+      "text": "stays",
+      "file": "assets/audio/words/stays.mp3",
+      "exists": false
+    },
+    {
+      "key": "stem",
+      "text": "stem",
+      "file": "assets/audio/words/stem.mp3",
+      "exists": false
+    },
+    {
+      "key": "still",
+      "text": "still",
+      "file": "assets/audio/words/still.mp3",
+      "exists": false
+    },
+    {
+      "key": "strong",
+      "text": "strong",
+      "file": "assets/audio/words/strong.mp3",
+      "exists": false
+    },
+    {
+      "key": "summer",
+      "text": "summer",
+      "file": "assets/audio/words/summer.mp3",
+      "exists": false
+    },
+    {
+      "key": "take",
+      "text": "Take",
+      "file": "assets/audio/words/take.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "things",
+      "text": "things",
+      "file": "assets/audio/words/things.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "threads",
+      "text": "threads",
+      "file": "assets/audio/words/threads.mp3",
+      "exists": false
+    },
+    {
+      "key": "ties",
+      "text": "ties",
+      "file": "assets/audio/words/ties.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "transformation",
+      "text": "transformation",
+      "file": "assets/audio/words/transformation.mp3",
+      "exists": false
+    },
+    {
+      "key": "ugly",
+      "text": "ugly",
+      "file": "assets/audio/words/ugly.mp3",
+      "exists": false
+    },
+    {
+      "key": "unbelievable",
+      "text": "unbelievable",
+      "file": "assets/audio/words/unbelievable.mp3",
+      "exists": false
+    },
+    {
+      "key": "until",
+      "text": "until",
+      "file": "assets/audio/words/until.mp3",
+      "exists": false
+    },
+    {
+      "key": "walking",
+      "text": "walking",
+      "file": "assets/audio/words/walking.mp3",
+      "exists": false
+    },
+    {
+      "key": "weak",
+      "text": "weak",
+      "file": "assets/audio/words/weak.mp3",
+      "exists": false
+    },
+    {
+      "key": "weeks",
+      "text": "weeks",
+      "file": "assets/audio/words/weeks.mp3",
+      "exists": false
+    },
+    {
+      "key": "wet",
+      "text": "wet",
+      "file": "assets/audio/words/wet.mp3",
+      "exists": false
+    },
+    {
+      "key": "where",
+      "text": "where",
+      "file": "assets/audio/words/where.mp3",
+      "exists": false
+    },
+    {
+      "key": "wild",
+      "text": "wild",
+      "file": "assets/audio/words/wild.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "wings",
+      "text": "wings",
+      "file": "assets/audio/words/wings.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "wonders",
+      "text": "wonders",
+      "file": "assets/audio/words/wonders.mp3",
+      "exists": false
+    },
+    {
+      "key": "world",
+      "text": "world",
+      "file": "assets/audio/words/world.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "youll",
+      "text": "you'll",
+      "file": "assets/audio/words/youll.mp3",
+      "exists": false
+    }
+  ]
+}

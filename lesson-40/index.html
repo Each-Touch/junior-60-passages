@@ -1,0 +1,985 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#FDD95A">
+  <title>初中60短文 - Passage 40 互动绘本</title>
+  <style>
+    :root {
+      --brand-yellow: #FDD95A;
+      --ink: #2c3e50;
+      --muted: #7f8c8d;
+      --purple: #667eea;
+      --purple-dark: #764ba2;
+      --pink: #f5576c;
+      --cyan: #00c9db;
+      --paper: #ffffff;
+      --page-bg: #fff7f1;
+      --shadow: 0 8px 24px rgba(62, 45, 55, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { min-width: 320px; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background: linear-gradient(135deg, #fffaf5 0%, #ffe9e5 100%);
+      font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+    }
+
+    button { font: inherit; }
+
+    .brand-bar {
+      position: sticky;
+      top: 0;
+      z-index: 60;
+      height: 56px;
+      display: flex;
+      align-items: center;
+      background: var(--brand-yellow);
+      box-shadow: 0 2px 12px rgba(93, 72, 0, 0.12);
+    }
+
+    .brand-inner {
+      width: min(1200px, 100%);
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand-logo { display: block; width: auto; height: 36px; object-fit: contain; }
+    .brand-lesson { color: #51420b; font-size: 14px; font-weight: 800; white-space: nowrap; }
+
+    .book-container {
+      width: min(1200px, 100%);
+      margin: 0 auto;
+      padding: 22px 20px 40px;
+    }
+
+    .title {
+      margin: 0 0 20px;
+      color: var(--purple);
+      font-size: 32px;
+      line-height: 1.25;
+      text-align: center;
+      font-weight: 800;
+    }
+
+    .nav-bar {
+      min-height: 62px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      background: var(--paper);
+      border: 1px solid rgba(102, 126, 234, 0.12);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .mode-title { color: var(--purple); font-size: 18px; font-weight: 800; }
+    .voice-note { color: var(--muted); font-size: 13px; font-weight: 700; text-align: right; }
+
+    .progress-track {
+      width: 100%;
+      height: 6px;
+      margin-top: 14px;
+      overflow: hidden;
+      background: rgba(102, 126, 234, 0.14);
+      border-radius: 3px;
+    }
+
+    .progress-fill {
+      width: 0;
+      height: 100%;
+      background: linear-gradient(90deg, var(--purple), var(--pink));
+      transition: width 0.25s ease;
+    }
+
+    .page-indicator {
+      min-height: 30px;
+      margin: 14px 0 12px;
+      color: var(--purple);
+      font-size: 18px;
+      line-height: 30px;
+      text-align: center;
+      font-weight: 800;
+    }
+
+    .page-stage { min-height: 320px; }
+
+    .image-frame {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      position: relative;
+      background: #f2ece8;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(53, 38, 45, 0.15);
+    }
+
+    .page-image {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      transition: opacity 0.2s ease;
+    }
+
+    .image-error::after {
+      content: attr(data-error);
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      color: #8d3c42;
+      background: #fff1f1;
+      font-weight: 800;
+      text-align: center;
+    }
+
+    .text-container {
+      min-height: 116px;
+      margin-top: 18px;
+      padding: 22px 24px;
+      background: var(--paper);
+      border: 1px solid rgba(102, 126, 234, 0.1);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .cover-copy { text-align: center; }
+    .cover-copy .sentence { color: var(--purple); font-size: 30px; font-weight: 800; }
+
+    .sentence {
+      min-height: 48px;
+      color: var(--ink);
+      font-size: 24px;
+      line-height: 1.75;
+      font-weight: 600;
+    }
+
+    .word {
+      display: inline;
+      padding: 2px 3px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .word:hover, .word:focus-visible { background: #ffe7bd; outline: none; box-shadow: 0 0 0 2px #ffd382; }
+    .word.clicked { color: white; background: linear-gradient(135deg, #f3b400, #f3831b); }
+    .word.core-word { color: #8a4c00; background: #fff0bd; border-bottom: 2px solid #f5b83d; }
+    .word.correct { color: white; background: #26a269; }
+    .word.incorrect { color: white; background: #db5b61; }
+
+    .translation-row {
+      min-height: 34px;
+      margin-top: 7px;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .chinese-translation {
+      flex: 1;
+      max-height: 140px;
+      overflow: hidden;
+      opacity: 1;
+      color: var(--muted);
+      font-size: 17px;
+      line-height: 1.7;
+      transition: max-height 0.25s ease, opacity 0.2s ease;
+    }
+
+    .chinese-translation.hidden { max-height: 0; opacity: 0; }
+
+    .translation-eye {
+      width: 34px;
+      height: 34px;
+      flex: 0 0 34px;
+      padding: 0;
+      display: inline-grid;
+      place-items: center;
+      border: 0;
+      border-radius: 50%;
+      color: var(--purple);
+      background: #eef0ff;
+      cursor: pointer;
+    }
+
+    .translation-eye:hover { background: #e1e5ff; }
+
+    .audio-notice {
+      min-height: 22px;
+      margin: 9px 6px 0;
+      color: #8d5b21;
+      font-size: 13px;
+      line-height: 1.5;
+      text-align: center;
+    }
+
+    .reading-mode {
+      display: none;
+      margin-top: 18px;
+      padding: 22px;
+      color: white;
+      text-align: center;
+      background: linear-gradient(135deg, var(--purple), var(--purple-dark));
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .reading-mode.show { display: block; }
+    .reading-status { font-size: 22px; font-weight: 800; }
+    .countdown { min-height: 58px; margin-top: 8px; font-size: 48px; line-height: 58px; font-weight: 800; }
+    .score-display { margin-top: 10px; font-size: 32px; font-weight: 800; }
+    .stars { min-height: 42px; margin: 6px 0; font-size: 34px; }
+
+    .feedback-container {
+      display: none;
+      margin-top: 14px;
+      padding: 14px;
+      color: var(--ink);
+      text-align: left;
+      background: white;
+      border-radius: 12px;
+    }
+
+    .feedback-container.show { display: block; }
+    .feedback-title { margin-bottom: 10px; color: var(--purple); font-weight: 800; }
+    .feedback-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+
+    .feedback-item {
+      width: 100%;
+      min-height: 42px;
+      padding: 8px 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      border: 0;
+      border-radius: 8px;
+      color: var(--ink);
+      background: #f3f4f6;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .controls {
+      margin-top: 18px;
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .btn {
+      min-width: 0;
+      min-height: 48px;
+      padding: 10px 12px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      border: 0;
+      border-radius: 12px;
+      color: white;
+      font-size: 15px;
+      line-height: 1.25;
+      font-weight: 800;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.13);
+      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+    }
+
+    .btn:hover { transform: translateY(-1px); box-shadow: 0 6px 15px rgba(0, 0, 0, 0.17); }
+    .btn:active { transform: scale(0.98); }
+    .btn:focus-visible { outline: 3px solid rgba(102, 126, 234, 0.3); outline-offset: 2px; }
+    .btn:disabled { opacity: 0.42; cursor: not-allowed; transform: none; box-shadow: none; }
+    .btn-primary { background: linear-gradient(135deg, var(--purple), var(--purple-dark)); }
+    .btn-secondary { background: linear-gradient(135deg, #f093c7, var(--pink)); }
+    .btn-danger { background: linear-gradient(135deg, #ff7b7b, #df4e66); }
+    .btn-success { background: linear-gradient(135deg, #3aa7ef, var(--cyan)); }
+
+    .core-section {
+      margin-top: 18px;
+      padding: 16px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(102, 126, 234, 0.1);
+      border-radius: 16px;
+    }
+
+    .core-title { margin: 0 0 10px; color: #5b6295; font-size: 16px; }
+    .core-list { display: flex; flex-wrap: wrap; gap: 8px; }
+
+    .core-chip {
+      min-height: 34px;
+      padding: 7px 11px;
+      border: 1px solid #f0c566;
+      border-radius: 6px;
+      color: #764b00;
+      background: #fff5cf;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .tooltip {
+      position: fixed;
+      z-index: 100;
+      max-width: min(280px, calc(100vw - 28px));
+      padding: 11px 14px;
+      pointer-events: none;
+      opacity: 0;
+      color: white;
+      background: rgba(30, 34, 40, 0.94);
+      border-radius: 8px;
+      box-shadow: 0 6px 22px rgba(0, 0, 0, 0.3);
+      transform: translate(-50%, -100%);
+      transition: opacity 0.15s ease;
+    }
+
+    .tooltip.show { opacity: 1; }
+    .tooltip-phonetic { color: #ffd75e; font-weight: 800; }
+    .tooltip-translation { margin-top: 3px; }
+
+    .overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 110;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      background: rgba(24, 24, 32, 0.58);
+    }
+
+    .overlay.show { display: flex; }
+
+    .word-card {
+      width: min(560px, 100%);
+      max-height: min(78vh, 720px);
+      overflow-y: auto;
+      position: relative;
+      padding: 28px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+
+    .word-card-close {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      width: 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      border: 0;
+      border-radius: 50%;
+      color: #4d5560;
+      background: #eef0f3;
+      font-size: 22px;
+      cursor: pointer;
+    }
+
+    .card-word { padding-right: 42px; color: var(--purple); font-size: 42px; line-height: 1.2; font-weight: 800; }
+    .card-phonetic { margin-top: 8px; color: #e39900; font-size: 23px; font-weight: 800; }
+    .card-meaning { margin-top: 5px; font-size: 20px; font-weight: 700; }
+    .card-block { margin-top: 12px; padding: 11px 12px; line-height: 1.6; border-radius: 10px; }
+    .card-example { background: #e8f8ee; }
+    .card-tip { background: #fff2cb; }
+    .card-actions { margin-top: 16px; display: flex; gap: 10px; }
+
+    @media (max-width: 900px) {
+      .controls { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 640px) {
+      .brand-bar { height: 50px; }
+      .brand-inner { padding: 0 12px; }
+      .brand-logo { height: 31px; max-width: 58vw; }
+      .brand-lesson { font-size: 12px; }
+      .book-container { padding: 16px 0 26px; }
+      .title { padding: 0 14px; margin-bottom: 14px; font-size: 24px; }
+      .nav-bar { margin: 0 10px; min-height: 54px; padding: 11px 12px; border-radius: 12px; }
+      .mode-title { font-size: 15px; }
+      .voice-note { max-width: 42vw; font-size: 11px; }
+      .progress-track { margin-top: 10px; border-radius: 0; }
+      .page-indicator { margin: 8px 0; font-size: 15px; }
+      .image-frame { border-radius: 0; box-shadow: 0 5px 18px rgba(53, 38, 45, 0.13); }
+      .text-container { margin: 12px 10px 0; min-height: 104px; padding: 16px; border-radius: 12px; }
+      .sentence { font-size: 20px; line-height: 1.75; }
+      .cover-copy .sentence { font-size: 25px; }
+      .chinese-translation { font-size: 15px; }
+      .audio-notice { padding: 0 12px; }
+      .reading-mode { margin: 12px 10px 0; padding: 17px 13px; border-radius: 12px; }
+      .controls { margin: 12px 10px 0; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+      .btn { min-height: 44px; padding: 9px 7px; font-size: 14px; }
+      .core-section { margin: 12px 10px 0; border-radius: 12px; }
+      .word-card { padding: 24px 18px; border-radius: 12px; }
+      .card-word { font-size: 34px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <header class="brand-bar">
+    <div class="brand-inner">
+      <img class="brand-logo" src="LOGO.png" alt="小洋人英语">
+      <div class="brand-lesson">第 40 课</div>
+    </div>
+  </header>
+
+  <main class="book-container">
+    <h1 class="title">📖 Passage 40 · 互动绘本阅读</h1>
+
+    <section class="nav-bar" aria-label="阅读状态">
+      <div class="mode-title">📚 绘本阅读模式</div>
+      <div class="voice-note">固定音频：成人男声｜老师清晰</div>
+    </section>
+    <div class="progress-track" aria-hidden="true"><div class="progress-fill" id="progressFill"></div></div>
+    <div class="page-indicator" id="pageIndicator" aria-live="polite"></div>
+
+    <section class="page-stage" id="pageStage">
+      <div class="image-frame" id="imageFrame">
+        <img class="page-image" id="pageImage" alt="绘本插画">
+      </div>
+      <div class="text-container" id="textContainer">
+        <div class="sentence" id="sentence"></div>
+        <div class="translation-row">
+          <div class="chinese-translation hidden" id="translation"></div>
+          <button class="translation-eye" id="translationEye" type="button" aria-label="显示本页翻译" title="显示或隐藏本页翻译">◉</button>
+        </div>
+      </div>
+      <div class="audio-notice" id="audioNotice" aria-live="polite"></div>
+    </section>
+
+    <section class="reading-mode" id="readingMode" aria-live="polite">
+      <div class="reading-status" id="readingStatus">准备跟读</div>
+      <div class="countdown" id="countdown"></div>
+      <div class="score-display" id="scoreDisplay"></div>
+      <div class="stars" id="starsDisplay"></div>
+      <div class="feedback-container" id="feedbackContainer">
+        <div class="feedback-title">📝 发音反馈（点击单词可听发音）</div>
+        <ul class="feedback-list" id="feedbackList"></ul>
+        <div class="card-actions">
+          <button class="btn btn-secondary" id="retryBtn" type="button">🔄 重新跟读</button>
+          <button class="btn btn-primary" id="finishFollowBtn" type="button">✓ 完成</button>
+        </div>
+      </div>
+    </section>
+
+    <nav class="controls" aria-label="绘本控制">
+      <button class="btn btn-primary" id="prevBtn" data-testid="prev" type="button">← 上一页</button>
+      <button class="btn btn-secondary" id="readPageBtn" data-testid="read-page" type="button">🔊 朗读本页</button>
+      <button class="btn btn-danger" id="followReadBtn" data-testid="follow" type="button">🎤 跟读模式</button>
+      <button class="btn btn-success" id="readAllBtn" data-testid="read-all" type="button">▶ 全文朗读</button>
+      <button class="btn btn-primary" id="toggleTransBtn" data-testid="translation" type="button">译 显示翻译</button>
+      <button class="btn btn-primary" id="nextBtn" data-testid="next" type="button">下一页 →</button>
+    </nav>
+
+    <section class="core-section" id="coreSection">
+      <h2 class="core-title" id="coreTitle">核心词汇</h2>
+      <div class="core-list" id="coreList"></div>
+    </section>
+  </main>
+
+  <div class="tooltip" id="tooltip" role="status">
+    <div class="tooltip-phonetic" id="tooltipPhonetic"></div>
+    <div class="tooltip-translation" id="tooltipTranslation"></div>
+  </div>
+
+  <div class="overlay" id="wordCardOverlay" role="dialog" aria-modal="true" aria-labelledby="cardWord">
+    <article class="word-card">
+      <button class="word-card-close" id="closeWordCard" type="button" aria-label="关闭词卡">×</button>
+      <div class="card-word" id="cardWord"></div>
+      <div class="card-phonetic" id="cardPhonetic"></div>
+      <div class="card-meaning" id="cardMeaning"></div>
+      <div class="card-block card-example" id="cardExample"></div>
+      <div class="card-block card-tip" id="cardTip"></div>
+      <div class="card-actions">
+        <button class="btn btn-success" id="cardListenBtn" type="button">🔊 再听一次</button>
+        <button class="btn btn-primary" id="cardDoneBtn" type="button">✓ 知道了</button>
+      </div>
+    </article>
+  </div>
+
+  <script id="bookDataJson" type="application/json">{"course":"初中60短文","passage":40,"title":"Passage 40","voice":"成人男声｜老师清晰","pages":[{"cover":true,"sentenceId":0,"image":"assets/images/00.webp","audio":"","en":"Passage 40","cn":"第40课绘本封面"},{"cover":false,"sentenceId":1,"image":"assets/images/01.webp","audio":"assets/audio/sentences/sentence-01.mp3","en":"Confucianism has been followed by Chinese people for more than 2,000 years, and it has influenced Chinese culture throughout this era.","cn":"中国人奉行儒家思想已有两千多年了，在这期间，它一直影响着中国文化。"},{"cover":false,"sentenceId":2,"image":"assets/images/02.webp","audio":"assets/audio/sentences/sentence-02.mp3","en":"In modern socialism, Confucian values continue to guide how we treat others.","cn":"在现代社会主义中，儒家价值观继续指导着我们如何待人。"},{"cover":false,"sentenceId":3,"image":"assets/images/03.webp","audio":"assets/audio/sentences/sentence-03.mp3","en":"Confucianism teaches Ren, Yi, Li, Ji and Xin, which are general virtues around the world.","cn":"儒家思想教导“仁、义、礼、智、信”，这些都是全世界普遍（推崇）的美德。"},{"cover":false,"sentenceId":4,"image":"assets/images/04.webp","audio":"assets/audio/sentences/sentence-04.mp3","en":"According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.","cn":"孔子是一位充满智慧且备受尊敬的老师，在他看来，“仁”是我们对他人应怀有的关爱之情。"},{"cover":false,"sentenceId":5,"image":"assets/images/05.webp","audio":"assets/audio/sentences/sentence-05.mp3","en":"It can be as simple as giving care to a neighbour who has a fever, but it promotes friendship and harmony so that some wars may be avoided.","cn":"这可以简单到照顾一位发烧的邻居，但它能增进友谊与和谐，从而也许可以避免一些冲突。"},{"cover":false,"sentenceId":6,"image":"assets/images/06.webp","audio":"assets/audio/sentences/sentence-06.mp3","en":"Confucius said, \"What you do not want done to yourself, do not do to others.\"","cn":"孔子说过：“己所不欲，勿施于人。”"},{"cover":false,"sentenceId":7,"image":"assets/images/07.webp","audio":"assets/audio/sentences/sentence-07.mp3","en":"It is quite similar to the golden rule in western countries, which encourages people to be friendly.","cn":"这与西方国家的“金规则”十分相似，它鼓励人们友善待人。"},{"cover":false,"sentenceId":8,"image":"assets/images/08.webp","audio":"assets/audio/sentences/sentence-08.mp3","en":"The meaning of Yi is a little harder to express.","cn":"“义”的含义有点难表达。"},{"cover":false,"sentenceId":9,"image":"assets/images/09.webp","audio":"assets/audio/sentences/sentence-09.mp3","en":"It can be thought of as duty or even respect.","cn":"它可以被理解为责任，甚至是尊重。"},{"cover":false,"sentenceId":10,"image":"assets/images/10.webp","audio":"assets/audio/sentences/sentence-10.mp3","en":"While Ren is mostly about our opinions and feelings, Yi is about how we should act.","cn":"“仁”大多关乎我们的观点和感受，而“义”则关乎我们的行为举止。"},{"cover":false,"sentenceId":11,"image":"assets/images/11.webp","audio":"assets/audio/sentences/sentence-11.mp3","en":"Generally, Yi is the way we should connect with people.","cn":"通常，“义”是我们与人交往应有的方式。"},{"cover":false,"sentenceId":12,"image":"assets/images/12.webp","audio":"assets/audio/sentences/sentence-12.mp3","en":"For example, we say polite words such as pardon or excuse me to show our respect.","cn":"例如，我们会说“抱歉”或“请原谅我”等礼貌用语来表示尊重。"},{"cover":false,"sentenceId":13,"image":"assets/images/13.webp","audio":"assets/audio/sentences/sentence-13.mp3","en":"In Confucian writings, discussions about Yi also include how to remember ancestors.","cn":"在儒家著作中，关于“义”的讨论还包括如何缅怀祖先。"},{"cover":false,"sentenceId":14,"image":"assets/images/14.webp","audio":"assets/audio/sentences/sentence-14.mp3","en":"Xin emphasises that one should be honest in relationships.","cn":"“信”则强调在人际关系中要诚实。"},{"cover":false,"sentenceId":15,"image":"assets/images/15.webp","audio":"assets/audio/sentences/sentence-15.mp3","en":"This means we shouldn't ever lie or cheat.","cn":"这意味着我们不应该撒谎或欺骗。"},{"cover":false,"sentenceId":16,"image":"assets/images/16.webp","audio":"assets/audio/sentences/sentence-16.mp3","en":"In this way, we can build strong and lasting relationships with others.","cn":"这样我们才能和他人建立起牢固而长久的关系。"},{"cover":false,"sentenceId":17,"image":"assets/images/17.webp","audio":"assets/audio/sentences/sentence-17.mp3","en":"Perhaps the most well-known Confucian virtue is Xiao.","cn":"也许最广为人知的儒家美德是“孝”。"},{"cover":false,"sentenceId":18,"image":"assets/images/18.webp","audio":"assets/audio/sentences/sentence-18.mp3","en":"Xiao means loving, respecting, obeying and taking care of one's parents, as well as grandfather and grandmother.","cn":"“孝”意味着爱戴、敬重、遵从和照顾父母以及祖父、祖母。"},{"cover":false,"sentenceId":19,"image":"assets/images/19.webp","audio":"assets/audio/sentences/sentence-19.mp3","en":"Xiao is important for a harmonious society.","cn":"“孝”对和谐社会很重要。"},{"cover":false,"sentenceId":20,"image":"assets/images/20.webp","audio":"assets/audio/sentences/sentence-20.mp3","en":"Without it, the whole world would fall into a mess.","cn":"没有“孝”，整个世界将陷入混乱。"}],"dictionary":{"confucianism":{"word":"Confucianism","phonetic":"/confucianism/","translation":"常用词","audio":"assets/audio/words/confucianism.mp3","core":false},"has":{"word":"has","phonetic":"/həz/","translation":"有","audio":"assets/audio/words/has.mp3","core":false},"been":{"word":"been","phonetic":"/bɪn/","translation":"到过","audio":"assets/audio/words/been.mp3","core":false},"followed":{"word":"followed","phonetic":"/followed/","translation":"常用词","audio":"assets/audio/words/followed.mp3","core":false},"by":{"word":"by","phonetic":"/baɪ/","translation":"通过；在旁边","audio":"assets/audio/words/by.mp3","core":false},"chinese":{"word":"Chinese","phonetic":"/ʧaɪˈniz/","translation":"中国人","audio":"assets/audio/words/chinese.mp3","core":false},"people":{"word":"people","phonetic":"/ˈpipəl/","translation":"人们","audio":"assets/audio/words/people.mp3","core":false},"for":{"word":"for","phonetic":"/fɔːr/","translation":"为了；给","audio":"assets/audio/words/for.mp3","core":false},"more":{"word":"more","phonetic":"/mɔr/","translation":"更多的","audio":"assets/audio/words/more.mp3","core":false},"than":{"word":"than","phonetic":"/ðən/","translation":"比","audio":"assets/audio/words/than.mp3","core":false},"years":{"word":"years","phonetic":"/jɪrz/","translation":"年","audio":"assets/audio/words/years.mp3","core":false},"and":{"word":"and","phonetic":"/ænd/","translation":"和","audio":"assets/audio/words/and.mp3","core":false},"it":{"word":"it","phonetic":"/ɪt/","translation":"它","audio":"assets/audio/words/it.mp3","core":false},"influenced":{"word":"influenced","phonetic":"/influenced/","translation":"常用词","audio":"assets/audio/words/influenced.mp3","core":false},"culture":{"word":"culture","phonetic":"/ˈkəlʧər/","translation":"文化","audio":"assets/audio/words/culture.mp3","core":false},"throughout":{"word":"throughout","phonetic":"/θruaʊt/","translation":"自始至终","audio":"assets/audio/words/throughout.mp3","core":false},"this":{"word":"this","phonetic":"/ðɪs/","translation":"这","audio":"assets/audio/words/this.mp3","core":false},"era":{"word":"era","phonetic":"/era/","translation":"常用词","audio":"assets/audio/words/era.mp3","core":true},"in":{"word":"In","phonetic":"/ɪn/","translation":"在……里","audio":"assets/audio/words/in.mp3","core":false},"modern":{"word":"modern","phonetic":"/modern/","translation":"常用词","audio":"assets/audio/words/modern.mp3","core":false},"socialism":{"word":"socialism","phonetic":"/socialism/","translation":"常用词","audio":"assets/audio/words/socialism.mp3","core":true},"confucian":{"word":"Confucian","phonetic":"/confucian/","translation":"常用词","audio":"assets/audio/words/confucian.mp3","core":false},"values":{"word":"values","phonetic":"/ˈvæljuz/","translation":"价值观","audio":"assets/audio/words/values.mp3","core":false},"continue":{"word":"continue","phonetic":"/continue/","translation":"常用词","audio":"assets/audio/words/continue.mp3","core":false},"to":{"word":"to","phonetic":"/tuː/","translation":"到；向","audio":"assets/audio/words/to.mp3","core":false},"guide":{"word":"guide","phonetic":"/gaɪd/","translation":"指导","audio":"assets/audio/words/guide.mp3","core":false},"how":{"word":"how","phonetic":"/haʊ/","translation":"如何","audio":"assets/audio/words/how.mp3","core":false},"we":{"word":"we","phonetic":"/wiː/","translation":"我们","audio":"assets/audio/words/we.mp3","core":false},"treat":{"word":"treat","phonetic":"/trit/","translation":"对待","audio":"assets/audio/words/treat.mp3","core":false},"others":{"word":"others","phonetic":"/ˈəðərz/","translation":"其他的","audio":"assets/audio/words/others.mp3","core":false},"teaches":{"word":"teaches","phonetic":"/teaches/","translation":"常用词","audio":"assets/audio/words/teaches.mp3","core":false},"ren":{"word":"Ren","phonetic":"/ren/","translation":"常用词","audio":"assets/audio/words/ren.mp3","core":false},"yi":{"word":"Yi","phonetic":"/yi/","translation":"常用词","audio":"assets/audio/words/yi.mp3","core":false},"li":{"word":"Li","phonetic":"/li/","translation":"李","audio":"assets/audio/words/li.mp3","core":false},"ji":{"word":"Ji","phonetic":"/ji/","translation":"常用词","audio":"assets/audio/words/ji.mp3","core":false},"xin":{"word":"Xin","phonetic":"/xin/","translation":"常用词","audio":"assets/audio/words/xin.mp3","core":false},"which":{"word":"which","phonetic":"/wɪʧ/","translation":"哪个","audio":"assets/audio/words/which.mp3","core":false},"are":{"word":"are","phonetic":"/ər/","translation":"是","audio":"assets/audio/words/are.mp3","core":false},"general":{"word":"general","phonetic":"/general/","translation":"常用词","audio":"assets/audio/words/general.mp3","core":true},"virtues":{"word":"virtues","phonetic":"/virtues/","translation":"常用词","audio":"assets/audio/words/virtues.mp3","core":false},"around":{"word":"around","phonetic":"/əraʊnd/","translation":"大约","audio":"assets/audio/words/around.mp3","core":false},"the":{"word":"the","phonetic":"/ðə/","translation":"这个；那个","audio":"assets/audio/words/the.mp3","core":false},"world":{"word":"world","phonetic":"/wərld/","translation":"世界","audio":"assets/audio/words/world.mp3","core":false},"according":{"word":"According","phonetic":"/according/","translation":"常用词","audio":"assets/audio/words/according.mp3","core":false},"confucius":{"word":"Confucius","phonetic":"/confucius/","translation":"常用词","audio":"assets/audio/words/confucius.mp3","core":false},"a":{"word":"a","phonetic":"/ə/","translation":"一个；一","audio":"assets/audio/words/a.mp3","core":false},"wise":{"word":"wise","phonetic":"/wise/","translation":"常用词","audio":"assets/audio/words/wise.mp3","core":true},"respected":{"word":"respected","phonetic":"/respected/","translation":"常用词","audio":"assets/audio/words/respected.mp3","core":false},"teacher":{"word":"teacher","phonetic":"/ˈtiʧər/","translation":"老师","audio":"assets/audio/words/teacher.mp3","core":false},"is":{"word":"is","phonetic":"/ɪz/","translation":"是","audio":"assets/audio/words/is.mp3","core":false},"feeling":{"word":"feeling","phonetic":"/ˈfilɪŋ/","translation":"感觉","audio":"assets/audio/words/feeling.mp3","core":false},"of":{"word":"of","phonetic":"/əv/","translation":"……的","audio":"assets/audio/words/of.mp3","core":false},"care":{"word":"care","phonetic":"/kɛr/","translation":"关心","audio":"assets/audio/words/care.mp3","core":false},"love":{"word":"love","phonetic":"/ləv/","translation":"爱","audio":"assets/audio/words/love.mp3","core":true},"should":{"word":"should","phonetic":"/ʃʊd/","translation":"应该","audio":"assets/audio/words/should.mp3","core":false},"have":{"word":"have","phonetic":"/hæv/","translation":"有","audio":"assets/audio/words/have.mp3","core":false},"can":{"word":"can","phonetic":"/kən/","translation":"能","audio":"assets/audio/words/can.mp3","core":false},"be":{"word":"be","phonetic":"/bi/","translation":"是","audio":"assets/audio/words/be.mp3","core":false},"as":{"word":"as","phonetic":"/æz/","translation":"作为；像","audio":"assets/audio/words/as.mp3","core":false},"simple":{"word":"simple","phonetic":"/ˈsɪmpəl/","translation":"简单的","audio":"assets/audio/words/simple.mp3","core":false},"giving":{"word":"giving","phonetic":"/ˈgɪvɪŋ/","translation":"给予","audio":"assets/audio/words/giving.mp3","core":false},"neighbour":{"word":"neighbour","phonetic":"/ˈneɪbər/","translation":"邻居","audio":"assets/audio/words/neighbour.mp3","core":false},"who":{"word":"who","phonetic":"/hu/","translation":"WHO","audio":"assets/audio/words/who.mp3","core":false},"fever":{"word":"fever","phonetic":"/fever/","translation":"常用词","audio":"assets/audio/words/fever.mp3","core":true},"but":{"word":"but","phonetic":"/bət/","translation":"但","audio":"assets/audio/words/but.mp3","core":false},"promotes":{"word":"promotes","phonetic":"/promotes/","translation":"常用词","audio":"assets/audio/words/promotes.mp3","core":false},"friendship":{"word":"friendship","phonetic":"/friendship/","translation":"常用词","audio":"assets/audio/words/friendship.mp3","core":true},"harmony":{"word":"harmony","phonetic":"/harmony/","translation":"常用词","audio":"assets/audio/words/harmony.mp3","core":false},"so":{"word":"so","phonetic":"/soʊ/","translation":"所以","audio":"assets/audio/words/so.mp3","core":false},"that":{"word":"that","phonetic":"/ðət/","translation":"那","audio":"assets/audio/words/that.mp3","core":false},"some":{"word":"some","phonetic":"/səm/","translation":"一些","audio":"assets/audio/words/some.mp3","core":false},"wars":{"word":"wars","phonetic":"/wars/","translation":"常用词","audio":"assets/audio/words/wars.mp3","core":false},"may":{"word":"may","phonetic":"/meɪ/","translation":"可能","audio":"assets/audio/words/may.mp3","core":false},"avoided":{"word":"avoided","phonetic":"/avoided/","translation":"常用词","audio":"assets/audio/words/avoided.mp3","core":false},"said":{"word":"said","phonetic":"/sɛd/","translation":"说","audio":"assets/audio/words/said.mp3","core":false},"what":{"word":"What","phonetic":"/wət/","translation":"什么","audio":"assets/audio/words/what.mp3","core":false},"you":{"word":"you","phonetic":"/juː/","translation":"你；你们","audio":"assets/audio/words/you.mp3","core":false},"do":{"word":"do","phonetic":"/du/","translation":"做","audio":"assets/audio/words/do.mp3","core":false},"not":{"word":"not","phonetic":"/nɑt/","translation":"不是","audio":"assets/audio/words/not.mp3","core":false},"want":{"word":"want","phonetic":"/wɔnt/","translation":"想","audio":"assets/audio/words/want.mp3","core":false},"done":{"word":"done","phonetic":"/dən/","translation":"完毕","audio":"assets/audio/words/done.mp3","core":false},"yourself":{"word":"yourself","phonetic":"/ˈjɔrsɛlf/","translation":"你自己","audio":"assets/audio/words/yourself.mp3","core":false},"quite":{"word":"quite","phonetic":"/kwaɪt/","translation":"相当","audio":"assets/audio/words/quite.mp3","core":false},"similar":{"word":"similar","phonetic":"/ˈsɪmələr/","translation":"相似的","audio":"assets/audio/words/similar.mp3","core":true},"golden":{"word":"golden","phonetic":"/ˈgoʊldən/","translation":"金的","audio":"assets/audio/words/golden.mp3","core":true},"rule":{"word":"rule","phonetic":"/rule/","translation":"常用词","audio":"assets/audio/words/rule.mp3","core":true},"western":{"word":"western","phonetic":"/western/","translation":"常用词","audio":"assets/audio/words/western.mp3","core":false},"countries":{"word":"countries","phonetic":"/ˈkəntriz/","translation":"国家","audio":"assets/audio/words/countries.mp3","core":false},"encourages":{"word":"encourages","phonetic":"/ɪnˈkərəʤəz/","translation":"鼓励","audio":"assets/audio/words/encourages.mp3","core":false},"friendly":{"word":"friendly","phonetic":"/ˈfrɛndli/","translation":"友好的","audio":"assets/audio/words/friendly.mp3","core":true},"meaning":{"word":"meaning","phonetic":"/ˈminɪŋ/","translation":"意义","audio":"assets/audio/words/meaning.mp3","core":false},"little":{"word":"little","phonetic":"/ˈlɪtəl/","translation":"小的","audio":"assets/audio/words/little.mp3","core":true},"harder":{"word":"harder","phonetic":"/ˈhɑrdər/","translation":"更难","audio":"assets/audio/words/harder.mp3","core":false},"express":{"word":"express","phonetic":"/ɪkˈsprɛs/","translation":"表达","audio":"assets/audio/words/express.mp3","core":false},"thought":{"word":"thought","phonetic":"/θɔt/","translation":"想法","audio":"assets/audio/words/thought.mp3","core":false},"duty":{"word":"duty","phonetic":"/duty/","translation":"常用词","audio":"assets/audio/words/duty.mp3","core":true},"or":{"word":"or","phonetic":"/ɔːr/","translation":"或者","audio":"assets/audio/words/or.mp3","core":false},"even":{"word":"even","phonetic":"/ˈivɪn/","translation":"甚至","audio":"assets/audio/words/even.mp3","core":false},"respect":{"word":"respect","phonetic":"/rɪˈspɛkt/","translation":"尊重","audio":"assets/audio/words/respect.mp3","core":false},"while":{"word":"While","phonetic":"/waɪl/","translation":"尽管","audio":"assets/audio/words/while.mp3","core":false},"mostly":{"word":"mostly","phonetic":"/mostly/","translation":"常用词","audio":"assets/audio/words/mostly.mp3","core":true},"about":{"word":"about","phonetic":"/əˈbaʊt/","translation":"关于","audio":"assets/audio/words/about.mp3","core":false},"our":{"word":"our","phonetic":"/ɑr/","translation":"我们的","audio":"assets/audio/words/our.mp3","core":false},"opinions":{"word":"opinions","phonetic":"/əˈpɪnjənz/","translation":"意见","audio":"assets/audio/words/opinions.mp3","core":false},"feelings":{"word":"feelings","phonetic":"/ˈfilɪŋz/","translation":"情怀","audio":"assets/audio/words/feelings.mp3","core":false},"act":{"word":"act","phonetic":"/ækt/","translation":"行为","audio":"assets/audio/words/act.mp3","core":false},"generally":{"word":"Generally","phonetic":"/generally/","translation":"常用词","audio":"assets/audio/words/generally.mp3","core":true},"way":{"word":"way","phonetic":"/weɪ/","translation":"方式","audio":"assets/audio/words/way.mp3","core":false},"connect":{"word":"connect","phonetic":"/kəˈnɛkt/","translation":"连接","audio":"assets/audio/words/connect.mp3","core":false},"with":{"word":"with","phonetic":"/wɪð/","translation":"和；带有","audio":"assets/audio/words/with.mp3","core":false},"example":{"word":"example","phonetic":"/ɪgˈzæmpəl/","translation":"例子","audio":"assets/audio/words/example.mp3","core":false},"say":{"word":"say","phonetic":"/seɪ/","translation":"说","audio":"assets/audio/words/say.mp3","core":false},"polite":{"word":"polite","phonetic":"/polite/","translation":"常用词","audio":"assets/audio/words/polite.mp3","core":true},"words":{"word":"words","phonetic":"/wərdz/","translation":"字","audio":"assets/audio/words/words.mp3","core":false},"such":{"word":"such","phonetic":"/səʧ/","translation":"这样的","audio":"assets/audio/words/such.mp3","core":false},"pardon":{"word":"pardon","phonetic":"/pardon/","translation":"常用词","audio":"assets/audio/words/pardon.mp3","core":true},"excuse":{"word":"excuse","phonetic":"/excuse/","translation":"常用词","audio":"assets/audio/words/excuse.mp3","core":true},"me":{"word":"me","phonetic":"/mi/","translation":"我","audio":"assets/audio/words/me.mp3","core":false},"show":{"word":"show","phonetic":"/ʃoʊ/","translation":"展示","audio":"assets/audio/words/show.mp3","core":false},"writings":{"word":"writings","phonetic":"/writings/","translation":"常用词","audio":"assets/audio/words/writings.mp3","core":false},"discussions":{"word":"discussions","phonetic":"/discussions/","translation":"常用词","audio":"assets/audio/words/discussions.mp3","core":false},"also":{"word":"also","phonetic":"/ˈɔlsoʊ/","translation":"还","audio":"assets/audio/words/also.mp3","core":false},"include":{"word":"include","phonetic":"/include/","translation":"常用词","audio":"assets/audio/words/include.mp3","core":false},"remember":{"word":"remember","phonetic":"/rɪˈmɛmbər/","translation":"记住","audio":"assets/audio/words/remember.mp3","core":false},"ancestors":{"word":"ancestors","phonetic":"/ancestors/","translation":"常用词","audio":"assets/audio/words/ancestors.mp3","core":false},"emphasises":{"word":"emphasises","phonetic":"/emphasises/","translation":"常用词","audio":"assets/audio/words/emphasises.mp3","core":false},"one":{"word":"one","phonetic":"/wən/","translation":"一","audio":"assets/audio/words/one.mp3","core":false},"honest":{"word":"honest","phonetic":"/ˈɑnəst/","translation":"诚实的","audio":"assets/audio/words/honest.mp3","core":true},"relationships":{"word":"relationships","phonetic":"/riˈleɪʃənˌʃɪps/","translation":"关系","audio":"assets/audio/words/relationships.mp3","core":false},"means":{"word":"means","phonetic":"/minz/","translation":"方法","audio":"assets/audio/words/means.mp3","core":false},"shouldnt":{"word":"shouldn't","phonetic":"/ˈʃʊdənt/","translation":"不应该","audio":"assets/audio/words/shouldnt.mp3","core":false},"ever":{"word":"ever","phonetic":"/ˈɛvər/","translation":"曾经","audio":"assets/audio/words/ever.mp3","core":false},"lie":{"word":"lie","phonetic":"/lie/","translation":"常用词","audio":"assets/audio/words/lie.mp3","core":true},"cheat":{"word":"cheat","phonetic":"/cheat/","translation":"常用词","audio":"assets/audio/words/cheat.mp3","core":true},"build":{"word":"build","phonetic":"/bɪld/","translation":"建造","audio":"assets/audio/words/build.mp3","core":false},"strong":{"word":"strong","phonetic":"/strɔŋ/","translation":"强的","audio":"assets/audio/words/strong.mp3","core":false},"lasting":{"word":"lasting","phonetic":"/lasting/","translation":"常用词","audio":"assets/audio/words/lasting.mp3","core":false},"perhaps":{"word":"Perhaps","phonetic":"/perhaps/","translation":"常用词","audio":"assets/audio/words/perhaps.mp3","core":true},"most":{"word":"most","phonetic":"/moʊst/","translation":"最多","audio":"assets/audio/words/most.mp3","core":false},"well":{"word":"well","phonetic":"/wɛl/","translation":"出色地","audio":"assets/audio/words/well.mp3","core":true},"known":{"word":"known","phonetic":"/noʊn/","translation":"已知的","audio":"assets/audio/words/known.mp3","core":true},"virtue":{"word":"virtue","phonetic":"/virtue/","translation":"常用词","audio":"assets/audio/words/virtue.mp3","core":false},"xiao":{"word":"Xiao","phonetic":"/xiao/","translation":"常用词","audio":"assets/audio/words/xiao.mp3","core":false},"loving":{"word":"loving","phonetic":"/loving/","translation":"常用词","audio":"assets/audio/words/loving.mp3","core":false},"respecting":{"word":"respecting","phonetic":"/respecting/","translation":"常用词","audio":"assets/audio/words/respecting.mp3","core":false},"obeying":{"word":"obeying","phonetic":"/obeying/","translation":"常用词","audio":"assets/audio/words/obeying.mp3","core":false},"taking":{"word":"taking","phonetic":"/ˈteɪkɪŋ/","translation":"采取","audio":"assets/audio/words/taking.mp3","core":false},"ones":{"word":"one's","phonetic":"/wənz/","translation":"那些","audio":"assets/audio/words/ones.mp3","core":false},"parents":{"word":"parents","phonetic":"/ˈpɛrənts/","translation":"父母","audio":"assets/audio/words/parents.mp3","core":false},"grandfather":{"word":"grandfather","phonetic":"/grandfather/","translation":"常用词","audio":"assets/audio/words/grandfather.mp3","core":false},"grandmother":{"word":"grandmother","phonetic":"/grandmother/","translation":"常用词","audio":"assets/audio/words/grandmother.mp3","core":false},"important":{"word":"important","phonetic":"/ˌɪmˈpɔrtənt/","translation":"重要的","audio":"assets/audio/words/important.mp3","core":false},"harmonious":{"word":"harmonious","phonetic":"/harmonious/","translation":"常用词","audio":"assets/audio/words/harmonious.mp3","core":false},"society":{"word":"society","phonetic":"/soʊˈsaɪɪti/","translation":"社会","audio":"assets/audio/words/society.mp3","core":false},"without":{"word":"Without","phonetic":"/wɪˈðaʊt/","translation":"没有","audio":"assets/audio/words/without.mp3","core":false},"whole":{"word":"whole","phonetic":"/hoʊl/","translation":"所有的","audio":"assets/audio/words/whole.mp3","core":false},"would":{"word":"would","phonetic":"/wʊd/","translation":"会","audio":"assets/audio/words/would.mp3","core":false},"fall":{"word":"fall","phonetic":"/fɔl/","translation":"落下","audio":"assets/audio/words/fall.mp3","core":false},"into":{"word":"into","phonetic":"/ˈɪntu/","translation":"进入","audio":"assets/audio/words/into.mp3","core":false},"mess":{"word":"mess","phonetic":"/mess/","translation":"常用词","audio":"assets/audio/words/mess.mp3","core":false}},"coreCards":[{"word":"era","phonetic":"/era/","translation":"常用词","example":"Confucianism has been followed by Chinese people for more than 2,000 years, and it has influenced Chinese culture throughout this era.","audio":"assets/audio/words/era.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"socialism","phonetic":"/socialism/","translation":"常用词","example":"In modern socialism, Confucian values continue to guide how we treat others.","audio":"assets/audio/words/socialism.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"general","phonetic":"/general/","translation":"常用词","example":"Confucianism teaches Ren, Yi, Li, Ji and Xin, which are general virtues around the world.","audio":"assets/audio/words/general.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"wise","phonetic":"/wise/","translation":"常用词","example":"According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.","audio":"assets/audio/words/wise.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"love","phonetic":"/ləv/","translation":"爱","example":"According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.","audio":"assets/audio/words/love.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"fever","phonetic":"/fever/","translation":"常用词","example":"It can be as simple as giving care to a neighbour who has a fever, but it promotes friendship and harmony so that some wars may be avoided.","audio":"assets/audio/words/fever.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"friendship","phonetic":"/friendship/","translation":"常用词","example":"It can be as simple as giving care to a neighbour who has a fever, but it promotes friendship and harmony so that some wars may be avoided.","audio":"assets/audio/words/friendship.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"similar","phonetic":"/ˈsɪmələr/","translation":"相似的","example":"It is quite similar to the golden rule in western countries, which encourages people to be friendly.","audio":"assets/audio/words/similar.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"golden","phonetic":"/ˈgoʊldən/","translation":"金的","example":"It is quite similar to the golden rule in western countries, which encourages people to be friendly.","audio":"assets/audio/words/golden.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"rule","phonetic":"/rule/","translation":"常用词","example":"It is quite similar to the golden rule in western countries, which encourages people to be friendly.","audio":"assets/audio/words/rule.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"friendly","phonetic":"/ˈfrɛndli/","translation":"友好的","example":"It is quite similar to the golden rule in western countries, which encourages people to be friendly.","audio":"assets/audio/words/friendly.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"little","phonetic":"/ˈlɪtəl/","translation":"小的","example":"The meaning of Yi is a little harder to express.","audio":"assets/audio/words/little.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"duty","phonetic":"/duty/","translation":"常用词","example":"It can be thought of as duty or even respect.","audio":"assets/audio/words/duty.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"mostly","phonetic":"/mostly/","translation":"常用词","example":"While Ren is mostly about our opinions and feelings, Yi is about how we should act.","audio":"assets/audio/words/mostly.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"generally","phonetic":"/generally/","translation":"常用词","example":"Generally, Yi is the way we should connect with people.","audio":"assets/audio/words/generally.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"polite","phonetic":"/polite/","translation":"常用词","example":"For example, we say polite words such as pardon or excuse me to show our respect.","audio":"assets/audio/words/polite.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"pardon","phonetic":"/pardon/","translation":"常用词","example":"For example, we say polite words such as pardon or excuse me to show our respect.","audio":"assets/audio/words/pardon.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"excuse","phonetic":"/excuse/","translation":"常用词","example":"For example, we say polite words such as pardon or excuse me to show our respect.","audio":"assets/audio/words/excuse.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"honest","phonetic":"/ˈɑnəst/","translation":"诚实的","example":"Xin emphasises that one should be honest in relationships.","audio":"assets/audio/words/honest.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"lie","phonetic":"/lie/","translation":"常用词","example":"This means we shouldn't ever lie or cheat.","audio":"assets/audio/words/lie.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"cheat","phonetic":"/cheat/","translation":"常用词","example":"This means we shouldn't ever lie or cheat.","audio":"assets/audio/words/cheat.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"perhaps","phonetic":"/perhaps/","translation":"常用词","example":"Perhaps the most well-known Confucian virtue is Xiao.","audio":"assets/audio/words/perhaps.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"well","phonetic":"/wɛl/","translation":"出色地","example":"Perhaps the most well-known Confucian virtue is Xiao.","audio":"assets/audio/words/well.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"known","phonetic":"/noʊn/","translation":"已知的","example":"Perhaps the most well-known Confucian virtue is Xiao.","audio":"assets/audio/words/known.mp3","tips":"在第40课中重点掌握：读准音、看懂意思，并能在原句中复述。"}]}</script>
+  <script>
+    const book = JSON.parse(document.getElementById('bookDataJson').textContent);
+    const pages = book.pages;
+    const dictionary = book.dictionary || {};
+    const coreCards = book.coreCards || [];
+    const coreCardMap = new Map(coreCards.map((card) => [normalizeWord(card.word), card]));
+    const sharedAudio = new Audio();
+    sharedAudio.preload = 'auto';
+
+    let currentPage = 0;
+    let translationVisible = false;
+    let isReading = false;
+    let readAllMode = false;
+    let audioToken = 0;
+    let recognition = null;
+    let isRecording = false;
+    let followCountdown = null;
+
+    const pageImage = document.getElementById('pageImage');
+    const imageFrame = document.getElementById('imageFrame');
+    const textContainer = document.getElementById('textContainer');
+    const sentenceEl = document.getElementById('sentence');
+    const translationEl = document.getElementById('translation');
+    const pageIndicator = document.getElementById('pageIndicator');
+    const progressFill = document.getElementById('progressFill');
+    const audioNotice = document.getElementById('audioNotice');
+    const tooltip = document.getElementById('tooltip');
+
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (SpeechRecognition) {
+      recognition = new SpeechRecognition();
+      recognition.lang = 'en-US';
+      recognition.continuous = false;
+      recognition.interimResults = false;
+      recognition.maxAlternatives = 1;
+    }
+
+    function normalizeWord(word) {
+      return String(word || '').toLowerCase().replace(/’/g, "'").replace(/[^a-z0-9']/g, '');
+    }
+
+    function escapeHtml(value) {
+      return String(value || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function getDictionaryItem(wordKey) {
+      if (dictionary[wordKey]) return dictionary[wordKey];
+      const variants = [];
+      if (wordKey.endsWith('ies')) variants.push(wordKey.slice(0, -3) + 'y');
+      if (wordKey.endsWith('ied')) variants.push(wordKey.slice(0, -3) + 'y');
+      if (wordKey.endsWith('ing')) {
+        variants.push(wordKey.slice(0, -3));
+        variants.push(wordKey.slice(0, -3) + 'e');
+      }
+      if (wordKey.endsWith('ed')) {
+        variants.push(wordKey.slice(0, -2));
+        variants.push(wordKey.slice(0, -1));
+      }
+      if (wordKey.endsWith('es')) variants.push(wordKey.slice(0, -2));
+      if (wordKey.endsWith('s')) variants.push(wordKey.slice(0, -1));
+      return variants.map((key) => dictionary[key]).find(Boolean) || null;
+    }
+
+    function buildSentenceHtml(text) {
+      const parts = String(text || '').match(/[A-Za-z]+(?:['’][A-Za-z]+)?|[^A-Za-z]+/g) || [];
+      return parts.map((part) => {
+        if (!/^[A-Za-z]+(?:['’][A-Za-z]+)?$/.test(part)) return escapeHtml(part);
+        const key = normalizeWord(part);
+        const item = getDictionaryItem(key);
+        const core = item && (item.core || coreCardMap.has(normalizeWord(item.word || key)));
+        return `<span class="word${core ? ' core-word' : ''}" tabindex="0" role="button" ` +
+          `aria-label="点读 ${escapeHtml(part)}" data-word="${escapeHtml(key)}" ` +
+          `data-speak="${escapeHtml(part)}">${escapeHtml(part)}</span>`;
+      }).join('');
+    }
+
+    function stopAudio(options = {}) {
+      audioToken += 1;
+      sharedAudio.pause();
+      sharedAudio.currentTime = 0;
+      sharedAudio.onplay = null;
+      sharedAudio.onended = null;
+      sharedAudio.onerror = null;
+      isReading = false;
+      if (!options.keepReadAll) readAllMode = false;
+      document.getElementById('readPageBtn').textContent = '🔊 朗读本页';
+      document.getElementById('readAllBtn').textContent = '▶ 全文朗读';
+    }
+
+    function playAudio(src, options = {}) {
+      if (!src) {
+        audioNotice.textContent = options.missingMessage || '本页没有可播放的固定音频。';
+        if (options.onerror) options.onerror();
+        return Promise.reject(new Error('missing audio'));
+      }
+      const token = ++audioToken;
+      sharedAudio.pause();
+      sharedAudio.currentTime = 0;
+      sharedAudio.src = src;
+      sharedAudio.playbackRate = options.rate || 1;
+      sharedAudio.onplay = () => {
+        if (token !== audioToken) return;
+        audioNotice.textContent = '';
+        if (options.onstart) options.onstart();
+      };
+      sharedAudio.onended = () => {
+        if (token !== audioToken) return;
+        if (options.onend) options.onend();
+      };
+      sharedAudio.onerror = () => {
+        if (token !== audioToken) return;
+        audioNotice.textContent = '固定音频无法播放，请检查文件是否完整。';
+        if (options.onerror) options.onerror();
+      };
+      const promise = sharedAudio.play();
+      if (promise && typeof promise.catch === 'function') {
+        promise.catch((error) => {
+          if (token !== audioToken || (error && error.name === 'AbortError')) return;
+          audioNotice.textContent = error && error.name === 'NotAllowedError'
+            ? '浏览器暂未允许播放，请再次点击朗读或单词。'
+            : '固定音频无法播放，请检查文件是否完整。';
+          if (options.onerror) options.onerror();
+        });
+      }
+      return promise;
+    }
+
+    function renderPage(index, options = {}) {
+      const page = pages[index];
+      imageFrame.classList.remove('image-error');
+      imageFrame.dataset.error = '';
+      pageImage.onload = () => imageFrame.classList.remove('image-error');
+      pageImage.onerror = () => {
+        imageFrame.dataset.error = `图片未挂载：${page.image}`;
+        imageFrame.classList.add('image-error');
+      };
+      pageImage.src = page.image;
+      pageImage.alt = page.cover ? `${book.title}绘本封面` : `第${page.sentenceId}句插画`;
+      textContainer.classList.toggle('cover-copy', Boolean(page.cover));
+      sentenceEl.innerHTML = page.cover ? escapeHtml(page.en) : buildSentenceHtml(page.en);
+      translationEl.textContent = page.cn || '';
+      translationEl.classList.toggle('hidden', !translationVisible);
+      document.getElementById('translationEye').setAttribute(
+        'aria-label', translationVisible ? '隐藏本页翻译' : '显示本页翻译'
+      );
+      pageIndicator.textContent = `第 ${index + 1} 页 / 共 ${pages.length} 页`;
+      progressFill.style.width = `${((index + 1) / pages.length) * 100}%`;
+      document.getElementById('prevBtn').disabled = index === 0;
+      document.getElementById('nextBtn').disabled = index === pages.length - 1;
+      document.getElementById('readPageBtn').disabled = Boolean(page.cover || !page.audio);
+      document.getElementById('followReadBtn').disabled = Boolean(page.cover);
+      bindWords();
+      resetFollowMode();
+      if (!options.keepAudio) {
+        stopAudio();
+      }
+    }
+
+    function showTooltip(target, item) {
+      document.getElementById('tooltipPhonetic').textContent = item.phonetic || '';
+      document.getElementById('tooltipTranslation').textContent = item.translation || '常用词';
+      const rect = target.getBoundingClientRect();
+      tooltip.style.left = `${Math.min(Math.max(rect.left + rect.width / 2, 150), window.innerWidth - 150)}px`;
+      tooltip.style.top = `${Math.max(rect.top - 8, 86)}px`;
+      tooltip.classList.add('show');
+      clearTimeout(showTooltip.timer);
+      showTooltip.timer = setTimeout(() => tooltip.classList.remove('show'), 2600);
+    }
+
+    function cardForItem(wordKey, item) {
+      const direct = coreCardMap.get(normalizeWord(item && item.word ? item.word : wordKey));
+      return direct || coreCardMap.get(wordKey) || null;
+    }
+
+    function openWordCard(card) {
+      if (!card) return;
+      tooltip.classList.remove('show');
+      document.getElementById('cardWord').textContent = card.word || '';
+      document.getElementById('cardPhonetic').textContent = card.phonetic || '';
+      document.getElementById('cardMeaning').textContent = card.translation || card.meaning || '';
+      document.getElementById('cardExample').innerHTML = `<strong>例句：</strong>${escapeHtml(card.example || '')}`;
+      document.getElementById('cardTip').innerHTML = `<strong>记忆：</strong>${escapeHtml(card.tips || card.note || '先听发音，再跟读一遍。')}`;
+      document.getElementById('cardListenBtn').dataset.audio = card.audio || '';
+      document.getElementById('cardListenBtn').dataset.speak = card.word || '';
+      document.getElementById('wordCardOverlay').classList.add('show');
+      document.getElementById('closeWordCard').focus();
+    }
+
+    function closeWordCard() {
+      document.getElementById('wordCardOverlay').classList.remove('show');
+    }
+
+    function activateWord(wordEl) {
+      const key = wordEl.dataset.word;
+      const item = getDictionaryItem(key) || {
+        word: wordEl.dataset.speak || key,
+        phonetic: `/${wordEl.dataset.speak || key}/`,
+        translation: '常用词',
+        audio: ''
+      };
+      stopAudio();
+      playAudio(item.audio, { rate: 0.9, missingMessage: '这个单词的固定音频尚未生成。' }).catch(() => {});
+      wordEl.classList.add('clicked');
+      setTimeout(() => wordEl.classList.remove('clicked'), 900);
+      const card = cardForItem(key, item);
+      if (card) openWordCard(card);
+      else showTooltip(wordEl, item);
+    }
+
+    function bindWords() {
+      document.querySelectorAll('.word').forEach((wordEl) => {
+        wordEl.addEventListener('click', () => activateWord(wordEl));
+        wordEl.addEventListener('keydown', (event) => {
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            activateWord(wordEl);
+          }
+        });
+      });
+    }
+
+    function readCurrentPage() {
+      const page = pages[currentPage];
+      if (page.cover) return;
+      if (isReading) {
+        stopAudio();
+        return;
+      }
+      stopAudio();
+      playAudio(page.audio, {
+        onstart: () => {
+          isReading = true;
+          document.getElementById('readPageBtn').textContent = '■ 停止朗读';
+        },
+        onend: () => {
+          isReading = false;
+          document.getElementById('readPageBtn').textContent = '🔊 朗读本页';
+        },
+        onerror: () => {
+          isReading = false;
+          document.getElementById('readPageBtn').textContent = '🔊 朗读本页';
+        }
+      }).catch(() => {});
+    }
+
+    function readPageInSequence(index) {
+      if (!readAllMode || index >= pages.length) {
+        stopAudio();
+        return;
+      }
+      if (pages[index].cover) {
+        readPageInSequence(index + 1);
+        return;
+      }
+      currentPage = index;
+      renderPage(index, { keepAudio: true });
+      document.getElementById('readAllBtn').textContent = '■ 停止全文';
+      playAudio(pages[index].audio, {
+        onend: () => {
+          if (readAllMode) setTimeout(() => readPageInSequence(index + 1), 650);
+        },
+        onerror: () => stopAudio()
+      }).catch(() => {});
+    }
+
+    function toggleReadAll() {
+      if (readAllMode) {
+        stopAudio();
+        return;
+      }
+      stopAudio();
+      readAllMode = true;
+      document.getElementById('readAllBtn').textContent = '■ 停止全文';
+      readPageInSequence(currentPage === 0 ? 1 : currentPage);
+    }
+
+    function toggleTranslation() {
+      translationVisible = !translationVisible;
+      translationEl.classList.toggle('hidden', !translationVisible);
+      document.getElementById('toggleTransBtn').textContent = translationVisible ? '译 隐藏翻译' : '译 显示翻译';
+      document.getElementById('translationEye').setAttribute(
+        'aria-label', translationVisible ? '隐藏本页翻译' : '显示本页翻译'
+      );
+    }
+
+    function words(text) {
+      return String(text || '').toLowerCase().replace(/[^a-z0-9' ]+/g, ' ').split(/\s+/).filter(Boolean);
+    }
+
+    function scoreSpeech(target, spoken) {
+      const a = words(target);
+      const b = words(spoken);
+      const table = Array.from({ length: a.length + 1 }, () => Array(b.length + 1).fill(0));
+      for (let i = 1; i <= a.length; i += 1) {
+        for (let j = 1; j <= b.length; j += 1) {
+          table[i][j] = a[i - 1] === b[j - 1]
+            ? table[i - 1][j - 1] + 1
+            : Math.max(table[i - 1][j], table[i][j - 1]);
+        }
+      }
+      const matched = new Set();
+      let i = a.length;
+      let j = b.length;
+      while (i > 0 && j > 0) {
+        if (a[i - 1] === b[j - 1]) {
+          matched.add(i - 1);
+          i -= 1;
+          j -= 1;
+        } else if (table[i - 1][j] >= table[i][j - 1]) i -= 1;
+        else j -= 1;
+      }
+      return {
+        score: Math.round((matched.size / Math.max(a.length, 1)) * 100),
+        targetWords: a,
+        matched,
+        spoken: spoken || ''
+      };
+    }
+
+    function resetFollowMode() {
+      clearInterval(followCountdown);
+      followCountdown = null;
+      if (recognition && isRecording) {
+        try { recognition.stop(); } catch (_) {}
+      }
+      isRecording = false;
+      document.getElementById('readingMode').classList.remove('show');
+      document.getElementById('feedbackContainer').classList.remove('show');
+      document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+      document.querySelectorAll('.word').forEach((node) => node.classList.remove('correct', 'incorrect'));
+    }
+
+    function renderFollowResult(result) {
+      const feedbackList = document.getElementById('feedbackList');
+      document.getElementById('readingStatus').textContent = result.score >= 80 ? '👍 读得很好！' : '💪 再练一次会更好';
+      document.getElementById('scoreDisplay').textContent = `得分：${result.score}分`;
+      document.getElementById('starsDisplay').textContent = result.score >= 90 ? '⭐⭐⭐' : result.score >= 70 ? '⭐⭐' : '⭐';
+      feedbackList.innerHTML = result.targetWords.map((word, index) => {
+        const correct = result.matched.has(index);
+        return `<li><button class="feedback-item" type="button" data-feedback-word="${escapeHtml(word)}">` +
+          `<span>${correct ? '✓' : '×'}</span><strong>${escapeHtml(word)}</strong>` +
+          `<span>${correct ? '发音已识别' : '请再听一遍'}</span><span>🔊</span></button></li>`;
+      }).join('');
+      document.getElementById('feedbackContainer').classList.add('show');
+      document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+      document.querySelectorAll('.word').forEach((node, index) => {
+        node.classList.add(result.matched.has(index) ? 'correct' : 'incorrect');
+      });
+      feedbackList.querySelectorAll('[data-feedback-word]').forEach((button) => {
+        button.addEventListener('click', () => {
+          const item = getDictionaryItem(normalizeWord(button.dataset.feedbackWord));
+          playAudio(item && item.audio ? item.audio : '', { missingMessage: '这个单词的固定音频尚未生成。' }).catch(() => {});
+        });
+      });
+    }
+
+    function beginRecognition() {
+      const page = pages[currentPage];
+      document.getElementById('countdown').textContent = '';
+      document.getElementById('readingStatus').textContent = '🔴 正在聆听，请朗读本页句子';
+      document.getElementById('followReadBtn').textContent = '■ 结束跟读';
+      isRecording = true;
+      recognition.onresult = (event) => {
+        isRecording = false;
+        const spoken = event.results[0][0].transcript;
+        renderFollowResult(scoreSpeech(page.en, spoken));
+      };
+      recognition.onerror = (event) => {
+        isRecording = false;
+        document.getElementById('readingStatus').textContent = `跟读没有启动：${event.error || '浏览器未返回原因'}`;
+        document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+      };
+      recognition.onend = () => { isRecording = false; };
+      try { recognition.start(); }
+      catch (_) { document.getElementById('readingStatus').textContent = '语音识别启动失败，请稍后再试。'; }
+    }
+
+    function startFollowReading() {
+      const page = pages[currentPage];
+      if (page.cover) return;
+      if (isRecording) {
+        try { recognition.stop(); } catch (_) {}
+        isRecording = false;
+        document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+        return;
+      }
+      const secure = location.protocol === 'https:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1';
+      document.getElementById('readingMode').classList.add('show');
+      document.getElementById('feedbackContainer').classList.remove('show');
+      document.getElementById('scoreDisplay').textContent = '';
+      document.getElementById('starsDisplay').textContent = '';
+      if (!recognition) {
+        document.getElementById('readingStatus').textContent = '当前浏览器未开放网页语音识别；请使用支持Web Speech的Chrome或Safari。';
+        return;
+      }
+      if (!secure) {
+        document.getElementById('readingStatus').textContent = '跟读需要HTTPS或localhost；直接双击HTML时浏览器会拦截麦克风。';
+        return;
+      }
+      stopAudio();
+      document.getElementById('readingStatus').textContent = '🎤 准备跟读';
+      let count = 3;
+      document.getElementById('countdown').textContent = count;
+      clearInterval(followCountdown);
+      followCountdown = setInterval(() => {
+        count -= 1;
+        if (count > 0) document.getElementById('countdown').textContent = count;
+        else {
+          clearInterval(followCountdown);
+          followCountdown = null;
+          beginRecognition();
+        }
+      }, 1000);
+    }
+
+    function renderCoreWords() {
+      document.getElementById('coreTitle').textContent = `核心词汇（${coreCards.length}个）`;
+      document.getElementById('coreList').innerHTML = coreCards.map((card) =>
+        `<button class="core-chip" type="button" data-core-word="${escapeHtml(normalizeWord(card.word))}">${escapeHtml(card.word)}</button>`
+      ).join('');
+      document.querySelectorAll('[data-core-word]').forEach((button) => {
+        button.addEventListener('click', () => openWordCard(coreCardMap.get(button.dataset.coreWord)));
+      });
+    }
+
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      if (currentPage > 0) { currentPage -= 1; renderPage(currentPage); }
+    });
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      if (currentPage < pages.length - 1) { currentPage += 1; renderPage(currentPage); }
+    });
+    document.getElementById('readPageBtn').addEventListener('click', readCurrentPage);
+    document.getElementById('readAllBtn').addEventListener('click', toggleReadAll);
+    document.getElementById('toggleTransBtn').addEventListener('click', toggleTranslation);
+    document.getElementById('translationEye').addEventListener('click', toggleTranslation);
+    document.getElementById('followReadBtn').addEventListener('click', startFollowReading);
+    document.getElementById('retryBtn').addEventListener('click', startFollowReading);
+    document.getElementById('finishFollowBtn').addEventListener('click', resetFollowMode);
+    document.getElementById('closeWordCard').addEventListener('click', closeWordCard);
+    document.getElementById('cardDoneBtn').addEventListener('click', closeWordCard);
+    document.getElementById('wordCardOverlay').addEventListener('click', (event) => {
+      if (event.target.id === 'wordCardOverlay') closeWordCard();
+    });
+    document.getElementById('cardListenBtn').addEventListener('click', (event) => {
+      playAudio(event.currentTarget.dataset.audio || '', { missingMessage: '这个单词的固定音频尚未生成。' }).catch(() => {});
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (document.getElementById('wordCardOverlay').classList.contains('show')) {
+        if (event.key === 'Escape') closeWordCard();
+        return;
+      }
+      if (event.key === 'ArrowLeft' && currentPage > 0) { currentPage -= 1; renderPage(currentPage); }
+      if (event.key === 'ArrowRight' && currentPage < pages.length - 1) { currentPage += 1; renderPage(currentPage); }
+    });
+
+    renderCoreWords();
+    renderPage(0);
+  </script>
+</body>
+</html>

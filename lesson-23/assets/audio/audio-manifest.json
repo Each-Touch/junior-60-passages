@@ -1,0 +1,895 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "About 80% of people do not get enough Vitamin D every day.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "But this Vitamin is very important for your health.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Vitamin D is really important for our bones.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "When we are young, Vitamin D builds up our bones and makes them strong.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "When we are older, we still need Vitamin D to keep our bones strong.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "Our bodies keep the vitamin D in our bones and teeth.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Then we lose vitamin D as we work and exercise during the day.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "But our bodies can't make Vitamin D.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "So we have to get it from outside of our bodies.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Where can we get this very important vitamin?",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Vitamin D is in foods like fish, eggs, cabbages and meat such as beef and pork.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Sometimes, Vitamin D is added to bread and orange juice.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Dairy products like milk, butter and yogurt provide Vitamin D as well.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "We should be sure to eat such foods that are rich in Vitamin D when choosing from a menu.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "Food is not the only way our bodies can get Vitamin D.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "The sun also gives us Vitamin D.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Too much sun is not good for you.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "But about 15 minutes a day is usually enough.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "Living in a flat might limit your sun exposure.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "So consider using your passport to visit sunny places.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "Some people may need to take Vitamin D pills.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "You can conveniently get them at a local mall.",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    },
+    {
+      "id": 23,
+      "text": "But it is important to consult a doctor if you think you aren't getting enough Vitamin D.",
+      "file": "assets/audio/sentences/sentence-23.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "About",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "added",
+      "text": "added",
+      "file": "assets/audio/words/added.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "arent",
+      "text": "aren't",
+      "file": "assets/audio/words/arent.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "beef",
+      "text": "beef",
+      "file": "assets/audio/words/beef.mp3",
+      "exists": false
+    },
+    {
+      "key": "bodies",
+      "text": "bodies",
+      "file": "assets/audio/words/bodies.mp3",
+      "exists": false
+    },
+    {
+      "key": "bones",
+      "text": "bones",
+      "file": "assets/audio/words/bones.mp3",
+      "exists": false
+    },
+    {
+      "key": "bread",
+      "text": "bread",
+      "file": "assets/audio/words/bread.mp3",
+      "exists": false
+    },
+    {
+      "key": "builds",
+      "text": "builds",
+      "file": "assets/audio/words/builds.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "But",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "butter",
+      "text": "butter",
+      "file": "assets/audio/words/butter.mp3",
+      "exists": false
+    },
+    {
+      "key": "cabbages",
+      "text": "cabbages",
+      "file": "assets/audio/words/cabbages.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "cant",
+      "text": "can't",
+      "file": "assets/audio/words/cant.mp3",
+      "exists": false
+    },
+    {
+      "key": "choosing",
+      "text": "choosing",
+      "file": "assets/audio/words/choosing.mp3",
+      "exists": false
+    },
+    {
+      "key": "consider",
+      "text": "consider",
+      "file": "assets/audio/words/consider.mp3",
+      "exists": false
+    },
+    {
+      "key": "consult",
+      "text": "consult",
+      "file": "assets/audio/words/consult.mp3",
+      "exists": false
+    },
+    {
+      "key": "conveniently",
+      "text": "conveniently",
+      "file": "assets/audio/words/conveniently.mp3",
+      "exists": false
+    },
+    {
+      "key": "d",
+      "text": "D",
+      "file": "assets/audio/words/d.mp3",
+      "exists": false
+    },
+    {
+      "key": "dairy",
+      "text": "Dairy",
+      "file": "assets/audio/words/dairy.mp3",
+      "exists": false
+    },
+    {
+      "key": "day",
+      "text": "day",
+      "file": "assets/audio/words/day.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "doctor",
+      "text": "doctor",
+      "file": "assets/audio/words/doctor.mp3",
+      "exists": false
+    },
+    {
+      "key": "during",
+      "text": "during",
+      "file": "assets/audio/words/during.mp3",
+      "exists": false
+    },
+    {
+      "key": "eat",
+      "text": "eat",
+      "file": "assets/audio/words/eat.mp3",
+      "exists": false
+    },
+    {
+      "key": "eggs",
+      "text": "eggs",
+      "file": "assets/audio/words/eggs.mp3",
+      "exists": false
+    },
+    {
+      "key": "enough",
+      "text": "enough",
+      "file": "assets/audio/words/enough.mp3",
+      "exists": false
+    },
+    {
+      "key": "every",
+      "text": "every",
+      "file": "assets/audio/words/every.mp3",
+      "exists": false
+    },
+    {
+      "key": "exercise",
+      "text": "exercise",
+      "file": "assets/audio/words/exercise.mp3",
+      "exists": false
+    },
+    {
+      "key": "exposure",
+      "text": "exposure",
+      "file": "assets/audio/words/exposure.mp3",
+      "exists": false
+    },
+    {
+      "key": "fish",
+      "text": "fish",
+      "file": "assets/audio/words/fish.mp3",
+      "exists": false
+    },
+    {
+      "key": "flat",
+      "text": "flat",
+      "file": "assets/audio/words/flat.mp3",
+      "exists": false
+    },
+    {
+      "key": "food",
+      "text": "Food",
+      "file": "assets/audio/words/food.mp3",
+      "exists": false
+    },
+    {
+      "key": "foods",
+      "text": "foods",
+      "file": "assets/audio/words/foods.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "getting",
+      "text": "getting",
+      "file": "assets/audio/words/getting.mp3",
+      "exists": false
+    },
+    {
+      "key": "gives",
+      "text": "gives",
+      "file": "assets/audio/words/gives.mp3",
+      "exists": false
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "health",
+      "text": "health",
+      "file": "assets/audio/words/health.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "if",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "it",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "juice",
+      "text": "juice",
+      "file": "assets/audio/words/juice.mp3",
+      "exists": false
+    },
+    {
+      "key": "keep",
+      "text": "keep",
+      "file": "assets/audio/words/keep.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "limit",
+      "text": "limit",
+      "file": "assets/audio/words/limit.mp3",
+      "exists": false
+    },
+    {
+      "key": "living",
+      "text": "Living",
+      "file": "assets/audio/words/living.mp3",
+      "exists": false
+    },
+    {
+      "key": "local",
+      "text": "local",
+      "file": "assets/audio/words/local.mp3",
+      "exists": false
+    },
+    {
+      "key": "lose",
+      "text": "lose",
+      "file": "assets/audio/words/lose.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "makes",
+      "text": "makes",
+      "file": "assets/audio/words/makes.mp3",
+      "exists": false
+    },
+    {
+      "key": "mall",
+      "text": "mall",
+      "file": "assets/audio/words/mall.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "meat",
+      "text": "meat",
+      "file": "assets/audio/words/meat.mp3",
+      "exists": false
+    },
+    {
+      "key": "menu",
+      "text": "menu",
+      "file": "assets/audio/words/menu.mp3",
+      "exists": false
+    },
+    {
+      "key": "might",
+      "text": "might",
+      "file": "assets/audio/words/might.mp3",
+      "exists": false
+    },
+    {
+      "key": "milk",
+      "text": "milk",
+      "file": "assets/audio/words/milk.mp3",
+      "exists": false
+    },
+    {
+      "key": "minutes",
+      "text": "minutes",
+      "file": "assets/audio/words/minutes.mp3",
+      "exists": false
+    },
+    {
+      "key": "much",
+      "text": "much",
+      "file": "assets/audio/words/much.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "older",
+      "text": "older",
+      "file": "assets/audio/words/older.mp3",
+      "exists": false
+    },
+    {
+      "key": "only",
+      "text": "only",
+      "file": "assets/audio/words/only.mp3",
+      "exists": false
+    },
+    {
+      "key": "orange",
+      "text": "orange",
+      "file": "assets/audio/words/orange.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "outside",
+      "text": "outside",
+      "file": "assets/audio/words/outside.mp3",
+      "exists": false
+    },
+    {
+      "key": "passport",
+      "text": "passport",
+      "file": "assets/audio/words/passport.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "pills",
+      "text": "pills",
+      "file": "assets/audio/words/pills.mp3",
+      "exists": false
+    },
+    {
+      "key": "places",
+      "text": "places",
+      "file": "assets/audio/words/places.mp3",
+      "exists": false
+    },
+    {
+      "key": "pork",
+      "text": "pork",
+      "file": "assets/audio/words/pork.mp3",
+      "exists": false
+    },
+    {
+      "key": "products",
+      "text": "products",
+      "file": "assets/audio/words/products.mp3",
+      "exists": false
+    },
+    {
+      "key": "provide",
+      "text": "provide",
+      "file": "assets/audio/words/provide.mp3",
+      "exists": false
+    },
+    {
+      "key": "really",
+      "text": "really",
+      "file": "assets/audio/words/really.mp3",
+      "exists": false
+    },
+    {
+      "key": "rich",
+      "text": "rich",
+      "file": "assets/audio/words/rich.mp3",
+      "exists": false
+    },
+    {
+      "key": "should",
+      "text": "should",
+      "file": "assets/audio/words/should.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "So",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "Some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "sometimes",
+      "text": "Sometimes",
+      "file": "assets/audio/words/sometimes.mp3",
+      "exists": false
+    },
+    {
+      "key": "still",
+      "text": "still",
+      "file": "assets/audio/words/still.mp3",
+      "exists": false
+    },
+    {
+      "key": "strong",
+      "text": "strong",
+      "file": "assets/audio/words/strong.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "sun",
+      "text": "sun",
+      "file": "assets/audio/words/sun.mp3",
+      "exists": false
+    },
+    {
+      "key": "sunny",
+      "text": "sunny",
+      "file": "assets/audio/words/sunny.mp3",
+      "exists": false
+    },
+    {
+      "key": "sure",
+      "text": "sure",
+      "file": "assets/audio/words/sure.mp3",
+      "exists": false
+    },
+    {
+      "key": "take",
+      "text": "take",
+      "file": "assets/audio/words/take.mp3",
+      "exists": false
+    },
+    {
+      "key": "teeth",
+      "text": "teeth",
+      "file": "assets/audio/words/teeth.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "Then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "think",
+      "text": "think",
+      "file": "assets/audio/words/think.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "this",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "too",
+      "text": "Too",
+      "file": "assets/audio/words/too.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "us",
+      "text": "us",
+      "file": "assets/audio/words/us.mp3",
+      "exists": false
+    },
+    {
+      "key": "using",
+      "text": "using",
+      "file": "assets/audio/words/using.mp3",
+      "exists": false
+    },
+    {
+      "key": "usually",
+      "text": "usually",
+      "file": "assets/audio/words/usually.mp3",
+      "exists": false
+    },
+    {
+      "key": "very",
+      "text": "very",
+      "file": "assets/audio/words/very.mp3",
+      "exists": false
+    },
+    {
+      "key": "visit",
+      "text": "visit",
+      "file": "assets/audio/words/visit.mp3",
+      "exists": false
+    },
+    {
+      "key": "vitamin",
+      "text": "Vitamin",
+      "file": "assets/audio/words/vitamin.mp3",
+      "exists": false
+    },
+    {
+      "key": "way",
+      "text": "way",
+      "file": "assets/audio/words/way.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "we",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "When",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "where",
+      "text": "Where",
+      "file": "assets/audio/words/where.mp3",
+      "exists": false
+    },
+    {
+      "key": "work",
+      "text": "work",
+      "file": "assets/audio/words/work.mp3",
+      "exists": false
+    },
+    {
+      "key": "yogurt",
+      "text": "yogurt",
+      "file": "assets/audio/words/yogurt.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "young",
+      "text": "young",
+      "file": "assets/audio/words/young.mp3",
+      "exists": false
+    },
+    {
+      "key": "your",
+      "text": "your",
+      "file": "assets/audio/words/your.mp3",
+      "exists": false
+    }
+  ]
+}

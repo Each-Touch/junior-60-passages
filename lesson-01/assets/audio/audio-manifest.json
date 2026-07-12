@@ -1,0 +1,793 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Once upon a time, there was a little boy.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "His parents were poor farmers.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "They couldn't pay for a worker, so the boy had to help.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "He worked hard.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "Every day, he had a one-hour rest at sunset.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "He used that time to climb to the top of a hill.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "There, he could see a house on another hill.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "It had golden windows.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "They were really bright and shone like diamonds.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "One day, the boy's father said to him, \"You worked really hard, so you can take a day off. Try to learn something good.\"",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "The boy thanked his father.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Then, he left home and walked to the far hill.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "He came to the house and knocked on the door.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Then a girl answered.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "He told her about the golden windows.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "The girl shook her head and said, \"Poor farmers like us only have glass windows. Look there! That's the house with the golden windows.\"",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "She pointed at something far away.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "When the boy looked, he saw his own house.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "He then thanked the girl and rushed home.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "Inside, he saw his family and smiled.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "He told them about his excellent day.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "He also said, \"I learned a great lesson—our house has golden windows.\"",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": true
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": true
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": true
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": true
+    },
+    {
+      "key": "another",
+      "text": "another",
+      "file": "assets/audio/words/another.mp3",
+      "exists": true
+    },
+    {
+      "key": "answered",
+      "text": "answered",
+      "file": "assets/audio/words/answered.mp3",
+      "exists": true
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": true
+    },
+    {
+      "key": "away",
+      "text": "away",
+      "file": "assets/audio/words/away.mp3",
+      "exists": true
+    },
+    {
+      "key": "boy",
+      "text": "boy",
+      "file": "assets/audio/words/boy.mp3",
+      "exists": true
+    },
+    {
+      "key": "boys",
+      "text": "boy's",
+      "file": "assets/audio/words/boys.mp3",
+      "exists": true
+    },
+    {
+      "key": "bright",
+      "text": "bright",
+      "file": "assets/audio/words/bright.mp3",
+      "exists": true
+    },
+    {
+      "key": "came",
+      "text": "came",
+      "file": "assets/audio/words/came.mp3",
+      "exists": true
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": true
+    },
+    {
+      "key": "climb",
+      "text": "climb",
+      "file": "assets/audio/words/climb.mp3",
+      "exists": true
+    },
+    {
+      "key": "could",
+      "text": "could",
+      "file": "assets/audio/words/could.mp3",
+      "exists": true
+    },
+    {
+      "key": "couldnt",
+      "text": "couldn't",
+      "file": "assets/audio/words/couldnt.mp3",
+      "exists": true
+    },
+    {
+      "key": "day",
+      "text": "day",
+      "file": "assets/audio/words/day.mp3",
+      "exists": false
+    },
+    {
+      "key": "diamonds",
+      "text": "diamonds",
+      "file": "assets/audio/words/diamonds.mp3",
+      "exists": true
+    },
+    {
+      "key": "door",
+      "text": "door",
+      "file": "assets/audio/words/door.mp3",
+      "exists": true
+    },
+    {
+      "key": "every",
+      "text": "Every",
+      "file": "assets/audio/words/every.mp3",
+      "exists": true
+    },
+    {
+      "key": "excellent",
+      "text": "excellent",
+      "file": "assets/audio/words/excellent.mp3",
+      "exists": true
+    },
+    {
+      "key": "family",
+      "text": "family",
+      "file": "assets/audio/words/family.mp3",
+      "exists": true
+    },
+    {
+      "key": "far",
+      "text": "far",
+      "file": "assets/audio/words/far.mp3",
+      "exists": true
+    },
+    {
+      "key": "farmers",
+      "text": "farmers",
+      "file": "assets/audio/words/farmers.mp3",
+      "exists": true
+    },
+    {
+      "key": "father",
+      "text": "father",
+      "file": "assets/audio/words/father.mp3",
+      "exists": true
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": true
+    },
+    {
+      "key": "girl",
+      "text": "girl",
+      "file": "assets/audio/words/girl.mp3",
+      "exists": true
+    },
+    {
+      "key": "glass",
+      "text": "glass",
+      "file": "assets/audio/words/glass.mp3",
+      "exists": true
+    },
+    {
+      "key": "golden",
+      "text": "golden",
+      "file": "assets/audio/words/golden.mp3",
+      "exists": true
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": true
+    },
+    {
+      "key": "great",
+      "text": "great",
+      "file": "assets/audio/words/great.mp3",
+      "exists": true
+    },
+    {
+      "key": "had",
+      "text": "had",
+      "file": "assets/audio/words/had.mp3",
+      "exists": true
+    },
+    {
+      "key": "hard",
+      "text": "hard",
+      "file": "assets/audio/words/hard.mp3",
+      "exists": true
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": true
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": true
+    },
+    {
+      "key": "he",
+      "text": "He",
+      "file": "assets/audio/words/he.mp3",
+      "exists": true
+    },
+    {
+      "key": "head",
+      "text": "head",
+      "file": "assets/audio/words/head.mp3",
+      "exists": true
+    },
+    {
+      "key": "help",
+      "text": "help",
+      "file": "assets/audio/words/help.mp3",
+      "exists": true
+    },
+    {
+      "key": "her",
+      "text": "her",
+      "file": "assets/audio/words/her.mp3",
+      "exists": true
+    },
+    {
+      "key": "hill",
+      "text": "hill",
+      "file": "assets/audio/words/hill.mp3",
+      "exists": false
+    },
+    {
+      "key": "him",
+      "text": "him",
+      "file": "assets/audio/words/him.mp3",
+      "exists": true
+    },
+    {
+      "key": "his",
+      "text": "His",
+      "file": "assets/audio/words/his.mp3",
+      "exists": false
+    },
+    {
+      "key": "home",
+      "text": "home",
+      "file": "assets/audio/words/home.mp3",
+      "exists": true
+    },
+    {
+      "key": "hour",
+      "text": "hour",
+      "file": "assets/audio/words/hour.mp3",
+      "exists": true
+    },
+    {
+      "key": "house",
+      "text": "house",
+      "file": "assets/audio/words/house.mp3",
+      "exists": true
+    },
+    {
+      "key": "i",
+      "text": "I",
+      "file": "assets/audio/words/i.mp3",
+      "exists": true
+    },
+    {
+      "key": "inside",
+      "text": "Inside",
+      "file": "assets/audio/words/inside.mp3",
+      "exists": true
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": true
+    },
+    {
+      "key": "knocked",
+      "text": "knocked",
+      "file": "assets/audio/words/knocked.mp3",
+      "exists": true
+    },
+    {
+      "key": "learn",
+      "text": "learn",
+      "file": "assets/audio/words/learn.mp3",
+      "exists": true
+    },
+    {
+      "key": "learned",
+      "text": "learned",
+      "file": "assets/audio/words/learned.mp3",
+      "exists": true
+    },
+    {
+      "key": "left",
+      "text": "left",
+      "file": "assets/audio/words/left.mp3",
+      "exists": true
+    },
+    {
+      "key": "lesson",
+      "text": "lesson",
+      "file": "assets/audio/words/lesson.mp3",
+      "exists": true
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": true
+    },
+    {
+      "key": "little",
+      "text": "little",
+      "file": "assets/audio/words/little.mp3",
+      "exists": true
+    },
+    {
+      "key": "look",
+      "text": "Look",
+      "file": "assets/audio/words/look.mp3",
+      "exists": true
+    },
+    {
+      "key": "looked",
+      "text": "looked",
+      "file": "assets/audio/words/looked.mp3",
+      "exists": true
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "off",
+      "text": "off",
+      "file": "assets/audio/words/off.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "once",
+      "text": "Once",
+      "file": "assets/audio/words/once.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "only",
+      "text": "only",
+      "file": "assets/audio/words/only.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "own",
+      "text": "own",
+      "file": "assets/audio/words/own.mp3",
+      "exists": false
+    },
+    {
+      "key": "parents",
+      "text": "parents",
+      "file": "assets/audio/words/parents.mp3",
+      "exists": false
+    },
+    {
+      "key": "pay",
+      "text": "pay",
+      "file": "assets/audio/words/pay.mp3",
+      "exists": false
+    },
+    {
+      "key": "pointed",
+      "text": "pointed",
+      "file": "assets/audio/words/pointed.mp3",
+      "exists": false
+    },
+    {
+      "key": "poor",
+      "text": "poor",
+      "file": "assets/audio/words/poor.mp3",
+      "exists": false
+    },
+    {
+      "key": "really",
+      "text": "really",
+      "file": "assets/audio/words/really.mp3",
+      "exists": false
+    },
+    {
+      "key": "rest",
+      "text": "rest",
+      "file": "assets/audio/words/rest.mp3",
+      "exists": false
+    },
+    {
+      "key": "rushed",
+      "text": "rushed",
+      "file": "assets/audio/words/rushed.mp3",
+      "exists": false
+    },
+    {
+      "key": "said",
+      "text": "said",
+      "file": "assets/audio/words/said.mp3",
+      "exists": false
+    },
+    {
+      "key": "saw",
+      "text": "saw",
+      "file": "assets/audio/words/saw.mp3",
+      "exists": false
+    },
+    {
+      "key": "see",
+      "text": "see",
+      "file": "assets/audio/words/see.mp3",
+      "exists": false
+    },
+    {
+      "key": "she",
+      "text": "She",
+      "file": "assets/audio/words/she.mp3",
+      "exists": false
+    },
+    {
+      "key": "shone",
+      "text": "shone",
+      "file": "assets/audio/words/shone.mp3",
+      "exists": false
+    },
+    {
+      "key": "shook",
+      "text": "shook",
+      "file": "assets/audio/words/shook.mp3",
+      "exists": false
+    },
+    {
+      "key": "smiled",
+      "text": "smiled",
+      "file": "assets/audio/words/smiled.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "something",
+      "text": "something",
+      "file": "assets/audio/words/something.mp3",
+      "exists": false
+    },
+    {
+      "key": "sunset",
+      "text": "sunset",
+      "file": "assets/audio/words/sunset.mp3",
+      "exists": false
+    },
+    {
+      "key": "take",
+      "text": "take",
+      "file": "assets/audio/words/take.mp3",
+      "exists": false
+    },
+    {
+      "key": "thanked",
+      "text": "thanked",
+      "file": "assets/audio/words/thanked.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "thats",
+      "text": "That's",
+      "file": "assets/audio/words/thats.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "Then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "there",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "told",
+      "text": "told",
+      "file": "assets/audio/words/told.mp3",
+      "exists": false
+    },
+    {
+      "key": "top",
+      "text": "top",
+      "file": "assets/audio/words/top.mp3",
+      "exists": false
+    },
+    {
+      "key": "try",
+      "text": "Try",
+      "file": "assets/audio/words/try.mp3",
+      "exists": false
+    },
+    {
+      "key": "upon",
+      "text": "upon",
+      "file": "assets/audio/words/upon.mp3",
+      "exists": false
+    },
+    {
+      "key": "us",
+      "text": "us",
+      "file": "assets/audio/words/us.mp3",
+      "exists": false
+    },
+    {
+      "key": "used",
+      "text": "used",
+      "file": "assets/audio/words/used.mp3",
+      "exists": false
+    },
+    {
+      "key": "walked",
+      "text": "walked",
+      "file": "assets/audio/words/walked.mp3",
+      "exists": false
+    },
+    {
+      "key": "was",
+      "text": "was",
+      "file": "assets/audio/words/was.mp3",
+      "exists": false
+    },
+    {
+      "key": "were",
+      "text": "were",
+      "file": "assets/audio/words/were.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "When",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "windows",
+      "text": "windows",
+      "file": "assets/audio/words/windows.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "worked",
+      "text": "worked",
+      "file": "assets/audio/words/worked.mp3",
+      "exists": false
+    },
+    {
+      "key": "worker",
+      "text": "worker",
+      "file": "assets/audio/words/worker.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "You",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    }
+  ]
+}

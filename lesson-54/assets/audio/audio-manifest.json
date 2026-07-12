@@ -1,0 +1,949 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "How can we stop climate change?",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "How can we live on a green planet?",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Scientists agree that one way is to use clean energy.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Opposite to the use of fossil fuels, using clean energy does not produce harmful litter.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "We just need to learn how to get and store more of it.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "Plants can help us learn how to make clean energy, which could have a huge effect on our planet.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "The sun is a primary source of energy for plants.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "They use sunlight to turn water and air into sugar.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "The sugar can be used as food.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "The aim of some scientists is to get energy from the sun, like plants do.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "During the day and especially around noon, they can gather plenty of sunlight.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "They want to make a machine that can use the sunlight to make fuel from water, which will allow us to use clean energy.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Water is made up of two different parts.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Breaking water into its parts is hard.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "Plants do it all the time though.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "With energy from the sun, the new machine will break water into its parts.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "One of the parts will be used as fuel.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "Then the fuel is used to make electric power.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "The electricity can power cars, houses, our laptops, and so on.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "This fuel is better for the earth than gasoline or gas.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "Burning gasoline produces pollution.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "Scientists warn that if we do not act, climate change could lead to disasters and put our planet at risk.",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    },
+    {
+      "id": 23,
+      "text": "We need to balance traditional energy with clean energy.",
+      "file": "assets/audio/sentences/sentence-23.mp3",
+      "exists": true
+    },
+    {
+      "id": 24,
+      "text": "By using clean energy and lending support to its development, we can protect our planet and ensure that future generations have the energy they need.",
+      "file": "assets/audio/sentences/sentence-24.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "act",
+      "text": "act",
+      "file": "assets/audio/words/act.mp3",
+      "exists": false
+    },
+    {
+      "key": "agree",
+      "text": "agree",
+      "file": "assets/audio/words/agree.mp3",
+      "exists": false
+    },
+    {
+      "key": "aim",
+      "text": "aim",
+      "file": "assets/audio/words/aim.mp3",
+      "exists": false
+    },
+    {
+      "key": "air",
+      "text": "air",
+      "file": "assets/audio/words/air.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "allow",
+      "text": "allow",
+      "file": "assets/audio/words/allow.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "around",
+      "text": "around",
+      "file": "assets/audio/words/around.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "balance",
+      "text": "balance",
+      "file": "assets/audio/words/balance.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "better",
+      "text": "better",
+      "file": "assets/audio/words/better.mp3",
+      "exists": false
+    },
+    {
+      "key": "break",
+      "text": "break",
+      "file": "assets/audio/words/break.mp3",
+      "exists": false
+    },
+    {
+      "key": "breaking",
+      "text": "Breaking",
+      "file": "assets/audio/words/breaking.mp3",
+      "exists": false
+    },
+    {
+      "key": "burning",
+      "text": "Burning",
+      "file": "assets/audio/words/burning.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "By",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "cars",
+      "text": "cars",
+      "file": "assets/audio/words/cars.mp3",
+      "exists": false
+    },
+    {
+      "key": "change",
+      "text": "change",
+      "file": "assets/audio/words/change.mp3",
+      "exists": false
+    },
+    {
+      "key": "clean",
+      "text": "clean",
+      "file": "assets/audio/words/clean.mp3",
+      "exists": false
+    },
+    {
+      "key": "climate",
+      "text": "climate",
+      "file": "assets/audio/words/climate.mp3",
+      "exists": false
+    },
+    {
+      "key": "could",
+      "text": "could",
+      "file": "assets/audio/words/could.mp3",
+      "exists": false
+    },
+    {
+      "key": "day",
+      "text": "day",
+      "file": "assets/audio/words/day.mp3",
+      "exists": false
+    },
+    {
+      "key": "development",
+      "text": "development",
+      "file": "assets/audio/words/development.mp3",
+      "exists": false
+    },
+    {
+      "key": "different",
+      "text": "different",
+      "file": "assets/audio/words/different.mp3",
+      "exists": false
+    },
+    {
+      "key": "disasters",
+      "text": "disasters",
+      "file": "assets/audio/words/disasters.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "does",
+      "text": "does",
+      "file": "assets/audio/words/does.mp3",
+      "exists": false
+    },
+    {
+      "key": "during",
+      "text": "During",
+      "file": "assets/audio/words/during.mp3",
+      "exists": false
+    },
+    {
+      "key": "earth",
+      "text": "earth",
+      "file": "assets/audio/words/earth.mp3",
+      "exists": false
+    },
+    {
+      "key": "effect",
+      "text": "effect",
+      "file": "assets/audio/words/effect.mp3",
+      "exists": false
+    },
+    {
+      "key": "electric",
+      "text": "electric",
+      "file": "assets/audio/words/electric.mp3",
+      "exists": false
+    },
+    {
+      "key": "electricity",
+      "text": "electricity",
+      "file": "assets/audio/words/electricity.mp3",
+      "exists": false
+    },
+    {
+      "key": "energy",
+      "text": "energy",
+      "file": "assets/audio/words/energy.mp3",
+      "exists": false
+    },
+    {
+      "key": "ensure",
+      "text": "ensure",
+      "file": "assets/audio/words/ensure.mp3",
+      "exists": false
+    },
+    {
+      "key": "especially",
+      "text": "especially",
+      "file": "assets/audio/words/especially.mp3",
+      "exists": false
+    },
+    {
+      "key": "food",
+      "text": "food",
+      "file": "assets/audio/words/food.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "fossil",
+      "text": "fossil",
+      "file": "assets/audio/words/fossil.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "fuel",
+      "text": "fuel",
+      "file": "assets/audio/words/fuel.mp3",
+      "exists": false
+    },
+    {
+      "key": "fuels",
+      "text": "fuels",
+      "file": "assets/audio/words/fuels.mp3",
+      "exists": false
+    },
+    {
+      "key": "future",
+      "text": "future",
+      "file": "assets/audio/words/future.mp3",
+      "exists": false
+    },
+    {
+      "key": "gas",
+      "text": "gas",
+      "file": "assets/audio/words/gas.mp3",
+      "exists": false
+    },
+    {
+      "key": "gasoline",
+      "text": "gasoline",
+      "file": "assets/audio/words/gasoline.mp3",
+      "exists": false
+    },
+    {
+      "key": "gather",
+      "text": "gather",
+      "file": "assets/audio/words/gather.mp3",
+      "exists": false
+    },
+    {
+      "key": "generations",
+      "text": "generations",
+      "file": "assets/audio/words/generations.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "green",
+      "text": "green",
+      "file": "assets/audio/words/green.mp3",
+      "exists": false
+    },
+    {
+      "key": "hard",
+      "text": "hard",
+      "file": "assets/audio/words/hard.mp3",
+      "exists": false
+    },
+    {
+      "key": "harmful",
+      "text": "harmful",
+      "file": "assets/audio/words/harmful.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "help",
+      "text": "help",
+      "file": "assets/audio/words/help.mp3",
+      "exists": false
+    },
+    {
+      "key": "houses",
+      "text": "houses",
+      "file": "assets/audio/words/houses.mp3",
+      "exists": false
+    },
+    {
+      "key": "how",
+      "text": "How",
+      "file": "assets/audio/words/how.mp3",
+      "exists": false
+    },
+    {
+      "key": "huge",
+      "text": "huge",
+      "file": "assets/audio/words/huge.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "if",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "into",
+      "text": "into",
+      "file": "assets/audio/words/into.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "it",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "its",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "just",
+      "text": "just",
+      "file": "assets/audio/words/just.mp3",
+      "exists": false
+    },
+    {
+      "key": "laptops",
+      "text": "laptops",
+      "file": "assets/audio/words/laptops.mp3",
+      "exists": false
+    },
+    {
+      "key": "lead",
+      "text": "lead",
+      "file": "assets/audio/words/lead.mp3",
+      "exists": false
+    },
+    {
+      "key": "learn",
+      "text": "learn",
+      "file": "assets/audio/words/learn.mp3",
+      "exists": false
+    },
+    {
+      "key": "lending",
+      "text": "lending",
+      "file": "assets/audio/words/lending.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "litter",
+      "text": "litter",
+      "file": "assets/audio/words/litter.mp3",
+      "exists": false
+    },
+    {
+      "key": "live",
+      "text": "live",
+      "file": "assets/audio/words/live.mp3",
+      "exists": false
+    },
+    {
+      "key": "machine",
+      "text": "machine",
+      "file": "assets/audio/words/machine.mp3",
+      "exists": false
+    },
+    {
+      "key": "made",
+      "text": "made",
+      "file": "assets/audio/words/made.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "new",
+      "text": "new",
+      "file": "assets/audio/words/new.mp3",
+      "exists": false
+    },
+    {
+      "key": "noon",
+      "text": "noon",
+      "file": "assets/audio/words/noon.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "opposite",
+      "text": "Opposite",
+      "file": "assets/audio/words/opposite.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "parts",
+      "text": "parts",
+      "file": "assets/audio/words/parts.mp3",
+      "exists": false
+    },
+    {
+      "key": "planet",
+      "text": "planet",
+      "file": "assets/audio/words/planet.mp3",
+      "exists": false
+    },
+    {
+      "key": "plants",
+      "text": "Plants",
+      "file": "assets/audio/words/plants.mp3",
+      "exists": false
+    },
+    {
+      "key": "plenty",
+      "text": "plenty",
+      "file": "assets/audio/words/plenty.mp3",
+      "exists": false
+    },
+    {
+      "key": "pollution",
+      "text": "pollution",
+      "file": "assets/audio/words/pollution.mp3",
+      "exists": false
+    },
+    {
+      "key": "power",
+      "text": "power",
+      "file": "assets/audio/words/power.mp3",
+      "exists": false
+    },
+    {
+      "key": "primary",
+      "text": "primary",
+      "file": "assets/audio/words/primary.mp3",
+      "exists": false
+    },
+    {
+      "key": "produce",
+      "text": "produce",
+      "file": "assets/audio/words/produce.mp3",
+      "exists": false
+    },
+    {
+      "key": "produces",
+      "text": "produces",
+      "file": "assets/audio/words/produces.mp3",
+      "exists": false
+    },
+    {
+      "key": "protect",
+      "text": "protect",
+      "file": "assets/audio/words/protect.mp3",
+      "exists": false
+    },
+    {
+      "key": "put",
+      "text": "put",
+      "file": "assets/audio/words/put.mp3",
+      "exists": false
+    },
+    {
+      "key": "risk",
+      "text": "risk",
+      "file": "assets/audio/words/risk.mp3",
+      "exists": false
+    },
+    {
+      "key": "scientists",
+      "text": "Scientists",
+      "file": "assets/audio/words/scientists.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "source",
+      "text": "source",
+      "file": "assets/audio/words/source.mp3",
+      "exists": false
+    },
+    {
+      "key": "stop",
+      "text": "stop",
+      "file": "assets/audio/words/stop.mp3",
+      "exists": false
+    },
+    {
+      "key": "store",
+      "text": "store",
+      "file": "assets/audio/words/store.mp3",
+      "exists": false
+    },
+    {
+      "key": "sugar",
+      "text": "sugar",
+      "file": "assets/audio/words/sugar.mp3",
+      "exists": false
+    },
+    {
+      "key": "sun",
+      "text": "sun",
+      "file": "assets/audio/words/sun.mp3",
+      "exists": false
+    },
+    {
+      "key": "sunlight",
+      "text": "sunlight",
+      "file": "assets/audio/words/sunlight.mp3",
+      "exists": false
+    },
+    {
+      "key": "support",
+      "text": "support",
+      "file": "assets/audio/words/support.mp3",
+      "exists": false
+    },
+    {
+      "key": "than",
+      "text": "than",
+      "file": "assets/audio/words/than.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "Then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "though",
+      "text": "though",
+      "file": "assets/audio/words/though.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "traditional",
+      "text": "traditional",
+      "file": "assets/audio/words/traditional.mp3",
+      "exists": false
+    },
+    {
+      "key": "turn",
+      "text": "turn",
+      "file": "assets/audio/words/turn.mp3",
+      "exists": false
+    },
+    {
+      "key": "two",
+      "text": "two",
+      "file": "assets/audio/words/two.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "us",
+      "text": "us",
+      "file": "assets/audio/words/us.mp3",
+      "exists": false
+    },
+    {
+      "key": "use",
+      "text": "use",
+      "file": "assets/audio/words/use.mp3",
+      "exists": false
+    },
+    {
+      "key": "used",
+      "text": "used",
+      "file": "assets/audio/words/used.mp3",
+      "exists": false
+    },
+    {
+      "key": "using",
+      "text": "using",
+      "file": "assets/audio/words/using.mp3",
+      "exists": false
+    },
+    {
+      "key": "want",
+      "text": "want",
+      "file": "assets/audio/words/want.mp3",
+      "exists": false
+    },
+    {
+      "key": "warn",
+      "text": "warn",
+      "file": "assets/audio/words/warn.mp3",
+      "exists": false
+    },
+    {
+      "key": "water",
+      "text": "water",
+      "file": "assets/audio/words/water.mp3",
+      "exists": false
+    },
+    {
+      "key": "way",
+      "text": "way",
+      "file": "assets/audio/words/way.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "we",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "With",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    }
+  ]
+}

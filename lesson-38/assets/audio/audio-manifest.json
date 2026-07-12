@@ -1,0 +1,985 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "We know many musical instruments well, such as pianos, violins, drums, and so on.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "What about the erhu?",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "The erhu is a traditional Chinese instrument.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "It is different from Western string instruments because it has no board to hold the strings down.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "The player puts it on the knee while moving the bow to create sound.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "If you learn to play erhu, you have to know where the notes are on the strings, which is similar to English learning, where one has to spell and pronounce the words right in the first place.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "The modern erhu developed from the xiqin, played by many ethnic minorities during the Tang Dynasty.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "In the Song Dynasty, musicians used the erhu to perform different kinds of music.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "With the rise of some forms of folk art, the art of the erhu developed quickly during the Ming and Qing Dynasties.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "At present, it is used in both traditional and modern music, such as in pop, rock and jazz.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "One of the most famous musical pieces played on the erhu is Erquan Yingyue, first played by a blind musician.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "You can now hear the erhu in some popular historical dramas.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "As the erhu was mainly played by common people and the playing skills were passed down orally from father to son, there are few written records about the erhu that can be found.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "To study the history and the development of the erhu, historians usually turn to ancient paintings.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "In Yulin Caves and Eastern Thousand Buddha Caves in Gansu Province, five erhu pictures were discovered on murals.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "ancient",
+      "text": "ancient",
+      "file": "assets/audio/words/ancient.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "art",
+      "text": "art",
+      "file": "assets/audio/words/art.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "At",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "because",
+      "text": "because",
+      "file": "assets/audio/words/because.mp3",
+      "exists": false
+    },
+    {
+      "key": "blind",
+      "text": "blind",
+      "file": "assets/audio/words/blind.mp3",
+      "exists": false
+    },
+    {
+      "key": "board",
+      "text": "board",
+      "file": "assets/audio/words/board.mp3",
+      "exists": false
+    },
+    {
+      "key": "both",
+      "text": "both",
+      "file": "assets/audio/words/both.mp3",
+      "exists": false
+    },
+    {
+      "key": "bow",
+      "text": "bow",
+      "file": "assets/audio/words/bow.mp3",
+      "exists": false
+    },
+    {
+      "key": "buddha",
+      "text": "Buddha",
+      "file": "assets/audio/words/buddha.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "caves",
+      "text": "Caves",
+      "file": "assets/audio/words/caves.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinese",
+      "text": "Chinese",
+      "file": "assets/audio/words/chinese.mp3",
+      "exists": false
+    },
+    {
+      "key": "common",
+      "text": "common",
+      "file": "assets/audio/words/common.mp3",
+      "exists": false
+    },
+    {
+      "key": "create",
+      "text": "create",
+      "file": "assets/audio/words/create.mp3",
+      "exists": false
+    },
+    {
+      "key": "developed",
+      "text": "developed",
+      "file": "assets/audio/words/developed.mp3",
+      "exists": false
+    },
+    {
+      "key": "development",
+      "text": "development",
+      "file": "assets/audio/words/development.mp3",
+      "exists": false
+    },
+    {
+      "key": "different",
+      "text": "different",
+      "file": "assets/audio/words/different.mp3",
+      "exists": false
+    },
+    {
+      "key": "discovered",
+      "text": "discovered",
+      "file": "assets/audio/words/discovered.mp3",
+      "exists": false
+    },
+    {
+      "key": "down",
+      "text": "down",
+      "file": "assets/audio/words/down.mp3",
+      "exists": false
+    },
+    {
+      "key": "dramas",
+      "text": "dramas",
+      "file": "assets/audio/words/dramas.mp3",
+      "exists": false
+    },
+    {
+      "key": "drums",
+      "text": "drums",
+      "file": "assets/audio/words/drums.mp3",
+      "exists": false
+    },
+    {
+      "key": "during",
+      "text": "during",
+      "file": "assets/audio/words/during.mp3",
+      "exists": false
+    },
+    {
+      "key": "dynasties",
+      "text": "Dynasties",
+      "file": "assets/audio/words/dynasties.mp3",
+      "exists": false
+    },
+    {
+      "key": "dynasty",
+      "text": "Dynasty",
+      "file": "assets/audio/words/dynasty.mp3",
+      "exists": false
+    },
+    {
+      "key": "eastern",
+      "text": "Eastern",
+      "file": "assets/audio/words/eastern.mp3",
+      "exists": false
+    },
+    {
+      "key": "english",
+      "text": "English",
+      "file": "assets/audio/words/english.mp3",
+      "exists": false
+    },
+    {
+      "key": "erhu",
+      "text": "erhu",
+      "file": "assets/audio/words/erhu.mp3",
+      "exists": false
+    },
+    {
+      "key": "erquan",
+      "text": "Erquan",
+      "file": "assets/audio/words/erquan.mp3",
+      "exists": false
+    },
+    {
+      "key": "ethnic",
+      "text": "ethnic",
+      "file": "assets/audio/words/ethnic.mp3",
+      "exists": false
+    },
+    {
+      "key": "famous",
+      "text": "famous",
+      "file": "assets/audio/words/famous.mp3",
+      "exists": false
+    },
+    {
+      "key": "father",
+      "text": "father",
+      "file": "assets/audio/words/father.mp3",
+      "exists": false
+    },
+    {
+      "key": "few",
+      "text": "few",
+      "file": "assets/audio/words/few.mp3",
+      "exists": false
+    },
+    {
+      "key": "first",
+      "text": "first",
+      "file": "assets/audio/words/first.mp3",
+      "exists": false
+    },
+    {
+      "key": "five",
+      "text": "five",
+      "file": "assets/audio/words/five.mp3",
+      "exists": false
+    },
+    {
+      "key": "folk",
+      "text": "folk",
+      "file": "assets/audio/words/folk.mp3",
+      "exists": false
+    },
+    {
+      "key": "forms",
+      "text": "forms",
+      "file": "assets/audio/words/forms.mp3",
+      "exists": false
+    },
+    {
+      "key": "found",
+      "text": "found",
+      "file": "assets/audio/words/found.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "gansu",
+      "text": "Gansu",
+      "file": "assets/audio/words/gansu.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "hear",
+      "text": "hear",
+      "file": "assets/audio/words/hear.mp3",
+      "exists": false
+    },
+    {
+      "key": "historians",
+      "text": "historians",
+      "file": "assets/audio/words/historians.mp3",
+      "exists": false
+    },
+    {
+      "key": "historical",
+      "text": "historical",
+      "file": "assets/audio/words/historical.mp3",
+      "exists": false
+    },
+    {
+      "key": "history",
+      "text": "history",
+      "file": "assets/audio/words/history.mp3",
+      "exists": false
+    },
+    {
+      "key": "hold",
+      "text": "hold",
+      "file": "assets/audio/words/hold.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "If",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "instrument",
+      "text": "instrument",
+      "file": "assets/audio/words/instrument.mp3",
+      "exists": false
+    },
+    {
+      "key": "instruments",
+      "text": "instruments",
+      "file": "assets/audio/words/instruments.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "jazz",
+      "text": "jazz",
+      "file": "assets/audio/words/jazz.mp3",
+      "exists": false
+    },
+    {
+      "key": "kinds",
+      "text": "kinds",
+      "file": "assets/audio/words/kinds.mp3",
+      "exists": false
+    },
+    {
+      "key": "knee",
+      "text": "knee",
+      "file": "assets/audio/words/knee.mp3",
+      "exists": false
+    },
+    {
+      "key": "know",
+      "text": "know",
+      "file": "assets/audio/words/know.mp3",
+      "exists": false
+    },
+    {
+      "key": "learn",
+      "text": "learn",
+      "file": "assets/audio/words/learn.mp3",
+      "exists": false
+    },
+    {
+      "key": "learning",
+      "text": "learning",
+      "file": "assets/audio/words/learning.mp3",
+      "exists": false
+    },
+    {
+      "key": "mainly",
+      "text": "mainly",
+      "file": "assets/audio/words/mainly.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "ming",
+      "text": "Ming",
+      "file": "assets/audio/words/ming.mp3",
+      "exists": false
+    },
+    {
+      "key": "minorities",
+      "text": "minorities",
+      "file": "assets/audio/words/minorities.mp3",
+      "exists": false
+    },
+    {
+      "key": "modern",
+      "text": "modern",
+      "file": "assets/audio/words/modern.mp3",
+      "exists": false
+    },
+    {
+      "key": "most",
+      "text": "most",
+      "file": "assets/audio/words/most.mp3",
+      "exists": false
+    },
+    {
+      "key": "moving",
+      "text": "moving",
+      "file": "assets/audio/words/moving.mp3",
+      "exists": false
+    },
+    {
+      "key": "murals",
+      "text": "murals",
+      "file": "assets/audio/words/murals.mp3",
+      "exists": false
+    },
+    {
+      "key": "music",
+      "text": "music",
+      "file": "assets/audio/words/music.mp3",
+      "exists": false
+    },
+    {
+      "key": "musical",
+      "text": "musical",
+      "file": "assets/audio/words/musical.mp3",
+      "exists": false
+    },
+    {
+      "key": "musician",
+      "text": "musician",
+      "file": "assets/audio/words/musician.mp3",
+      "exists": false
+    },
+    {
+      "key": "musicians",
+      "text": "musicians",
+      "file": "assets/audio/words/musicians.mp3",
+      "exists": false
+    },
+    {
+      "key": "no",
+      "text": "no",
+      "file": "assets/audio/words/no.mp3",
+      "exists": false
+    },
+    {
+      "key": "notes",
+      "text": "notes",
+      "file": "assets/audio/words/notes.mp3",
+      "exists": false
+    },
+    {
+      "key": "now",
+      "text": "now",
+      "file": "assets/audio/words/now.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "orally",
+      "text": "orally",
+      "file": "assets/audio/words/orally.mp3",
+      "exists": false
+    },
+    {
+      "key": "paintings",
+      "text": "paintings",
+      "file": "assets/audio/words/paintings.mp3",
+      "exists": false
+    },
+    {
+      "key": "passed",
+      "text": "passed",
+      "file": "assets/audio/words/passed.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "perform",
+      "text": "perform",
+      "file": "assets/audio/words/perform.mp3",
+      "exists": false
+    },
+    {
+      "key": "pianos",
+      "text": "pianos",
+      "file": "assets/audio/words/pianos.mp3",
+      "exists": false
+    },
+    {
+      "key": "pictures",
+      "text": "pictures",
+      "file": "assets/audio/words/pictures.mp3",
+      "exists": false
+    },
+    {
+      "key": "pieces",
+      "text": "pieces",
+      "file": "assets/audio/words/pieces.mp3",
+      "exists": false
+    },
+    {
+      "key": "place",
+      "text": "place",
+      "file": "assets/audio/words/place.mp3",
+      "exists": false
+    },
+    {
+      "key": "play",
+      "text": "play",
+      "file": "assets/audio/words/play.mp3",
+      "exists": false
+    },
+    {
+      "key": "played",
+      "text": "played",
+      "file": "assets/audio/words/played.mp3",
+      "exists": false
+    },
+    {
+      "key": "player",
+      "text": "player",
+      "file": "assets/audio/words/player.mp3",
+      "exists": false
+    },
+    {
+      "key": "playing",
+      "text": "playing",
+      "file": "assets/audio/words/playing.mp3",
+      "exists": false
+    },
+    {
+      "key": "pop",
+      "text": "pop",
+      "file": "assets/audio/words/pop.mp3",
+      "exists": false
+    },
+    {
+      "key": "popular",
+      "text": "popular",
+      "file": "assets/audio/words/popular.mp3",
+      "exists": false
+    },
+    {
+      "key": "present",
+      "text": "present",
+      "file": "assets/audio/words/present.mp3",
+      "exists": false
+    },
+    {
+      "key": "pronounce",
+      "text": "pronounce",
+      "file": "assets/audio/words/pronounce.mp3",
+      "exists": false
+    },
+    {
+      "key": "province",
+      "text": "Province",
+      "file": "assets/audio/words/province.mp3",
+      "exists": false
+    },
+    {
+      "key": "puts",
+      "text": "puts",
+      "file": "assets/audio/words/puts.mp3",
+      "exists": false
+    },
+    {
+      "key": "qing",
+      "text": "Qing",
+      "file": "assets/audio/words/qing.mp3",
+      "exists": false
+    },
+    {
+      "key": "quickly",
+      "text": "quickly",
+      "file": "assets/audio/words/quickly.mp3",
+      "exists": false
+    },
+    {
+      "key": "records",
+      "text": "records",
+      "file": "assets/audio/words/records.mp3",
+      "exists": false
+    },
+    {
+      "key": "right",
+      "text": "right",
+      "file": "assets/audio/words/right.mp3",
+      "exists": false
+    },
+    {
+      "key": "rise",
+      "text": "rise",
+      "file": "assets/audio/words/rise.mp3",
+      "exists": false
+    },
+    {
+      "key": "rock",
+      "text": "rock",
+      "file": "assets/audio/words/rock.mp3",
+      "exists": false
+    },
+    {
+      "key": "similar",
+      "text": "similar",
+      "file": "assets/audio/words/similar.mp3",
+      "exists": false
+    },
+    {
+      "key": "skills",
+      "text": "skills",
+      "file": "assets/audio/words/skills.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "son",
+      "text": "son",
+      "file": "assets/audio/words/son.mp3",
+      "exists": false
+    },
+    {
+      "key": "song",
+      "text": "Song",
+      "file": "assets/audio/words/song.mp3",
+      "exists": false
+    },
+    {
+      "key": "sound",
+      "text": "sound",
+      "file": "assets/audio/words/sound.mp3",
+      "exists": false
+    },
+    {
+      "key": "spell",
+      "text": "spell",
+      "file": "assets/audio/words/spell.mp3",
+      "exists": false
+    },
+    {
+      "key": "string",
+      "text": "string",
+      "file": "assets/audio/words/string.mp3",
+      "exists": false
+    },
+    {
+      "key": "strings",
+      "text": "strings",
+      "file": "assets/audio/words/strings.mp3",
+      "exists": false
+    },
+    {
+      "key": "study",
+      "text": "study",
+      "file": "assets/audio/words/study.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "tang",
+      "text": "Tang",
+      "file": "assets/audio/words/tang.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "there",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "thousand",
+      "text": "Thousand",
+      "file": "assets/audio/words/thousand.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "traditional",
+      "text": "traditional",
+      "file": "assets/audio/words/traditional.mp3",
+      "exists": false
+    },
+    {
+      "key": "turn",
+      "text": "turn",
+      "file": "assets/audio/words/turn.mp3",
+      "exists": false
+    },
+    {
+      "key": "used",
+      "text": "used",
+      "file": "assets/audio/words/used.mp3",
+      "exists": false
+    },
+    {
+      "key": "usually",
+      "text": "usually",
+      "file": "assets/audio/words/usually.mp3",
+      "exists": false
+    },
+    {
+      "key": "violins",
+      "text": "violins",
+      "file": "assets/audio/words/violins.mp3",
+      "exists": false
+    },
+    {
+      "key": "was",
+      "text": "was",
+      "file": "assets/audio/words/was.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "We",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "were",
+      "text": "were",
+      "file": "assets/audio/words/were.mp3",
+      "exists": false
+    },
+    {
+      "key": "western",
+      "text": "Western",
+      "file": "assets/audio/words/western.mp3",
+      "exists": false
+    },
+    {
+      "key": "what",
+      "text": "What",
+      "file": "assets/audio/words/what.mp3",
+      "exists": false
+    },
+    {
+      "key": "where",
+      "text": "where",
+      "file": "assets/audio/words/where.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "while",
+      "text": "while",
+      "file": "assets/audio/words/while.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "With",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "words",
+      "text": "words",
+      "file": "assets/audio/words/words.mp3",
+      "exists": false
+    },
+    {
+      "key": "written",
+      "text": "written",
+      "file": "assets/audio/words/written.mp3",
+      "exists": false
+    },
+    {
+      "key": "xiqin",
+      "text": "xiqin",
+      "file": "assets/audio/words/xiqin.mp3",
+      "exists": false
+    },
+    {
+      "key": "yingyue",
+      "text": "Yingyue",
+      "file": "assets/audio/words/yingyue.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "yulin",
+      "text": "Yulin",
+      "file": "assets/audio/words/yulin.mp3",
+      "exists": false
+    }
+  ]
+}

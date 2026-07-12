@@ -1,0 +1,985 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Laughter is a universal language for humans.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "It can help people to get on well with others.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "As children, we laugh when our parents make faces.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Then we start to make others laugh like this.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "That's how we learn to play jokes.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "But is playing jokes only humans' ability?",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Scientists believe that some animals also have the ability.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "Dogs are smart animals with a good nose.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "They often help people.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "But sometimes we see dogs play jokes on people.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "They come near slowly and then quickly run away.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "This act seems silly.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "But they may just want to have fun.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "When dogs are guarding, they sometimes hide behind a door to scare visitors in a playful way.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "They fool their owners too.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "But after a joke, they lick their owner, which is like giving a kiss to show they are friendly.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Scientists say they have watched young apes play jokes.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "The young apes quietly follow adult apes and touch them secretly to surprise them.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "Then they playfully wait and watch what the adults would do.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "This action is similar to what human children do.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "Next time, when you find your pets doing something strange around you, maybe they are having jokes with you.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "So don't be mad if your dog borrows your shoe or your cat hides your sock.",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    },
+    {
+      "id": 23,
+      "text": "They might just be trying to make you laugh.",
+      "file": "assets/audio/sentences/sentence-23.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "ability",
+      "text": "ability",
+      "file": "assets/audio/words/ability.mp3",
+      "exists": false
+    },
+    {
+      "key": "act",
+      "text": "act",
+      "file": "assets/audio/words/act.mp3",
+      "exists": false
+    },
+    {
+      "key": "action",
+      "text": "action",
+      "file": "assets/audio/words/action.mp3",
+      "exists": false
+    },
+    {
+      "key": "adult",
+      "text": "adult",
+      "file": "assets/audio/words/adult.mp3",
+      "exists": false
+    },
+    {
+      "key": "adults",
+      "text": "adults",
+      "file": "assets/audio/words/adults.mp3",
+      "exists": false
+    },
+    {
+      "key": "after",
+      "text": "after",
+      "file": "assets/audio/words/after.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "animals",
+      "text": "animals",
+      "file": "assets/audio/words/animals.mp3",
+      "exists": false
+    },
+    {
+      "key": "apes",
+      "text": "apes",
+      "file": "assets/audio/words/apes.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "around",
+      "text": "around",
+      "file": "assets/audio/words/around.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "As",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "away",
+      "text": "away",
+      "file": "assets/audio/words/away.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "behind",
+      "text": "behind",
+      "file": "assets/audio/words/behind.mp3",
+      "exists": false
+    },
+    {
+      "key": "believe",
+      "text": "believe",
+      "file": "assets/audio/words/believe.mp3",
+      "exists": false
+    },
+    {
+      "key": "borrows",
+      "text": "borrows",
+      "file": "assets/audio/words/borrows.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "But",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "cat",
+      "text": "cat",
+      "file": "assets/audio/words/cat.mp3",
+      "exists": false
+    },
+    {
+      "key": "children",
+      "text": "children",
+      "file": "assets/audio/words/children.mp3",
+      "exists": false
+    },
+    {
+      "key": "come",
+      "text": "come",
+      "file": "assets/audio/words/come.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "dog",
+      "text": "dog",
+      "file": "assets/audio/words/dog.mp3",
+      "exists": false
+    },
+    {
+      "key": "dogs",
+      "text": "Dogs",
+      "file": "assets/audio/words/dogs.mp3",
+      "exists": false
+    },
+    {
+      "key": "doing",
+      "text": "doing",
+      "file": "assets/audio/words/doing.mp3",
+      "exists": false
+    },
+    {
+      "key": "dont",
+      "text": "don't",
+      "file": "assets/audio/words/dont.mp3",
+      "exists": false
+    },
+    {
+      "key": "door",
+      "text": "door",
+      "file": "assets/audio/words/door.mp3",
+      "exists": false
+    },
+    {
+      "key": "faces",
+      "text": "faces",
+      "file": "assets/audio/words/faces.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "follow",
+      "text": "follow",
+      "file": "assets/audio/words/follow.mp3",
+      "exists": false
+    },
+    {
+      "key": "fool",
+      "text": "fool",
+      "file": "assets/audio/words/fool.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "friendly",
+      "text": "friendly",
+      "file": "assets/audio/words/friendly.mp3",
+      "exists": false
+    },
+    {
+      "key": "fun",
+      "text": "fun",
+      "file": "assets/audio/words/fun.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "giving",
+      "text": "giving",
+      "file": "assets/audio/words/giving.mp3",
+      "exists": false
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": false
+    },
+    {
+      "key": "guarding",
+      "text": "guarding",
+      "file": "assets/audio/words/guarding.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "having",
+      "text": "having",
+      "file": "assets/audio/words/having.mp3",
+      "exists": false
+    },
+    {
+      "key": "help",
+      "text": "help",
+      "file": "assets/audio/words/help.mp3",
+      "exists": false
+    },
+    {
+      "key": "hide",
+      "text": "hide",
+      "file": "assets/audio/words/hide.mp3",
+      "exists": false
+    },
+    {
+      "key": "hides",
+      "text": "hides",
+      "file": "assets/audio/words/hides.mp3",
+      "exists": false
+    },
+    {
+      "key": "how",
+      "text": "how",
+      "file": "assets/audio/words/how.mp3",
+      "exists": false
+    },
+    {
+      "key": "human",
+      "text": "human",
+      "file": "assets/audio/words/human.mp3",
+      "exists": false
+    },
+    {
+      "key": "humans",
+      "text": "humans",
+      "file": "assets/audio/words/humans.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "if",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "joke",
+      "text": "joke",
+      "file": "assets/audio/words/joke.mp3",
+      "exists": false
+    },
+    {
+      "key": "jokes",
+      "text": "jokes",
+      "file": "assets/audio/words/jokes.mp3",
+      "exists": false
+    },
+    {
+      "key": "just",
+      "text": "just",
+      "file": "assets/audio/words/just.mp3",
+      "exists": false
+    },
+    {
+      "key": "kiss",
+      "text": "kiss",
+      "file": "assets/audio/words/kiss.mp3",
+      "exists": false
+    },
+    {
+      "key": "language",
+      "text": "language",
+      "file": "assets/audio/words/language.mp3",
+      "exists": false
+    },
+    {
+      "key": "laugh",
+      "text": "laugh",
+      "file": "assets/audio/words/laugh.mp3",
+      "exists": false
+    },
+    {
+      "key": "laughter",
+      "text": "Laughter",
+      "file": "assets/audio/words/laughter.mp3",
+      "exists": false
+    },
+    {
+      "key": "learn",
+      "text": "learn",
+      "file": "assets/audio/words/learn.mp3",
+      "exists": false
+    },
+    {
+      "key": "lick",
+      "text": "lick",
+      "file": "assets/audio/words/lick.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "mad",
+      "text": "mad",
+      "file": "assets/audio/words/mad.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "maybe",
+      "text": "maybe",
+      "file": "assets/audio/words/maybe.mp3",
+      "exists": false
+    },
+    {
+      "key": "might",
+      "text": "might",
+      "file": "assets/audio/words/might.mp3",
+      "exists": false
+    },
+    {
+      "key": "near",
+      "text": "near",
+      "file": "assets/audio/words/near.mp3",
+      "exists": false
+    },
+    {
+      "key": "next",
+      "text": "Next",
+      "file": "assets/audio/words/next.mp3",
+      "exists": false
+    },
+    {
+      "key": "nose",
+      "text": "nose",
+      "file": "assets/audio/words/nose.mp3",
+      "exists": false
+    },
+    {
+      "key": "often",
+      "text": "often",
+      "file": "assets/audio/words/often.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "only",
+      "text": "only",
+      "file": "assets/audio/words/only.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "others",
+      "text": "others",
+      "file": "assets/audio/words/others.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "owner",
+      "text": "owner",
+      "file": "assets/audio/words/owner.mp3",
+      "exists": false
+    },
+    {
+      "key": "owners",
+      "text": "owners",
+      "file": "assets/audio/words/owners.mp3",
+      "exists": false
+    },
+    {
+      "key": "parents",
+      "text": "parents",
+      "file": "assets/audio/words/parents.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "pets",
+      "text": "pets",
+      "file": "assets/audio/words/pets.mp3",
+      "exists": false
+    },
+    {
+      "key": "play",
+      "text": "play",
+      "file": "assets/audio/words/play.mp3",
+      "exists": false
+    },
+    {
+      "key": "playful",
+      "text": "playful",
+      "file": "assets/audio/words/playful.mp3",
+      "exists": false
+    },
+    {
+      "key": "playfully",
+      "text": "playfully",
+      "file": "assets/audio/words/playfully.mp3",
+      "exists": false
+    },
+    {
+      "key": "playing",
+      "text": "playing",
+      "file": "assets/audio/words/playing.mp3",
+      "exists": false
+    },
+    {
+      "key": "quickly",
+      "text": "quickly",
+      "file": "assets/audio/words/quickly.mp3",
+      "exists": false
+    },
+    {
+      "key": "quietly",
+      "text": "quietly",
+      "file": "assets/audio/words/quietly.mp3",
+      "exists": false
+    },
+    {
+      "key": "run",
+      "text": "run",
+      "file": "assets/audio/words/run.mp3",
+      "exists": false
+    },
+    {
+      "key": "say",
+      "text": "say",
+      "file": "assets/audio/words/say.mp3",
+      "exists": false
+    },
+    {
+      "key": "scare",
+      "text": "scare",
+      "file": "assets/audio/words/scare.mp3",
+      "exists": false
+    },
+    {
+      "key": "scientists",
+      "text": "Scientists",
+      "file": "assets/audio/words/scientists.mp3",
+      "exists": false
+    },
+    {
+      "key": "secretly",
+      "text": "secretly",
+      "file": "assets/audio/words/secretly.mp3",
+      "exists": false
+    },
+    {
+      "key": "see",
+      "text": "see",
+      "file": "assets/audio/words/see.mp3",
+      "exists": false
+    },
+    {
+      "key": "seems",
+      "text": "seems",
+      "file": "assets/audio/words/seems.mp3",
+      "exists": false
+    },
+    {
+      "key": "shoe",
+      "text": "shoe",
+      "file": "assets/audio/words/shoe.mp3",
+      "exists": false
+    },
+    {
+      "key": "show",
+      "text": "show",
+      "file": "assets/audio/words/show.mp3",
+      "exists": false
+    },
+    {
+      "key": "silly",
+      "text": "silly",
+      "file": "assets/audio/words/silly.mp3",
+      "exists": false
+    },
+    {
+      "key": "similar",
+      "text": "similar",
+      "file": "assets/audio/words/similar.mp3",
+      "exists": false
+    },
+    {
+      "key": "slowly",
+      "text": "slowly",
+      "file": "assets/audio/words/slowly.mp3",
+      "exists": false
+    },
+    {
+      "key": "smart",
+      "text": "smart",
+      "file": "assets/audio/words/smart.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "So",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "sock",
+      "text": "sock",
+      "file": "assets/audio/words/sock.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "something",
+      "text": "something",
+      "file": "assets/audio/words/something.mp3",
+      "exists": false
+    },
+    {
+      "key": "sometimes",
+      "text": "sometimes",
+      "file": "assets/audio/words/sometimes.mp3",
+      "exists": false
+    },
+    {
+      "key": "start",
+      "text": "start",
+      "file": "assets/audio/words/start.mp3",
+      "exists": false
+    },
+    {
+      "key": "strange",
+      "text": "strange",
+      "file": "assets/audio/words/strange.mp3",
+      "exists": false
+    },
+    {
+      "key": "surprise",
+      "text": "surprise",
+      "file": "assets/audio/words/surprise.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "thats",
+      "text": "That's",
+      "file": "assets/audio/words/thats.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "their",
+      "text": "their",
+      "file": "assets/audio/words/their.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "Then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "this",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "too",
+      "text": "too",
+      "file": "assets/audio/words/too.mp3",
+      "exists": false
+    },
+    {
+      "key": "touch",
+      "text": "touch",
+      "file": "assets/audio/words/touch.mp3",
+      "exists": false
+    },
+    {
+      "key": "trying",
+      "text": "trying",
+      "file": "assets/audio/words/trying.mp3",
+      "exists": false
+    },
+    {
+      "key": "universal",
+      "text": "universal",
+      "file": "assets/audio/words/universal.mp3",
+      "exists": false
+    },
+    {
+      "key": "visitors",
+      "text": "visitors",
+      "file": "assets/audio/words/visitors.mp3",
+      "exists": false
+    },
+    {
+      "key": "wait",
+      "text": "wait",
+      "file": "assets/audio/words/wait.mp3",
+      "exists": false
+    },
+    {
+      "key": "want",
+      "text": "want",
+      "file": "assets/audio/words/want.mp3",
+      "exists": false
+    },
+    {
+      "key": "watch",
+      "text": "watch",
+      "file": "assets/audio/words/watch.mp3",
+      "exists": false
+    },
+    {
+      "key": "watched",
+      "text": "watched",
+      "file": "assets/audio/words/watched.mp3",
+      "exists": false
+    },
+    {
+      "key": "way",
+      "text": "way",
+      "file": "assets/audio/words/way.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "we",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "what",
+      "text": "what",
+      "file": "assets/audio/words/what.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "when",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "would",
+      "text": "would",
+      "file": "assets/audio/words/would.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "young",
+      "text": "young",
+      "file": "assets/audio/words/young.mp3",
+      "exists": false
+    },
+    {
+      "key": "your",
+      "text": "your",
+      "file": "assets/audio/words/your.mp3",
+      "exists": false
+    }
+  ]
+}

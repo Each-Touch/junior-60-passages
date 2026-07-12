@@ -1,0 +1,847 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Squirrels are cute and interesting animals that can be found in many parts of the world.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "They are known for their long tails, big teeth and the ability to climb trees.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "They can jump up to about 3 metres in height, and they can run up to about 30 kilometres every hour.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Squirrels have soft bodies.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "Their eyes are high on their small heads and are placed on each side, so they can see wide and far without having to turn around.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "This often helps them get out of danger from their enemies like foxes and wolves.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Squirrels have four big teeth in the front of their mouth that keep growing all through their lives.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "They are known for their love of nuts, and they can eat as much food as their body weight each week.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "They often keep nuts in the ground for the long winter months.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Many people think that squirrels only eat nuts, but this isn't true.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Their diet also includes plants, fruits, eggs, small animals and even young snakes.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "One funny thing is that squirrels are good at planting trees.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "They hide the fruits of oak trees in the soil, but often forget where they put them.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "In the end, the forgotten fruits become big trees.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "Sometimes we even find them in our yards.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "ability",
+      "text": "ability",
+      "file": "assets/audio/words/ability.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "animals",
+      "text": "animals",
+      "file": "assets/audio/words/animals.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "around",
+      "text": "around",
+      "file": "assets/audio/words/around.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "become",
+      "text": "become",
+      "file": "assets/audio/words/become.mp3",
+      "exists": false
+    },
+    {
+      "key": "big",
+      "text": "big",
+      "file": "assets/audio/words/big.mp3",
+      "exists": false
+    },
+    {
+      "key": "bodies",
+      "text": "bodies",
+      "file": "assets/audio/words/bodies.mp3",
+      "exists": false
+    },
+    {
+      "key": "body",
+      "text": "body",
+      "file": "assets/audio/words/body.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "but",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "climb",
+      "text": "climb",
+      "file": "assets/audio/words/climb.mp3",
+      "exists": false
+    },
+    {
+      "key": "cute",
+      "text": "cute",
+      "file": "assets/audio/words/cute.mp3",
+      "exists": false
+    },
+    {
+      "key": "danger",
+      "text": "danger",
+      "file": "assets/audio/words/danger.mp3",
+      "exists": false
+    },
+    {
+      "key": "diet",
+      "text": "diet",
+      "file": "assets/audio/words/diet.mp3",
+      "exists": false
+    },
+    {
+      "key": "each",
+      "text": "each",
+      "file": "assets/audio/words/each.mp3",
+      "exists": false
+    },
+    {
+      "key": "eat",
+      "text": "eat",
+      "file": "assets/audio/words/eat.mp3",
+      "exists": false
+    },
+    {
+      "key": "eggs",
+      "text": "eggs",
+      "file": "assets/audio/words/eggs.mp3",
+      "exists": false
+    },
+    {
+      "key": "end",
+      "text": "end",
+      "file": "assets/audio/words/end.mp3",
+      "exists": false
+    },
+    {
+      "key": "enemies",
+      "text": "enemies",
+      "file": "assets/audio/words/enemies.mp3",
+      "exists": false
+    },
+    {
+      "key": "even",
+      "text": "even",
+      "file": "assets/audio/words/even.mp3",
+      "exists": false
+    },
+    {
+      "key": "every",
+      "text": "every",
+      "file": "assets/audio/words/every.mp3",
+      "exists": false
+    },
+    {
+      "key": "eyes",
+      "text": "eyes",
+      "file": "assets/audio/words/eyes.mp3",
+      "exists": false
+    },
+    {
+      "key": "far",
+      "text": "far",
+      "file": "assets/audio/words/far.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "food",
+      "text": "food",
+      "file": "assets/audio/words/food.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "forget",
+      "text": "forget",
+      "file": "assets/audio/words/forget.mp3",
+      "exists": false
+    },
+    {
+      "key": "forgotten",
+      "text": "forgotten",
+      "file": "assets/audio/words/forgotten.mp3",
+      "exists": false
+    },
+    {
+      "key": "found",
+      "text": "found",
+      "file": "assets/audio/words/found.mp3",
+      "exists": false
+    },
+    {
+      "key": "four",
+      "text": "four",
+      "file": "assets/audio/words/four.mp3",
+      "exists": false
+    },
+    {
+      "key": "foxes",
+      "text": "foxes",
+      "file": "assets/audio/words/foxes.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "front",
+      "text": "front",
+      "file": "assets/audio/words/front.mp3",
+      "exists": false
+    },
+    {
+      "key": "fruits",
+      "text": "fruits",
+      "file": "assets/audio/words/fruits.mp3",
+      "exists": false
+    },
+    {
+      "key": "funny",
+      "text": "funny",
+      "file": "assets/audio/words/funny.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": false
+    },
+    {
+      "key": "ground",
+      "text": "ground",
+      "file": "assets/audio/words/ground.mp3",
+      "exists": false
+    },
+    {
+      "key": "growing",
+      "text": "growing",
+      "file": "assets/audio/words/growing.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "having",
+      "text": "having",
+      "file": "assets/audio/words/having.mp3",
+      "exists": false
+    },
+    {
+      "key": "heads",
+      "text": "heads",
+      "file": "assets/audio/words/heads.mp3",
+      "exists": false
+    },
+    {
+      "key": "height",
+      "text": "height",
+      "file": "assets/audio/words/height.mp3",
+      "exists": false
+    },
+    {
+      "key": "helps",
+      "text": "helps",
+      "file": "assets/audio/words/helps.mp3",
+      "exists": false
+    },
+    {
+      "key": "hide",
+      "text": "hide",
+      "file": "assets/audio/words/hide.mp3",
+      "exists": false
+    },
+    {
+      "key": "high",
+      "text": "high",
+      "file": "assets/audio/words/high.mp3",
+      "exists": false
+    },
+    {
+      "key": "hour",
+      "text": "hour",
+      "file": "assets/audio/words/hour.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "includes",
+      "text": "includes",
+      "file": "assets/audio/words/includes.mp3",
+      "exists": false
+    },
+    {
+      "key": "interesting",
+      "text": "interesting",
+      "file": "assets/audio/words/interesting.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "isnt",
+      "text": "isn't",
+      "file": "assets/audio/words/isnt.mp3",
+      "exists": false
+    },
+    {
+      "key": "jump",
+      "text": "jump",
+      "file": "assets/audio/words/jump.mp3",
+      "exists": false
+    },
+    {
+      "key": "keep",
+      "text": "keep",
+      "file": "assets/audio/words/keep.mp3",
+      "exists": false
+    },
+    {
+      "key": "kilometres",
+      "text": "kilometres",
+      "file": "assets/audio/words/kilometres.mp3",
+      "exists": false
+    },
+    {
+      "key": "known",
+      "text": "known",
+      "file": "assets/audio/words/known.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "lives",
+      "text": "lives",
+      "file": "assets/audio/words/lives.mp3",
+      "exists": false
+    },
+    {
+      "key": "long",
+      "text": "long",
+      "file": "assets/audio/words/long.mp3",
+      "exists": false
+    },
+    {
+      "key": "love",
+      "text": "love",
+      "file": "assets/audio/words/love.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "metres",
+      "text": "metres",
+      "file": "assets/audio/words/metres.mp3",
+      "exists": false
+    },
+    {
+      "key": "months",
+      "text": "months",
+      "file": "assets/audio/words/months.mp3",
+      "exists": false
+    },
+    {
+      "key": "mouth",
+      "text": "mouth",
+      "file": "assets/audio/words/mouth.mp3",
+      "exists": false
+    },
+    {
+      "key": "much",
+      "text": "much",
+      "file": "assets/audio/words/much.mp3",
+      "exists": false
+    },
+    {
+      "key": "nuts",
+      "text": "nuts",
+      "file": "assets/audio/words/nuts.mp3",
+      "exists": false
+    },
+    {
+      "key": "oak",
+      "text": "oak",
+      "file": "assets/audio/words/oak.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "often",
+      "text": "often",
+      "file": "assets/audio/words/often.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "One",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "only",
+      "text": "only",
+      "file": "assets/audio/words/only.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "out",
+      "text": "out",
+      "file": "assets/audio/words/out.mp3",
+      "exists": false
+    },
+    {
+      "key": "parts",
+      "text": "parts",
+      "file": "assets/audio/words/parts.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "placed",
+      "text": "placed",
+      "file": "assets/audio/words/placed.mp3",
+      "exists": false
+    },
+    {
+      "key": "planting",
+      "text": "planting",
+      "file": "assets/audio/words/planting.mp3",
+      "exists": false
+    },
+    {
+      "key": "plants",
+      "text": "plants",
+      "file": "assets/audio/words/plants.mp3",
+      "exists": false
+    },
+    {
+      "key": "put",
+      "text": "put",
+      "file": "assets/audio/words/put.mp3",
+      "exists": false
+    },
+    {
+      "key": "run",
+      "text": "run",
+      "file": "assets/audio/words/run.mp3",
+      "exists": false
+    },
+    {
+      "key": "see",
+      "text": "see",
+      "file": "assets/audio/words/see.mp3",
+      "exists": false
+    },
+    {
+      "key": "side",
+      "text": "side",
+      "file": "assets/audio/words/side.mp3",
+      "exists": false
+    },
+    {
+      "key": "small",
+      "text": "small",
+      "file": "assets/audio/words/small.mp3",
+      "exists": false
+    },
+    {
+      "key": "snakes",
+      "text": "snakes",
+      "file": "assets/audio/words/snakes.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "soft",
+      "text": "soft",
+      "file": "assets/audio/words/soft.mp3",
+      "exists": false
+    },
+    {
+      "key": "soil",
+      "text": "soil",
+      "file": "assets/audio/words/soil.mp3",
+      "exists": false
+    },
+    {
+      "key": "sometimes",
+      "text": "Sometimes",
+      "file": "assets/audio/words/sometimes.mp3",
+      "exists": false
+    },
+    {
+      "key": "squirrels",
+      "text": "Squirrels",
+      "file": "assets/audio/words/squirrels.mp3",
+      "exists": false
+    },
+    {
+      "key": "tails",
+      "text": "tails",
+      "file": "assets/audio/words/tails.mp3",
+      "exists": false
+    },
+    {
+      "key": "teeth",
+      "text": "teeth",
+      "file": "assets/audio/words/teeth.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "their",
+      "text": "their",
+      "file": "assets/audio/words/their.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "thing",
+      "text": "thing",
+      "file": "assets/audio/words/thing.mp3",
+      "exists": false
+    },
+    {
+      "key": "think",
+      "text": "think",
+      "file": "assets/audio/words/think.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "through",
+      "text": "through",
+      "file": "assets/audio/words/through.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "trees",
+      "text": "trees",
+      "file": "assets/audio/words/trees.mp3",
+      "exists": false
+    },
+    {
+      "key": "true",
+      "text": "true",
+      "file": "assets/audio/words/true.mp3",
+      "exists": false
+    },
+    {
+      "key": "turn",
+      "text": "turn",
+      "file": "assets/audio/words/turn.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "we",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "week",
+      "text": "week",
+      "file": "assets/audio/words/week.mp3",
+      "exists": false
+    },
+    {
+      "key": "weight",
+      "text": "weight",
+      "file": "assets/audio/words/weight.mp3",
+      "exists": false
+    },
+    {
+      "key": "where",
+      "text": "where",
+      "file": "assets/audio/words/where.mp3",
+      "exists": false
+    },
+    {
+      "key": "wide",
+      "text": "wide",
+      "file": "assets/audio/words/wide.mp3",
+      "exists": false
+    },
+    {
+      "key": "winter",
+      "text": "winter",
+      "file": "assets/audio/words/winter.mp3",
+      "exists": false
+    },
+    {
+      "key": "without",
+      "text": "without",
+      "file": "assets/audio/words/without.mp3",
+      "exists": false
+    },
+    {
+      "key": "wolves",
+      "text": "wolves",
+      "file": "assets/audio/words/wolves.mp3",
+      "exists": false
+    },
+    {
+      "key": "world",
+      "text": "world",
+      "file": "assets/audio/words/world.mp3",
+      "exists": false
+    },
+    {
+      "key": "yards",
+      "text": "yards",
+      "file": "assets/audio/words/yards.mp3",
+      "exists": false
+    },
+    {
+      "key": "young",
+      "text": "young",
+      "file": "assets/audio/words/young.mp3",
+      "exists": false
+    }
+  ]
+}

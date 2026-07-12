@@ -1,0 +1,1183 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "There are lots of things that cause stress, such as school problems, arguments with friends and bad feelings about ourselves.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "It's important to manage stress properly and reduce its influence.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Here are some helpful tips for dealing with stress.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Do you always wait until Sunday evening to do homework?",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "This bad habit can cause last-minute stress, as well as poor grades.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "To avoid that, time management is greatly needed.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Plan your studies with a calendar.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "You can also divide big projects into smaller tasks.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "Besides, staying organised is very important for reducing stress.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Do the necessary housework.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Pack your school bag well.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Use your shelves at home to keep things in order.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Be sure to eat healthy meals and get at least 8 hours of sleep.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Avoid checking your mobile phone or using the computer before bedtime.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "It will keep you awake and make things worse.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "When you're feeling stressed, it's helpful to speak to someone who understands your situation, such as a friend, your husband or wife or an elder family member.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Sometimes just sharing your feelings is enough.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "Other times, however, you might need advice.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "Don't keep your worries to yourself.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "Finally, relaxation is important.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "Do simple things like having a warm shower to calm yourself.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "Find some free time for activities that you enjoy.",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    },
+    {
+      "id": 23,
+      "text": "For example, you can go skating or skiing.",
+      "file": "assets/audio/sentences/sentence-23.mp3",
+      "exists": true
+    },
+    {
+      "id": 24,
+      "text": "Walk in your village or town.",
+      "file": "assets/audio/sentences/sentence-24.mp3",
+      "exists": true
+    },
+    {
+      "id": 25,
+      "text": "Fly a kite in the park or meet and hang out with friends.",
+      "file": "assets/audio/sentences/sentence-25.mp3",
+      "exists": true
+    },
+    {
+      "id": 26,
+      "text": "If you relax and enjoy yourself, you'll feel refreshed, have more energy and reduce your level of stress.",
+      "file": "assets/audio/sentences/sentence-26.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "activities",
+      "text": "activities",
+      "file": "assets/audio/words/activities.mp3",
+      "exists": false
+    },
+    {
+      "key": "advice",
+      "text": "advice",
+      "file": "assets/audio/words/advice.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "always",
+      "text": "always",
+      "file": "assets/audio/words/always.mp3",
+      "exists": false
+    },
+    {
+      "key": "an",
+      "text": "an",
+      "file": "assets/audio/words/an.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "arguments",
+      "text": "arguments",
+      "file": "assets/audio/words/arguments.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "avoid",
+      "text": "avoid",
+      "file": "assets/audio/words/avoid.mp3",
+      "exists": false
+    },
+    {
+      "key": "awake",
+      "text": "awake",
+      "file": "assets/audio/words/awake.mp3",
+      "exists": false
+    },
+    {
+      "key": "bad",
+      "text": "bad",
+      "file": "assets/audio/words/bad.mp3",
+      "exists": false
+    },
+    {
+      "key": "bag",
+      "text": "bag",
+      "file": "assets/audio/words/bag.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "Be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "bedtime",
+      "text": "bedtime",
+      "file": "assets/audio/words/bedtime.mp3",
+      "exists": false
+    },
+    {
+      "key": "before",
+      "text": "before",
+      "file": "assets/audio/words/before.mp3",
+      "exists": false
+    },
+    {
+      "key": "besides",
+      "text": "Besides",
+      "file": "assets/audio/words/besides.mp3",
+      "exists": false
+    },
+    {
+      "key": "big",
+      "text": "big",
+      "file": "assets/audio/words/big.mp3",
+      "exists": false
+    },
+    {
+      "key": "calendar",
+      "text": "calendar",
+      "file": "assets/audio/words/calendar.mp3",
+      "exists": false
+    },
+    {
+      "key": "calm",
+      "text": "calm",
+      "file": "assets/audio/words/calm.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "cause",
+      "text": "cause",
+      "file": "assets/audio/words/cause.mp3",
+      "exists": false
+    },
+    {
+      "key": "checking",
+      "text": "checking",
+      "file": "assets/audio/words/checking.mp3",
+      "exists": false
+    },
+    {
+      "key": "computer",
+      "text": "computer",
+      "file": "assets/audio/words/computer.mp3",
+      "exists": false
+    },
+    {
+      "key": "dealing",
+      "text": "dealing",
+      "file": "assets/audio/words/dealing.mp3",
+      "exists": false
+    },
+    {
+      "key": "divide",
+      "text": "divide",
+      "file": "assets/audio/words/divide.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "Do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "dont",
+      "text": "Don't",
+      "file": "assets/audio/words/dont.mp3",
+      "exists": false
+    },
+    {
+      "key": "eat",
+      "text": "eat",
+      "file": "assets/audio/words/eat.mp3",
+      "exists": false
+    },
+    {
+      "key": "elder",
+      "text": "elder",
+      "file": "assets/audio/words/elder.mp3",
+      "exists": false
+    },
+    {
+      "key": "energy",
+      "text": "energy",
+      "file": "assets/audio/words/energy.mp3",
+      "exists": false
+    },
+    {
+      "key": "enjoy",
+      "text": "enjoy",
+      "file": "assets/audio/words/enjoy.mp3",
+      "exists": false
+    },
+    {
+      "key": "enough",
+      "text": "enough",
+      "file": "assets/audio/words/enough.mp3",
+      "exists": false
+    },
+    {
+      "key": "evening",
+      "text": "evening",
+      "file": "assets/audio/words/evening.mp3",
+      "exists": false
+    },
+    {
+      "key": "example",
+      "text": "example",
+      "file": "assets/audio/words/example.mp3",
+      "exists": false
+    },
+    {
+      "key": "family",
+      "text": "family",
+      "file": "assets/audio/words/family.mp3",
+      "exists": false
+    },
+    {
+      "key": "feel",
+      "text": "feel",
+      "file": "assets/audio/words/feel.mp3",
+      "exists": false
+    },
+    {
+      "key": "feeling",
+      "text": "feeling",
+      "file": "assets/audio/words/feeling.mp3",
+      "exists": false
+    },
+    {
+      "key": "feelings",
+      "text": "feelings",
+      "file": "assets/audio/words/feelings.mp3",
+      "exists": false
+    },
+    {
+      "key": "finally",
+      "text": "Finally",
+      "file": "assets/audio/words/finally.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "Find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "fly",
+      "text": "Fly",
+      "file": "assets/audio/words/fly.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "free",
+      "text": "free",
+      "file": "assets/audio/words/free.mp3",
+      "exists": false
+    },
+    {
+      "key": "friend",
+      "text": "friend",
+      "file": "assets/audio/words/friend.mp3",
+      "exists": false
+    },
+    {
+      "key": "friends",
+      "text": "friends",
+      "file": "assets/audio/words/friends.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "go",
+      "text": "go",
+      "file": "assets/audio/words/go.mp3",
+      "exists": false
+    },
+    {
+      "key": "grades",
+      "text": "grades",
+      "file": "assets/audio/words/grades.mp3",
+      "exists": false
+    },
+    {
+      "key": "greatly",
+      "text": "greatly",
+      "file": "assets/audio/words/greatly.mp3",
+      "exists": false
+    },
+    {
+      "key": "habit",
+      "text": "habit",
+      "file": "assets/audio/words/habit.mp3",
+      "exists": false
+    },
+    {
+      "key": "hang",
+      "text": "hang",
+      "file": "assets/audio/words/hang.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "having",
+      "text": "having",
+      "file": "assets/audio/words/having.mp3",
+      "exists": false
+    },
+    {
+      "key": "healthy",
+      "text": "healthy",
+      "file": "assets/audio/words/healthy.mp3",
+      "exists": false
+    },
+    {
+      "key": "helpful",
+      "text": "helpful",
+      "file": "assets/audio/words/helpful.mp3",
+      "exists": false
+    },
+    {
+      "key": "here",
+      "text": "Here",
+      "file": "assets/audio/words/here.mp3",
+      "exists": false
+    },
+    {
+      "key": "home",
+      "text": "home",
+      "file": "assets/audio/words/home.mp3",
+      "exists": false
+    },
+    {
+      "key": "homework",
+      "text": "homework",
+      "file": "assets/audio/words/homework.mp3",
+      "exists": false
+    },
+    {
+      "key": "hours",
+      "text": "hours",
+      "file": "assets/audio/words/hours.mp3",
+      "exists": false
+    },
+    {
+      "key": "housework",
+      "text": "housework",
+      "file": "assets/audio/words/housework.mp3",
+      "exists": false
+    },
+    {
+      "key": "however",
+      "text": "however",
+      "file": "assets/audio/words/however.mp3",
+      "exists": false
+    },
+    {
+      "key": "husband",
+      "text": "husband",
+      "file": "assets/audio/words/husband.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "If",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "influence",
+      "text": "influence",
+      "file": "assets/audio/words/influence.mp3",
+      "exists": false
+    },
+    {
+      "key": "into",
+      "text": "into",
+      "file": "assets/audio/words/into.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "It's",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "just",
+      "text": "just",
+      "file": "assets/audio/words/just.mp3",
+      "exists": false
+    },
+    {
+      "key": "keep",
+      "text": "keep",
+      "file": "assets/audio/words/keep.mp3",
+      "exists": false
+    },
+    {
+      "key": "kite",
+      "text": "kite",
+      "file": "assets/audio/words/kite.mp3",
+      "exists": false
+    },
+    {
+      "key": "last",
+      "text": "last",
+      "file": "assets/audio/words/last.mp3",
+      "exists": false
+    },
+    {
+      "key": "least",
+      "text": "least",
+      "file": "assets/audio/words/least.mp3",
+      "exists": false
+    },
+    {
+      "key": "level",
+      "text": "level",
+      "file": "assets/audio/words/level.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "lots",
+      "text": "lots",
+      "file": "assets/audio/words/lots.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "manage",
+      "text": "manage",
+      "file": "assets/audio/words/manage.mp3",
+      "exists": false
+    },
+    {
+      "key": "management",
+      "text": "management",
+      "file": "assets/audio/words/management.mp3",
+      "exists": false
+    },
+    {
+      "key": "meals",
+      "text": "meals",
+      "file": "assets/audio/words/meals.mp3",
+      "exists": false
+    },
+    {
+      "key": "meet",
+      "text": "meet",
+      "file": "assets/audio/words/meet.mp3",
+      "exists": false
+    },
+    {
+      "key": "member",
+      "text": "member",
+      "file": "assets/audio/words/member.mp3",
+      "exists": false
+    },
+    {
+      "key": "might",
+      "text": "might",
+      "file": "assets/audio/words/might.mp3",
+      "exists": false
+    },
+    {
+      "key": "minute",
+      "text": "minute",
+      "file": "assets/audio/words/minute.mp3",
+      "exists": false
+    },
+    {
+      "key": "mobile",
+      "text": "mobile",
+      "file": "assets/audio/words/mobile.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "necessary",
+      "text": "necessary",
+      "file": "assets/audio/words/necessary.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "needed",
+      "text": "needed",
+      "file": "assets/audio/words/needed.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "order",
+      "text": "order",
+      "file": "assets/audio/words/order.mp3",
+      "exists": false
+    },
+    {
+      "key": "organised",
+      "text": "organised",
+      "file": "assets/audio/words/organised.mp3",
+      "exists": false
+    },
+    {
+      "key": "other",
+      "text": "Other",
+      "file": "assets/audio/words/other.mp3",
+      "exists": false
+    },
+    {
+      "key": "ourselves",
+      "text": "ourselves",
+      "file": "assets/audio/words/ourselves.mp3",
+      "exists": false
+    },
+    {
+      "key": "out",
+      "text": "out",
+      "file": "assets/audio/words/out.mp3",
+      "exists": false
+    },
+    {
+      "key": "pack",
+      "text": "Pack",
+      "file": "assets/audio/words/pack.mp3",
+      "exists": false
+    },
+    {
+      "key": "park",
+      "text": "park",
+      "file": "assets/audio/words/park.mp3",
+      "exists": false
+    },
+    {
+      "key": "phone",
+      "text": "phone",
+      "file": "assets/audio/words/phone.mp3",
+      "exists": false
+    },
+    {
+      "key": "plan",
+      "text": "Plan",
+      "file": "assets/audio/words/plan.mp3",
+      "exists": false
+    },
+    {
+      "key": "poor",
+      "text": "poor",
+      "file": "assets/audio/words/poor.mp3",
+      "exists": false
+    },
+    {
+      "key": "problems",
+      "text": "problems",
+      "file": "assets/audio/words/problems.mp3",
+      "exists": false
+    },
+    {
+      "key": "projects",
+      "text": "projects",
+      "file": "assets/audio/words/projects.mp3",
+      "exists": false
+    },
+    {
+      "key": "properly",
+      "text": "properly",
+      "file": "assets/audio/words/properly.mp3",
+      "exists": false
+    },
+    {
+      "key": "reduce",
+      "text": "reduce",
+      "file": "assets/audio/words/reduce.mp3",
+      "exists": false
+    },
+    {
+      "key": "reducing",
+      "text": "reducing",
+      "file": "assets/audio/words/reducing.mp3",
+      "exists": false
+    },
+    {
+      "key": "refreshed",
+      "text": "refreshed",
+      "file": "assets/audio/words/refreshed.mp3",
+      "exists": false
+    },
+    {
+      "key": "relax",
+      "text": "relax",
+      "file": "assets/audio/words/relax.mp3",
+      "exists": false
+    },
+    {
+      "key": "relaxation",
+      "text": "relaxation",
+      "file": "assets/audio/words/relaxation.mp3",
+      "exists": false
+    },
+    {
+      "key": "school",
+      "text": "school",
+      "file": "assets/audio/words/school.mp3",
+      "exists": false
+    },
+    {
+      "key": "sharing",
+      "text": "sharing",
+      "file": "assets/audio/words/sharing.mp3",
+      "exists": false
+    },
+    {
+      "key": "shelves",
+      "text": "shelves",
+      "file": "assets/audio/words/shelves.mp3",
+      "exists": false
+    },
+    {
+      "key": "shower",
+      "text": "shower",
+      "file": "assets/audio/words/shower.mp3",
+      "exists": false
+    },
+    {
+      "key": "simple",
+      "text": "simple",
+      "file": "assets/audio/words/simple.mp3",
+      "exists": false
+    },
+    {
+      "key": "situation",
+      "text": "situation",
+      "file": "assets/audio/words/situation.mp3",
+      "exists": false
+    },
+    {
+      "key": "skating",
+      "text": "skating",
+      "file": "assets/audio/words/skating.mp3",
+      "exists": false
+    },
+    {
+      "key": "skiing",
+      "text": "skiing",
+      "file": "assets/audio/words/skiing.mp3",
+      "exists": false
+    },
+    {
+      "key": "sleep",
+      "text": "sleep",
+      "file": "assets/audio/words/sleep.mp3",
+      "exists": false
+    },
+    {
+      "key": "smaller",
+      "text": "smaller",
+      "file": "assets/audio/words/smaller.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "someone",
+      "text": "someone",
+      "file": "assets/audio/words/someone.mp3",
+      "exists": false
+    },
+    {
+      "key": "sometimes",
+      "text": "Sometimes",
+      "file": "assets/audio/words/sometimes.mp3",
+      "exists": false
+    },
+    {
+      "key": "speak",
+      "text": "speak",
+      "file": "assets/audio/words/speak.mp3",
+      "exists": false
+    },
+    {
+      "key": "staying",
+      "text": "staying",
+      "file": "assets/audio/words/staying.mp3",
+      "exists": false
+    },
+    {
+      "key": "stress",
+      "text": "stress",
+      "file": "assets/audio/words/stress.mp3",
+      "exists": false
+    },
+    {
+      "key": "stressed",
+      "text": "stressed",
+      "file": "assets/audio/words/stressed.mp3",
+      "exists": false
+    },
+    {
+      "key": "studies",
+      "text": "studies",
+      "file": "assets/audio/words/studies.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "sunday",
+      "text": "Sunday",
+      "file": "assets/audio/words/sunday.mp3",
+      "exists": false
+    },
+    {
+      "key": "sure",
+      "text": "sure",
+      "file": "assets/audio/words/sure.mp3",
+      "exists": false
+    },
+    {
+      "key": "tasks",
+      "text": "tasks",
+      "file": "assets/audio/words/tasks.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "There",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "things",
+      "text": "things",
+      "file": "assets/audio/words/things.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "times",
+      "text": "times",
+      "file": "assets/audio/words/times.mp3",
+      "exists": false
+    },
+    {
+      "key": "tips",
+      "text": "tips",
+      "file": "assets/audio/words/tips.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "town",
+      "text": "town",
+      "file": "assets/audio/words/town.mp3",
+      "exists": false
+    },
+    {
+      "key": "understands",
+      "text": "understands",
+      "file": "assets/audio/words/understands.mp3",
+      "exists": false
+    },
+    {
+      "key": "until",
+      "text": "until",
+      "file": "assets/audio/words/until.mp3",
+      "exists": false
+    },
+    {
+      "key": "use",
+      "text": "Use",
+      "file": "assets/audio/words/use.mp3",
+      "exists": false
+    },
+    {
+      "key": "using",
+      "text": "using",
+      "file": "assets/audio/words/using.mp3",
+      "exists": false
+    },
+    {
+      "key": "very",
+      "text": "very",
+      "file": "assets/audio/words/very.mp3",
+      "exists": false
+    },
+    {
+      "key": "village",
+      "text": "village",
+      "file": "assets/audio/words/village.mp3",
+      "exists": false
+    },
+    {
+      "key": "wait",
+      "text": "wait",
+      "file": "assets/audio/words/wait.mp3",
+      "exists": false
+    },
+    {
+      "key": "walk",
+      "text": "Walk",
+      "file": "assets/audio/words/walk.mp3",
+      "exists": false
+    },
+    {
+      "key": "warm",
+      "text": "warm",
+      "file": "assets/audio/words/warm.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "When",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "who",
+      "text": "who",
+      "file": "assets/audio/words/who.mp3",
+      "exists": false
+    },
+    {
+      "key": "wife",
+      "text": "wife",
+      "file": "assets/audio/words/wife.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "worries",
+      "text": "worries",
+      "file": "assets/audio/words/worries.mp3",
+      "exists": false
+    },
+    {
+      "key": "worse",
+      "text": "worse",
+      "file": "assets/audio/words/worse.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "youll",
+      "text": "you'll",
+      "file": "assets/audio/words/youll.mp3",
+      "exists": false
+    },
+    {
+      "key": "your",
+      "text": "your",
+      "file": "assets/audio/words/your.mp3",
+      "exists": false
+    },
+    {
+      "key": "youre",
+      "text": "you're",
+      "file": "assets/audio/words/youre.mp3",
+      "exists": false
+    },
+    {
+      "key": "yourself",
+      "text": "yourself",
+      "file": "assets/audio/words/yourself.mp3",
+      "exists": false
+    }
+  ]
+}

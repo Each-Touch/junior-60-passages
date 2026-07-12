@@ -1,0 +1,793 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "You are always told to wash your hands before dining.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Always use soap to wash your hands.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "As the grease is washed away, the germs will leave your hands and go away.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "You should wash your hands for 15 to 20 seconds.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "How do you know the length of 15 to 20 seconds?",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "You can sing ABC song.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "By the time you get to the last note, your hands will be clean.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Then you can pull your hands out from under the tap.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Rub your hands together.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "You can use one hand to rub the back of the other hand, and then exchange two hands to repeat this.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "You also need to rub between your fingers.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "Don't forget to rub under and around your fingernails.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Maybe your hands don't look dirty, but there are germs on them.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "Germs are too small for you to see.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "They are on your hands all the time.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "Many illnesses are caused by germs.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "abc",
+      "text": "ABC",
+      "file": "assets/audio/words/abc.mp3",
+      "exists": false
+    },
+    {
+      "key": "after",
+      "text": "after",
+      "file": "assets/audio/words/after.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "always",
+      "text": "always",
+      "file": "assets/audio/words/always.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "around",
+      "text": "around",
+      "file": "assets/audio/words/around.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "As",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "away",
+      "text": "away",
+      "file": "assets/audio/words/away.mp3",
+      "exists": false
+    },
+    {
+      "key": "back",
+      "text": "back",
+      "file": "assets/audio/words/back.mp3",
+      "exists": false
+    },
+    {
+      "key": "bathroom",
+      "text": "bathroom",
+      "file": "assets/audio/words/bathroom.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "before",
+      "text": "before",
+      "file": "assets/audio/words/before.mp3",
+      "exists": false
+    },
+    {
+      "key": "between",
+      "text": "between",
+      "file": "assets/audio/words/between.mp3",
+      "exists": false
+    },
+    {
+      "key": "bin",
+      "text": "bin",
+      "file": "assets/audio/words/bin.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "but",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "By",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "carefully",
+      "text": "carefully",
+      "file": "assets/audio/words/carefully.mp3",
+      "exists": false
+    },
+    {
+      "key": "caused",
+      "text": "caused",
+      "file": "assets/audio/words/caused.mp3",
+      "exists": false
+    },
+    {
+      "key": "clean",
+      "text": "clean",
+      "file": "assets/audio/words/clean.mp3",
+      "exists": false
+    },
+    {
+      "key": "correctly",
+      "text": "correctly",
+      "file": "assets/audio/words/correctly.mp3",
+      "exists": false
+    },
+    {
+      "key": "dining",
+      "text": "dining",
+      "file": "assets/audio/words/dining.mp3",
+      "exists": false
+    },
+    {
+      "key": "dirty",
+      "text": "dirty",
+      "file": "assets/audio/words/dirty.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "Do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "dont",
+      "text": "Don't",
+      "file": "assets/audio/words/dont.mp3",
+      "exists": false
+    },
+    {
+      "key": "enjoying",
+      "text": "enjoying",
+      "file": "assets/audio/words/enjoying.mp3",
+      "exists": false
+    },
+    {
+      "key": "exchange",
+      "text": "exchange",
+      "file": "assets/audio/words/exchange.mp3",
+      "exists": false
+    },
+    {
+      "key": "fingernails",
+      "text": "fingernails",
+      "file": "assets/audio/words/fingernails.mp3",
+      "exists": false
+    },
+    {
+      "key": "fingers",
+      "text": "fingers",
+      "file": "assets/audio/words/fingers.mp3",
+      "exists": false
+    },
+    {
+      "key": "flu",
+      "text": "flu",
+      "file": "assets/audio/words/flu.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "forget",
+      "text": "forget",
+      "file": "assets/audio/words/forget.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "germs",
+      "text": "germs",
+      "file": "assets/audio/words/germs.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "go",
+      "text": "go",
+      "file": "assets/audio/words/go.mp3",
+      "exists": false
+    },
+    {
+      "key": "going",
+      "text": "going",
+      "file": "assets/audio/words/going.mp3",
+      "exists": false
+    },
+    {
+      "key": "grease",
+      "text": "grease",
+      "file": "assets/audio/words/grease.mp3",
+      "exists": false
+    },
+    {
+      "key": "hand",
+      "text": "hand",
+      "file": "assets/audio/words/hand.mp3",
+      "exists": false
+    },
+    {
+      "key": "hands",
+      "text": "hands",
+      "file": "assets/audio/words/hands.mp3",
+      "exists": false
+    },
+    {
+      "key": "how",
+      "text": "how",
+      "file": "assets/audio/words/how.mp3",
+      "exists": false
+    },
+    {
+      "key": "illnesses",
+      "text": "illnesses",
+      "file": "assets/audio/words/illnesses.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "it",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "keep",
+      "text": "keep",
+      "file": "assets/audio/words/keep.mp3",
+      "exists": false
+    },
+    {
+      "key": "kill",
+      "text": "kill",
+      "file": "assets/audio/words/kill.mp3",
+      "exists": false
+    },
+    {
+      "key": "know",
+      "text": "know",
+      "file": "assets/audio/words/know.mp3",
+      "exists": false
+    },
+    {
+      "key": "last",
+      "text": "last",
+      "file": "assets/audio/words/last.mp3",
+      "exists": false
+    },
+    {
+      "key": "leave",
+      "text": "leave",
+      "file": "assets/audio/words/leave.mp3",
+      "exists": false
+    },
+    {
+      "key": "length",
+      "text": "length",
+      "file": "assets/audio/words/length.mp3",
+      "exists": false
+    },
+    {
+      "key": "litter",
+      "text": "litter",
+      "file": "assets/audio/words/litter.mp3",
+      "exists": false
+    },
+    {
+      "key": "look",
+      "text": "look",
+      "file": "assets/audio/words/look.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "Many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "maybe",
+      "text": "Maybe",
+      "file": "assets/audio/words/maybe.mp3",
+      "exists": false
+    },
+    {
+      "key": "must",
+      "text": "must",
+      "file": "assets/audio/words/must.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "note",
+      "text": "note",
+      "file": "assets/audio/words/note.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "other",
+      "text": "other",
+      "file": "assets/audio/words/other.mp3",
+      "exists": false
+    },
+    {
+      "key": "out",
+      "text": "out",
+      "file": "assets/audio/words/out.mp3",
+      "exists": false
+    },
+    {
+      "key": "pancakes",
+      "text": "pancakes",
+      "file": "assets/audio/words/pancakes.mp3",
+      "exists": false
+    },
+    {
+      "key": "potato",
+      "text": "potato",
+      "file": "assets/audio/words/potato.mp3",
+      "exists": false
+    },
+    {
+      "key": "pull",
+      "text": "pull",
+      "file": "assets/audio/words/pull.mp3",
+      "exists": false
+    },
+    {
+      "key": "repeat",
+      "text": "repeat",
+      "file": "assets/audio/words/repeat.mp3",
+      "exists": false
+    },
+    {
+      "key": "rub",
+      "text": "rub",
+      "file": "assets/audio/words/rub.mp3",
+      "exists": false
+    },
+    {
+      "key": "salad",
+      "text": "salad",
+      "file": "assets/audio/words/salad.mp3",
+      "exists": false
+    },
+    {
+      "key": "seconds",
+      "text": "seconds",
+      "file": "assets/audio/words/seconds.mp3",
+      "exists": false
+    },
+    {
+      "key": "see",
+      "text": "see",
+      "file": "assets/audio/words/see.mp3",
+      "exists": false
+    },
+    {
+      "key": "should",
+      "text": "should",
+      "file": "assets/audio/words/should.mp3",
+      "exists": false
+    },
+    {
+      "key": "sing",
+      "text": "sing",
+      "file": "assets/audio/words/sing.mp3",
+      "exists": false
+    },
+    {
+      "key": "skin",
+      "text": "skin",
+      "file": "assets/audio/words/skin.mp3",
+      "exists": false
+    },
+    {
+      "key": "small",
+      "text": "small",
+      "file": "assets/audio/words/small.mp3",
+      "exists": false
+    },
+    {
+      "key": "soap",
+      "text": "soap",
+      "file": "assets/audio/words/soap.mp3",
+      "exists": false
+    },
+    {
+      "key": "song",
+      "text": "song",
+      "file": "assets/audio/words/song.mp3",
+      "exists": false
+    },
+    {
+      "key": "strawberries",
+      "text": "strawberries",
+      "file": "assets/audio/words/strawberries.mp3",
+      "exists": false
+    },
+    {
+      "key": "tap",
+      "text": "tap",
+      "file": "assets/audio/words/tap.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "Then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "there",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "therefore",
+      "text": "Therefore",
+      "file": "assets/audio/words/therefore.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "this",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "together",
+      "text": "together",
+      "file": "assets/audio/words/together.mp3",
+      "exists": false
+    },
+    {
+      "key": "told",
+      "text": "told",
+      "file": "assets/audio/words/told.mp3",
+      "exists": false
+    },
+    {
+      "key": "too",
+      "text": "too",
+      "file": "assets/audio/words/too.mp3",
+      "exists": false
+    },
+    {
+      "key": "touching",
+      "text": "touching",
+      "file": "assets/audio/words/touching.mp3",
+      "exists": false
+    },
+    {
+      "key": "turning",
+      "text": "turning",
+      "file": "assets/audio/words/turning.mp3",
+      "exists": false
+    },
+    {
+      "key": "two",
+      "text": "two",
+      "file": "assets/audio/words/two.mp3",
+      "exists": false
+    },
+    {
+      "key": "under",
+      "text": "under",
+      "file": "assets/audio/words/under.mp3",
+      "exists": false
+    },
+    {
+      "key": "use",
+      "text": "use",
+      "file": "assets/audio/words/use.mp3",
+      "exists": false
+    },
+    {
+      "key": "virus",
+      "text": "virus",
+      "file": "assets/audio/words/virus.mp3",
+      "exists": false
+    },
+    {
+      "key": "wash",
+      "text": "wash",
+      "file": "assets/audio/words/wash.mp3",
+      "exists": false
+    },
+    {
+      "key": "washed",
+      "text": "washed",
+      "file": "assets/audio/words/washed.mp3",
+      "exists": false
+    },
+    {
+      "key": "wetting",
+      "text": "wetting",
+      "file": "assets/audio/words/wetting.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "You",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "your",
+      "text": "your",
+      "file": "assets/audio/words/your.mp3",
+      "exists": false
+    }
+  ]
+}

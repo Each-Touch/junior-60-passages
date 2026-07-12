@@ -1,0 +1,883 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "The dog days, also called sanfu tian in Chinese, refer to the hottest and most humid days of the year.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "This hottest period can be different from year to year.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "It starts in July and lasts for about 30 to 40 days.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "It has three stages: chufu, zhongfu and mofu.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "Zhongfu is usually the hottest of the three.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "Because of the high temperatures, people may feel uncomfortable and have a poor appetite.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Some even get sick from eating too many cold foods, like ice cream, watermelons or cucumbers.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "What's more, too much onion can also upset the stomach during the dog days.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "It is important to choose the proper foods during the dog days.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Foods which are easy to digest and full of protein are good choices, such as vegetables, chicken, eggs, peanuts and tofu.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "It's better not to eat uncooked, cold or spicy foods.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Besides choosing the proper foods, the taste of a dish is also important.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Sour taste can improve the appetite and bitter taste makes people feel refreshed.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "For example, you can enhance the sour flavour by adding a squeeze of lemon, while fresh pepper can give flavour to the food without making it too spicy.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "As a saying goes, 'Eating a chicken at the beginning of the dog days will keep you healthy for a whole year.'",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "Therefore, as soon as the dog days arrive, it will be better for you to choose proper foods to keep healthy.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "adding",
+      "text": "adding",
+      "file": "assets/audio/words/adding.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "appetite",
+      "text": "appetite",
+      "file": "assets/audio/words/appetite.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "arrive",
+      "text": "arrive",
+      "file": "assets/audio/words/arrive.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "because",
+      "text": "Because",
+      "file": "assets/audio/words/because.mp3",
+      "exists": false
+    },
+    {
+      "key": "beginning",
+      "text": "beginning",
+      "file": "assets/audio/words/beginning.mp3",
+      "exists": false
+    },
+    {
+      "key": "besides",
+      "text": "Besides",
+      "file": "assets/audio/words/besides.mp3",
+      "exists": false
+    },
+    {
+      "key": "better",
+      "text": "better",
+      "file": "assets/audio/words/better.mp3",
+      "exists": false
+    },
+    {
+      "key": "bitter",
+      "text": "bitter",
+      "file": "assets/audio/words/bitter.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "called",
+      "text": "called",
+      "file": "assets/audio/words/called.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "chicken",
+      "text": "chicken",
+      "file": "assets/audio/words/chicken.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinese",
+      "text": "Chinese",
+      "file": "assets/audio/words/chinese.mp3",
+      "exists": false
+    },
+    {
+      "key": "choices",
+      "text": "choices",
+      "file": "assets/audio/words/choices.mp3",
+      "exists": false
+    },
+    {
+      "key": "choose",
+      "text": "choose",
+      "file": "assets/audio/words/choose.mp3",
+      "exists": false
+    },
+    {
+      "key": "choosing",
+      "text": "choosing",
+      "file": "assets/audio/words/choosing.mp3",
+      "exists": false
+    },
+    {
+      "key": "chufu",
+      "text": "chufu",
+      "file": "assets/audio/words/chufu.mp3",
+      "exists": false
+    },
+    {
+      "key": "cold",
+      "text": "cold",
+      "file": "assets/audio/words/cold.mp3",
+      "exists": false
+    },
+    {
+      "key": "cream",
+      "text": "cream",
+      "file": "assets/audio/words/cream.mp3",
+      "exists": false
+    },
+    {
+      "key": "cucumbers",
+      "text": "cucumbers",
+      "file": "assets/audio/words/cucumbers.mp3",
+      "exists": false
+    },
+    {
+      "key": "days",
+      "text": "days",
+      "file": "assets/audio/words/days.mp3",
+      "exists": false
+    },
+    {
+      "key": "different",
+      "text": "different",
+      "file": "assets/audio/words/different.mp3",
+      "exists": false
+    },
+    {
+      "key": "digest",
+      "text": "digest",
+      "file": "assets/audio/words/digest.mp3",
+      "exists": false
+    },
+    {
+      "key": "dish",
+      "text": "dish",
+      "file": "assets/audio/words/dish.mp3",
+      "exists": false
+    },
+    {
+      "key": "dog",
+      "text": "dog",
+      "file": "assets/audio/words/dog.mp3",
+      "exists": false
+    },
+    {
+      "key": "during",
+      "text": "during",
+      "file": "assets/audio/words/during.mp3",
+      "exists": false
+    },
+    {
+      "key": "easy",
+      "text": "easy",
+      "file": "assets/audio/words/easy.mp3",
+      "exists": false
+    },
+    {
+      "key": "eat",
+      "text": "eat",
+      "file": "assets/audio/words/eat.mp3",
+      "exists": false
+    },
+    {
+      "key": "eating",
+      "text": "eating",
+      "file": "assets/audio/words/eating.mp3",
+      "exists": false
+    },
+    {
+      "key": "eggs",
+      "text": "eggs",
+      "file": "assets/audio/words/eggs.mp3",
+      "exists": false
+    },
+    {
+      "key": "enhance",
+      "text": "enhance",
+      "file": "assets/audio/words/enhance.mp3",
+      "exists": false
+    },
+    {
+      "key": "even",
+      "text": "even",
+      "file": "assets/audio/words/even.mp3",
+      "exists": false
+    },
+    {
+      "key": "example",
+      "text": "example",
+      "file": "assets/audio/words/example.mp3",
+      "exists": false
+    },
+    {
+      "key": "feel",
+      "text": "feel",
+      "file": "assets/audio/words/feel.mp3",
+      "exists": false
+    },
+    {
+      "key": "flavour",
+      "text": "flavour",
+      "file": "assets/audio/words/flavour.mp3",
+      "exists": false
+    },
+    {
+      "key": "food",
+      "text": "food",
+      "file": "assets/audio/words/food.mp3",
+      "exists": false
+    },
+    {
+      "key": "foods",
+      "text": "foods",
+      "file": "assets/audio/words/foods.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "fresh",
+      "text": "fresh",
+      "file": "assets/audio/words/fresh.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "full",
+      "text": "full",
+      "file": "assets/audio/words/full.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "give",
+      "text": "give",
+      "file": "assets/audio/words/give.mp3",
+      "exists": false
+    },
+    {
+      "key": "goes",
+      "text": "goes",
+      "file": "assets/audio/words/goes.mp3",
+      "exists": false
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "healthy",
+      "text": "healthy",
+      "file": "assets/audio/words/healthy.mp3",
+      "exists": false
+    },
+    {
+      "key": "high",
+      "text": "high",
+      "file": "assets/audio/words/high.mp3",
+      "exists": false
+    },
+    {
+      "key": "hottest",
+      "text": "hottest",
+      "file": "assets/audio/words/hottest.mp3",
+      "exists": false
+    },
+    {
+      "key": "humid",
+      "text": "humid",
+      "file": "assets/audio/words/humid.mp3",
+      "exists": false
+    },
+    {
+      "key": "ice",
+      "text": "ice",
+      "file": "assets/audio/words/ice.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "improve",
+      "text": "improve",
+      "file": "assets/audio/words/improve.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "It's",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "july",
+      "text": "July",
+      "file": "assets/audio/words/july.mp3",
+      "exists": false
+    },
+    {
+      "key": "keep",
+      "text": "keep",
+      "file": "assets/audio/words/keep.mp3",
+      "exists": false
+    },
+    {
+      "key": "lasts",
+      "text": "lasts",
+      "file": "assets/audio/words/lasts.mp3",
+      "exists": false
+    },
+    {
+      "key": "lemon",
+      "text": "lemon",
+      "file": "assets/audio/words/lemon.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "makes",
+      "text": "makes",
+      "file": "assets/audio/words/makes.mp3",
+      "exists": false
+    },
+    {
+      "key": "making",
+      "text": "making",
+      "file": "assets/audio/words/making.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "mofu",
+      "text": "mofu",
+      "file": "assets/audio/words/mofu.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "most",
+      "text": "most",
+      "file": "assets/audio/words/most.mp3",
+      "exists": false
+    },
+    {
+      "key": "much",
+      "text": "much",
+      "file": "assets/audio/words/much.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "onion",
+      "text": "onion",
+      "file": "assets/audio/words/onion.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "peanuts",
+      "text": "peanuts",
+      "file": "assets/audio/words/peanuts.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "pepper",
+      "text": "pepper",
+      "file": "assets/audio/words/pepper.mp3",
+      "exists": false
+    },
+    {
+      "key": "period",
+      "text": "period",
+      "file": "assets/audio/words/period.mp3",
+      "exists": false
+    },
+    {
+      "key": "poor",
+      "text": "poor",
+      "file": "assets/audio/words/poor.mp3",
+      "exists": false
+    },
+    {
+      "key": "proper",
+      "text": "proper",
+      "file": "assets/audio/words/proper.mp3",
+      "exists": false
+    },
+    {
+      "key": "protein",
+      "text": "protein",
+      "file": "assets/audio/words/protein.mp3",
+      "exists": false
+    },
+    {
+      "key": "refer",
+      "text": "refer",
+      "file": "assets/audio/words/refer.mp3",
+      "exists": false
+    },
+    {
+      "key": "refreshed",
+      "text": "refreshed",
+      "file": "assets/audio/words/refreshed.mp3",
+      "exists": false
+    },
+    {
+      "key": "sanfu",
+      "text": "sanfu",
+      "file": "assets/audio/words/sanfu.mp3",
+      "exists": false
+    },
+    {
+      "key": "saying",
+      "text": "saying",
+      "file": "assets/audio/words/saying.mp3",
+      "exists": false
+    },
+    {
+      "key": "sick",
+      "text": "sick",
+      "file": "assets/audio/words/sick.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "Some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "soon",
+      "text": "soon",
+      "file": "assets/audio/words/soon.mp3",
+      "exists": false
+    },
+    {
+      "key": "sour",
+      "text": "Sour",
+      "file": "assets/audio/words/sour.mp3",
+      "exists": false
+    },
+    {
+      "key": "spicy",
+      "text": "spicy",
+      "file": "assets/audio/words/spicy.mp3",
+      "exists": false
+    },
+    {
+      "key": "squeeze",
+      "text": "squeeze",
+      "file": "assets/audio/words/squeeze.mp3",
+      "exists": false
+    },
+    {
+      "key": "stages",
+      "text": "stages",
+      "file": "assets/audio/words/stages.mp3",
+      "exists": false
+    },
+    {
+      "key": "starts",
+      "text": "starts",
+      "file": "assets/audio/words/starts.mp3",
+      "exists": false
+    },
+    {
+      "key": "stomach",
+      "text": "stomach",
+      "file": "assets/audio/words/stomach.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "taste",
+      "text": "taste",
+      "file": "assets/audio/words/taste.mp3",
+      "exists": false
+    },
+    {
+      "key": "temperatures",
+      "text": "temperatures",
+      "file": "assets/audio/words/temperatures.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "The",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "therefore",
+      "text": "Therefore",
+      "file": "assets/audio/words/therefore.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "three",
+      "text": "three",
+      "file": "assets/audio/words/three.mp3",
+      "exists": false
+    },
+    {
+      "key": "tian",
+      "text": "tian",
+      "file": "assets/audio/words/tian.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "tofu",
+      "text": "tofu",
+      "file": "assets/audio/words/tofu.mp3",
+      "exists": false
+    },
+    {
+      "key": "too",
+      "text": "too",
+      "file": "assets/audio/words/too.mp3",
+      "exists": false
+    },
+    {
+      "key": "uncomfortable",
+      "text": "uncomfortable",
+      "file": "assets/audio/words/uncomfortable.mp3",
+      "exists": false
+    },
+    {
+      "key": "uncooked",
+      "text": "uncooked",
+      "file": "assets/audio/words/uncooked.mp3",
+      "exists": false
+    },
+    {
+      "key": "upset",
+      "text": "upset",
+      "file": "assets/audio/words/upset.mp3",
+      "exists": false
+    },
+    {
+      "key": "usually",
+      "text": "usually",
+      "file": "assets/audio/words/usually.mp3",
+      "exists": false
+    },
+    {
+      "key": "vegetables",
+      "text": "vegetables",
+      "file": "assets/audio/words/vegetables.mp3",
+      "exists": false
+    },
+    {
+      "key": "watermelons",
+      "text": "watermelons",
+      "file": "assets/audio/words/watermelons.mp3",
+      "exists": false
+    },
+    {
+      "key": "whats",
+      "text": "What's",
+      "file": "assets/audio/words/whats.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "while",
+      "text": "while",
+      "file": "assets/audio/words/while.mp3",
+      "exists": false
+    },
+    {
+      "key": "whole",
+      "text": "whole",
+      "file": "assets/audio/words/whole.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "without",
+      "text": "without",
+      "file": "assets/audio/words/without.mp3",
+      "exists": false
+    },
+    {
+      "key": "year",
+      "text": "year",
+      "file": "assets/audio/words/year.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "zhongfu",
+      "text": "zhongfu",
+      "file": "assets/audio/words/zhongfu.mp3",
+      "exists": false
+    }
+  ]
+}

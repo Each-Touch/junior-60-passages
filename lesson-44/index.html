@@ -1,0 +1,985 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#FDD95A">
+  <title>初中60短文 - Passage 44 互动绘本</title>
+  <style>
+    :root {
+      --brand-yellow: #FDD95A;
+      --ink: #2c3e50;
+      --muted: #7f8c8d;
+      --purple: #667eea;
+      --purple-dark: #764ba2;
+      --pink: #f5576c;
+      --cyan: #00c9db;
+      --paper: #ffffff;
+      --page-bg: #fff7f1;
+      --shadow: 0 8px 24px rgba(62, 45, 55, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { min-width: 320px; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background: linear-gradient(135deg, #fffaf5 0%, #ffe9e5 100%);
+      font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+    }
+
+    button { font: inherit; }
+
+    .brand-bar {
+      position: sticky;
+      top: 0;
+      z-index: 60;
+      height: 56px;
+      display: flex;
+      align-items: center;
+      background: var(--brand-yellow);
+      box-shadow: 0 2px 12px rgba(93, 72, 0, 0.12);
+    }
+
+    .brand-inner {
+      width: min(1200px, 100%);
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand-logo { display: block; width: auto; height: 36px; object-fit: contain; }
+    .brand-lesson { color: #51420b; font-size: 14px; font-weight: 800; white-space: nowrap; }
+
+    .book-container {
+      width: min(1200px, 100%);
+      margin: 0 auto;
+      padding: 22px 20px 40px;
+    }
+
+    .title {
+      margin: 0 0 20px;
+      color: var(--purple);
+      font-size: 32px;
+      line-height: 1.25;
+      text-align: center;
+      font-weight: 800;
+    }
+
+    .nav-bar {
+      min-height: 62px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      background: var(--paper);
+      border: 1px solid rgba(102, 126, 234, 0.12);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .mode-title { color: var(--purple); font-size: 18px; font-weight: 800; }
+    .voice-note { color: var(--muted); font-size: 13px; font-weight: 700; text-align: right; }
+
+    .progress-track {
+      width: 100%;
+      height: 6px;
+      margin-top: 14px;
+      overflow: hidden;
+      background: rgba(102, 126, 234, 0.14);
+      border-radius: 3px;
+    }
+
+    .progress-fill {
+      width: 0;
+      height: 100%;
+      background: linear-gradient(90deg, var(--purple), var(--pink));
+      transition: width 0.25s ease;
+    }
+
+    .page-indicator {
+      min-height: 30px;
+      margin: 14px 0 12px;
+      color: var(--purple);
+      font-size: 18px;
+      line-height: 30px;
+      text-align: center;
+      font-weight: 800;
+    }
+
+    .page-stage { min-height: 320px; }
+
+    .image-frame {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      position: relative;
+      background: #f2ece8;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(53, 38, 45, 0.15);
+    }
+
+    .page-image {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      transition: opacity 0.2s ease;
+    }
+
+    .image-error::after {
+      content: attr(data-error);
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      color: #8d3c42;
+      background: #fff1f1;
+      font-weight: 800;
+      text-align: center;
+    }
+
+    .text-container {
+      min-height: 116px;
+      margin-top: 18px;
+      padding: 22px 24px;
+      background: var(--paper);
+      border: 1px solid rgba(102, 126, 234, 0.1);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .cover-copy { text-align: center; }
+    .cover-copy .sentence { color: var(--purple); font-size: 30px; font-weight: 800; }
+
+    .sentence {
+      min-height: 48px;
+      color: var(--ink);
+      font-size: 24px;
+      line-height: 1.75;
+      font-weight: 600;
+    }
+
+    .word {
+      display: inline;
+      padding: 2px 3px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .word:hover, .word:focus-visible { background: #ffe7bd; outline: none; box-shadow: 0 0 0 2px #ffd382; }
+    .word.clicked { color: white; background: linear-gradient(135deg, #f3b400, #f3831b); }
+    .word.core-word { color: #8a4c00; background: #fff0bd; border-bottom: 2px solid #f5b83d; }
+    .word.correct { color: white; background: #26a269; }
+    .word.incorrect { color: white; background: #db5b61; }
+
+    .translation-row {
+      min-height: 34px;
+      margin-top: 7px;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .chinese-translation {
+      flex: 1;
+      max-height: 140px;
+      overflow: hidden;
+      opacity: 1;
+      color: var(--muted);
+      font-size: 17px;
+      line-height: 1.7;
+      transition: max-height 0.25s ease, opacity 0.2s ease;
+    }
+
+    .chinese-translation.hidden { max-height: 0; opacity: 0; }
+
+    .translation-eye {
+      width: 34px;
+      height: 34px;
+      flex: 0 0 34px;
+      padding: 0;
+      display: inline-grid;
+      place-items: center;
+      border: 0;
+      border-radius: 50%;
+      color: var(--purple);
+      background: #eef0ff;
+      cursor: pointer;
+    }
+
+    .translation-eye:hover { background: #e1e5ff; }
+
+    .audio-notice {
+      min-height: 22px;
+      margin: 9px 6px 0;
+      color: #8d5b21;
+      font-size: 13px;
+      line-height: 1.5;
+      text-align: center;
+    }
+
+    .reading-mode {
+      display: none;
+      margin-top: 18px;
+      padding: 22px;
+      color: white;
+      text-align: center;
+      background: linear-gradient(135deg, var(--purple), var(--purple-dark));
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+
+    .reading-mode.show { display: block; }
+    .reading-status { font-size: 22px; font-weight: 800; }
+    .countdown { min-height: 58px; margin-top: 8px; font-size: 48px; line-height: 58px; font-weight: 800; }
+    .score-display { margin-top: 10px; font-size: 32px; font-weight: 800; }
+    .stars { min-height: 42px; margin: 6px 0; font-size: 34px; }
+
+    .feedback-container {
+      display: none;
+      margin-top: 14px;
+      padding: 14px;
+      color: var(--ink);
+      text-align: left;
+      background: white;
+      border-radius: 12px;
+    }
+
+    .feedback-container.show { display: block; }
+    .feedback-title { margin-bottom: 10px; color: var(--purple); font-weight: 800; }
+    .feedback-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+
+    .feedback-item {
+      width: 100%;
+      min-height: 42px;
+      padding: 8px 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      border: 0;
+      border-radius: 8px;
+      color: var(--ink);
+      background: #f3f4f6;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .controls {
+      margin-top: 18px;
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .btn {
+      min-width: 0;
+      min-height: 48px;
+      padding: 10px 12px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      border: 0;
+      border-radius: 12px;
+      color: white;
+      font-size: 15px;
+      line-height: 1.25;
+      font-weight: 800;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.13);
+      transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+    }
+
+    .btn:hover { transform: translateY(-1px); box-shadow: 0 6px 15px rgba(0, 0, 0, 0.17); }
+    .btn:active { transform: scale(0.98); }
+    .btn:focus-visible { outline: 3px solid rgba(102, 126, 234, 0.3); outline-offset: 2px; }
+    .btn:disabled { opacity: 0.42; cursor: not-allowed; transform: none; box-shadow: none; }
+    .btn-primary { background: linear-gradient(135deg, var(--purple), var(--purple-dark)); }
+    .btn-secondary { background: linear-gradient(135deg, #f093c7, var(--pink)); }
+    .btn-danger { background: linear-gradient(135deg, #ff7b7b, #df4e66); }
+    .btn-success { background: linear-gradient(135deg, #3aa7ef, var(--cyan)); }
+
+    .core-section {
+      margin-top: 18px;
+      padding: 16px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(102, 126, 234, 0.1);
+      border-radius: 16px;
+    }
+
+    .core-title { margin: 0 0 10px; color: #5b6295; font-size: 16px; }
+    .core-list { display: flex; flex-wrap: wrap; gap: 8px; }
+
+    .core-chip {
+      min-height: 34px;
+      padding: 7px 11px;
+      border: 1px solid #f0c566;
+      border-radius: 6px;
+      color: #764b00;
+      background: #fff5cf;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .tooltip {
+      position: fixed;
+      z-index: 100;
+      max-width: min(280px, calc(100vw - 28px));
+      padding: 11px 14px;
+      pointer-events: none;
+      opacity: 0;
+      color: white;
+      background: rgba(30, 34, 40, 0.94);
+      border-radius: 8px;
+      box-shadow: 0 6px 22px rgba(0, 0, 0, 0.3);
+      transform: translate(-50%, -100%);
+      transition: opacity 0.15s ease;
+    }
+
+    .tooltip.show { opacity: 1; }
+    .tooltip-phonetic { color: #ffd75e; font-weight: 800; }
+    .tooltip-translation { margin-top: 3px; }
+
+    .overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 110;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      background: rgba(24, 24, 32, 0.58);
+    }
+
+    .overlay.show { display: flex; }
+
+    .word-card {
+      width: min(560px, 100%);
+      max-height: min(78vh, 720px);
+      overflow-y: auto;
+      position: relative;
+      padding: 28px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+
+    .word-card-close {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      width: 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      border: 0;
+      border-radius: 50%;
+      color: #4d5560;
+      background: #eef0f3;
+      font-size: 22px;
+      cursor: pointer;
+    }
+
+    .card-word { padding-right: 42px; color: var(--purple); font-size: 42px; line-height: 1.2; font-weight: 800; }
+    .card-phonetic { margin-top: 8px; color: #e39900; font-size: 23px; font-weight: 800; }
+    .card-meaning { margin-top: 5px; font-size: 20px; font-weight: 700; }
+    .card-block { margin-top: 12px; padding: 11px 12px; line-height: 1.6; border-radius: 10px; }
+    .card-example { background: #e8f8ee; }
+    .card-tip { background: #fff2cb; }
+    .card-actions { margin-top: 16px; display: flex; gap: 10px; }
+
+    @media (max-width: 900px) {
+      .controls { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 640px) {
+      .brand-bar { height: 50px; }
+      .brand-inner { padding: 0 12px; }
+      .brand-logo { height: 31px; max-width: 58vw; }
+      .brand-lesson { font-size: 12px; }
+      .book-container { padding: 16px 0 26px; }
+      .title { padding: 0 14px; margin-bottom: 14px; font-size: 24px; }
+      .nav-bar { margin: 0 10px; min-height: 54px; padding: 11px 12px; border-radius: 12px; }
+      .mode-title { font-size: 15px; }
+      .voice-note { max-width: 42vw; font-size: 11px; }
+      .progress-track { margin-top: 10px; border-radius: 0; }
+      .page-indicator { margin: 8px 0; font-size: 15px; }
+      .image-frame { border-radius: 0; box-shadow: 0 5px 18px rgba(53, 38, 45, 0.13); }
+      .text-container { margin: 12px 10px 0; min-height: 104px; padding: 16px; border-radius: 12px; }
+      .sentence { font-size: 20px; line-height: 1.75; }
+      .cover-copy .sentence { font-size: 25px; }
+      .chinese-translation { font-size: 15px; }
+      .audio-notice { padding: 0 12px; }
+      .reading-mode { margin: 12px 10px 0; padding: 17px 13px; border-radius: 12px; }
+      .controls { margin: 12px 10px 0; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+      .btn { min-height: 44px; padding: 9px 7px; font-size: 14px; }
+      .core-section { margin: 12px 10px 0; border-radius: 12px; }
+      .word-card { padding: 24px 18px; border-radius: 12px; }
+      .card-word { font-size: 34px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <header class="brand-bar">
+    <div class="brand-inner">
+      <img class="brand-logo" src="LOGO.png" alt="小洋人英语">
+      <div class="brand-lesson">第 44 课</div>
+    </div>
+  </header>
+
+  <main class="book-container">
+    <h1 class="title">📖 Passage 44 · 互动绘本阅读</h1>
+
+    <section class="nav-bar" aria-label="阅读状态">
+      <div class="mode-title">📚 绘本阅读模式</div>
+      <div class="voice-note">固定音频：成人男声｜老师清晰</div>
+    </section>
+    <div class="progress-track" aria-hidden="true"><div class="progress-fill" id="progressFill"></div></div>
+    <div class="page-indicator" id="pageIndicator" aria-live="polite"></div>
+
+    <section class="page-stage" id="pageStage">
+      <div class="image-frame" id="imageFrame">
+        <img class="page-image" id="pageImage" alt="绘本插画">
+      </div>
+      <div class="text-container" id="textContainer">
+        <div class="sentence" id="sentence"></div>
+        <div class="translation-row">
+          <div class="chinese-translation hidden" id="translation"></div>
+          <button class="translation-eye" id="translationEye" type="button" aria-label="显示本页翻译" title="显示或隐藏本页翻译">◉</button>
+        </div>
+      </div>
+      <div class="audio-notice" id="audioNotice" aria-live="polite"></div>
+    </section>
+
+    <section class="reading-mode" id="readingMode" aria-live="polite">
+      <div class="reading-status" id="readingStatus">准备跟读</div>
+      <div class="countdown" id="countdown"></div>
+      <div class="score-display" id="scoreDisplay"></div>
+      <div class="stars" id="starsDisplay"></div>
+      <div class="feedback-container" id="feedbackContainer">
+        <div class="feedback-title">📝 发音反馈（点击单词可听发音）</div>
+        <ul class="feedback-list" id="feedbackList"></ul>
+        <div class="card-actions">
+          <button class="btn btn-secondary" id="retryBtn" type="button">🔄 重新跟读</button>
+          <button class="btn btn-primary" id="finishFollowBtn" type="button">✓ 完成</button>
+        </div>
+      </div>
+    </section>
+
+    <nav class="controls" aria-label="绘本控制">
+      <button class="btn btn-primary" id="prevBtn" data-testid="prev" type="button">← 上一页</button>
+      <button class="btn btn-secondary" id="readPageBtn" data-testid="read-page" type="button">🔊 朗读本页</button>
+      <button class="btn btn-danger" id="followReadBtn" data-testid="follow" type="button">🎤 跟读模式</button>
+      <button class="btn btn-success" id="readAllBtn" data-testid="read-all" type="button">▶ 全文朗读</button>
+      <button class="btn btn-primary" id="toggleTransBtn" data-testid="translation" type="button">译 显示翻译</button>
+      <button class="btn btn-primary" id="nextBtn" data-testid="next" type="button">下一页 →</button>
+    </nav>
+
+    <section class="core-section" id="coreSection">
+      <h2 class="core-title" id="coreTitle">核心词汇</h2>
+      <div class="core-list" id="coreList"></div>
+    </section>
+  </main>
+
+  <div class="tooltip" id="tooltip" role="status">
+    <div class="tooltip-phonetic" id="tooltipPhonetic"></div>
+    <div class="tooltip-translation" id="tooltipTranslation"></div>
+  </div>
+
+  <div class="overlay" id="wordCardOverlay" role="dialog" aria-modal="true" aria-labelledby="cardWord">
+    <article class="word-card">
+      <button class="word-card-close" id="closeWordCard" type="button" aria-label="关闭词卡">×</button>
+      <div class="card-word" id="cardWord"></div>
+      <div class="card-phonetic" id="cardPhonetic"></div>
+      <div class="card-meaning" id="cardMeaning"></div>
+      <div class="card-block card-example" id="cardExample"></div>
+      <div class="card-block card-tip" id="cardTip"></div>
+      <div class="card-actions">
+        <button class="btn btn-success" id="cardListenBtn" type="button">🔊 再听一次</button>
+        <button class="btn btn-primary" id="cardDoneBtn" type="button">✓ 知道了</button>
+      </div>
+    </article>
+  </div>
+
+  <script id="bookDataJson" type="application/json">{"course":"初中60短文","passage":44,"title":"Passage 44","voice":"成人男声｜老师清晰","pages":[{"cover":true,"sentenceId":0,"image":"assets/images/00.webp","audio":"","en":"Passage 44","cn":"第44课绘本封面"},{"cover":false,"sentenceId":1,"image":"assets/images/01.webp","audio":"assets/audio/sentences/sentence-01.mp3","en":"Wetlands are any land that is flooded with shallow water all or most of the time.","cn":"湿地是指所有时间或大部分时间都被浅水淹没的土地。"},{"cover":false,"sentenceId":2,"image":"assets/images/02.webp","audio":"assets/audio/sentences/sentence-02.mp3","en":"They are a natural water holding system.","cn":"它们是天然的蓄水系统。"},{"cover":false,"sentenceId":3,"image":"assets/images/03.webp","audio":"assets/audio/sentences/sentence-03.mp3","en":"Many animals come to wetlands to drink water when they are thirsty.","cn":"许多动物口渴时都会到湿地喝水。"},{"cover":false,"sentenceId":4,"image":"assets/images/04.webp","audio":"assets/audio/sentences/sentence-04.mp3","en":"There are many types of wetlands.","cn":"湿地有很多种。"},{"cover":false,"sentenceId":5,"image":"assets/images/05.webp","audio":"assets/audio/sentences/sentence-05.mp3","en":"Among them, bogs, marshes and swamps are the three main types.","cn":"其中，泥沼、草本沼泽和沼泽是三种主要类型。"},{"cover":false,"sentenceId":6,"image":"assets/images/06.webp","audio":"assets/audio/sentences/sentence-06.mp3","en":"In bogs, only mosses and a few other kinds of plants can grow.","cn":"在泥沼中，只有苔藓和少数其他种类的植物能够生长。"},{"cover":false,"sentenceId":7,"image":"assets/images/07.webp","audio":"assets/audio/sentences/sentence-07.mp3","en":"Grassy plants like cattails and reeds are the most common plants in a marsh.","cn":"在草本沼泽中，最常见的植物是香蒲和芦苇等草类植物。"},{"cover":false,"sentenceId":8,"image":"assets/images/08.webp","audio":"assets/audio/sentences/sentence-08.mp3","en":"A swamp is a forest whose ground is underwater all or most of the time.","cn":"沼泽是一片其地面永久或大部分时间都处于水下的森林。"},{"cover":false,"sentenceId":9,"image":"assets/images/09.webp","audio":"assets/audio/sentences/sentence-09.mp3","en":"Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.","cn":"与泥沼或草本沼泽不同，沼泽里满是树木和灌木，有些树木就像塔一样高。"},{"cover":false,"sentenceId":10,"image":"assets/images/10.webp","audio":"assets/audio/sentences/sentence-10.mp3","en":"A special kind of rose also grows here.","cn":"一种特殊的玫瑰也生长在这里。"},{"cover":false,"sentenceId":11,"image":"assets/images/11.webp","audio":"assets/audio/sentences/sentence-11.mp3","en":"The swamp is worth a short tour, but you'd better not try without a guide.","cn":"来一次短途旅行去看看沼泽是值得的，但如果没有导游的话，最好就不要尝试了。"},{"cover":false,"sentenceId":12,"image":"assets/images/12.webp","audio":"assets/audio/sentences/sentence-12.mp3","en":"There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.","cn":"这里有隐藏的水潭、厚厚的淤泥，有时还有正在寻找下一顿美餐的大鳄鱼。"},{"cover":false,"sentenceId":13,"image":"assets/images/13.webp","audio":"assets/audio/sentences/sentence-13.mp3","en":"Hungry crocodiles aren't the only animals that make the wetlands their home.","cn":"饥饿的鳄鱼并不是唯一以湿地为家的动物。"},{"cover":false,"sentenceId":14,"image":"assets/images/14.webp","audio":"assets/audio/sentences/sentence-14.mp3","en":"Otters, turtles, frogs, snakes and many other animals do too.","cn":"水獭、乌龟、青蛙、蛇和许多其他动物也栖息于此。"},{"cover":false,"sentenceId":15,"image":"assets/images/15.webp","audio":"assets/audio/sentences/sentence-15.mp3","en":"The water is home to many kinds of fish and crabs.","cn":"水中生活着各种各样的鱼和蟹。"},{"cover":false,"sentenceId":16,"image":"assets/images/16.webp","audio":"assets/audio/sentences/sentence-16.mp3","en":"Birds, including ducks, geese and cranes, use wetlands seasonally during their long migrations.","cn":"鸭子、鹅、鹤等鸟类在漫长的迁徙途中会季节性地利用湿地。"},{"cover":false,"sentenceId":17,"image":"assets/images/17.webp","audio":"assets/audio/sentences/sentence-17.mp3","en":"Wetlands are important because they provide habitats for plants and animals.","cn":"湿地很重要，因为它们为动植物提供了栖息地。"},{"cover":false,"sentenceId":18,"image":"assets/images/18.webp","audio":"assets/audio/sentences/sentence-18.mp3","en":"A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.","cn":"湿地系统还可以保护海岸线，净化被污染的水域，防洪以及恢复地下水供应。"},{"cover":false,"sentenceId":19,"image":"assets/images/19.webp","audio":"assets/audio/sentences/sentence-19.mp3","en":"It is important to let the wetlands perform their usual functions.","cn":"让湿地发挥惯常的作用至关重要。"},{"cover":false,"sentenceId":20,"image":"assets/images/20.webp","audio":"assets/audio/sentences/sentence-20.mp3","en":"Therefore, many voluntary groups work to protect wetlands by providing different services, such as clean-up events and educating the public.","cn":"因此，许多志愿团体通过提供不同的服务，如清洁活动和公众教育，来保护湿地。"}],"dictionary":{"wetlands":{"word":"Wetlands","phonetic":"/wetlands/","translation":"常用词","audio":"assets/audio/words/wetlands.mp3","core":false},"are":{"word":"are","phonetic":"/ər/","translation":"是","audio":"assets/audio/words/are.mp3","core":false},"any":{"word":"any","phonetic":"/ˈɛni/","translation":"任何","audio":"assets/audio/words/any.mp3","core":false},"land":{"word":"land","phonetic":"/lænd/","translation":"土地","audio":"assets/audio/words/land.mp3","core":true},"that":{"word":"that","phonetic":"/ðət/","translation":"那","audio":"assets/audio/words/that.mp3","core":false},"is":{"word":"is","phonetic":"/ɪz/","translation":"是","audio":"assets/audio/words/is.mp3","core":false},"flooded":{"word":"flooded","phonetic":"/flooded/","translation":"常用词","audio":"assets/audio/words/flooded.mp3","core":false},"with":{"word":"with","phonetic":"/wɪð/","translation":"和；带有","audio":"assets/audio/words/with.mp3","core":false},"shallow":{"word":"shallow","phonetic":"/shallow/","translation":"常用词","audio":"assets/audio/words/shallow.mp3","core":true},"water":{"word":"water","phonetic":"/ˈwɔtər/","translation":"水","audio":"assets/audio/words/water.mp3","core":true},"all":{"word":"all","phonetic":"/ɔl/","translation":"全部","audio":"assets/audio/words/all.mp3","core":false},"or":{"word":"or","phonetic":"/ɔːr/","translation":"或者","audio":"assets/audio/words/or.mp3","core":false},"most":{"word":"most","phonetic":"/moʊst/","translation":"最多","audio":"assets/audio/words/most.mp3","core":false},"of":{"word":"of","phonetic":"/əv/","translation":"……的","audio":"assets/audio/words/of.mp3","core":false},"the":{"word":"the","phonetic":"/ðə/","translation":"这个；那个","audio":"assets/audio/words/the.mp3","core":false},"time":{"word":"time","phonetic":"/taɪm/","translation":"时间","audio":"assets/audio/words/time.mp3","core":false},"they":{"word":"They","phonetic":"/ðeɪ/","translation":"他们；它们","audio":"assets/audio/words/they.mp3","core":false},"a":{"word":"a","phonetic":"/ə/","translation":"一个；一","audio":"assets/audio/words/a.mp3","core":false},"natural":{"word":"natural","phonetic":"/ˈnæʧərəl/","translation":"自然的","audio":"assets/audio/words/natural.mp3","core":false},"holding":{"word":"holding","phonetic":"/ˈhoʊldɪŋ/","translation":"保持","audio":"assets/audio/words/holding.mp3","core":false},"system":{"word":"system","phonetic":"/ˈsɪstəm/","translation":"系统","audio":"assets/audio/words/system.mp3","core":false},"many":{"word":"Many","phonetic":"/ˈmɛni/","translation":"许多","audio":"assets/audio/words/many.mp3","core":false},"animals":{"word":"animals","phonetic":"/ˈænəməlz/","translation":"动物","audio":"assets/audio/words/animals.mp3","core":false},"come":{"word":"come","phonetic":"/kəm/","translation":"来","audio":"assets/audio/words/come.mp3","core":false},"to":{"word":"to","phonetic":"/tuː/","translation":"到；向","audio":"assets/audio/words/to.mp3","core":false},"drink":{"word":"drink","phonetic":"/drɪŋk/","translation":"喝","audio":"assets/audio/words/drink.mp3","core":false},"when":{"word":"when","phonetic":"/wɪn/","translation":"什么时候","audio":"assets/audio/words/when.mp3","core":false},"thirsty":{"word":"thirsty","phonetic":"/thirsty/","translation":"常用词","audio":"assets/audio/words/thirsty.mp3","core":true},"there":{"word":"There","phonetic":"/ðer/","translation":"那里；有","audio":"assets/audio/words/there.mp3","core":false},"types":{"word":"types","phonetic":"/taɪps/","translation":"类型","audio":"assets/audio/words/types.mp3","core":false},"among":{"word":"Among","phonetic":"/among/","translation":"常用词","audio":"assets/audio/words/among.mp3","core":false},"them":{"word":"them","phonetic":"/ðɛm/","translation":"他们","audio":"assets/audio/words/them.mp3","core":false},"bogs":{"word":"bogs","phonetic":"/bogs/","translation":"常用词","audio":"assets/audio/words/bogs.mp3","core":false},"marshes":{"word":"marshes","phonetic":"/marshes/","translation":"常用词","audio":"assets/audio/words/marshes.mp3","core":false},"and":{"word":"and","phonetic":"/ænd/","translation":"和","audio":"assets/audio/words/and.mp3","core":false},"swamps":{"word":"swamps","phonetic":"/swamps/","translation":"常用词","audio":"assets/audio/words/swamps.mp3","core":false},"three":{"word":"three","phonetic":"/θri/","translation":"三","audio":"assets/audio/words/three.mp3","core":false},"main":{"word":"main","phonetic":"/meɪn/","translation":"主要的","audio":"assets/audio/words/main.mp3","core":true},"in":{"word":"In","phonetic":"/ɪn/","translation":"在……里","audio":"assets/audio/words/in.mp3","core":false},"only":{"word":"only","phonetic":"/ˈoʊnli/","translation":"仅有的","audio":"assets/audio/words/only.mp3","core":false},"mosses":{"word":"mosses","phonetic":"/mosses/","translation":"常用词","audio":"assets/audio/words/mosses.mp3","core":false},"few":{"word":"few","phonetic":"/fju/","translation":"很少","audio":"assets/audio/words/few.mp3","core":false},"other":{"word":"other","phonetic":"/ˈəðər/","translation":"其他","audio":"assets/audio/words/other.mp3","core":false},"kinds":{"word":"kinds","phonetic":"/kaɪnz/","translation":"种类","audio":"assets/audio/words/kinds.mp3","core":false},"plants":{"word":"plants","phonetic":"/plænts/","translation":"植物","audio":"assets/audio/words/plants.mp3","core":false},"can":{"word":"can","phonetic":"/kən/","translation":"能","audio":"assets/audio/words/can.mp3","core":false},"grow":{"word":"grow","phonetic":"/groʊ/","translation":"生长","audio":"assets/audio/words/grow.mp3","core":false},"grassy":{"word":"Grassy","phonetic":"/grassy/","translation":"常用词","audio":"assets/audio/words/grassy.mp3","core":true},"like":{"word":"like","phonetic":"/laɪk/","translation":"喜欢","audio":"assets/audio/words/like.mp3","core":false},"cattails":{"word":"cattails","phonetic":"/cattails/","translation":"常用词","audio":"assets/audio/words/cattails.mp3","core":false},"reeds":{"word":"reeds","phonetic":"/reeds/","translation":"常用词","audio":"assets/audio/words/reeds.mp3","core":false},"common":{"word":"common","phonetic":"/ˈkɑmən/","translation":"常见的","audio":"assets/audio/words/common.mp3","core":false},"marsh":{"word":"marsh","phonetic":"/marsh/","translation":"常用词","audio":"assets/audio/words/marsh.mp3","core":false},"swamp":{"word":"swamp","phonetic":"/swamp/","translation":"常用词","audio":"assets/audio/words/swamp.mp3","core":false},"forest":{"word":"forest","phonetic":"/forest/","translation":"常用词","audio":"assets/audio/words/forest.mp3","core":true},"whose":{"word":"whose","phonetic":"/huz/","translation":"谁","audio":"assets/audio/words/whose.mp3","core":false},"ground":{"word":"ground","phonetic":"/graʊnd/","translation":"地面","audio":"assets/audio/words/ground.mp3","core":false},"underwater":{"word":"underwater","phonetic":"/underwater/","translation":"常用词","audio":"assets/audio/words/underwater.mp3","core":true},"unlike":{"word":"Unlike","phonetic":"/unlike/","translation":"常用词","audio":"assets/audio/words/unlike.mp3","core":true},"full":{"word":"full","phonetic":"/fʊl/","translation":"满的","audio":"assets/audio/words/full.mp3","core":false},"trees":{"word":"trees","phonetic":"/triz/","translation":"树","audio":"assets/audio/words/trees.mp3","core":false},"bushes":{"word":"bushes","phonetic":"/bushes/","translation":"常用词","audio":"assets/audio/words/bushes.mp3","core":false},"some":{"word":"some","phonetic":"/səm/","translation":"一些","audio":"assets/audio/words/some.mp3","core":false},"standing":{"word":"standing","phonetic":"/ˈstændɪŋ/","translation":"常设","audio":"assets/audio/words/standing.mp3","core":false},"tall":{"word":"tall","phonetic":"/tɔl/","translation":"高的","audio":"assets/audio/words/tall.mp3","core":false},"as":{"word":"as","phonetic":"/æz/","translation":"作为；像","audio":"assets/audio/words/as.mp3","core":false},"tower":{"word":"tower","phonetic":"/tower/","translation":"常用词","audio":"assets/audio/words/tower.mp3","core":true},"special":{"word":"special","phonetic":"/special/","translation":"常用词","audio":"assets/audio/words/special.mp3","core":false},"kind":{"word":"kind","phonetic":"/kaɪnd/","translation":"种类","audio":"assets/audio/words/kind.mp3","core":false},"rose":{"word":"rose","phonetic":"/rose/","translation":"常用词","audio":"assets/audio/words/rose.mp3","core":true},"also":{"word":"also","phonetic":"/ˈɔlsoʊ/","translation":"还","audio":"assets/audio/words/also.mp3","core":false},"grows":{"word":"grows","phonetic":"/groʊz/","translation":"成长","audio":"assets/audio/words/grows.mp3","core":false},"here":{"word":"here","phonetic":"/hir/","translation":"这里","audio":"assets/audio/words/here.mp3","core":false},"worth":{"word":"worth","phonetic":"/wərθ/","translation":"值得","audio":"assets/audio/words/worth.mp3","core":false},"short":{"word":"short","phonetic":"/ʃɔrt/","translation":"短的","audio":"assets/audio/words/short.mp3","core":false},"tour":{"word":"tour","phonetic":"/tour/","translation":"常用词","audio":"assets/audio/words/tour.mp3","core":true},"but":{"word":"but","phonetic":"/bət/","translation":"但","audio":"assets/audio/words/but.mp3","core":false},"youd":{"word":"you'd","phonetic":"/juːd/","translation":"你会；你最好","audio":"assets/audio/words/youd.mp3","core":false},"better":{"word":"better","phonetic":"/ˈbɛtər/","translation":"更好的","audio":"assets/audio/words/better.mp3","core":false},"not":{"word":"not","phonetic":"/nɑt/","translation":"不是","audio":"assets/audio/words/not.mp3","core":false},"try":{"word":"try","phonetic":"/traɪ/","translation":"尝试","audio":"assets/audio/words/try.mp3","core":false},"without":{"word":"without","phonetic":"/wɪˈðaʊt/","translation":"没有","audio":"assets/audio/words/without.mp3","core":false},"guide":{"word":"guide","phonetic":"/gaɪd/","translation":"指导","audio":"assets/audio/words/guide.mp3","core":false},"hidden":{"word":"hidden","phonetic":"/hidden/","translation":"常用词","audio":"assets/audio/words/hidden.mp3","core":true},"pools":{"word":"pools","phonetic":"/pools/","translation":"常用词","audio":"assets/audio/words/pools.mp3","core":false},"thick":{"word":"thick","phonetic":"/thick/","translation":"常用词","audio":"assets/audio/words/thick.mp3","core":false},"mud":{"word":"mud","phonetic":"/mud/","translation":"常用词","audio":"assets/audio/words/mud.mp3","core":true},"sometimes":{"word":"sometimes","phonetic":"/ˈsəmˌtaɪmz/","translation":"有时","audio":"assets/audio/words/sometimes.mp3","core":false},"big":{"word":"big","phonetic":"/bɪg/","translation":"大的","audio":"assets/audio/words/big.mp3","core":false},"crocodiles":{"word":"crocodiles","phonetic":"/crocodiles/","translation":"常用词","audio":"assets/audio/words/crocodiles.mp3","core":false},"looking":{"word":"looking","phonetic":"/ˈlʊkɪŋ/","translation":"寻找","audio":"assets/audio/words/looking.mp3","core":false},"for":{"word":"for","phonetic":"/fɔːr/","translation":"为了；给","audio":"assets/audio/words/for.mp3","core":false},"their":{"word":"their","phonetic":"/ðɛr/","translation":"他们的","audio":"assets/audio/words/their.mp3","core":false},"next":{"word":"next","phonetic":"/nɛkst/","translation":"下一个","audio":"assets/audio/words/next.mp3","core":false},"meal":{"word":"meal","phonetic":"/meal/","translation":"常用词","audio":"assets/audio/words/meal.mp3","core":false},"hungry":{"word":"Hungry","phonetic":"/hungry/","translation":"常用词","audio":"assets/audio/words/hungry.mp3","core":true},"arent":{"word":"aren't","phonetic":"/ɑːrnt/","translation":"不是","audio":"assets/audio/words/arent.mp3","core":false},"make":{"word":"make","phonetic":"/meɪk/","translation":"制作","audio":"assets/audio/words/make.mp3","core":false},"home":{"word":"home","phonetic":"/hoʊm/","translation":"家","audio":"assets/audio/words/home.mp3","core":false},"otters":{"word":"Otters","phonetic":"/otters/","translation":"常用词","audio":"assets/audio/words/otters.mp3","core":false},"turtles":{"word":"turtles","phonetic":"/turtles/","translation":"常用词","audio":"assets/audio/words/turtles.mp3","core":false},"frogs":{"word":"frogs","phonetic":"/frɑgz/","translation":"青蛙","audio":"assets/audio/words/frogs.mp3","core":false},"snakes":{"word":"snakes","phonetic":"/snakes/","translation":"常用词","audio":"assets/audio/words/snakes.mp3","core":false},"do":{"word":"do","phonetic":"/du/","translation":"做","audio":"assets/audio/words/do.mp3","core":false},"too":{"word":"too","phonetic":"/tu/","translation":"也","audio":"assets/audio/words/too.mp3","core":false},"fish":{"word":"fish","phonetic":"/fɪʃ/","translation":"鱼","audio":"assets/audio/words/fish.mp3","core":true},"crabs":{"word":"crabs","phonetic":"/crabs/","translation":"常用词","audio":"assets/audio/words/crabs.mp3","core":false},"birds":{"word":"Birds","phonetic":"/bərdz/","translation":"鸟类","audio":"assets/audio/words/birds.mp3","core":false},"including":{"word":"including","phonetic":"/ˌɪnˈkludɪŋ/","translation":"包括","audio":"assets/audio/words/including.mp3","core":false},"ducks":{"word":"ducks","phonetic":"/dəks/","translation":"鸭子","audio":"assets/audio/words/ducks.mp3","core":false},"geese":{"word":"geese","phonetic":"/geese/","translation":"常用词","audio":"assets/audio/words/geese.mp3","core":false},"cranes":{"word":"cranes","phonetic":"/cranes/","translation":"常用词","audio":"assets/audio/words/cranes.mp3","core":false},"use":{"word":"use","phonetic":"/juz/","translation":"使用","audio":"assets/audio/words/use.mp3","core":false},"seasonally":{"word":"seasonally","phonetic":"/seasonally/","translation":"常用词","audio":"assets/audio/words/seasonally.mp3","core":true},"during":{"word":"during","phonetic":"/ˈdʊrɪŋ/","translation":"期间","audio":"assets/audio/words/during.mp3","core":false},"long":{"word":"long","phonetic":"/lɔŋ/","translation":"长的","audio":"assets/audio/words/long.mp3","core":false},"migrations":{"word":"migrations","phonetic":"/migrations/","translation":"常用词","audio":"assets/audio/words/migrations.mp3","core":false},"important":{"word":"important","phonetic":"/ˌɪmˈpɔrtənt/","translation":"重要的","audio":"assets/audio/words/important.mp3","core":false},"because":{"word":"because","phonetic":"/bɪˈkəz/","translation":"因为","audio":"assets/audio/words/because.mp3","core":false},"provide":{"word":"provide","phonetic":"/prəˈvaɪd/","translation":"提供","audio":"assets/audio/words/provide.mp3","core":false},"habitats":{"word":"habitats","phonetic":"/habitats/","translation":"常用词","audio":"assets/audio/words/habitats.mp3","core":false},"wetland":{"word":"wetland","phonetic":"/wetland/","translation":"常用词","audio":"assets/audio/words/wetland.mp3","core":true},"protect":{"word":"protect","phonetic":"/prəˈtɛkt/","translation":"保护","audio":"assets/audio/words/protect.mp3","core":false},"shorelines":{"word":"shorelines","phonetic":"/shorelines/","translation":"常用词","audio":"assets/audio/words/shorelines.mp3","core":false},"polluted":{"word":"polluted","phonetic":"/polluted/","translation":"常用词","audio":"assets/audio/words/polluted.mp3","core":false},"waters":{"word":"waters","phonetic":"/ˈwɔtərz/","translation":"水域","audio":"assets/audio/words/waters.mp3","core":false},"clean":{"word":"clean","phonetic":"/klin/","translation":"干净的","audio":"assets/audio/words/clean.mp3","core":false},"prevent":{"word":"prevent","phonetic":"/prevent/","translation":"常用词","audio":"assets/audio/words/prevent.mp3","core":false},"floods":{"word":"floods","phonetic":"/floods/","translation":"常用词","audio":"assets/audio/words/floods.mp3","core":false},"restore":{"word":"restore","phonetic":"/restore/","translation":"常用词","audio":"assets/audio/words/restore.mp3","core":true},"underground":{"word":"underground","phonetic":"/underground/","translation":"常用词","audio":"assets/audio/words/underground.mp3","core":true},"supplies":{"word":"supplies","phonetic":"/supplies/","translation":"常用词","audio":"assets/audio/words/supplies.mp3","core":false},"it":{"word":"It","phonetic":"/ɪt/","translation":"它","audio":"assets/audio/words/it.mp3","core":false},"let":{"word":"let","phonetic":"/lɛt/","translation":"让","audio":"assets/audio/words/let.mp3","core":false},"perform":{"word":"perform","phonetic":"/pərˈfɔrm/","translation":"履行","audio":"assets/audio/words/perform.mp3","core":false},"usual":{"word":"usual","phonetic":"/usual/","translation":"常用词","audio":"assets/audio/words/usual.mp3","core":true},"functions":{"word":"functions","phonetic":"/functions/","translation":"常用词","audio":"assets/audio/words/functions.mp3","core":false},"therefore":{"word":"Therefore","phonetic":"/ˈðɛrˌfɔr/","translation":"所以","audio":"assets/audio/words/therefore.mp3","core":false},"voluntary":{"word":"voluntary","phonetic":"/voluntary/","translation":"常用词","audio":"assets/audio/words/voluntary.mp3","core":false},"groups":{"word":"groups","phonetic":"/grups/","translation":"团体","audio":"assets/audio/words/groups.mp3","core":false},"work":{"word":"work","phonetic":"/wərk/","translation":"工作","audio":"assets/audio/words/work.mp3","core":false},"by":{"word":"by","phonetic":"/baɪ/","translation":"通过；在旁边","audio":"assets/audio/words/by.mp3","core":false},"providing":{"word":"providing","phonetic":"/providing/","translation":"常用词","audio":"assets/audio/words/providing.mp3","core":false},"different":{"word":"different","phonetic":"/ˈdɪfərənt/","translation":"不同的","audio":"assets/audio/words/different.mp3","core":false},"services":{"word":"services","phonetic":"/services/","translation":"常用词","audio":"assets/audio/words/services.mp3","core":false},"such":{"word":"such","phonetic":"/səʧ/","translation":"这样的","audio":"assets/audio/words/such.mp3","core":false},"up":{"word":"up","phonetic":"/əp/","translation":"向上","audio":"assets/audio/words/up.mp3","core":false},"events":{"word":"events","phonetic":"/ɪˈvɛnts/","translation":"事件","audio":"assets/audio/words/events.mp3","core":false},"educating":{"word":"educating","phonetic":"/educating/","translation":"常用词","audio":"assets/audio/words/educating.mp3","core":false},"public":{"word":"public","phonetic":"/ˈpəblɪk/","translation":"民众","audio":"assets/audio/words/public.mp3","core":false}},"coreCards":[{"word":"wetland","phonetic":"/wetland/","translation":"常用词","example":"A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.","audio":"assets/audio/words/wetland.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"land","phonetic":"/lænd/","translation":"土地","example":"Wetlands are any land that is flooded with shallow water all or most of the time.","audio":"assets/audio/words/land.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"shallow","phonetic":"/shallow/","translation":"常用词","example":"Wetlands are any land that is flooded with shallow water all or most of the time.","audio":"assets/audio/words/shallow.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"thirsty","phonetic":"/thirsty/","translation":"常用词","example":"Many animals come to wetlands to drink water when they are thirsty.","audio":"assets/audio/words/thirsty.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"main","phonetic":"/meɪn/","translation":"主要的","example":"Among them, bogs, marshes and swamps are the three main types.","audio":"assets/audio/words/main.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"grassy","phonetic":"/grassy/","translation":"常用词","example":"Grassy plants like cattails and reeds are the most common plants in a marsh.","audio":"assets/audio/words/grassy.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"forest","phonetic":"/forest/","translation":"常用词","example":"A swamp is a forest whose ground is underwater all or most of the time.","audio":"assets/audio/words/forest.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"underwater","phonetic":"/underwater/","translation":"常用词","example":"A swamp is a forest whose ground is underwater all or most of the time.","audio":"assets/audio/words/underwater.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"water","phonetic":"/ˈwɔtər/","translation":"水","example":"Wetlands are any land that is flooded with shallow water all or most of the time.","audio":"assets/audio/words/water.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"unlike","phonetic":"/unlike/","translation":"常用词","example":"Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.","audio":"assets/audio/words/unlike.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"tower","phonetic":"/tower/","translation":"常用词","example":"Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.","audio":"assets/audio/words/tower.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"rose","phonetic":"/rose/","translation":"常用词","example":"A special kind of rose also grows here.","audio":"assets/audio/words/rose.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"tour","phonetic":"/tour/","translation":"常用词","example":"The swamp is worth a short tour, but you'd better not try without a guide.","audio":"assets/audio/words/tour.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"hidden","phonetic":"/hidden/","translation":"常用词","example":"There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.","audio":"assets/audio/words/hidden.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"mud","phonetic":"/mud/","translation":"常用词","example":"There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.","audio":"assets/audio/words/mud.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"hungry","phonetic":"/hungry/","translation":"常用词","example":"Hungry crocodiles aren't the only animals that make the wetlands their home.","audio":"assets/audio/words/hungry.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"fish","phonetic":"/fɪʃ/","translation":"鱼","example":"The water is home to many kinds of fish and crabs.","audio":"assets/audio/words/fish.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"seasonally","phonetic":"/seasonally/","translation":"常用词","example":"Birds, including ducks, geese and cranes, use wetlands seasonally during their long migrations.","audio":"assets/audio/words/seasonally.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"restore","phonetic":"/restore/","translation":"常用词","example":"A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.","audio":"assets/audio/words/restore.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"underground","phonetic":"/underground/","translation":"常用词","example":"A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.","audio":"assets/audio/words/underground.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"},{"word":"usual","phonetic":"/usual/","translation":"常用词","example":"It is important to let the wetlands perform their usual functions.","audio":"assets/audio/words/usual.mp3","tips":"在第44课中重点掌握：读准音、看懂意思，并能在原句中复述。"}]}</script>
+  <script>
+    const book = JSON.parse(document.getElementById('bookDataJson').textContent);
+    const pages = book.pages;
+    const dictionary = book.dictionary || {};
+    const coreCards = book.coreCards || [];
+    const coreCardMap = new Map(coreCards.map((card) => [normalizeWord(card.word), card]));
+    const sharedAudio = new Audio();
+    sharedAudio.preload = 'auto';
+
+    let currentPage = 0;
+    let translationVisible = false;
+    let isReading = false;
+    let readAllMode = false;
+    let audioToken = 0;
+    let recognition = null;
+    let isRecording = false;
+    let followCountdown = null;
+
+    const pageImage = document.getElementById('pageImage');
+    const imageFrame = document.getElementById('imageFrame');
+    const textContainer = document.getElementById('textContainer');
+    const sentenceEl = document.getElementById('sentence');
+    const translationEl = document.getElementById('translation');
+    const pageIndicator = document.getElementById('pageIndicator');
+    const progressFill = document.getElementById('progressFill');
+    const audioNotice = document.getElementById('audioNotice');
+    const tooltip = document.getElementById('tooltip');
+
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (SpeechRecognition) {
+      recognition = new SpeechRecognition();
+      recognition.lang = 'en-US';
+      recognition.continuous = false;
+      recognition.interimResults = false;
+      recognition.maxAlternatives = 1;
+    }
+
+    function normalizeWord(word) {
+      return String(word || '').toLowerCase().replace(/’/g, "'").replace(/[^a-z0-9']/g, '');
+    }
+
+    function escapeHtml(value) {
+      return String(value || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function getDictionaryItem(wordKey) {
+      if (dictionary[wordKey]) return dictionary[wordKey];
+      const variants = [];
+      if (wordKey.endsWith('ies')) variants.push(wordKey.slice(0, -3) + 'y');
+      if (wordKey.endsWith('ied')) variants.push(wordKey.slice(0, -3) + 'y');
+      if (wordKey.endsWith('ing')) {
+        variants.push(wordKey.slice(0, -3));
+        variants.push(wordKey.slice(0, -3) + 'e');
+      }
+      if (wordKey.endsWith('ed')) {
+        variants.push(wordKey.slice(0, -2));
+        variants.push(wordKey.slice(0, -1));
+      }
+      if (wordKey.endsWith('es')) variants.push(wordKey.slice(0, -2));
+      if (wordKey.endsWith('s')) variants.push(wordKey.slice(0, -1));
+      return variants.map((key) => dictionary[key]).find(Boolean) || null;
+    }
+
+    function buildSentenceHtml(text) {
+      const parts = String(text || '').match(/[A-Za-z]+(?:['’][A-Za-z]+)?|[^A-Za-z]+/g) || [];
+      return parts.map((part) => {
+        if (!/^[A-Za-z]+(?:['’][A-Za-z]+)?$/.test(part)) return escapeHtml(part);
+        const key = normalizeWord(part);
+        const item = getDictionaryItem(key);
+        const core = item && (item.core || coreCardMap.has(normalizeWord(item.word || key)));
+        return `<span class="word${core ? ' core-word' : ''}" tabindex="0" role="button" ` +
+          `aria-label="点读 ${escapeHtml(part)}" data-word="${escapeHtml(key)}" ` +
+          `data-speak="${escapeHtml(part)}">${escapeHtml(part)}</span>`;
+      }).join('');
+    }
+
+    function stopAudio(options = {}) {
+      audioToken += 1;
+      sharedAudio.pause();
+      sharedAudio.currentTime = 0;
+      sharedAudio.onplay = null;
+      sharedAudio.onended = null;
+      sharedAudio.onerror = null;
+      isReading = false;
+      if (!options.keepReadAll) readAllMode = false;
+      document.getElementById('readPageBtn').textContent = '🔊 朗读本页';
+      document.getElementById('readAllBtn').textContent = '▶ 全文朗读';
+    }
+
+    function playAudio(src, options = {}) {
+      if (!src) {
+        audioNotice.textContent = options.missingMessage || '本页没有可播放的固定音频。';
+        if (options.onerror) options.onerror();
+        return Promise.reject(new Error('missing audio'));
+      }
+      const token = ++audioToken;
+      sharedAudio.pause();
+      sharedAudio.currentTime = 0;
+      sharedAudio.src = src;
+      sharedAudio.playbackRate = options.rate || 1;
+      sharedAudio.onplay = () => {
+        if (token !== audioToken) return;
+        audioNotice.textContent = '';
+        if (options.onstart) options.onstart();
+      };
+      sharedAudio.onended = () => {
+        if (token !== audioToken) return;
+        if (options.onend) options.onend();
+      };
+      sharedAudio.onerror = () => {
+        if (token !== audioToken) return;
+        audioNotice.textContent = '固定音频无法播放，请检查文件是否完整。';
+        if (options.onerror) options.onerror();
+      };
+      const promise = sharedAudio.play();
+      if (promise && typeof promise.catch === 'function') {
+        promise.catch((error) => {
+          if (token !== audioToken || (error && error.name === 'AbortError')) return;
+          audioNotice.textContent = error && error.name === 'NotAllowedError'
+            ? '浏览器暂未允许播放，请再次点击朗读或单词。'
+            : '固定音频无法播放，请检查文件是否完整。';
+          if (options.onerror) options.onerror();
+        });
+      }
+      return promise;
+    }
+
+    function renderPage(index, options = {}) {
+      const page = pages[index];
+      imageFrame.classList.remove('image-error');
+      imageFrame.dataset.error = '';
+      pageImage.onload = () => imageFrame.classList.remove('image-error');
+      pageImage.onerror = () => {
+        imageFrame.dataset.error = `图片未挂载：${page.image}`;
+        imageFrame.classList.add('image-error');
+      };
+      pageImage.src = page.image;
+      pageImage.alt = page.cover ? `${book.title}绘本封面` : `第${page.sentenceId}句插画`;
+      textContainer.classList.toggle('cover-copy', Boolean(page.cover));
+      sentenceEl.innerHTML = page.cover ? escapeHtml(page.en) : buildSentenceHtml(page.en);
+      translationEl.textContent = page.cn || '';
+      translationEl.classList.toggle('hidden', !translationVisible);
+      document.getElementById('translationEye').setAttribute(
+        'aria-label', translationVisible ? '隐藏本页翻译' : '显示本页翻译'
+      );
+      pageIndicator.textContent = `第 ${index + 1} 页 / 共 ${pages.length} 页`;
+      progressFill.style.width = `${((index + 1) / pages.length) * 100}%`;
+      document.getElementById('prevBtn').disabled = index === 0;
+      document.getElementById('nextBtn').disabled = index === pages.length - 1;
+      document.getElementById('readPageBtn').disabled = Boolean(page.cover || !page.audio);
+      document.getElementById('followReadBtn').disabled = Boolean(page.cover);
+      bindWords();
+      resetFollowMode();
+      if (!options.keepAudio) {
+        stopAudio();
+      }
+    }
+
+    function showTooltip(target, item) {
+      document.getElementById('tooltipPhonetic').textContent = item.phonetic || '';
+      document.getElementById('tooltipTranslation').textContent = item.translation || '常用词';
+      const rect = target.getBoundingClientRect();
+      tooltip.style.left = `${Math.min(Math.max(rect.left + rect.width / 2, 150), window.innerWidth - 150)}px`;
+      tooltip.style.top = `${Math.max(rect.top - 8, 86)}px`;
+      tooltip.classList.add('show');
+      clearTimeout(showTooltip.timer);
+      showTooltip.timer = setTimeout(() => tooltip.classList.remove('show'), 2600);
+    }
+
+    function cardForItem(wordKey, item) {
+      const direct = coreCardMap.get(normalizeWord(item && item.word ? item.word : wordKey));
+      return direct || coreCardMap.get(wordKey) || null;
+    }
+
+    function openWordCard(card) {
+      if (!card) return;
+      tooltip.classList.remove('show');
+      document.getElementById('cardWord').textContent = card.word || '';
+      document.getElementById('cardPhonetic').textContent = card.phonetic || '';
+      document.getElementById('cardMeaning').textContent = card.translation || card.meaning || '';
+      document.getElementById('cardExample').innerHTML = `<strong>例句：</strong>${escapeHtml(card.example || '')}`;
+      document.getElementById('cardTip').innerHTML = `<strong>记忆：</strong>${escapeHtml(card.tips || card.note || '先听发音，再跟读一遍。')}`;
+      document.getElementById('cardListenBtn').dataset.audio = card.audio || '';
+      document.getElementById('cardListenBtn').dataset.speak = card.word || '';
+      document.getElementById('wordCardOverlay').classList.add('show');
+      document.getElementById('closeWordCard').focus();
+    }
+
+    function closeWordCard() {
+      document.getElementById('wordCardOverlay').classList.remove('show');
+    }
+
+    function activateWord(wordEl) {
+      const key = wordEl.dataset.word;
+      const item = getDictionaryItem(key) || {
+        word: wordEl.dataset.speak || key,
+        phonetic: `/${wordEl.dataset.speak || key}/`,
+        translation: '常用词',
+        audio: ''
+      };
+      stopAudio();
+      playAudio(item.audio, { rate: 0.9, missingMessage: '这个单词的固定音频尚未生成。' }).catch(() => {});
+      wordEl.classList.add('clicked');
+      setTimeout(() => wordEl.classList.remove('clicked'), 900);
+      const card = cardForItem(key, item);
+      if (card) openWordCard(card);
+      else showTooltip(wordEl, item);
+    }
+
+    function bindWords() {
+      document.querySelectorAll('.word').forEach((wordEl) => {
+        wordEl.addEventListener('click', () => activateWord(wordEl));
+        wordEl.addEventListener('keydown', (event) => {
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            activateWord(wordEl);
+          }
+        });
+      });
+    }
+
+    function readCurrentPage() {
+      const page = pages[currentPage];
+      if (page.cover) return;
+      if (isReading) {
+        stopAudio();
+        return;
+      }
+      stopAudio();
+      playAudio(page.audio, {
+        onstart: () => {
+          isReading = true;
+          document.getElementById('readPageBtn').textContent = '■ 停止朗读';
+        },
+        onend: () => {
+          isReading = false;
+          document.getElementById('readPageBtn').textContent = '🔊 朗读本页';
+        },
+        onerror: () => {
+          isReading = false;
+          document.getElementById('readPageBtn').textContent = '🔊 朗读本页';
+        }
+      }).catch(() => {});
+    }
+
+    function readPageInSequence(index) {
+      if (!readAllMode || index >= pages.length) {
+        stopAudio();
+        return;
+      }
+      if (pages[index].cover) {
+        readPageInSequence(index + 1);
+        return;
+      }
+      currentPage = index;
+      renderPage(index, { keepAudio: true });
+      document.getElementById('readAllBtn').textContent = '■ 停止全文';
+      playAudio(pages[index].audio, {
+        onend: () => {
+          if (readAllMode) setTimeout(() => readPageInSequence(index + 1), 650);
+        },
+        onerror: () => stopAudio()
+      }).catch(() => {});
+    }
+
+    function toggleReadAll() {
+      if (readAllMode) {
+        stopAudio();
+        return;
+      }
+      stopAudio();
+      readAllMode = true;
+      document.getElementById('readAllBtn').textContent = '■ 停止全文';
+      readPageInSequence(currentPage === 0 ? 1 : currentPage);
+    }
+
+    function toggleTranslation() {
+      translationVisible = !translationVisible;
+      translationEl.classList.toggle('hidden', !translationVisible);
+      document.getElementById('toggleTransBtn').textContent = translationVisible ? '译 隐藏翻译' : '译 显示翻译';
+      document.getElementById('translationEye').setAttribute(
+        'aria-label', translationVisible ? '隐藏本页翻译' : '显示本页翻译'
+      );
+    }
+
+    function words(text) {
+      return String(text || '').toLowerCase().replace(/[^a-z0-9' ]+/g, ' ').split(/\s+/).filter(Boolean);
+    }
+
+    function scoreSpeech(target, spoken) {
+      const a = words(target);
+      const b = words(spoken);
+      const table = Array.from({ length: a.length + 1 }, () => Array(b.length + 1).fill(0));
+      for (let i = 1; i <= a.length; i += 1) {
+        for (let j = 1; j <= b.length; j += 1) {
+          table[i][j] = a[i - 1] === b[j - 1]
+            ? table[i - 1][j - 1] + 1
+            : Math.max(table[i - 1][j], table[i][j - 1]);
+        }
+      }
+      const matched = new Set();
+      let i = a.length;
+      let j = b.length;
+      while (i > 0 && j > 0) {
+        if (a[i - 1] === b[j - 1]) {
+          matched.add(i - 1);
+          i -= 1;
+          j -= 1;
+        } else if (table[i - 1][j] >= table[i][j - 1]) i -= 1;
+        else j -= 1;
+      }
+      return {
+        score: Math.round((matched.size / Math.max(a.length, 1)) * 100),
+        targetWords: a,
+        matched,
+        spoken: spoken || ''
+      };
+    }
+
+    function resetFollowMode() {
+      clearInterval(followCountdown);
+      followCountdown = null;
+      if (recognition && isRecording) {
+        try { recognition.stop(); } catch (_) {}
+      }
+      isRecording = false;
+      document.getElementById('readingMode').classList.remove('show');
+      document.getElementById('feedbackContainer').classList.remove('show');
+      document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+      document.querySelectorAll('.word').forEach((node) => node.classList.remove('correct', 'incorrect'));
+    }
+
+    function renderFollowResult(result) {
+      const feedbackList = document.getElementById('feedbackList');
+      document.getElementById('readingStatus').textContent = result.score >= 80 ? '👍 读得很好！' : '💪 再练一次会更好';
+      document.getElementById('scoreDisplay').textContent = `得分：${result.score}分`;
+      document.getElementById('starsDisplay').textContent = result.score >= 90 ? '⭐⭐⭐' : result.score >= 70 ? '⭐⭐' : '⭐';
+      feedbackList.innerHTML = result.targetWords.map((word, index) => {
+        const correct = result.matched.has(index);
+        return `<li><button class="feedback-item" type="button" data-feedback-word="${escapeHtml(word)}">` +
+          `<span>${correct ? '✓' : '×'}</span><strong>${escapeHtml(word)}</strong>` +
+          `<span>${correct ? '发音已识别' : '请再听一遍'}</span><span>🔊</span></button></li>`;
+      }).join('');
+      document.getElementById('feedbackContainer').classList.add('show');
+      document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+      document.querySelectorAll('.word').forEach((node, index) => {
+        node.classList.add(result.matched.has(index) ? 'correct' : 'incorrect');
+      });
+      feedbackList.querySelectorAll('[data-feedback-word]').forEach((button) => {
+        button.addEventListener('click', () => {
+          const item = getDictionaryItem(normalizeWord(button.dataset.feedbackWord));
+          playAudio(item && item.audio ? item.audio : '', { missingMessage: '这个单词的固定音频尚未生成。' }).catch(() => {});
+        });
+      });
+    }
+
+    function beginRecognition() {
+      const page = pages[currentPage];
+      document.getElementById('countdown').textContent = '';
+      document.getElementById('readingStatus').textContent = '🔴 正在聆听，请朗读本页句子';
+      document.getElementById('followReadBtn').textContent = '■ 结束跟读';
+      isRecording = true;
+      recognition.onresult = (event) => {
+        isRecording = false;
+        const spoken = event.results[0][0].transcript;
+        renderFollowResult(scoreSpeech(page.en, spoken));
+      };
+      recognition.onerror = (event) => {
+        isRecording = false;
+        document.getElementById('readingStatus').textContent = `跟读没有启动：${event.error || '浏览器未返回原因'}`;
+        document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+      };
+      recognition.onend = () => { isRecording = false; };
+      try { recognition.start(); }
+      catch (_) { document.getElementById('readingStatus').textContent = '语音识别启动失败，请稍后再试。'; }
+    }
+
+    function startFollowReading() {
+      const page = pages[currentPage];
+      if (page.cover) return;
+      if (isRecording) {
+        try { recognition.stop(); } catch (_) {}
+        isRecording = false;
+        document.getElementById('followReadBtn').textContent = '🎤 跟读模式';
+        return;
+      }
+      const secure = location.protocol === 'https:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1';
+      document.getElementById('readingMode').classList.add('show');
+      document.getElementById('feedbackContainer').classList.remove('show');
+      document.getElementById('scoreDisplay').textContent = '';
+      document.getElementById('starsDisplay').textContent = '';
+      if (!recognition) {
+        document.getElementById('readingStatus').textContent = '当前浏览器未开放网页语音识别；请使用支持Web Speech的Chrome或Safari。';
+        return;
+      }
+      if (!secure) {
+        document.getElementById('readingStatus').textContent = '跟读需要HTTPS或localhost；直接双击HTML时浏览器会拦截麦克风。';
+        return;
+      }
+      stopAudio();
+      document.getElementById('readingStatus').textContent = '🎤 准备跟读';
+      let count = 3;
+      document.getElementById('countdown').textContent = count;
+      clearInterval(followCountdown);
+      followCountdown = setInterval(() => {
+        count -= 1;
+        if (count > 0) document.getElementById('countdown').textContent = count;
+        else {
+          clearInterval(followCountdown);
+          followCountdown = null;
+          beginRecognition();
+        }
+      }, 1000);
+    }
+
+    function renderCoreWords() {
+      document.getElementById('coreTitle').textContent = `核心词汇（${coreCards.length}个）`;
+      document.getElementById('coreList').innerHTML = coreCards.map((card) =>
+        `<button class="core-chip" type="button" data-core-word="${escapeHtml(normalizeWord(card.word))}">${escapeHtml(card.word)}</button>`
+      ).join('');
+      document.querySelectorAll('[data-core-word]').forEach((button) => {
+        button.addEventListener('click', () => openWordCard(coreCardMap.get(button.dataset.coreWord)));
+      });
+    }
+
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      if (currentPage > 0) { currentPage -= 1; renderPage(currentPage); }
+    });
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      if (currentPage < pages.length - 1) { currentPage += 1; renderPage(currentPage); }
+    });
+    document.getElementById('readPageBtn').addEventListener('click', readCurrentPage);
+    document.getElementById('readAllBtn').addEventListener('click', toggleReadAll);
+    document.getElementById('toggleTransBtn').addEventListener('click', toggleTranslation);
+    document.getElementById('translationEye').addEventListener('click', toggleTranslation);
+    document.getElementById('followReadBtn').addEventListener('click', startFollowReading);
+    document.getElementById('retryBtn').addEventListener('click', startFollowReading);
+    document.getElementById('finishFollowBtn').addEventListener('click', resetFollowMode);
+    document.getElementById('closeWordCard').addEventListener('click', closeWordCard);
+    document.getElementById('cardDoneBtn').addEventListener('click', closeWordCard);
+    document.getElementById('wordCardOverlay').addEventListener('click', (event) => {
+      if (event.target.id === 'wordCardOverlay') closeWordCard();
+    });
+    document.getElementById('cardListenBtn').addEventListener('click', (event) => {
+      playAudio(event.currentTarget.dataset.audio || '', { missingMessage: '这个单词的固定音频尚未生成。' }).catch(() => {});
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (document.getElementById('wordCardOverlay').classList.contains('show')) {
+        if (event.key === 'Escape') closeWordCard();
+        return;
+      }
+      if (event.key === 'ArrowLeft' && currentPage > 0) { currentPage -= 1; renderPage(currentPage); }
+      if (event.key === 'ArrowRight' && currentPage < pages.length - 1) { currentPage += 1; renderPage(currentPage); }
+    });
+
+    renderCoreWords();
+    renderPage(0);
+  </script>
+</body>
+</html>

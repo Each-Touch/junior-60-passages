@@ -1,0 +1,1021 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "As a country powerful in maths, China has many creative folk games full of maths wisdom.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "You may play them during a sunny afternoon or on a vacation abroad.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Let's take a look at three of them.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Chinese Nine Linked Rings Puzzle",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "It's believed that the Nine Linked Rings puzzle was created in the Western Han Dynasty and may have been played even by the emperor himself.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "It is usually made up of nine rings connected to a handle.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Players have to remove all the rings from the handle to win the game.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "This is not a simple game.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "The solution takes 341 moves.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "So lots of effort is required.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "But if you learn to solve it, you'll probably never forget.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Tangram",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "The tangram is a puzzle made up of seven pieces of different shapes, including a square, a parallelogram, and five triangles.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Players need to use all the pieces to make a shape.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "In the 18th century, the tangram was brought to the West and soon gathered international attention.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "Today, you can play it on a computer screen or over the Internet.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Luban Lock",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "It is said that the Luban Lock was first created by Lu Ban, who was a famous engineer in ancient China.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "The lock has a lot to do with solid geometry.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "It's hard to separate the six pieces.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "However, it is usually easier to unlock a Luban lock than to fix it back together.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "Many people like to collect different kinds of Luban locks, considering them as treasures of Chinese culture.",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "abroad",
+      "text": "abroad",
+      "file": "assets/audio/words/abroad.mp3",
+      "exists": false
+    },
+    {
+      "key": "afternoon",
+      "text": "afternoon",
+      "file": "assets/audio/words/afternoon.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "ancient",
+      "text": "ancient",
+      "file": "assets/audio/words/ancient.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "As",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "attention",
+      "text": "attention",
+      "file": "assets/audio/words/attention.mp3",
+      "exists": false
+    },
+    {
+      "key": "back",
+      "text": "back",
+      "file": "assets/audio/words/back.mp3",
+      "exists": false
+    },
+    {
+      "key": "ban",
+      "text": "Ban",
+      "file": "assets/audio/words/ban.mp3",
+      "exists": false
+    },
+    {
+      "key": "been",
+      "text": "been",
+      "file": "assets/audio/words/been.mp3",
+      "exists": false
+    },
+    {
+      "key": "believed",
+      "text": "believed",
+      "file": "assets/audio/words/believed.mp3",
+      "exists": false
+    },
+    {
+      "key": "brought",
+      "text": "brought",
+      "file": "assets/audio/words/brought.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "But",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "century",
+      "text": "century",
+      "file": "assets/audio/words/century.mp3",
+      "exists": false
+    },
+    {
+      "key": "china",
+      "text": "China",
+      "file": "assets/audio/words/china.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinese",
+      "text": "Chinese",
+      "file": "assets/audio/words/chinese.mp3",
+      "exists": false
+    },
+    {
+      "key": "collect",
+      "text": "collect",
+      "file": "assets/audio/words/collect.mp3",
+      "exists": false
+    },
+    {
+      "key": "computer",
+      "text": "computer",
+      "file": "assets/audio/words/computer.mp3",
+      "exists": false
+    },
+    {
+      "key": "connected",
+      "text": "connected",
+      "file": "assets/audio/words/connected.mp3",
+      "exists": false
+    },
+    {
+      "key": "considering",
+      "text": "considering",
+      "file": "assets/audio/words/considering.mp3",
+      "exists": false
+    },
+    {
+      "key": "country",
+      "text": "country",
+      "file": "assets/audio/words/country.mp3",
+      "exists": false
+    },
+    {
+      "key": "created",
+      "text": "created",
+      "file": "assets/audio/words/created.mp3",
+      "exists": false
+    },
+    {
+      "key": "creative",
+      "text": "creative",
+      "file": "assets/audio/words/creative.mp3",
+      "exists": false
+    },
+    {
+      "key": "culture",
+      "text": "culture",
+      "file": "assets/audio/words/culture.mp3",
+      "exists": false
+    },
+    {
+      "key": "different",
+      "text": "different",
+      "file": "assets/audio/words/different.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "during",
+      "text": "during",
+      "file": "assets/audio/words/during.mp3",
+      "exists": false
+    },
+    {
+      "key": "dynasty",
+      "text": "Dynasty",
+      "file": "assets/audio/words/dynasty.mp3",
+      "exists": false
+    },
+    {
+      "key": "easier",
+      "text": "easier",
+      "file": "assets/audio/words/easier.mp3",
+      "exists": false
+    },
+    {
+      "key": "effort",
+      "text": "effort",
+      "file": "assets/audio/words/effort.mp3",
+      "exists": false
+    },
+    {
+      "key": "emperor",
+      "text": "emperor",
+      "file": "assets/audio/words/emperor.mp3",
+      "exists": false
+    },
+    {
+      "key": "engineer",
+      "text": "engineer",
+      "file": "assets/audio/words/engineer.mp3",
+      "exists": false
+    },
+    {
+      "key": "even",
+      "text": "even",
+      "file": "assets/audio/words/even.mp3",
+      "exists": false
+    },
+    {
+      "key": "famous",
+      "text": "famous",
+      "file": "assets/audio/words/famous.mp3",
+      "exists": false
+    },
+    {
+      "key": "first",
+      "text": "first",
+      "file": "assets/audio/words/first.mp3",
+      "exists": false
+    },
+    {
+      "key": "five",
+      "text": "five",
+      "file": "assets/audio/words/five.mp3",
+      "exists": false
+    },
+    {
+      "key": "fix",
+      "text": "fix",
+      "file": "assets/audio/words/fix.mp3",
+      "exists": false
+    },
+    {
+      "key": "folk",
+      "text": "folk",
+      "file": "assets/audio/words/folk.mp3",
+      "exists": false
+    },
+    {
+      "key": "forget",
+      "text": "forget",
+      "file": "assets/audio/words/forget.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "full",
+      "text": "full",
+      "file": "assets/audio/words/full.mp3",
+      "exists": false
+    },
+    {
+      "key": "game",
+      "text": "game",
+      "file": "assets/audio/words/game.mp3",
+      "exists": false
+    },
+    {
+      "key": "games",
+      "text": "games",
+      "file": "assets/audio/words/games.mp3",
+      "exists": false
+    },
+    {
+      "key": "gathered",
+      "text": "gathered",
+      "file": "assets/audio/words/gathered.mp3",
+      "exists": false
+    },
+    {
+      "key": "geometry",
+      "text": "geometry",
+      "file": "assets/audio/words/geometry.mp3",
+      "exists": false
+    },
+    {
+      "key": "han",
+      "text": "Han",
+      "file": "assets/audio/words/han.mp3",
+      "exists": false
+    },
+    {
+      "key": "handle",
+      "text": "handle",
+      "file": "assets/audio/words/handle.mp3",
+      "exists": false
+    },
+    {
+      "key": "hard",
+      "text": "hard",
+      "file": "assets/audio/words/hard.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "himself",
+      "text": "himself",
+      "file": "assets/audio/words/himself.mp3",
+      "exists": false
+    },
+    {
+      "key": "however",
+      "text": "However",
+      "file": "assets/audio/words/however.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "if",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "including",
+      "text": "including",
+      "file": "assets/audio/words/including.mp3",
+      "exists": false
+    },
+    {
+      "key": "international",
+      "text": "international",
+      "file": "assets/audio/words/international.mp3",
+      "exists": false
+    },
+    {
+      "key": "internet",
+      "text": "Internet",
+      "file": "assets/audio/words/internet.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "It's",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "kinds",
+      "text": "kinds",
+      "file": "assets/audio/words/kinds.mp3",
+      "exists": false
+    },
+    {
+      "key": "learn",
+      "text": "learn",
+      "file": "assets/audio/words/learn.mp3",
+      "exists": false
+    },
+    {
+      "key": "lets",
+      "text": "Let's",
+      "file": "assets/audio/words/lets.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "linked",
+      "text": "Linked",
+      "file": "assets/audio/words/linked.mp3",
+      "exists": false
+    },
+    {
+      "key": "lock",
+      "text": "Lock",
+      "file": "assets/audio/words/lock.mp3",
+      "exists": false
+    },
+    {
+      "key": "locks",
+      "text": "locks",
+      "file": "assets/audio/words/locks.mp3",
+      "exists": false
+    },
+    {
+      "key": "look",
+      "text": "look",
+      "file": "assets/audio/words/look.mp3",
+      "exists": false
+    },
+    {
+      "key": "lot",
+      "text": "lot",
+      "file": "assets/audio/words/lot.mp3",
+      "exists": false
+    },
+    {
+      "key": "lots",
+      "text": "lots",
+      "file": "assets/audio/words/lots.mp3",
+      "exists": false
+    },
+    {
+      "key": "lu",
+      "text": "Lu",
+      "file": "assets/audio/words/lu.mp3",
+      "exists": false
+    },
+    {
+      "key": "luban",
+      "text": "Luban",
+      "file": "assets/audio/words/luban.mp3",
+      "exists": false
+    },
+    {
+      "key": "made",
+      "text": "made",
+      "file": "assets/audio/words/made.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "maths",
+      "text": "maths",
+      "file": "assets/audio/words/maths.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "moves",
+      "text": "moves",
+      "file": "assets/audio/words/moves.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "never",
+      "text": "never",
+      "file": "assets/audio/words/never.mp3",
+      "exists": false
+    },
+    {
+      "key": "nine",
+      "text": "Nine",
+      "file": "assets/audio/words/nine.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "over",
+      "text": "over",
+      "file": "assets/audio/words/over.mp3",
+      "exists": false
+    },
+    {
+      "key": "parallelogram",
+      "text": "parallelogram",
+      "file": "assets/audio/words/parallelogram.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "pieces",
+      "text": "pieces",
+      "file": "assets/audio/words/pieces.mp3",
+      "exists": false
+    },
+    {
+      "key": "play",
+      "text": "play",
+      "file": "assets/audio/words/play.mp3",
+      "exists": false
+    },
+    {
+      "key": "played",
+      "text": "played",
+      "file": "assets/audio/words/played.mp3",
+      "exists": false
+    },
+    {
+      "key": "players",
+      "text": "Players",
+      "file": "assets/audio/words/players.mp3",
+      "exists": false
+    },
+    {
+      "key": "powerful",
+      "text": "powerful",
+      "file": "assets/audio/words/powerful.mp3",
+      "exists": false
+    },
+    {
+      "key": "probably",
+      "text": "probably",
+      "file": "assets/audio/words/probably.mp3",
+      "exists": false
+    },
+    {
+      "key": "puzzle",
+      "text": "Puzzle",
+      "file": "assets/audio/words/puzzle.mp3",
+      "exists": false
+    },
+    {
+      "key": "remove",
+      "text": "remove",
+      "file": "assets/audio/words/remove.mp3",
+      "exists": false
+    },
+    {
+      "key": "required",
+      "text": "required",
+      "file": "assets/audio/words/required.mp3",
+      "exists": false
+    },
+    {
+      "key": "rings",
+      "text": "Rings",
+      "file": "assets/audio/words/rings.mp3",
+      "exists": false
+    },
+    {
+      "key": "said",
+      "text": "said",
+      "file": "assets/audio/words/said.mp3",
+      "exists": false
+    },
+    {
+      "key": "screen",
+      "text": "screen",
+      "file": "assets/audio/words/screen.mp3",
+      "exists": false
+    },
+    {
+      "key": "separate",
+      "text": "separate",
+      "file": "assets/audio/words/separate.mp3",
+      "exists": false
+    },
+    {
+      "key": "seven",
+      "text": "seven",
+      "file": "assets/audio/words/seven.mp3",
+      "exists": false
+    },
+    {
+      "key": "shape",
+      "text": "shape",
+      "file": "assets/audio/words/shape.mp3",
+      "exists": false
+    },
+    {
+      "key": "shapes",
+      "text": "shapes",
+      "file": "assets/audio/words/shapes.mp3",
+      "exists": false
+    },
+    {
+      "key": "simple",
+      "text": "simple",
+      "file": "assets/audio/words/simple.mp3",
+      "exists": false
+    },
+    {
+      "key": "six",
+      "text": "six",
+      "file": "assets/audio/words/six.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "So",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "solid",
+      "text": "solid",
+      "file": "assets/audio/words/solid.mp3",
+      "exists": false
+    },
+    {
+      "key": "solution",
+      "text": "solution",
+      "file": "assets/audio/words/solution.mp3",
+      "exists": false
+    },
+    {
+      "key": "solve",
+      "text": "solve",
+      "file": "assets/audio/words/solve.mp3",
+      "exists": false
+    },
+    {
+      "key": "soon",
+      "text": "soon",
+      "file": "assets/audio/words/soon.mp3",
+      "exists": false
+    },
+    {
+      "key": "square",
+      "text": "square",
+      "file": "assets/audio/words/square.mp3",
+      "exists": false
+    },
+    {
+      "key": "sunny",
+      "text": "sunny",
+      "file": "assets/audio/words/sunny.mp3",
+      "exists": false
+    },
+    {
+      "key": "take",
+      "text": "take",
+      "file": "assets/audio/words/take.mp3",
+      "exists": false
+    },
+    {
+      "key": "takes",
+      "text": "takes",
+      "file": "assets/audio/words/takes.mp3",
+      "exists": false
+    },
+    {
+      "key": "tangram",
+      "text": "Tangram",
+      "file": "assets/audio/words/tangram.mp3",
+      "exists": false
+    },
+    {
+      "key": "th",
+      "text": "th",
+      "file": "assets/audio/words/th.mp3",
+      "exists": false
+    },
+    {
+      "key": "than",
+      "text": "than",
+      "file": "assets/audio/words/than.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "three",
+      "text": "three",
+      "file": "assets/audio/words/three.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "today",
+      "text": "Today",
+      "file": "assets/audio/words/today.mp3",
+      "exists": false
+    },
+    {
+      "key": "together",
+      "text": "together",
+      "file": "assets/audio/words/together.mp3",
+      "exists": false
+    },
+    {
+      "key": "treasures",
+      "text": "treasures",
+      "file": "assets/audio/words/treasures.mp3",
+      "exists": false
+    },
+    {
+      "key": "triangles",
+      "text": "triangles",
+      "file": "assets/audio/words/triangles.mp3",
+      "exists": false
+    },
+    {
+      "key": "unlock",
+      "text": "unlock",
+      "file": "assets/audio/words/unlock.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "use",
+      "text": "use",
+      "file": "assets/audio/words/use.mp3",
+      "exists": false
+    },
+    {
+      "key": "usually",
+      "text": "usually",
+      "file": "assets/audio/words/usually.mp3",
+      "exists": false
+    },
+    {
+      "key": "vacation",
+      "text": "vacation",
+      "file": "assets/audio/words/vacation.mp3",
+      "exists": false
+    },
+    {
+      "key": "was",
+      "text": "was",
+      "file": "assets/audio/words/was.mp3",
+      "exists": false
+    },
+    {
+      "key": "west",
+      "text": "West",
+      "file": "assets/audio/words/west.mp3",
+      "exists": false
+    },
+    {
+      "key": "western",
+      "text": "Western",
+      "file": "assets/audio/words/western.mp3",
+      "exists": false
+    },
+    {
+      "key": "who",
+      "text": "who",
+      "file": "assets/audio/words/who.mp3",
+      "exists": false
+    },
+    {
+      "key": "win",
+      "text": "win",
+      "file": "assets/audio/words/win.mp3",
+      "exists": false
+    },
+    {
+      "key": "wisdom",
+      "text": "wisdom",
+      "file": "assets/audio/words/wisdom.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "You",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "youll",
+      "text": "you'll",
+      "file": "assets/audio/words/youll.mp3",
+      "exists": false
+    }
+  ]
+}

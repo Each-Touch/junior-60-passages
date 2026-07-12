@@ -1,0 +1,1081 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "The world's best athletes get together for the Olympic Games every four years.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "The 2024 Olympic Games took place in Paris, France.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "For the first time, people watched breaking as a new event at the Olympics.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Breaking is also called break dancing.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "It is popular among the youth today.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "The high-energy, skillful dance includes moves such as Top Rock, Footwork, Go Down, Freeze and so on.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "The dancers need to think and show the moves of the hands and feet quickly.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "Break dance battles are a common way to find out who is the best dancer.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "In the 1970s in New York City, fighting with others among teenage girls and boys became more and more serious.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Some of them began to deal with the problem through dance instead.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Just then, the dance style first showed up on the streets.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "In a \"battle\" like this, one dancer will show off his kicks and spins, and then the next will continue to compete.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Everyone keeps their spirits up.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "The best dancer will finally be picked out and gain his grand victory.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "Today, there are battles held in a local hall, where dancers are scored and voted for based on their performance.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "The planners added breaking to the Olympics, because it meets the standard of being widely practised by men and women in a large number of countries.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "\"Breaking has been accepted as a sport. I really feel proud,\" said Xiaoyu, one breakdancer.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "\"And for the Olympics, it will get more attention from young people who may not follow some of the traditional sports.\"",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "accepted",
+      "text": "accepted",
+      "file": "assets/audio/words/accepted.mp3",
+      "exists": false
+    },
+    {
+      "key": "added",
+      "text": "added",
+      "file": "assets/audio/words/added.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "among",
+      "text": "among",
+      "file": "assets/audio/words/among.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "athletes",
+      "text": "athletes",
+      "file": "assets/audio/words/athletes.mp3",
+      "exists": false
+    },
+    {
+      "key": "attention",
+      "text": "attention",
+      "file": "assets/audio/words/attention.mp3",
+      "exists": false
+    },
+    {
+      "key": "based",
+      "text": "based",
+      "file": "assets/audio/words/based.mp3",
+      "exists": false
+    },
+    {
+      "key": "battle",
+      "text": "battle",
+      "file": "assets/audio/words/battle.mp3",
+      "exists": false
+    },
+    {
+      "key": "battles",
+      "text": "battles",
+      "file": "assets/audio/words/battles.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "became",
+      "text": "became",
+      "file": "assets/audio/words/became.mp3",
+      "exists": false
+    },
+    {
+      "key": "because",
+      "text": "because",
+      "file": "assets/audio/words/because.mp3",
+      "exists": false
+    },
+    {
+      "key": "been",
+      "text": "been",
+      "file": "assets/audio/words/been.mp3",
+      "exists": false
+    },
+    {
+      "key": "began",
+      "text": "began",
+      "file": "assets/audio/words/began.mp3",
+      "exists": false
+    },
+    {
+      "key": "being",
+      "text": "being",
+      "file": "assets/audio/words/being.mp3",
+      "exists": false
+    },
+    {
+      "key": "best",
+      "text": "best",
+      "file": "assets/audio/words/best.mp3",
+      "exists": false
+    },
+    {
+      "key": "boys",
+      "text": "boys",
+      "file": "assets/audio/words/boys.mp3",
+      "exists": false
+    },
+    {
+      "key": "break",
+      "text": "break",
+      "file": "assets/audio/words/break.mp3",
+      "exists": false
+    },
+    {
+      "key": "breakdancer",
+      "text": "breakdancer",
+      "file": "assets/audio/words/breakdancer.mp3",
+      "exists": false
+    },
+    {
+      "key": "breaking",
+      "text": "breaking",
+      "file": "assets/audio/words/breaking.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "called",
+      "text": "called",
+      "file": "assets/audio/words/called.mp3",
+      "exists": false
+    },
+    {
+      "key": "city",
+      "text": "City",
+      "file": "assets/audio/words/city.mp3",
+      "exists": false
+    },
+    {
+      "key": "common",
+      "text": "common",
+      "file": "assets/audio/words/common.mp3",
+      "exists": false
+    },
+    {
+      "key": "compete",
+      "text": "compete",
+      "file": "assets/audio/words/compete.mp3",
+      "exists": false
+    },
+    {
+      "key": "continue",
+      "text": "continue",
+      "file": "assets/audio/words/continue.mp3",
+      "exists": false
+    },
+    {
+      "key": "countries",
+      "text": "countries",
+      "file": "assets/audio/words/countries.mp3",
+      "exists": false
+    },
+    {
+      "key": "dance",
+      "text": "dance",
+      "file": "assets/audio/words/dance.mp3",
+      "exists": false
+    },
+    {
+      "key": "dancer",
+      "text": "dancer",
+      "file": "assets/audio/words/dancer.mp3",
+      "exists": false
+    },
+    {
+      "key": "dancers",
+      "text": "dancers",
+      "file": "assets/audio/words/dancers.mp3",
+      "exists": false
+    },
+    {
+      "key": "dancing",
+      "text": "dancing",
+      "file": "assets/audio/words/dancing.mp3",
+      "exists": false
+    },
+    {
+      "key": "deal",
+      "text": "deal",
+      "file": "assets/audio/words/deal.mp3",
+      "exists": false
+    },
+    {
+      "key": "down",
+      "text": "Down",
+      "file": "assets/audio/words/down.mp3",
+      "exists": false
+    },
+    {
+      "key": "energy",
+      "text": "energy",
+      "file": "assets/audio/words/energy.mp3",
+      "exists": false
+    },
+    {
+      "key": "event",
+      "text": "event",
+      "file": "assets/audio/words/event.mp3",
+      "exists": false
+    },
+    {
+      "key": "every",
+      "text": "every",
+      "file": "assets/audio/words/every.mp3",
+      "exists": false
+    },
+    {
+      "key": "everyone",
+      "text": "Everyone",
+      "file": "assets/audio/words/everyone.mp3",
+      "exists": false
+    },
+    {
+      "key": "feel",
+      "text": "feel",
+      "file": "assets/audio/words/feel.mp3",
+      "exists": false
+    },
+    {
+      "key": "feet",
+      "text": "feet",
+      "file": "assets/audio/words/feet.mp3",
+      "exists": false
+    },
+    {
+      "key": "fighting",
+      "text": "fighting",
+      "file": "assets/audio/words/fighting.mp3",
+      "exists": false
+    },
+    {
+      "key": "finally",
+      "text": "finally",
+      "file": "assets/audio/words/finally.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "first",
+      "text": "first",
+      "file": "assets/audio/words/first.mp3",
+      "exists": false
+    },
+    {
+      "key": "follow",
+      "text": "follow",
+      "file": "assets/audio/words/follow.mp3",
+      "exists": false
+    },
+    {
+      "key": "footwork",
+      "text": "Footwork",
+      "file": "assets/audio/words/footwork.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "four",
+      "text": "four",
+      "file": "assets/audio/words/four.mp3",
+      "exists": false
+    },
+    {
+      "key": "france",
+      "text": "France",
+      "file": "assets/audio/words/france.mp3",
+      "exists": false
+    },
+    {
+      "key": "freeze",
+      "text": "Freeze",
+      "file": "assets/audio/words/freeze.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "gain",
+      "text": "gain",
+      "file": "assets/audio/words/gain.mp3",
+      "exists": false
+    },
+    {
+      "key": "games",
+      "text": "Games",
+      "file": "assets/audio/words/games.mp3",
+      "exists": false
+    },
+    {
+      "key": "get",
+      "text": "get",
+      "file": "assets/audio/words/get.mp3",
+      "exists": false
+    },
+    {
+      "key": "girls",
+      "text": "girls",
+      "file": "assets/audio/words/girls.mp3",
+      "exists": false
+    },
+    {
+      "key": "go",
+      "text": "Go",
+      "file": "assets/audio/words/go.mp3",
+      "exists": false
+    },
+    {
+      "key": "grand",
+      "text": "grand",
+      "file": "assets/audio/words/grand.mp3",
+      "exists": false
+    },
+    {
+      "key": "hall",
+      "text": "hall",
+      "file": "assets/audio/words/hall.mp3",
+      "exists": false
+    },
+    {
+      "key": "hands",
+      "text": "hands",
+      "file": "assets/audio/words/hands.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "held",
+      "text": "held",
+      "file": "assets/audio/words/held.mp3",
+      "exists": false
+    },
+    {
+      "key": "high",
+      "text": "high",
+      "file": "assets/audio/words/high.mp3",
+      "exists": false
+    },
+    {
+      "key": "his",
+      "text": "his",
+      "file": "assets/audio/words/his.mp3",
+      "exists": false
+    },
+    {
+      "key": "i",
+      "text": "I",
+      "file": "assets/audio/words/i.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "includes",
+      "text": "includes",
+      "file": "assets/audio/words/includes.mp3",
+      "exists": false
+    },
+    {
+      "key": "instead",
+      "text": "instead",
+      "file": "assets/audio/words/instead.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "just",
+      "text": "Just",
+      "file": "assets/audio/words/just.mp3",
+      "exists": false
+    },
+    {
+      "key": "keeps",
+      "text": "keeps",
+      "file": "assets/audio/words/keeps.mp3",
+      "exists": false
+    },
+    {
+      "key": "kicks",
+      "text": "kicks",
+      "file": "assets/audio/words/kicks.mp3",
+      "exists": false
+    },
+    {
+      "key": "large",
+      "text": "large",
+      "file": "assets/audio/words/large.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "local",
+      "text": "local",
+      "file": "assets/audio/words/local.mp3",
+      "exists": false
+    },
+    {
+      "key": "may",
+      "text": "may",
+      "file": "assets/audio/words/may.mp3",
+      "exists": false
+    },
+    {
+      "key": "meets",
+      "text": "meets",
+      "file": "assets/audio/words/meets.mp3",
+      "exists": false
+    },
+    {
+      "key": "men",
+      "text": "men",
+      "file": "assets/audio/words/men.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "moves",
+      "text": "moves",
+      "file": "assets/audio/words/moves.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "new",
+      "text": "new",
+      "file": "assets/audio/words/new.mp3",
+      "exists": false
+    },
+    {
+      "key": "next",
+      "text": "next",
+      "file": "assets/audio/words/next.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "number",
+      "text": "number",
+      "file": "assets/audio/words/number.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "off",
+      "text": "off",
+      "file": "assets/audio/words/off.mp3",
+      "exists": false
+    },
+    {
+      "key": "olympic",
+      "text": "Olympic",
+      "file": "assets/audio/words/olympic.mp3",
+      "exists": false
+    },
+    {
+      "key": "olympics",
+      "text": "Olympics",
+      "file": "assets/audio/words/olympics.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "others",
+      "text": "others",
+      "file": "assets/audio/words/others.mp3",
+      "exists": false
+    },
+    {
+      "key": "out",
+      "text": "out",
+      "file": "assets/audio/words/out.mp3",
+      "exists": false
+    },
+    {
+      "key": "paris",
+      "text": "Paris",
+      "file": "assets/audio/words/paris.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "performance",
+      "text": "performance",
+      "file": "assets/audio/words/performance.mp3",
+      "exists": false
+    },
+    {
+      "key": "picked",
+      "text": "picked",
+      "file": "assets/audio/words/picked.mp3",
+      "exists": false
+    },
+    {
+      "key": "place",
+      "text": "place",
+      "file": "assets/audio/words/place.mp3",
+      "exists": false
+    },
+    {
+      "key": "planners",
+      "text": "planners",
+      "file": "assets/audio/words/planners.mp3",
+      "exists": false
+    },
+    {
+      "key": "popular",
+      "text": "popular",
+      "file": "assets/audio/words/popular.mp3",
+      "exists": false
+    },
+    {
+      "key": "practised",
+      "text": "practised",
+      "file": "assets/audio/words/practised.mp3",
+      "exists": false
+    },
+    {
+      "key": "problem",
+      "text": "problem",
+      "file": "assets/audio/words/problem.mp3",
+      "exists": false
+    },
+    {
+      "key": "proud",
+      "text": "proud",
+      "file": "assets/audio/words/proud.mp3",
+      "exists": false
+    },
+    {
+      "key": "quickly",
+      "text": "quickly",
+      "file": "assets/audio/words/quickly.mp3",
+      "exists": false
+    },
+    {
+      "key": "really",
+      "text": "really",
+      "file": "assets/audio/words/really.mp3",
+      "exists": false
+    },
+    {
+      "key": "rock",
+      "text": "Rock",
+      "file": "assets/audio/words/rock.mp3",
+      "exists": false
+    },
+    {
+      "key": "s",
+      "text": "s",
+      "file": "assets/audio/words/s.mp3",
+      "exists": false
+    },
+    {
+      "key": "said",
+      "text": "said",
+      "file": "assets/audio/words/said.mp3",
+      "exists": false
+    },
+    {
+      "key": "scored",
+      "text": "scored",
+      "file": "assets/audio/words/scored.mp3",
+      "exists": false
+    },
+    {
+      "key": "serious",
+      "text": "serious",
+      "file": "assets/audio/words/serious.mp3",
+      "exists": false
+    },
+    {
+      "key": "show",
+      "text": "show",
+      "file": "assets/audio/words/show.mp3",
+      "exists": false
+    },
+    {
+      "key": "showed",
+      "text": "showed",
+      "file": "assets/audio/words/showed.mp3",
+      "exists": false
+    },
+    {
+      "key": "skillful",
+      "text": "skillful",
+      "file": "assets/audio/words/skillful.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "Some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "spins",
+      "text": "spins",
+      "file": "assets/audio/words/spins.mp3",
+      "exists": false
+    },
+    {
+      "key": "spirits",
+      "text": "spirits",
+      "file": "assets/audio/words/spirits.mp3",
+      "exists": false
+    },
+    {
+      "key": "sport",
+      "text": "sport",
+      "file": "assets/audio/words/sport.mp3",
+      "exists": false
+    },
+    {
+      "key": "sports",
+      "text": "sports",
+      "file": "assets/audio/words/sports.mp3",
+      "exists": false
+    },
+    {
+      "key": "standard",
+      "text": "standard",
+      "file": "assets/audio/words/standard.mp3",
+      "exists": false
+    },
+    {
+      "key": "streets",
+      "text": "streets",
+      "file": "assets/audio/words/streets.mp3",
+      "exists": false
+    },
+    {
+      "key": "style",
+      "text": "style",
+      "file": "assets/audio/words/style.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "teenage",
+      "text": "teenage",
+      "file": "assets/audio/words/teenage.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "The",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "their",
+      "text": "their",
+      "file": "assets/audio/words/their.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "there",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "think",
+      "text": "think",
+      "file": "assets/audio/words/think.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "this",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "through",
+      "text": "through",
+      "file": "assets/audio/words/through.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "today",
+      "text": "today",
+      "file": "assets/audio/words/today.mp3",
+      "exists": false
+    },
+    {
+      "key": "together",
+      "text": "together",
+      "file": "assets/audio/words/together.mp3",
+      "exists": false
+    },
+    {
+      "key": "took",
+      "text": "took",
+      "file": "assets/audio/words/took.mp3",
+      "exists": false
+    },
+    {
+      "key": "top",
+      "text": "Top",
+      "file": "assets/audio/words/top.mp3",
+      "exists": false
+    },
+    {
+      "key": "traditional",
+      "text": "traditional",
+      "file": "assets/audio/words/traditional.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "victory",
+      "text": "victory",
+      "file": "assets/audio/words/victory.mp3",
+      "exists": false
+    },
+    {
+      "key": "voted",
+      "text": "voted",
+      "file": "assets/audio/words/voted.mp3",
+      "exists": false
+    },
+    {
+      "key": "watched",
+      "text": "watched",
+      "file": "assets/audio/words/watched.mp3",
+      "exists": false
+    },
+    {
+      "key": "way",
+      "text": "way",
+      "file": "assets/audio/words/way.mp3",
+      "exists": false
+    },
+    {
+      "key": "where",
+      "text": "where",
+      "file": "assets/audio/words/where.mp3",
+      "exists": false
+    },
+    {
+      "key": "who",
+      "text": "who",
+      "file": "assets/audio/words/who.mp3",
+      "exists": false
+    },
+    {
+      "key": "widely",
+      "text": "widely",
+      "file": "assets/audio/words/widely.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "women",
+      "text": "women",
+      "file": "assets/audio/words/women.mp3",
+      "exists": false
+    },
+    {
+      "key": "worlds",
+      "text": "world's",
+      "file": "assets/audio/words/worlds.mp3",
+      "exists": false
+    },
+    {
+      "key": "xiaoyu",
+      "text": "Xiaoyu",
+      "file": "assets/audio/words/xiaoyu.mp3",
+      "exists": false
+    },
+    {
+      "key": "years",
+      "text": "years",
+      "file": "assets/audio/words/years.mp3",
+      "exists": false
+    },
+    {
+      "key": "york",
+      "text": "York",
+      "file": "assets/audio/words/york.mp3",
+      "exists": false
+    },
+    {
+      "key": "young",
+      "text": "young",
+      "file": "assets/audio/words/young.mp3",
+      "exists": false
+    },
+    {
+      "key": "youth",
+      "text": "youth",
+      "file": "assets/audio/words/youth.mp3",
+      "exists": false
+    }
+  ]
+}

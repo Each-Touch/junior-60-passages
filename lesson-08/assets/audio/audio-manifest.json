@@ -1,0 +1,1039 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Chemistry is usually thought to be more difficult than other subjects, at least for the beginners.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "There are some reasons for this idea.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "For one thing, chemistry has a very specialised vocabulary.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "At first, studying chemistry is like learning a new language.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "Also, some concepts of chemistry are hard to understand.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "However, with hard work and careful study, you can finish this subject successfully and even enjoy it.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Here are some suggestions to help you develop good study habits and better understand the topics in the book.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "Firstly, attend classes on time.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "Focus on what the teacher writes with chalk on the blackboard and take careful notes in class.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "If possible, always review the topics you learn in class.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Do not be afraid to ask others for help.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Secondly, think whether you really understand the meaning of a term.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "A good way to test your understanding is to explain a concept to a classmate or someone else.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Thirdly, pay attention to things which have something to do with chemistry in life.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "Do experiments in the lab actively to gain experience.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "Fourthly, aim to earn an award or medal in school science fairs to recognise your hard work.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Have candy or a cookie after finishing a challenging project.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "This can serve as a reward for yourself.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "You will find that chemistry is much more than numbers, formulas, and equations.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "It's often used in daily life just like maths and physics.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "actively",
+      "text": "actively",
+      "file": "assets/audio/words/actively.mp3",
+      "exists": false
+    },
+    {
+      "key": "afraid",
+      "text": "afraid",
+      "file": "assets/audio/words/afraid.mp3",
+      "exists": false
+    },
+    {
+      "key": "after",
+      "text": "after",
+      "file": "assets/audio/words/after.mp3",
+      "exists": false
+    },
+    {
+      "key": "aim",
+      "text": "aim",
+      "file": "assets/audio/words/aim.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "Also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "always",
+      "text": "always",
+      "file": "assets/audio/words/always.mp3",
+      "exists": false
+    },
+    {
+      "key": "an",
+      "text": "an",
+      "file": "assets/audio/words/an.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "ask",
+      "text": "ask",
+      "file": "assets/audio/words/ask.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "attend",
+      "text": "attend",
+      "file": "assets/audio/words/attend.mp3",
+      "exists": false
+    },
+    {
+      "key": "attention",
+      "text": "attention",
+      "file": "assets/audio/words/attention.mp3",
+      "exists": false
+    },
+    {
+      "key": "award",
+      "text": "award",
+      "file": "assets/audio/words/award.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "beginners",
+      "text": "beginners",
+      "file": "assets/audio/words/beginners.mp3",
+      "exists": false
+    },
+    {
+      "key": "better",
+      "text": "better",
+      "file": "assets/audio/words/better.mp3",
+      "exists": false
+    },
+    {
+      "key": "blackboard",
+      "text": "blackboard",
+      "file": "assets/audio/words/blackboard.mp3",
+      "exists": false
+    },
+    {
+      "key": "book",
+      "text": "book",
+      "file": "assets/audio/words/book.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "candy",
+      "text": "candy",
+      "file": "assets/audio/words/candy.mp3",
+      "exists": false
+    },
+    {
+      "key": "careful",
+      "text": "careful",
+      "file": "assets/audio/words/careful.mp3",
+      "exists": false
+    },
+    {
+      "key": "chalk",
+      "text": "chalk",
+      "file": "assets/audio/words/chalk.mp3",
+      "exists": false
+    },
+    {
+      "key": "challenging",
+      "text": "challenging",
+      "file": "assets/audio/words/challenging.mp3",
+      "exists": false
+    },
+    {
+      "key": "chemistry",
+      "text": "Chemistry",
+      "file": "assets/audio/words/chemistry.mp3",
+      "exists": false
+    },
+    {
+      "key": "class",
+      "text": "class",
+      "file": "assets/audio/words/class.mp3",
+      "exists": false
+    },
+    {
+      "key": "classes",
+      "text": "classes",
+      "file": "assets/audio/words/classes.mp3",
+      "exists": false
+    },
+    {
+      "key": "classmate",
+      "text": "classmate",
+      "file": "assets/audio/words/classmate.mp3",
+      "exists": false
+    },
+    {
+      "key": "concept",
+      "text": "concept",
+      "file": "assets/audio/words/concept.mp3",
+      "exists": false
+    },
+    {
+      "key": "concepts",
+      "text": "concepts",
+      "file": "assets/audio/words/concepts.mp3",
+      "exists": false
+    },
+    {
+      "key": "cookie",
+      "text": "cookie",
+      "file": "assets/audio/words/cookie.mp3",
+      "exists": false
+    },
+    {
+      "key": "daily",
+      "text": "daily",
+      "file": "assets/audio/words/daily.mp3",
+      "exists": false
+    },
+    {
+      "key": "develop",
+      "text": "develop",
+      "file": "assets/audio/words/develop.mp3",
+      "exists": false
+    },
+    {
+      "key": "difficult",
+      "text": "difficult",
+      "file": "assets/audio/words/difficult.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "Do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "earn",
+      "text": "earn",
+      "file": "assets/audio/words/earn.mp3",
+      "exists": false
+    },
+    {
+      "key": "else",
+      "text": "else",
+      "file": "assets/audio/words/else.mp3",
+      "exists": false
+    },
+    {
+      "key": "enjoy",
+      "text": "enjoy",
+      "file": "assets/audio/words/enjoy.mp3",
+      "exists": false
+    },
+    {
+      "key": "equations",
+      "text": "equations",
+      "file": "assets/audio/words/equations.mp3",
+      "exists": false
+    },
+    {
+      "key": "even",
+      "text": "even",
+      "file": "assets/audio/words/even.mp3",
+      "exists": false
+    },
+    {
+      "key": "experience",
+      "text": "experience",
+      "file": "assets/audio/words/experience.mp3",
+      "exists": false
+    },
+    {
+      "key": "experiments",
+      "text": "experiments",
+      "file": "assets/audio/words/experiments.mp3",
+      "exists": false
+    },
+    {
+      "key": "explain",
+      "text": "explain",
+      "file": "assets/audio/words/explain.mp3",
+      "exists": false
+    },
+    {
+      "key": "fairs",
+      "text": "fairs",
+      "file": "assets/audio/words/fairs.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "finish",
+      "text": "finish",
+      "file": "assets/audio/words/finish.mp3",
+      "exists": false
+    },
+    {
+      "key": "finishing",
+      "text": "finishing",
+      "file": "assets/audio/words/finishing.mp3",
+      "exists": false
+    },
+    {
+      "key": "first",
+      "text": "first",
+      "file": "assets/audio/words/first.mp3",
+      "exists": false
+    },
+    {
+      "key": "firstly",
+      "text": "Firstly",
+      "file": "assets/audio/words/firstly.mp3",
+      "exists": false
+    },
+    {
+      "key": "focus",
+      "text": "Focus",
+      "file": "assets/audio/words/focus.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "formulas",
+      "text": "formulas",
+      "file": "assets/audio/words/formulas.mp3",
+      "exists": false
+    },
+    {
+      "key": "fourthly",
+      "text": "Fourthly",
+      "file": "assets/audio/words/fourthly.mp3",
+      "exists": false
+    },
+    {
+      "key": "gain",
+      "text": "gain",
+      "file": "assets/audio/words/gain.mp3",
+      "exists": false
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": false
+    },
+    {
+      "key": "habits",
+      "text": "habits",
+      "file": "assets/audio/words/habits.mp3",
+      "exists": false
+    },
+    {
+      "key": "hard",
+      "text": "hard",
+      "file": "assets/audio/words/hard.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "help",
+      "text": "help",
+      "file": "assets/audio/words/help.mp3",
+      "exists": false
+    },
+    {
+      "key": "here",
+      "text": "Here",
+      "file": "assets/audio/words/here.mp3",
+      "exists": false
+    },
+    {
+      "key": "however",
+      "text": "However",
+      "file": "assets/audio/words/however.mp3",
+      "exists": false
+    },
+    {
+      "key": "idea",
+      "text": "idea",
+      "file": "assets/audio/words/idea.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "If",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "it",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "It's",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "just",
+      "text": "just",
+      "file": "assets/audio/words/just.mp3",
+      "exists": false
+    },
+    {
+      "key": "lab",
+      "text": "lab",
+      "file": "assets/audio/words/lab.mp3",
+      "exists": false
+    },
+    {
+      "key": "language",
+      "text": "language",
+      "file": "assets/audio/words/language.mp3",
+      "exists": false
+    },
+    {
+      "key": "learn",
+      "text": "learn",
+      "file": "assets/audio/words/learn.mp3",
+      "exists": false
+    },
+    {
+      "key": "learning",
+      "text": "learning",
+      "file": "assets/audio/words/learning.mp3",
+      "exists": false
+    },
+    {
+      "key": "least",
+      "text": "least",
+      "file": "assets/audio/words/least.mp3",
+      "exists": false
+    },
+    {
+      "key": "life",
+      "text": "life",
+      "file": "assets/audio/words/life.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "maths",
+      "text": "maths",
+      "file": "assets/audio/words/maths.mp3",
+      "exists": false
+    },
+    {
+      "key": "meaning",
+      "text": "meaning",
+      "file": "assets/audio/words/meaning.mp3",
+      "exists": false
+    },
+    {
+      "key": "medal",
+      "text": "medal",
+      "file": "assets/audio/words/medal.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "much",
+      "text": "much",
+      "file": "assets/audio/words/much.mp3",
+      "exists": false
+    },
+    {
+      "key": "new",
+      "text": "new",
+      "file": "assets/audio/words/new.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "notes",
+      "text": "notes",
+      "file": "assets/audio/words/notes.mp3",
+      "exists": false
+    },
+    {
+      "key": "numbers",
+      "text": "numbers",
+      "file": "assets/audio/words/numbers.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "often",
+      "text": "often",
+      "file": "assets/audio/words/often.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "other",
+      "text": "other",
+      "file": "assets/audio/words/other.mp3",
+      "exists": false
+    },
+    {
+      "key": "others",
+      "text": "others",
+      "file": "assets/audio/words/others.mp3",
+      "exists": false
+    },
+    {
+      "key": "pay",
+      "text": "pay",
+      "file": "assets/audio/words/pay.mp3",
+      "exists": false
+    },
+    {
+      "key": "physics",
+      "text": "physics",
+      "file": "assets/audio/words/physics.mp3",
+      "exists": false
+    },
+    {
+      "key": "possible",
+      "text": "possible",
+      "file": "assets/audio/words/possible.mp3",
+      "exists": false
+    },
+    {
+      "key": "project",
+      "text": "project",
+      "file": "assets/audio/words/project.mp3",
+      "exists": false
+    },
+    {
+      "key": "really",
+      "text": "really",
+      "file": "assets/audio/words/really.mp3",
+      "exists": false
+    },
+    {
+      "key": "reasons",
+      "text": "reasons",
+      "file": "assets/audio/words/reasons.mp3",
+      "exists": false
+    },
+    {
+      "key": "recognise",
+      "text": "recognise",
+      "file": "assets/audio/words/recognise.mp3",
+      "exists": false
+    },
+    {
+      "key": "review",
+      "text": "review",
+      "file": "assets/audio/words/review.mp3",
+      "exists": false
+    },
+    {
+      "key": "reward",
+      "text": "reward",
+      "file": "assets/audio/words/reward.mp3",
+      "exists": false
+    },
+    {
+      "key": "school",
+      "text": "school",
+      "file": "assets/audio/words/school.mp3",
+      "exists": false
+    },
+    {
+      "key": "science",
+      "text": "science",
+      "file": "assets/audio/words/science.mp3",
+      "exists": false
+    },
+    {
+      "key": "secondly",
+      "text": "Secondly",
+      "file": "assets/audio/words/secondly.mp3",
+      "exists": false
+    },
+    {
+      "key": "serve",
+      "text": "serve",
+      "file": "assets/audio/words/serve.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "someone",
+      "text": "someone",
+      "file": "assets/audio/words/someone.mp3",
+      "exists": false
+    },
+    {
+      "key": "something",
+      "text": "something",
+      "file": "assets/audio/words/something.mp3",
+      "exists": false
+    },
+    {
+      "key": "specialised",
+      "text": "specialised",
+      "file": "assets/audio/words/specialised.mp3",
+      "exists": false
+    },
+    {
+      "key": "study",
+      "text": "study",
+      "file": "assets/audio/words/study.mp3",
+      "exists": false
+    },
+    {
+      "key": "studying",
+      "text": "studying",
+      "file": "assets/audio/words/studying.mp3",
+      "exists": false
+    },
+    {
+      "key": "subject",
+      "text": "subject",
+      "file": "assets/audio/words/subject.mp3",
+      "exists": false
+    },
+    {
+      "key": "subjects",
+      "text": "subjects",
+      "file": "assets/audio/words/subjects.mp3",
+      "exists": false
+    },
+    {
+      "key": "successfully",
+      "text": "successfully",
+      "file": "assets/audio/words/successfully.mp3",
+      "exists": false
+    },
+    {
+      "key": "suggestions",
+      "text": "suggestions",
+      "file": "assets/audio/words/suggestions.mp3",
+      "exists": false
+    },
+    {
+      "key": "take",
+      "text": "take",
+      "file": "assets/audio/words/take.mp3",
+      "exists": false
+    },
+    {
+      "key": "teacher",
+      "text": "teacher",
+      "file": "assets/audio/words/teacher.mp3",
+      "exists": false
+    },
+    {
+      "key": "term",
+      "text": "term",
+      "file": "assets/audio/words/term.mp3",
+      "exists": false
+    },
+    {
+      "key": "test",
+      "text": "test",
+      "file": "assets/audio/words/test.mp3",
+      "exists": false
+    },
+    {
+      "key": "than",
+      "text": "than",
+      "file": "assets/audio/words/than.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "There",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "thing",
+      "text": "thing",
+      "file": "assets/audio/words/thing.mp3",
+      "exists": false
+    },
+    {
+      "key": "things",
+      "text": "things",
+      "file": "assets/audio/words/things.mp3",
+      "exists": false
+    },
+    {
+      "key": "think",
+      "text": "think",
+      "file": "assets/audio/words/think.mp3",
+      "exists": false
+    },
+    {
+      "key": "thirdly",
+      "text": "Thirdly",
+      "file": "assets/audio/words/thirdly.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "this",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "thought",
+      "text": "thought",
+      "file": "assets/audio/words/thought.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "topics",
+      "text": "topics",
+      "file": "assets/audio/words/topics.mp3",
+      "exists": false
+    },
+    {
+      "key": "understand",
+      "text": "understand",
+      "file": "assets/audio/words/understand.mp3",
+      "exists": false
+    },
+    {
+      "key": "understanding",
+      "text": "understanding",
+      "file": "assets/audio/words/understanding.mp3",
+      "exists": false
+    },
+    {
+      "key": "used",
+      "text": "used",
+      "file": "assets/audio/words/used.mp3",
+      "exists": false
+    },
+    {
+      "key": "usually",
+      "text": "usually",
+      "file": "assets/audio/words/usually.mp3",
+      "exists": false
+    },
+    {
+      "key": "very",
+      "text": "very",
+      "file": "assets/audio/words/very.mp3",
+      "exists": false
+    },
+    {
+      "key": "vocabulary",
+      "text": "vocabulary",
+      "file": "assets/audio/words/vocabulary.mp3",
+      "exists": false
+    },
+    {
+      "key": "way",
+      "text": "way",
+      "file": "assets/audio/words/way.mp3",
+      "exists": false
+    },
+    {
+      "key": "what",
+      "text": "what",
+      "file": "assets/audio/words/what.mp3",
+      "exists": false
+    },
+    {
+      "key": "whether",
+      "text": "whether",
+      "file": "assets/audio/words/whether.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "work",
+      "text": "work",
+      "file": "assets/audio/words/work.mp3",
+      "exists": false
+    },
+    {
+      "key": "writes",
+      "text": "writes",
+      "file": "assets/audio/words/writes.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "your",
+      "text": "your",
+      "file": "assets/audio/words/your.mp3",
+      "exists": false
+    },
+    {
+      "key": "yourself",
+      "text": "yourself",
+      "file": "assets/audio/words/yourself.mp3",
+      "exists": false
+    }
+  ]
+}

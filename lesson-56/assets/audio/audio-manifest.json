@@ -1,0 +1,985 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "China has named the nation's first Mars rover Zhu Rong.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "For all of us, Zhu Rong is a well-suited name that has a cultural meaning within Chinese history.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "In an ancient Chinese story, Zhu Rong had the face of a man and the body of an animal.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "He rode on two dragons.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "When he had a big fight with Gong Gong, the god of water, Zhu Rong won.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "But after the fight, the human world came into complete darkness.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Then he brought fire from heaven to the world, becoming a great hero.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "Much like the stories of kung fu heroes who travel far and face many dangers, the Mars rover went on its own adventures.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "\"Zhu Rong is regarded as the earliest god of fire in traditional Chinese culture,\" a space official said.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "\"The first Mars rover was named Zhu Rong.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "The name symbolises light and hope for space exploration in our country, and means to guide humans to continue exploring somewhere we've never been before.\"",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Aboard a powerful rocket, Zhu Rong left the Earth, circled Mars for several months and landed on it.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Zhu Rong is like a postman in the universe, having sent back many important messages from Mars.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "In recent years, our country has sent up the world's first quantum satellite and Chang'e-5 has made a soft landing on the moon.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "Zhu Rong is another key step in our space technology achievements.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "We have made great progress in space technology and have built our own space station, which fills us with great pride.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "aboard",
+      "text": "Aboard",
+      "file": "assets/audio/words/aboard.mp3",
+      "exists": false
+    },
+    {
+      "key": "achievements",
+      "text": "achievements",
+      "file": "assets/audio/words/achievements.mp3",
+      "exists": false
+    },
+    {
+      "key": "adventures",
+      "text": "adventures",
+      "file": "assets/audio/words/adventures.mp3",
+      "exists": false
+    },
+    {
+      "key": "after",
+      "text": "after",
+      "file": "assets/audio/words/after.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "an",
+      "text": "an",
+      "file": "assets/audio/words/an.mp3",
+      "exists": false
+    },
+    {
+      "key": "ancient",
+      "text": "ancient",
+      "file": "assets/audio/words/ancient.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "animal",
+      "text": "animal",
+      "file": "assets/audio/words/animal.mp3",
+      "exists": false
+    },
+    {
+      "key": "another",
+      "text": "another",
+      "file": "assets/audio/words/another.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "back",
+      "text": "back",
+      "file": "assets/audio/words/back.mp3",
+      "exists": false
+    },
+    {
+      "key": "becoming",
+      "text": "becoming",
+      "file": "assets/audio/words/becoming.mp3",
+      "exists": false
+    },
+    {
+      "key": "been",
+      "text": "been",
+      "file": "assets/audio/words/been.mp3",
+      "exists": false
+    },
+    {
+      "key": "before",
+      "text": "before",
+      "file": "assets/audio/words/before.mp3",
+      "exists": false
+    },
+    {
+      "key": "big",
+      "text": "big",
+      "file": "assets/audio/words/big.mp3",
+      "exists": false
+    },
+    {
+      "key": "body",
+      "text": "body",
+      "file": "assets/audio/words/body.mp3",
+      "exists": false
+    },
+    {
+      "key": "brought",
+      "text": "brought",
+      "file": "assets/audio/words/brought.mp3",
+      "exists": false
+    },
+    {
+      "key": "built",
+      "text": "built",
+      "file": "assets/audio/words/built.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "But",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "came",
+      "text": "came",
+      "file": "assets/audio/words/came.mp3",
+      "exists": false
+    },
+    {
+      "key": "change",
+      "text": "Chang'e",
+      "file": "assets/audio/words/change.mp3",
+      "exists": false
+    },
+    {
+      "key": "china",
+      "text": "China",
+      "file": "assets/audio/words/china.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinese",
+      "text": "Chinese",
+      "file": "assets/audio/words/chinese.mp3",
+      "exists": false
+    },
+    {
+      "key": "circled",
+      "text": "circled",
+      "file": "assets/audio/words/circled.mp3",
+      "exists": false
+    },
+    {
+      "key": "complete",
+      "text": "complete",
+      "file": "assets/audio/words/complete.mp3",
+      "exists": false
+    },
+    {
+      "key": "continue",
+      "text": "continue",
+      "file": "assets/audio/words/continue.mp3",
+      "exists": false
+    },
+    {
+      "key": "country",
+      "text": "country",
+      "file": "assets/audio/words/country.mp3",
+      "exists": false
+    },
+    {
+      "key": "cultural",
+      "text": "cultural",
+      "file": "assets/audio/words/cultural.mp3",
+      "exists": false
+    },
+    {
+      "key": "culture",
+      "text": "culture",
+      "file": "assets/audio/words/culture.mp3",
+      "exists": false
+    },
+    {
+      "key": "dangers",
+      "text": "dangers",
+      "file": "assets/audio/words/dangers.mp3",
+      "exists": false
+    },
+    {
+      "key": "darkness",
+      "text": "darkness",
+      "file": "assets/audio/words/darkness.mp3",
+      "exists": false
+    },
+    {
+      "key": "dragons",
+      "text": "dragons",
+      "file": "assets/audio/words/dragons.mp3",
+      "exists": false
+    },
+    {
+      "key": "earliest",
+      "text": "earliest",
+      "file": "assets/audio/words/earliest.mp3",
+      "exists": false
+    },
+    {
+      "key": "earth",
+      "text": "Earth",
+      "file": "assets/audio/words/earth.mp3",
+      "exists": false
+    },
+    {
+      "key": "exploration",
+      "text": "exploration",
+      "file": "assets/audio/words/exploration.mp3",
+      "exists": false
+    },
+    {
+      "key": "exploring",
+      "text": "exploring",
+      "file": "assets/audio/words/exploring.mp3",
+      "exists": false
+    },
+    {
+      "key": "face",
+      "text": "face",
+      "file": "assets/audio/words/face.mp3",
+      "exists": false
+    },
+    {
+      "key": "far",
+      "text": "far",
+      "file": "assets/audio/words/far.mp3",
+      "exists": false
+    },
+    {
+      "key": "fight",
+      "text": "fight",
+      "file": "assets/audio/words/fight.mp3",
+      "exists": false
+    },
+    {
+      "key": "fills",
+      "text": "fills",
+      "file": "assets/audio/words/fills.mp3",
+      "exists": false
+    },
+    {
+      "key": "fire",
+      "text": "fire",
+      "file": "assets/audio/words/fire.mp3",
+      "exists": false
+    },
+    {
+      "key": "first",
+      "text": "first",
+      "file": "assets/audio/words/first.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "For",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "fu",
+      "text": "fu",
+      "file": "assets/audio/words/fu.mp3",
+      "exists": false
+    },
+    {
+      "key": "god",
+      "text": "god",
+      "file": "assets/audio/words/god.mp3",
+      "exists": false
+    },
+    {
+      "key": "gong",
+      "text": "Gong",
+      "file": "assets/audio/words/gong.mp3",
+      "exists": false
+    },
+    {
+      "key": "great",
+      "text": "great",
+      "file": "assets/audio/words/great.mp3",
+      "exists": false
+    },
+    {
+      "key": "guide",
+      "text": "guide",
+      "file": "assets/audio/words/guide.mp3",
+      "exists": false
+    },
+    {
+      "key": "had",
+      "text": "had",
+      "file": "assets/audio/words/had.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "having",
+      "text": "having",
+      "file": "assets/audio/words/having.mp3",
+      "exists": false
+    },
+    {
+      "key": "he",
+      "text": "He",
+      "file": "assets/audio/words/he.mp3",
+      "exists": false
+    },
+    {
+      "key": "heaven",
+      "text": "heaven",
+      "file": "assets/audio/words/heaven.mp3",
+      "exists": false
+    },
+    {
+      "key": "hero",
+      "text": "hero",
+      "file": "assets/audio/words/hero.mp3",
+      "exists": false
+    },
+    {
+      "key": "heroes",
+      "text": "heroes",
+      "file": "assets/audio/words/heroes.mp3",
+      "exists": false
+    },
+    {
+      "key": "history",
+      "text": "history",
+      "file": "assets/audio/words/history.mp3",
+      "exists": false
+    },
+    {
+      "key": "hope",
+      "text": "hope",
+      "file": "assets/audio/words/hope.mp3",
+      "exists": false
+    },
+    {
+      "key": "human",
+      "text": "human",
+      "file": "assets/audio/words/human.mp3",
+      "exists": false
+    },
+    {
+      "key": "humans",
+      "text": "humans",
+      "file": "assets/audio/words/humans.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "In",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "into",
+      "text": "into",
+      "file": "assets/audio/words/into.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "it",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "its",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "key",
+      "text": "key",
+      "file": "assets/audio/words/key.mp3",
+      "exists": false
+    },
+    {
+      "key": "kung",
+      "text": "kung",
+      "file": "assets/audio/words/kung.mp3",
+      "exists": false
+    },
+    {
+      "key": "landed",
+      "text": "landed",
+      "file": "assets/audio/words/landed.mp3",
+      "exists": false
+    },
+    {
+      "key": "landing",
+      "text": "landing",
+      "file": "assets/audio/words/landing.mp3",
+      "exists": false
+    },
+    {
+      "key": "left",
+      "text": "left",
+      "file": "assets/audio/words/left.mp3",
+      "exists": false
+    },
+    {
+      "key": "light",
+      "text": "light",
+      "file": "assets/audio/words/light.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "made",
+      "text": "made",
+      "file": "assets/audio/words/made.mp3",
+      "exists": false
+    },
+    {
+      "key": "man",
+      "text": "man",
+      "file": "assets/audio/words/man.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "mars",
+      "text": "Mars",
+      "file": "assets/audio/words/mars.mp3",
+      "exists": false
+    },
+    {
+      "key": "meaning",
+      "text": "meaning",
+      "file": "assets/audio/words/meaning.mp3",
+      "exists": false
+    },
+    {
+      "key": "means",
+      "text": "means",
+      "file": "assets/audio/words/means.mp3",
+      "exists": false
+    },
+    {
+      "key": "messages",
+      "text": "messages",
+      "file": "assets/audio/words/messages.mp3",
+      "exists": false
+    },
+    {
+      "key": "months",
+      "text": "months",
+      "file": "assets/audio/words/months.mp3",
+      "exists": false
+    },
+    {
+      "key": "moon",
+      "text": "moon",
+      "file": "assets/audio/words/moon.mp3",
+      "exists": false
+    },
+    {
+      "key": "much",
+      "text": "Much",
+      "file": "assets/audio/words/much.mp3",
+      "exists": false
+    },
+    {
+      "key": "name",
+      "text": "name",
+      "file": "assets/audio/words/name.mp3",
+      "exists": false
+    },
+    {
+      "key": "named",
+      "text": "named",
+      "file": "assets/audio/words/named.mp3",
+      "exists": false
+    },
+    {
+      "key": "nations",
+      "text": "nation's",
+      "file": "assets/audio/words/nations.mp3",
+      "exists": false
+    },
+    {
+      "key": "never",
+      "text": "never",
+      "file": "assets/audio/words/never.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "official",
+      "text": "official",
+      "file": "assets/audio/words/official.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "own",
+      "text": "own",
+      "file": "assets/audio/words/own.mp3",
+      "exists": false
+    },
+    {
+      "key": "postman",
+      "text": "postman",
+      "file": "assets/audio/words/postman.mp3",
+      "exists": false
+    },
+    {
+      "key": "powerful",
+      "text": "powerful",
+      "file": "assets/audio/words/powerful.mp3",
+      "exists": false
+    },
+    {
+      "key": "pride",
+      "text": "pride",
+      "file": "assets/audio/words/pride.mp3",
+      "exists": false
+    },
+    {
+      "key": "progress",
+      "text": "progress",
+      "file": "assets/audio/words/progress.mp3",
+      "exists": false
+    },
+    {
+      "key": "quantum",
+      "text": "quantum",
+      "file": "assets/audio/words/quantum.mp3",
+      "exists": false
+    },
+    {
+      "key": "recent",
+      "text": "recent",
+      "file": "assets/audio/words/recent.mp3",
+      "exists": false
+    },
+    {
+      "key": "regarded",
+      "text": "regarded",
+      "file": "assets/audio/words/regarded.mp3",
+      "exists": false
+    },
+    {
+      "key": "rocket",
+      "text": "rocket",
+      "file": "assets/audio/words/rocket.mp3",
+      "exists": false
+    },
+    {
+      "key": "rode",
+      "text": "rode",
+      "file": "assets/audio/words/rode.mp3",
+      "exists": false
+    },
+    {
+      "key": "rong",
+      "text": "Rong",
+      "file": "assets/audio/words/rong.mp3",
+      "exists": false
+    },
+    {
+      "key": "rover",
+      "text": "rover",
+      "file": "assets/audio/words/rover.mp3",
+      "exists": false
+    },
+    {
+      "key": "said",
+      "text": "said",
+      "file": "assets/audio/words/said.mp3",
+      "exists": false
+    },
+    {
+      "key": "satellite",
+      "text": "satellite",
+      "file": "assets/audio/words/satellite.mp3",
+      "exists": false
+    },
+    {
+      "key": "sent",
+      "text": "sent",
+      "file": "assets/audio/words/sent.mp3",
+      "exists": false
+    },
+    {
+      "key": "several",
+      "text": "several",
+      "file": "assets/audio/words/several.mp3",
+      "exists": false
+    },
+    {
+      "key": "soft",
+      "text": "soft",
+      "file": "assets/audio/words/soft.mp3",
+      "exists": false
+    },
+    {
+      "key": "somewhere",
+      "text": "somewhere",
+      "file": "assets/audio/words/somewhere.mp3",
+      "exists": false
+    },
+    {
+      "key": "space",
+      "text": "space",
+      "file": "assets/audio/words/space.mp3",
+      "exists": false
+    },
+    {
+      "key": "station",
+      "text": "station",
+      "file": "assets/audio/words/station.mp3",
+      "exists": false
+    },
+    {
+      "key": "step",
+      "text": "step",
+      "file": "assets/audio/words/step.mp3",
+      "exists": false
+    },
+    {
+      "key": "stories",
+      "text": "stories",
+      "file": "assets/audio/words/stories.mp3",
+      "exists": false
+    },
+    {
+      "key": "story",
+      "text": "story",
+      "file": "assets/audio/words/story.mp3",
+      "exists": false
+    },
+    {
+      "key": "suited",
+      "text": "suited",
+      "file": "assets/audio/words/suited.mp3",
+      "exists": false
+    },
+    {
+      "key": "symbolises",
+      "text": "symbolises",
+      "file": "assets/audio/words/symbolises.mp3",
+      "exists": false
+    },
+    {
+      "key": "technology",
+      "text": "technology",
+      "file": "assets/audio/words/technology.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "then",
+      "text": "Then",
+      "file": "assets/audio/words/then.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "traditional",
+      "text": "traditional",
+      "file": "assets/audio/words/traditional.mp3",
+      "exists": false
+    },
+    {
+      "key": "travel",
+      "text": "travel",
+      "file": "assets/audio/words/travel.mp3",
+      "exists": false
+    },
+    {
+      "key": "two",
+      "text": "two",
+      "file": "assets/audio/words/two.mp3",
+      "exists": false
+    },
+    {
+      "key": "universe",
+      "text": "universe",
+      "file": "assets/audio/words/universe.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "us",
+      "text": "us",
+      "file": "assets/audio/words/us.mp3",
+      "exists": false
+    },
+    {
+      "key": "was",
+      "text": "was",
+      "file": "assets/audio/words/was.mp3",
+      "exists": false
+    },
+    {
+      "key": "water",
+      "text": "water",
+      "file": "assets/audio/words/water.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "We",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "went",
+      "text": "went",
+      "file": "assets/audio/words/went.mp3",
+      "exists": false
+    },
+    {
+      "key": "weve",
+      "text": "we've",
+      "file": "assets/audio/words/weve.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "When",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "who",
+      "text": "who",
+      "file": "assets/audio/words/who.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "within",
+      "text": "within",
+      "file": "assets/audio/words/within.mp3",
+      "exists": false
+    },
+    {
+      "key": "won",
+      "text": "won",
+      "file": "assets/audio/words/won.mp3",
+      "exists": false
+    },
+    {
+      "key": "world",
+      "text": "world",
+      "file": "assets/audio/words/world.mp3",
+      "exists": false
+    },
+    {
+      "key": "worlds",
+      "text": "world's",
+      "file": "assets/audio/words/worlds.mp3",
+      "exists": false
+    },
+    {
+      "key": "years",
+      "text": "years",
+      "file": "assets/audio/words/years.mp3",
+      "exists": false
+    },
+    {
+      "key": "zhu",
+      "text": "Zhu",
+      "file": "assets/audio/words/zhu.mp3",
+      "exists": false
+    }
+  ]
+}

@@ -1,0 +1,1027 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Wukong, Tiangong, Tianwen ... Do you know where the names of Chinese space programmes come from?",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "The well-known moon mission Chang'e is named after a goddess who flew to the moon.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "This mission was important in studying the moon's surface.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "Wukong, the dark matter particle explorer, is named after a Chinese superhero, Monkey King.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "According to Journey to the West, Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "The Wukong satellite is just as sharp-eyed as Monkey King to help scientists search for dark matter in space.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "The name of the space station, Tiangong, means 'Heavenly Palace'.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "In Chinese myths, this is the home of Tian Di.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "Now, Tiangong Space Station is a home for Chinese astronauts in space.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Tianwen, China's Mars mission, gets its name from the poem Tianwen by Qu Yuan.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Qu Yuan is a well-known poet from ancient China.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "In Tianwen, he had questions about the sky, stars, nature, myths and the real world, showing his hunger for truth.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Perhaps the Tianwen missions will end up answering some of Qu Yuan's questions.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "If you look into more names of Chinese space programmes, you will find that they all have beautiful meanings.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "We, the Chinese people, have a long-cherished space dream.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "Therefore, the naming of Chinese space programmes is taken very seriously.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Scientists, from junior members to experienced leaders, are also working hard to sweep away setbacks, without letting any challenges disappoint them.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "The names are like postcards to the world, showing our determination in space exploration.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "about",
+      "text": "about",
+      "file": "assets/audio/words/about.mp3",
+      "exists": false
+    },
+    {
+      "key": "according",
+      "text": "According",
+      "file": "assets/audio/words/according.mp3",
+      "exists": false
+    },
+    {
+      "key": "after",
+      "text": "after",
+      "file": "assets/audio/words/after.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "ancient",
+      "text": "ancient",
+      "file": "assets/audio/words/ancient.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "answering",
+      "text": "answering",
+      "file": "assets/audio/words/answering.mp3",
+      "exists": false
+    },
+    {
+      "key": "any",
+      "text": "any",
+      "file": "assets/audio/words/any.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "astronauts",
+      "text": "astronauts",
+      "file": "assets/audio/words/astronauts.mp3",
+      "exists": false
+    },
+    {
+      "key": "away",
+      "text": "away",
+      "file": "assets/audio/words/away.mp3",
+      "exists": false
+    },
+    {
+      "key": "beautiful",
+      "text": "beautiful",
+      "file": "assets/audio/words/beautiful.mp3",
+      "exists": false
+    },
+    {
+      "key": "between",
+      "text": "between",
+      "file": "assets/audio/words/between.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "challenges",
+      "text": "challenges",
+      "file": "assets/audio/words/challenges.mp3",
+      "exists": false
+    },
+    {
+      "key": "change",
+      "text": "Chang'e",
+      "file": "assets/audio/words/change.mp3",
+      "exists": false
+    },
+    {
+      "key": "cherished",
+      "text": "cherished",
+      "file": "assets/audio/words/cherished.mp3",
+      "exists": false
+    },
+    {
+      "key": "china",
+      "text": "China",
+      "file": "assets/audio/words/china.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinas",
+      "text": "China's",
+      "file": "assets/audio/words/chinas.mp3",
+      "exists": false
+    },
+    {
+      "key": "chinese",
+      "text": "Chinese",
+      "file": "assets/audio/words/chinese.mp3",
+      "exists": false
+    },
+    {
+      "key": "come",
+      "text": "come",
+      "file": "assets/audio/words/come.mp3",
+      "exists": false
+    },
+    {
+      "key": "dark",
+      "text": "dark",
+      "file": "assets/audio/words/dark.mp3",
+      "exists": false
+    },
+    {
+      "key": "determination",
+      "text": "determination",
+      "file": "assets/audio/words/determination.mp3",
+      "exists": false
+    },
+    {
+      "key": "di",
+      "text": "Di",
+      "file": "assets/audio/words/di.mp3",
+      "exists": false
+    },
+    {
+      "key": "difference",
+      "text": "difference",
+      "file": "assets/audio/words/difference.mp3",
+      "exists": false
+    },
+    {
+      "key": "disappoint",
+      "text": "disappoint",
+      "file": "assets/audio/words/disappoint.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "Do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "dream",
+      "text": "dream",
+      "file": "assets/audio/words/dream.mp3",
+      "exists": false
+    },
+    {
+      "key": "end",
+      "text": "end",
+      "file": "assets/audio/words/end.mp3",
+      "exists": false
+    },
+    {
+      "key": "evil",
+      "text": "evil",
+      "file": "assets/audio/words/evil.mp3",
+      "exists": false
+    },
+    {
+      "key": "experienced",
+      "text": "experienced",
+      "file": "assets/audio/words/experienced.mp3",
+      "exists": false
+    },
+    {
+      "key": "exploration",
+      "text": "exploration",
+      "file": "assets/audio/words/exploration.mp3",
+      "exists": false
+    },
+    {
+      "key": "explorer",
+      "text": "explorer",
+      "file": "assets/audio/words/explorer.mp3",
+      "exists": false
+    },
+    {
+      "key": "eyed",
+      "text": "eyed",
+      "file": "assets/audio/words/eyed.mp3",
+      "exists": false
+    },
+    {
+      "key": "eyes",
+      "text": "eyes",
+      "file": "assets/audio/words/eyes.mp3",
+      "exists": false
+    },
+    {
+      "key": "find",
+      "text": "find",
+      "file": "assets/audio/words/find.mp3",
+      "exists": false
+    },
+    {
+      "key": "flew",
+      "text": "flew",
+      "file": "assets/audio/words/flew.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "from",
+      "text": "from",
+      "file": "assets/audio/words/from.mp3",
+      "exists": false
+    },
+    {
+      "key": "gets",
+      "text": "gets",
+      "file": "assets/audio/words/gets.mp3",
+      "exists": false
+    },
+    {
+      "key": "goddess",
+      "text": "goddess",
+      "file": "assets/audio/words/goddess.mp3",
+      "exists": false
+    },
+    {
+      "key": "good",
+      "text": "good",
+      "file": "assets/audio/words/good.mp3",
+      "exists": false
+    },
+    {
+      "key": "had",
+      "text": "had",
+      "file": "assets/audio/words/had.mp3",
+      "exists": false
+    },
+    {
+      "key": "hard",
+      "text": "hard",
+      "file": "assets/audio/words/hard.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "have",
+      "text": "have",
+      "file": "assets/audio/words/have.mp3",
+      "exists": false
+    },
+    {
+      "key": "he",
+      "text": "he",
+      "file": "assets/audio/words/he.mp3",
+      "exists": false
+    },
+    {
+      "key": "heavenly",
+      "text": "Heavenly",
+      "file": "assets/audio/words/heavenly.mp3",
+      "exists": false
+    },
+    {
+      "key": "help",
+      "text": "help",
+      "file": "assets/audio/words/help.mp3",
+      "exists": false
+    },
+    {
+      "key": "his",
+      "text": "his",
+      "file": "assets/audio/words/his.mp3",
+      "exists": false
+    },
+    {
+      "key": "home",
+      "text": "home",
+      "file": "assets/audio/words/home.mp3",
+      "exists": false
+    },
+    {
+      "key": "hunger",
+      "text": "hunger",
+      "file": "assets/audio/words/hunger.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "If",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "into",
+      "text": "into",
+      "file": "assets/audio/words/into.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "its",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "journey",
+      "text": "Journey",
+      "file": "assets/audio/words/journey.mp3",
+      "exists": false
+    },
+    {
+      "key": "junior",
+      "text": "junior",
+      "file": "assets/audio/words/junior.mp3",
+      "exists": false
+    },
+    {
+      "key": "just",
+      "text": "just",
+      "file": "assets/audio/words/just.mp3",
+      "exists": false
+    },
+    {
+      "key": "king",
+      "text": "King",
+      "file": "assets/audio/words/king.mp3",
+      "exists": false
+    },
+    {
+      "key": "know",
+      "text": "know",
+      "file": "assets/audio/words/know.mp3",
+      "exists": false
+    },
+    {
+      "key": "known",
+      "text": "known",
+      "file": "assets/audio/words/known.mp3",
+      "exists": false
+    },
+    {
+      "key": "leaders",
+      "text": "leaders",
+      "file": "assets/audio/words/leaders.mp3",
+      "exists": false
+    },
+    {
+      "key": "letting",
+      "text": "letting",
+      "file": "assets/audio/words/letting.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "long",
+      "text": "long",
+      "file": "assets/audio/words/long.mp3",
+      "exists": false
+    },
+    {
+      "key": "look",
+      "text": "look",
+      "file": "assets/audio/words/look.mp3",
+      "exists": false
+    },
+    {
+      "key": "mars",
+      "text": "Mars",
+      "file": "assets/audio/words/mars.mp3",
+      "exists": false
+    },
+    {
+      "key": "matter",
+      "text": "matter",
+      "file": "assets/audio/words/matter.mp3",
+      "exists": false
+    },
+    {
+      "key": "meanings",
+      "text": "meanings",
+      "file": "assets/audio/words/meanings.mp3",
+      "exists": false
+    },
+    {
+      "key": "means",
+      "text": "means",
+      "file": "assets/audio/words/means.mp3",
+      "exists": false
+    },
+    {
+      "key": "members",
+      "text": "members",
+      "file": "assets/audio/words/members.mp3",
+      "exists": false
+    },
+    {
+      "key": "mission",
+      "text": "mission",
+      "file": "assets/audio/words/mission.mp3",
+      "exists": false
+    },
+    {
+      "key": "missions",
+      "text": "missions",
+      "file": "assets/audio/words/missions.mp3",
+      "exists": false
+    },
+    {
+      "key": "monkey",
+      "text": "Monkey",
+      "file": "assets/audio/words/monkey.mp3",
+      "exists": false
+    },
+    {
+      "key": "moon",
+      "text": "moon",
+      "file": "assets/audio/words/moon.mp3",
+      "exists": false
+    },
+    {
+      "key": "moons",
+      "text": "moon's",
+      "file": "assets/audio/words/moons.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "myths",
+      "text": "myths",
+      "file": "assets/audio/words/myths.mp3",
+      "exists": false
+    },
+    {
+      "key": "name",
+      "text": "name",
+      "file": "assets/audio/words/name.mp3",
+      "exists": false
+    },
+    {
+      "key": "named",
+      "text": "named",
+      "file": "assets/audio/words/named.mp3",
+      "exists": false
+    },
+    {
+      "key": "names",
+      "text": "names",
+      "file": "assets/audio/words/names.mp3",
+      "exists": false
+    },
+    {
+      "key": "naming",
+      "text": "naming",
+      "file": "assets/audio/words/naming.mp3",
+      "exists": false
+    },
+    {
+      "key": "nature",
+      "text": "nature",
+      "file": "assets/audio/words/nature.mp3",
+      "exists": false
+    },
+    {
+      "key": "now",
+      "text": "Now",
+      "file": "assets/audio/words/now.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "pair",
+      "text": "pair",
+      "file": "assets/audio/words/pair.mp3",
+      "exists": false
+    },
+    {
+      "key": "palace",
+      "text": "Palace",
+      "file": "assets/audio/words/palace.mp3",
+      "exists": false
+    },
+    {
+      "key": "particle",
+      "text": "particle",
+      "file": "assets/audio/words/particle.mp3",
+      "exists": false
+    },
+    {
+      "key": "people",
+      "text": "people",
+      "file": "assets/audio/words/people.mp3",
+      "exists": false
+    },
+    {
+      "key": "perhaps",
+      "text": "Perhaps",
+      "file": "assets/audio/words/perhaps.mp3",
+      "exists": false
+    },
+    {
+      "key": "poem",
+      "text": "poem",
+      "file": "assets/audio/words/poem.mp3",
+      "exists": false
+    },
+    {
+      "key": "poet",
+      "text": "poet",
+      "file": "assets/audio/words/poet.mp3",
+      "exists": false
+    },
+    {
+      "key": "postcards",
+      "text": "postcards",
+      "file": "assets/audio/words/postcards.mp3",
+      "exists": false
+    },
+    {
+      "key": "programmes",
+      "text": "programmes",
+      "file": "assets/audio/words/programmes.mp3",
+      "exists": false
+    },
+    {
+      "key": "qu",
+      "text": "Qu",
+      "file": "assets/audio/words/qu.mp3",
+      "exists": false
+    },
+    {
+      "key": "questions",
+      "text": "questions",
+      "file": "assets/audio/words/questions.mp3",
+      "exists": false
+    },
+    {
+      "key": "real",
+      "text": "real",
+      "file": "assets/audio/words/real.mp3",
+      "exists": false
+    },
+    {
+      "key": "satellite",
+      "text": "satellite",
+      "file": "assets/audio/words/satellite.mp3",
+      "exists": false
+    },
+    {
+      "key": "scientists",
+      "text": "scientists",
+      "file": "assets/audio/words/scientists.mp3",
+      "exists": false
+    },
+    {
+      "key": "search",
+      "text": "search",
+      "file": "assets/audio/words/search.mp3",
+      "exists": false
+    },
+    {
+      "key": "seriously",
+      "text": "seriously",
+      "file": "assets/audio/words/seriously.mp3",
+      "exists": false
+    },
+    {
+      "key": "setbacks",
+      "text": "setbacks",
+      "file": "assets/audio/words/setbacks.mp3",
+      "exists": false
+    },
+    {
+      "key": "sharp",
+      "text": "sharp",
+      "file": "assets/audio/words/sharp.mp3",
+      "exists": false
+    },
+    {
+      "key": "showing",
+      "text": "showing",
+      "file": "assets/audio/words/showing.mp3",
+      "exists": false
+    },
+    {
+      "key": "sky",
+      "text": "sky",
+      "file": "assets/audio/words/sky.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "space",
+      "text": "space",
+      "file": "assets/audio/words/space.mp3",
+      "exists": false
+    },
+    {
+      "key": "stars",
+      "text": "stars",
+      "file": "assets/audio/words/stars.mp3",
+      "exists": false
+    },
+    {
+      "key": "station",
+      "text": "station",
+      "file": "assets/audio/words/station.mp3",
+      "exists": false
+    },
+    {
+      "key": "studying",
+      "text": "studying",
+      "file": "assets/audio/words/studying.mp3",
+      "exists": false
+    },
+    {
+      "key": "superhero",
+      "text": "superhero",
+      "file": "assets/audio/words/superhero.mp3",
+      "exists": false
+    },
+    {
+      "key": "surface",
+      "text": "surface",
+      "file": "assets/audio/words/surface.mp3",
+      "exists": false
+    },
+    {
+      "key": "sweep",
+      "text": "sweep",
+      "file": "assets/audio/words/sweep.mp3",
+      "exists": false
+    },
+    {
+      "key": "taken",
+      "text": "taken",
+      "file": "assets/audio/words/taken.mp3",
+      "exists": false
+    },
+    {
+      "key": "tell",
+      "text": "tell",
+      "file": "assets/audio/words/tell.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "therefore",
+      "text": "Therefore",
+      "file": "assets/audio/words/therefore.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "they",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "this",
+      "text": "This",
+      "file": "assets/audio/words/this.mp3",
+      "exists": false
+    },
+    {
+      "key": "tian",
+      "text": "Tian",
+      "file": "assets/audio/words/tian.mp3",
+      "exists": false
+    },
+    {
+      "key": "tiangong",
+      "text": "Tiangong",
+      "file": "assets/audio/words/tiangong.mp3",
+      "exists": false
+    },
+    {
+      "key": "tianwen",
+      "text": "Tianwen",
+      "file": "assets/audio/words/tianwen.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "truth",
+      "text": "truth",
+      "file": "assets/audio/words/truth.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "very",
+      "text": "very",
+      "file": "assets/audio/words/very.mp3",
+      "exists": false
+    },
+    {
+      "key": "was",
+      "text": "was",
+      "file": "assets/audio/words/was.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "We",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "well",
+      "text": "well",
+      "file": "assets/audio/words/well.mp3",
+      "exists": false
+    },
+    {
+      "key": "west",
+      "text": "West",
+      "file": "assets/audio/words/west.mp3",
+      "exists": false
+    },
+    {
+      "key": "where",
+      "text": "where",
+      "file": "assets/audio/words/where.mp3",
+      "exists": false
+    },
+    {
+      "key": "which",
+      "text": "which",
+      "file": "assets/audio/words/which.mp3",
+      "exists": false
+    },
+    {
+      "key": "who",
+      "text": "who",
+      "file": "assets/audio/words/who.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "without",
+      "text": "without",
+      "file": "assets/audio/words/without.mp3",
+      "exists": false
+    },
+    {
+      "key": "working",
+      "text": "working",
+      "file": "assets/audio/words/working.mp3",
+      "exists": false
+    },
+    {
+      "key": "world",
+      "text": "world",
+      "file": "assets/audio/words/world.mp3",
+      "exists": false
+    },
+    {
+      "key": "wukong",
+      "text": "Wukong",
+      "file": "assets/audio/words/wukong.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "yuan",
+      "text": "Yuan",
+      "file": "assets/audio/words/yuan.mp3",
+      "exists": false
+    },
+    {
+      "key": "yuans",
+      "text": "Yuan's",
+      "file": "assets/audio/words/yuans.mp3",
+      "exists": false
+    }
+  ]
+}

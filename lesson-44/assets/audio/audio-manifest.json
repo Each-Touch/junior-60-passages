@@ -1,0 +1,1033 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Wetlands are any land that is flooded with shallow water all or most of the time.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "They are a natural water holding system.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "Many animals come to wetlands to drink water when they are thirsty.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "There are many types of wetlands.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "Among them, bogs, marshes and swamps are the three main types.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "In bogs, only mosses and a few other kinds of plants can grow.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Grassy plants like cattails and reeds are the most common plants in a marsh.",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "A swamp is a forest whose ground is underwater all or most of the time.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "A special kind of rose also grows here.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "The swamp is worth a short tour, but you'd better not try without a guide.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Hungry crocodiles aren't the only animals that make the wetlands their home.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "Otters, turtles, frogs, snakes and many other animals do too.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "The water is home to many kinds of fish and crabs.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "Birds, including ducks, geese and cranes, use wetlands seasonally during their long migrations.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "Wetlands are important because they provide habitats for plants and animals.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "It is important to let the wetlands perform their usual functions.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "Therefore, many voluntary groups work to protect wetlands by providing different services, such as clean-up events and educating the public.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "all",
+      "text": "all",
+      "file": "assets/audio/words/all.mp3",
+      "exists": false
+    },
+    {
+      "key": "also",
+      "text": "also",
+      "file": "assets/audio/words/also.mp3",
+      "exists": false
+    },
+    {
+      "key": "among",
+      "text": "Among",
+      "file": "assets/audio/words/among.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "animals",
+      "text": "animals",
+      "file": "assets/audio/words/animals.mp3",
+      "exists": false
+    },
+    {
+      "key": "any",
+      "text": "any",
+      "file": "assets/audio/words/any.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "arent",
+      "text": "aren't",
+      "file": "assets/audio/words/arent.mp3",
+      "exists": false
+    },
+    {
+      "key": "as",
+      "text": "as",
+      "file": "assets/audio/words/as.mp3",
+      "exists": false
+    },
+    {
+      "key": "because",
+      "text": "because",
+      "file": "assets/audio/words/because.mp3",
+      "exists": false
+    },
+    {
+      "key": "better",
+      "text": "better",
+      "file": "assets/audio/words/better.mp3",
+      "exists": false
+    },
+    {
+      "key": "big",
+      "text": "big",
+      "file": "assets/audio/words/big.mp3",
+      "exists": false
+    },
+    {
+      "key": "birds",
+      "text": "Birds",
+      "file": "assets/audio/words/birds.mp3",
+      "exists": false
+    },
+    {
+      "key": "bogs",
+      "text": "bogs",
+      "file": "assets/audio/words/bogs.mp3",
+      "exists": false
+    },
+    {
+      "key": "bushes",
+      "text": "bushes",
+      "file": "assets/audio/words/bushes.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "but",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "cattails",
+      "text": "cattails",
+      "file": "assets/audio/words/cattails.mp3",
+      "exists": false
+    },
+    {
+      "key": "clean",
+      "text": "clean",
+      "file": "assets/audio/words/clean.mp3",
+      "exists": false
+    },
+    {
+      "key": "come",
+      "text": "come",
+      "file": "assets/audio/words/come.mp3",
+      "exists": false
+    },
+    {
+      "key": "common",
+      "text": "common",
+      "file": "assets/audio/words/common.mp3",
+      "exists": false
+    },
+    {
+      "key": "crabs",
+      "text": "crabs",
+      "file": "assets/audio/words/crabs.mp3",
+      "exists": false
+    },
+    {
+      "key": "cranes",
+      "text": "cranes",
+      "file": "assets/audio/words/cranes.mp3",
+      "exists": false
+    },
+    {
+      "key": "crocodiles",
+      "text": "crocodiles",
+      "file": "assets/audio/words/crocodiles.mp3",
+      "exists": false
+    },
+    {
+      "key": "different",
+      "text": "different",
+      "file": "assets/audio/words/different.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "drink",
+      "text": "drink",
+      "file": "assets/audio/words/drink.mp3",
+      "exists": false
+    },
+    {
+      "key": "ducks",
+      "text": "ducks",
+      "file": "assets/audio/words/ducks.mp3",
+      "exists": false
+    },
+    {
+      "key": "during",
+      "text": "during",
+      "file": "assets/audio/words/during.mp3",
+      "exists": false
+    },
+    {
+      "key": "educating",
+      "text": "educating",
+      "file": "assets/audio/words/educating.mp3",
+      "exists": false
+    },
+    {
+      "key": "events",
+      "text": "events",
+      "file": "assets/audio/words/events.mp3",
+      "exists": false
+    },
+    {
+      "key": "few",
+      "text": "few",
+      "file": "assets/audio/words/few.mp3",
+      "exists": false
+    },
+    {
+      "key": "fish",
+      "text": "fish",
+      "file": "assets/audio/words/fish.mp3",
+      "exists": false
+    },
+    {
+      "key": "flooded",
+      "text": "flooded",
+      "file": "assets/audio/words/flooded.mp3",
+      "exists": false
+    },
+    {
+      "key": "floods",
+      "text": "floods",
+      "file": "assets/audio/words/floods.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "forest",
+      "text": "forest",
+      "file": "assets/audio/words/forest.mp3",
+      "exists": false
+    },
+    {
+      "key": "frogs",
+      "text": "frogs",
+      "file": "assets/audio/words/frogs.mp3",
+      "exists": false
+    },
+    {
+      "key": "full",
+      "text": "full",
+      "file": "assets/audio/words/full.mp3",
+      "exists": false
+    },
+    {
+      "key": "functions",
+      "text": "functions",
+      "file": "assets/audio/words/functions.mp3",
+      "exists": false
+    },
+    {
+      "key": "geese",
+      "text": "geese",
+      "file": "assets/audio/words/geese.mp3",
+      "exists": false
+    },
+    {
+      "key": "grassy",
+      "text": "Grassy",
+      "file": "assets/audio/words/grassy.mp3",
+      "exists": false
+    },
+    {
+      "key": "ground",
+      "text": "ground",
+      "file": "assets/audio/words/ground.mp3",
+      "exists": false
+    },
+    {
+      "key": "groups",
+      "text": "groups",
+      "file": "assets/audio/words/groups.mp3",
+      "exists": false
+    },
+    {
+      "key": "grow",
+      "text": "grow",
+      "file": "assets/audio/words/grow.mp3",
+      "exists": false
+    },
+    {
+      "key": "grows",
+      "text": "grows",
+      "file": "assets/audio/words/grows.mp3",
+      "exists": false
+    },
+    {
+      "key": "guide",
+      "text": "guide",
+      "file": "assets/audio/words/guide.mp3",
+      "exists": false
+    },
+    {
+      "key": "habitats",
+      "text": "habitats",
+      "file": "assets/audio/words/habitats.mp3",
+      "exists": false
+    },
+    {
+      "key": "here",
+      "text": "here",
+      "file": "assets/audio/words/here.mp3",
+      "exists": false
+    },
+    {
+      "key": "hidden",
+      "text": "hidden",
+      "file": "assets/audio/words/hidden.mp3",
+      "exists": false
+    },
+    {
+      "key": "holding",
+      "text": "holding",
+      "file": "assets/audio/words/holding.mp3",
+      "exists": false
+    },
+    {
+      "key": "home",
+      "text": "home",
+      "file": "assets/audio/words/home.mp3",
+      "exists": false
+    },
+    {
+      "key": "hungry",
+      "text": "Hungry",
+      "file": "assets/audio/words/hungry.mp3",
+      "exists": false
+    },
+    {
+      "key": "important",
+      "text": "important",
+      "file": "assets/audio/words/important.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "In",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "including",
+      "text": "including",
+      "file": "assets/audio/words/including.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "kind",
+      "text": "kind",
+      "file": "assets/audio/words/kind.mp3",
+      "exists": false
+    },
+    {
+      "key": "kinds",
+      "text": "kinds",
+      "file": "assets/audio/words/kinds.mp3",
+      "exists": false
+    },
+    {
+      "key": "land",
+      "text": "land",
+      "file": "assets/audio/words/land.mp3",
+      "exists": false
+    },
+    {
+      "key": "let",
+      "text": "let",
+      "file": "assets/audio/words/let.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "long",
+      "text": "long",
+      "file": "assets/audio/words/long.mp3",
+      "exists": false
+    },
+    {
+      "key": "looking",
+      "text": "looking",
+      "file": "assets/audio/words/looking.mp3",
+      "exists": false
+    },
+    {
+      "key": "main",
+      "text": "main",
+      "file": "assets/audio/words/main.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "Many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "marsh",
+      "text": "marsh",
+      "file": "assets/audio/words/marsh.mp3",
+      "exists": false
+    },
+    {
+      "key": "marshes",
+      "text": "marshes",
+      "file": "assets/audio/words/marshes.mp3",
+      "exists": false
+    },
+    {
+      "key": "meal",
+      "text": "meal",
+      "file": "assets/audio/words/meal.mp3",
+      "exists": false
+    },
+    {
+      "key": "migrations",
+      "text": "migrations",
+      "file": "assets/audio/words/migrations.mp3",
+      "exists": false
+    },
+    {
+      "key": "mosses",
+      "text": "mosses",
+      "file": "assets/audio/words/mosses.mp3",
+      "exists": false
+    },
+    {
+      "key": "most",
+      "text": "most",
+      "file": "assets/audio/words/most.mp3",
+      "exists": false
+    },
+    {
+      "key": "mud",
+      "text": "mud",
+      "file": "assets/audio/words/mud.mp3",
+      "exists": false
+    },
+    {
+      "key": "natural",
+      "text": "natural",
+      "file": "assets/audio/words/natural.mp3",
+      "exists": false
+    },
+    {
+      "key": "next",
+      "text": "next",
+      "file": "assets/audio/words/next.mp3",
+      "exists": false
+    },
+    {
+      "key": "not",
+      "text": "not",
+      "file": "assets/audio/words/not.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "only",
+      "text": "only",
+      "file": "assets/audio/words/only.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "other",
+      "text": "other",
+      "file": "assets/audio/words/other.mp3",
+      "exists": false
+    },
+    {
+      "key": "otters",
+      "text": "Otters",
+      "file": "assets/audio/words/otters.mp3",
+      "exists": false
+    },
+    {
+      "key": "perform",
+      "text": "perform",
+      "file": "assets/audio/words/perform.mp3",
+      "exists": false
+    },
+    {
+      "key": "plants",
+      "text": "plants",
+      "file": "assets/audio/words/plants.mp3",
+      "exists": false
+    },
+    {
+      "key": "polluted",
+      "text": "polluted",
+      "file": "assets/audio/words/polluted.mp3",
+      "exists": false
+    },
+    {
+      "key": "pools",
+      "text": "pools",
+      "file": "assets/audio/words/pools.mp3",
+      "exists": false
+    },
+    {
+      "key": "prevent",
+      "text": "prevent",
+      "file": "assets/audio/words/prevent.mp3",
+      "exists": false
+    },
+    {
+      "key": "protect",
+      "text": "protect",
+      "file": "assets/audio/words/protect.mp3",
+      "exists": false
+    },
+    {
+      "key": "provide",
+      "text": "provide",
+      "file": "assets/audio/words/provide.mp3",
+      "exists": false
+    },
+    {
+      "key": "providing",
+      "text": "providing",
+      "file": "assets/audio/words/providing.mp3",
+      "exists": false
+    },
+    {
+      "key": "public",
+      "text": "public",
+      "file": "assets/audio/words/public.mp3",
+      "exists": false
+    },
+    {
+      "key": "reeds",
+      "text": "reeds",
+      "file": "assets/audio/words/reeds.mp3",
+      "exists": false
+    },
+    {
+      "key": "restore",
+      "text": "restore",
+      "file": "assets/audio/words/restore.mp3",
+      "exists": false
+    },
+    {
+      "key": "rose",
+      "text": "rose",
+      "file": "assets/audio/words/rose.mp3",
+      "exists": false
+    },
+    {
+      "key": "seasonally",
+      "text": "seasonally",
+      "file": "assets/audio/words/seasonally.mp3",
+      "exists": false
+    },
+    {
+      "key": "services",
+      "text": "services",
+      "file": "assets/audio/words/services.mp3",
+      "exists": false
+    },
+    {
+      "key": "shallow",
+      "text": "shallow",
+      "file": "assets/audio/words/shallow.mp3",
+      "exists": false
+    },
+    {
+      "key": "shorelines",
+      "text": "shorelines",
+      "file": "assets/audio/words/shorelines.mp3",
+      "exists": false
+    },
+    {
+      "key": "short",
+      "text": "short",
+      "file": "assets/audio/words/short.mp3",
+      "exists": false
+    },
+    {
+      "key": "snakes",
+      "text": "snakes",
+      "file": "assets/audio/words/snakes.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "sometimes",
+      "text": "sometimes",
+      "file": "assets/audio/words/sometimes.mp3",
+      "exists": false
+    },
+    {
+      "key": "special",
+      "text": "special",
+      "file": "assets/audio/words/special.mp3",
+      "exists": false
+    },
+    {
+      "key": "standing",
+      "text": "standing",
+      "file": "assets/audio/words/standing.mp3",
+      "exists": false
+    },
+    {
+      "key": "such",
+      "text": "such",
+      "file": "assets/audio/words/such.mp3",
+      "exists": false
+    },
+    {
+      "key": "supplies",
+      "text": "supplies",
+      "file": "assets/audio/words/supplies.mp3",
+      "exists": false
+    },
+    {
+      "key": "swamp",
+      "text": "swamp",
+      "file": "assets/audio/words/swamp.mp3",
+      "exists": false
+    },
+    {
+      "key": "swamps",
+      "text": "swamps",
+      "file": "assets/audio/words/swamps.mp3",
+      "exists": false
+    },
+    {
+      "key": "system",
+      "text": "system",
+      "file": "assets/audio/words/system.mp3",
+      "exists": false
+    },
+    {
+      "key": "tall",
+      "text": "tall",
+      "file": "assets/audio/words/tall.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "their",
+      "text": "their",
+      "file": "assets/audio/words/their.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "There",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "therefore",
+      "text": "Therefore",
+      "file": "assets/audio/words/therefore.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "thick",
+      "text": "thick",
+      "file": "assets/audio/words/thick.mp3",
+      "exists": false
+    },
+    {
+      "key": "thirsty",
+      "text": "thirsty",
+      "file": "assets/audio/words/thirsty.mp3",
+      "exists": false
+    },
+    {
+      "key": "three",
+      "text": "three",
+      "file": "assets/audio/words/three.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "too",
+      "text": "too",
+      "file": "assets/audio/words/too.mp3",
+      "exists": false
+    },
+    {
+      "key": "tour",
+      "text": "tour",
+      "file": "assets/audio/words/tour.mp3",
+      "exists": false
+    },
+    {
+      "key": "tower",
+      "text": "tower",
+      "file": "assets/audio/words/tower.mp3",
+      "exists": false
+    },
+    {
+      "key": "trees",
+      "text": "trees",
+      "file": "assets/audio/words/trees.mp3",
+      "exists": false
+    },
+    {
+      "key": "try",
+      "text": "try",
+      "file": "assets/audio/words/try.mp3",
+      "exists": false
+    },
+    {
+      "key": "turtles",
+      "text": "turtles",
+      "file": "assets/audio/words/turtles.mp3",
+      "exists": false
+    },
+    {
+      "key": "types",
+      "text": "types",
+      "file": "assets/audio/words/types.mp3",
+      "exists": false
+    },
+    {
+      "key": "underground",
+      "text": "underground",
+      "file": "assets/audio/words/underground.mp3",
+      "exists": false
+    },
+    {
+      "key": "underwater",
+      "text": "underwater",
+      "file": "assets/audio/words/underwater.mp3",
+      "exists": false
+    },
+    {
+      "key": "unlike",
+      "text": "Unlike",
+      "file": "assets/audio/words/unlike.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "use",
+      "text": "use",
+      "file": "assets/audio/words/use.mp3",
+      "exists": false
+    },
+    {
+      "key": "usual",
+      "text": "usual",
+      "file": "assets/audio/words/usual.mp3",
+      "exists": false
+    },
+    {
+      "key": "voluntary",
+      "text": "voluntary",
+      "file": "assets/audio/words/voluntary.mp3",
+      "exists": false
+    },
+    {
+      "key": "water",
+      "text": "water",
+      "file": "assets/audio/words/water.mp3",
+      "exists": false
+    },
+    {
+      "key": "waters",
+      "text": "waters",
+      "file": "assets/audio/words/waters.mp3",
+      "exists": false
+    },
+    {
+      "key": "wetland",
+      "text": "wetland",
+      "file": "assets/audio/words/wetland.mp3",
+      "exists": false
+    },
+    {
+      "key": "wetlands",
+      "text": "Wetlands",
+      "file": "assets/audio/words/wetlands.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "when",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "whose",
+      "text": "whose",
+      "file": "assets/audio/words/whose.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "without",
+      "text": "without",
+      "file": "assets/audio/words/without.mp3",
+      "exists": false
+    },
+    {
+      "key": "work",
+      "text": "work",
+      "file": "assets/audio/words/work.mp3",
+      "exists": false
+    },
+    {
+      "key": "worth",
+      "text": "worth",
+      "file": "assets/audio/words/worth.mp3",
+      "exists": false
+    },
+    {
+      "key": "youd",
+      "text": "you'd",
+      "file": "assets/audio/words/youd.mp3",
+      "exists": false
+    }
+  ]
+}

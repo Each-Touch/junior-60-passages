@@ -1,0 +1,1057 @@
+{
+  "voice": "成人男声｜老师清晰",
+  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "sentence_method": "one complete sentence per generation",
+  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Headphones are helpful.",
+      "file": "assets/audio/sentences/sentence-01.mp3",
+      "exists": true
+    },
+    {
+      "id": 2,
+      "text": "Many kids use them to listen to music or watch a cartoon.",
+      "file": "assets/audio/sentences/sentence-02.mp3",
+      "exists": true
+    },
+    {
+      "id": 3,
+      "text": "But headphones can be harmful too.",
+      "file": "assets/audio/sentences/sentence-03.mp3",
+      "exists": true
+    },
+    {
+      "id": 4,
+      "text": "They can cause hearing loss if the volume is too loud.",
+      "file": "assets/audio/sentences/sentence-04.mp3",
+      "exists": true
+    },
+    {
+      "id": 5,
+      "text": "Surveys show that one out of every ten kids in the US has some hearing loss.",
+      "file": "assets/audio/sentences/sentence-05.mp3",
+      "exists": true
+    },
+    {
+      "id": 6,
+      "text": "The cause is loud noise, like listening to a band at a noisy concert.",
+      "file": "assets/audio/sentences/sentence-06.mp3",
+      "exists": true
+    },
+    {
+      "id": 7,
+      "text": "Do you know how we hear?",
+      "file": "assets/audio/sentences/sentence-07.mp3",
+      "exists": true
+    },
+    {
+      "id": 8,
+      "text": "There are cells inside the ears that can't be seen with our eyes.",
+      "file": "assets/audio/sentences/sentence-08.mp3",
+      "exists": true
+    },
+    {
+      "id": 9,
+      "text": "We call them hair cells, said Jackie Clark, a scientist studying noises and ears.",
+      "file": "assets/audio/sentences/sentence-09.mp3",
+      "exists": true
+    },
+    {
+      "id": 10,
+      "text": "Sound can make the hair cells move back and forward.",
+      "file": "assets/audio/sentences/sentence-10.mp3",
+      "exists": true
+    },
+    {
+      "id": 11,
+      "text": "Think of the wind in the leaves or a waving flag.",
+      "file": "assets/audio/sentences/sentence-11.mp3",
+      "exists": true
+    },
+    {
+      "id": 12,
+      "text": "Once the cells are damaged by loud noises, they don't grow back.",
+      "file": "assets/audio/sentences/sentence-12.mp3",
+      "exists": true
+    },
+    {
+      "id": 13,
+      "text": "Sometimes there's tinnitus.",
+      "file": "assets/audio/sentences/sentence-13.mp3",
+      "exists": true
+    },
+    {
+      "id": 14,
+      "text": "It's like someone is playing a note on the flute for a long time.",
+      "file": "assets/audio/sentences/sentence-14.mp3",
+      "exists": true
+    },
+    {
+      "id": 15,
+      "text": "It shows we're losing hearing and in the worst case, becoming deaf.",
+      "file": "assets/audio/sentences/sentence-15.mp3",
+      "exists": true
+    },
+    {
+      "id": 16,
+      "text": "It makes us feel uneasy or even suffer an earache.",
+      "file": "assets/audio/sentences/sentence-16.mp3",
+      "exists": true
+    },
+    {
+      "id": 17,
+      "text": "It's necessary to protect our ears so that we don't end up in hospital.",
+      "file": "assets/audio/sentences/sentence-17.mp3",
+      "exists": true
+    },
+    {
+      "id": 18,
+      "text": "Let's follow some strict rules to protect our ears.",
+      "file": "assets/audio/sentences/sentence-18.mp3",
+      "exists": true
+    },
+    {
+      "id": 19,
+      "text": "Keep the volume low, and seldom use headphones for more than one hour at a time unless it's necessary.",
+      "file": "assets/audio/sentences/sentence-19.mp3",
+      "exists": true
+    },
+    {
+      "id": 20,
+      "text": "Don't use headphones in noisy places like a railway station, because you will need to turn up the volume to hear clearly.",
+      "file": "assets/audio/sentences/sentence-20.mp3",
+      "exists": true
+    },
+    {
+      "id": 21,
+      "text": "If I can hear what you're listening to when you're wearing your headphones, Ms Clark said, It's too loud.",
+      "file": "assets/audio/sentences/sentence-21.mp3",
+      "exists": true
+    },
+    {
+      "id": 22,
+      "text": "Although there are so many beautiful pieces of music, none should be listened to too loudly.",
+      "file": "assets/audio/sentences/sentence-22.mp3",
+      "exists": true
+    }
+  ],
+  "words": [
+    {
+      "key": "a",
+      "text": "a",
+      "file": "assets/audio/words/a.mp3",
+      "exists": false
+    },
+    {
+      "key": "although",
+      "text": "Although",
+      "file": "assets/audio/words/although.mp3",
+      "exists": false
+    },
+    {
+      "key": "an",
+      "text": "an",
+      "file": "assets/audio/words/an.mp3",
+      "exists": false
+    },
+    {
+      "key": "and",
+      "text": "and",
+      "file": "assets/audio/words/and.mp3",
+      "exists": false
+    },
+    {
+      "key": "are",
+      "text": "are",
+      "file": "assets/audio/words/are.mp3",
+      "exists": false
+    },
+    {
+      "key": "at",
+      "text": "at",
+      "file": "assets/audio/words/at.mp3",
+      "exists": false
+    },
+    {
+      "key": "back",
+      "text": "back",
+      "file": "assets/audio/words/back.mp3",
+      "exists": false
+    },
+    {
+      "key": "band",
+      "text": "band",
+      "file": "assets/audio/words/band.mp3",
+      "exists": false
+    },
+    {
+      "key": "be",
+      "text": "be",
+      "file": "assets/audio/words/be.mp3",
+      "exists": false
+    },
+    {
+      "key": "beautiful",
+      "text": "beautiful",
+      "file": "assets/audio/words/beautiful.mp3",
+      "exists": false
+    },
+    {
+      "key": "because",
+      "text": "because",
+      "file": "assets/audio/words/because.mp3",
+      "exists": false
+    },
+    {
+      "key": "becoming",
+      "text": "becoming",
+      "file": "assets/audio/words/becoming.mp3",
+      "exists": false
+    },
+    {
+      "key": "but",
+      "text": "But",
+      "file": "assets/audio/words/but.mp3",
+      "exists": false
+    },
+    {
+      "key": "by",
+      "text": "by",
+      "file": "assets/audio/words/by.mp3",
+      "exists": false
+    },
+    {
+      "key": "call",
+      "text": "call",
+      "file": "assets/audio/words/call.mp3",
+      "exists": false
+    },
+    {
+      "key": "can",
+      "text": "can",
+      "file": "assets/audio/words/can.mp3",
+      "exists": false
+    },
+    {
+      "key": "cant",
+      "text": "can't",
+      "file": "assets/audio/words/cant.mp3",
+      "exists": false
+    },
+    {
+      "key": "cartoon",
+      "text": "cartoon",
+      "file": "assets/audio/words/cartoon.mp3",
+      "exists": false
+    },
+    {
+      "key": "case",
+      "text": "case",
+      "file": "assets/audio/words/case.mp3",
+      "exists": false
+    },
+    {
+      "key": "cause",
+      "text": "cause",
+      "file": "assets/audio/words/cause.mp3",
+      "exists": false
+    },
+    {
+      "key": "cells",
+      "text": "cells",
+      "file": "assets/audio/words/cells.mp3",
+      "exists": false
+    },
+    {
+      "key": "clark",
+      "text": "Clark",
+      "file": "assets/audio/words/clark.mp3",
+      "exists": false
+    },
+    {
+      "key": "clearly",
+      "text": "clearly",
+      "file": "assets/audio/words/clearly.mp3",
+      "exists": false
+    },
+    {
+      "key": "concert",
+      "text": "concert",
+      "file": "assets/audio/words/concert.mp3",
+      "exists": false
+    },
+    {
+      "key": "damaged",
+      "text": "damaged",
+      "file": "assets/audio/words/damaged.mp3",
+      "exists": false
+    },
+    {
+      "key": "deaf",
+      "text": "deaf",
+      "file": "assets/audio/words/deaf.mp3",
+      "exists": false
+    },
+    {
+      "key": "do",
+      "text": "Do",
+      "file": "assets/audio/words/do.mp3",
+      "exists": false
+    },
+    {
+      "key": "dont",
+      "text": "don't",
+      "file": "assets/audio/words/dont.mp3",
+      "exists": false
+    },
+    {
+      "key": "earache",
+      "text": "earache",
+      "file": "assets/audio/words/earache.mp3",
+      "exists": false
+    },
+    {
+      "key": "ears",
+      "text": "ears",
+      "file": "assets/audio/words/ears.mp3",
+      "exists": false
+    },
+    {
+      "key": "end",
+      "text": "end",
+      "file": "assets/audio/words/end.mp3",
+      "exists": false
+    },
+    {
+      "key": "even",
+      "text": "even",
+      "file": "assets/audio/words/even.mp3",
+      "exists": false
+    },
+    {
+      "key": "every",
+      "text": "every",
+      "file": "assets/audio/words/every.mp3",
+      "exists": false
+    },
+    {
+      "key": "eyes",
+      "text": "eyes",
+      "file": "assets/audio/words/eyes.mp3",
+      "exists": false
+    },
+    {
+      "key": "feel",
+      "text": "feel",
+      "file": "assets/audio/words/feel.mp3",
+      "exists": false
+    },
+    {
+      "key": "flag",
+      "text": "flag",
+      "file": "assets/audio/words/flag.mp3",
+      "exists": false
+    },
+    {
+      "key": "flute",
+      "text": "flute",
+      "file": "assets/audio/words/flute.mp3",
+      "exists": false
+    },
+    {
+      "key": "follow",
+      "text": "follow",
+      "file": "assets/audio/words/follow.mp3",
+      "exists": false
+    },
+    {
+      "key": "for",
+      "text": "for",
+      "file": "assets/audio/words/for.mp3",
+      "exists": false
+    },
+    {
+      "key": "forward",
+      "text": "forward",
+      "file": "assets/audio/words/forward.mp3",
+      "exists": false
+    },
+    {
+      "key": "grow",
+      "text": "grow",
+      "file": "assets/audio/words/grow.mp3",
+      "exists": false
+    },
+    {
+      "key": "hair",
+      "text": "hair",
+      "file": "assets/audio/words/hair.mp3",
+      "exists": false
+    },
+    {
+      "key": "harmful",
+      "text": "harmful",
+      "file": "assets/audio/words/harmful.mp3",
+      "exists": false
+    },
+    {
+      "key": "has",
+      "text": "has",
+      "file": "assets/audio/words/has.mp3",
+      "exists": false
+    },
+    {
+      "key": "headphones",
+      "text": "Headphones",
+      "file": "assets/audio/words/headphones.mp3",
+      "exists": false
+    },
+    {
+      "key": "hear",
+      "text": "hear",
+      "file": "assets/audio/words/hear.mp3",
+      "exists": false
+    },
+    {
+      "key": "hearing",
+      "text": "hearing",
+      "file": "assets/audio/words/hearing.mp3",
+      "exists": false
+    },
+    {
+      "key": "helpful",
+      "text": "helpful",
+      "file": "assets/audio/words/helpful.mp3",
+      "exists": false
+    },
+    {
+      "key": "hospital",
+      "text": "hospital",
+      "file": "assets/audio/words/hospital.mp3",
+      "exists": false
+    },
+    {
+      "key": "hour",
+      "text": "hour",
+      "file": "assets/audio/words/hour.mp3",
+      "exists": false
+    },
+    {
+      "key": "how",
+      "text": "how",
+      "file": "assets/audio/words/how.mp3",
+      "exists": false
+    },
+    {
+      "key": "i",
+      "text": "I",
+      "file": "assets/audio/words/i.mp3",
+      "exists": false
+    },
+    {
+      "key": "if",
+      "text": "if",
+      "file": "assets/audio/words/if.mp3",
+      "exists": false
+    },
+    {
+      "key": "in",
+      "text": "in",
+      "file": "assets/audio/words/in.mp3",
+      "exists": false
+    },
+    {
+      "key": "inside",
+      "text": "inside",
+      "file": "assets/audio/words/inside.mp3",
+      "exists": false
+    },
+    {
+      "key": "is",
+      "text": "is",
+      "file": "assets/audio/words/is.mp3",
+      "exists": false
+    },
+    {
+      "key": "it",
+      "text": "It",
+      "file": "assets/audio/words/it.mp3",
+      "exists": false
+    },
+    {
+      "key": "its",
+      "text": "It's",
+      "file": "assets/audio/words/its.mp3",
+      "exists": false
+    },
+    {
+      "key": "jackie",
+      "text": "Jackie",
+      "file": "assets/audio/words/jackie.mp3",
+      "exists": false
+    },
+    {
+      "key": "keep",
+      "text": "Keep",
+      "file": "assets/audio/words/keep.mp3",
+      "exists": false
+    },
+    {
+      "key": "kids",
+      "text": "kids",
+      "file": "assets/audio/words/kids.mp3",
+      "exists": false
+    },
+    {
+      "key": "know",
+      "text": "know",
+      "file": "assets/audio/words/know.mp3",
+      "exists": false
+    },
+    {
+      "key": "leaves",
+      "text": "leaves",
+      "file": "assets/audio/words/leaves.mp3",
+      "exists": false
+    },
+    {
+      "key": "lets",
+      "text": "Let's",
+      "file": "assets/audio/words/lets.mp3",
+      "exists": false
+    },
+    {
+      "key": "like",
+      "text": "like",
+      "file": "assets/audio/words/like.mp3",
+      "exists": false
+    },
+    {
+      "key": "listen",
+      "text": "listen",
+      "file": "assets/audio/words/listen.mp3",
+      "exists": false
+    },
+    {
+      "key": "listened",
+      "text": "listened",
+      "file": "assets/audio/words/listened.mp3",
+      "exists": false
+    },
+    {
+      "key": "listening",
+      "text": "listening",
+      "file": "assets/audio/words/listening.mp3",
+      "exists": false
+    },
+    {
+      "key": "long",
+      "text": "long",
+      "file": "assets/audio/words/long.mp3",
+      "exists": false
+    },
+    {
+      "key": "losing",
+      "text": "losing",
+      "file": "assets/audio/words/losing.mp3",
+      "exists": false
+    },
+    {
+      "key": "loss",
+      "text": "loss",
+      "file": "assets/audio/words/loss.mp3",
+      "exists": false
+    },
+    {
+      "key": "loud",
+      "text": "loud",
+      "file": "assets/audio/words/loud.mp3",
+      "exists": false
+    },
+    {
+      "key": "loudly",
+      "text": "loudly",
+      "file": "assets/audio/words/loudly.mp3",
+      "exists": false
+    },
+    {
+      "key": "low",
+      "text": "low",
+      "file": "assets/audio/words/low.mp3",
+      "exists": false
+    },
+    {
+      "key": "make",
+      "text": "make",
+      "file": "assets/audio/words/make.mp3",
+      "exists": false
+    },
+    {
+      "key": "makes",
+      "text": "makes",
+      "file": "assets/audio/words/makes.mp3",
+      "exists": false
+    },
+    {
+      "key": "many",
+      "text": "Many",
+      "file": "assets/audio/words/many.mp3",
+      "exists": false
+    },
+    {
+      "key": "more",
+      "text": "more",
+      "file": "assets/audio/words/more.mp3",
+      "exists": false
+    },
+    {
+      "key": "move",
+      "text": "move",
+      "file": "assets/audio/words/move.mp3",
+      "exists": false
+    },
+    {
+      "key": "ms",
+      "text": "Ms",
+      "file": "assets/audio/words/ms.mp3",
+      "exists": false
+    },
+    {
+      "key": "music",
+      "text": "music",
+      "file": "assets/audio/words/music.mp3",
+      "exists": false
+    },
+    {
+      "key": "necessary",
+      "text": "necessary",
+      "file": "assets/audio/words/necessary.mp3",
+      "exists": false
+    },
+    {
+      "key": "need",
+      "text": "need",
+      "file": "assets/audio/words/need.mp3",
+      "exists": false
+    },
+    {
+      "key": "noise",
+      "text": "noise",
+      "file": "assets/audio/words/noise.mp3",
+      "exists": false
+    },
+    {
+      "key": "noises",
+      "text": "noises",
+      "file": "assets/audio/words/noises.mp3",
+      "exists": false
+    },
+    {
+      "key": "noisy",
+      "text": "noisy",
+      "file": "assets/audio/words/noisy.mp3",
+      "exists": false
+    },
+    {
+      "key": "none",
+      "text": "none",
+      "file": "assets/audio/words/none.mp3",
+      "exists": false
+    },
+    {
+      "key": "note",
+      "text": "note",
+      "file": "assets/audio/words/note.mp3",
+      "exists": false
+    },
+    {
+      "key": "of",
+      "text": "of",
+      "file": "assets/audio/words/of.mp3",
+      "exists": false
+    },
+    {
+      "key": "on",
+      "text": "on",
+      "file": "assets/audio/words/on.mp3",
+      "exists": false
+    },
+    {
+      "key": "once",
+      "text": "Once",
+      "file": "assets/audio/words/once.mp3",
+      "exists": false
+    },
+    {
+      "key": "one",
+      "text": "one",
+      "file": "assets/audio/words/one.mp3",
+      "exists": false
+    },
+    {
+      "key": "or",
+      "text": "or",
+      "file": "assets/audio/words/or.mp3",
+      "exists": false
+    },
+    {
+      "key": "our",
+      "text": "our",
+      "file": "assets/audio/words/our.mp3",
+      "exists": false
+    },
+    {
+      "key": "out",
+      "text": "out",
+      "file": "assets/audio/words/out.mp3",
+      "exists": false
+    },
+    {
+      "key": "pieces",
+      "text": "pieces",
+      "file": "assets/audio/words/pieces.mp3",
+      "exists": false
+    },
+    {
+      "key": "places",
+      "text": "places",
+      "file": "assets/audio/words/places.mp3",
+      "exists": false
+    },
+    {
+      "key": "playing",
+      "text": "playing",
+      "file": "assets/audio/words/playing.mp3",
+      "exists": false
+    },
+    {
+      "key": "protect",
+      "text": "protect",
+      "file": "assets/audio/words/protect.mp3",
+      "exists": false
+    },
+    {
+      "key": "railway",
+      "text": "railway",
+      "file": "assets/audio/words/railway.mp3",
+      "exists": false
+    },
+    {
+      "key": "rules",
+      "text": "rules",
+      "file": "assets/audio/words/rules.mp3",
+      "exists": false
+    },
+    {
+      "key": "said",
+      "text": "said",
+      "file": "assets/audio/words/said.mp3",
+      "exists": false
+    },
+    {
+      "key": "scientist",
+      "text": "scientist",
+      "file": "assets/audio/words/scientist.mp3",
+      "exists": false
+    },
+    {
+      "key": "seen",
+      "text": "seen",
+      "file": "assets/audio/words/seen.mp3",
+      "exists": false
+    },
+    {
+      "key": "seldom",
+      "text": "seldom",
+      "file": "assets/audio/words/seldom.mp3",
+      "exists": false
+    },
+    {
+      "key": "should",
+      "text": "should",
+      "file": "assets/audio/words/should.mp3",
+      "exists": false
+    },
+    {
+      "key": "show",
+      "text": "show",
+      "file": "assets/audio/words/show.mp3",
+      "exists": false
+    },
+    {
+      "key": "shows",
+      "text": "shows",
+      "file": "assets/audio/words/shows.mp3",
+      "exists": false
+    },
+    {
+      "key": "so",
+      "text": "so",
+      "file": "assets/audio/words/so.mp3",
+      "exists": false
+    },
+    {
+      "key": "some",
+      "text": "some",
+      "file": "assets/audio/words/some.mp3",
+      "exists": false
+    },
+    {
+      "key": "someone",
+      "text": "someone",
+      "file": "assets/audio/words/someone.mp3",
+      "exists": false
+    },
+    {
+      "key": "sometimes",
+      "text": "Sometimes",
+      "file": "assets/audio/words/sometimes.mp3",
+      "exists": false
+    },
+    {
+      "key": "sound",
+      "text": "Sound",
+      "file": "assets/audio/words/sound.mp3",
+      "exists": false
+    },
+    {
+      "key": "station",
+      "text": "station",
+      "file": "assets/audio/words/station.mp3",
+      "exists": false
+    },
+    {
+      "key": "strict",
+      "text": "strict",
+      "file": "assets/audio/words/strict.mp3",
+      "exists": false
+    },
+    {
+      "key": "studying",
+      "text": "studying",
+      "file": "assets/audio/words/studying.mp3",
+      "exists": false
+    },
+    {
+      "key": "suffer",
+      "text": "suffer",
+      "file": "assets/audio/words/suffer.mp3",
+      "exists": false
+    },
+    {
+      "key": "surveys",
+      "text": "Surveys",
+      "file": "assets/audio/words/surveys.mp3",
+      "exists": false
+    },
+    {
+      "key": "ten",
+      "text": "ten",
+      "file": "assets/audio/words/ten.mp3",
+      "exists": false
+    },
+    {
+      "key": "than",
+      "text": "than",
+      "file": "assets/audio/words/than.mp3",
+      "exists": false
+    },
+    {
+      "key": "that",
+      "text": "that",
+      "file": "assets/audio/words/that.mp3",
+      "exists": false
+    },
+    {
+      "key": "the",
+      "text": "the",
+      "file": "assets/audio/words/the.mp3",
+      "exists": false
+    },
+    {
+      "key": "them",
+      "text": "them",
+      "file": "assets/audio/words/them.mp3",
+      "exists": false
+    },
+    {
+      "key": "there",
+      "text": "There",
+      "file": "assets/audio/words/there.mp3",
+      "exists": false
+    },
+    {
+      "key": "theres",
+      "text": "there's",
+      "file": "assets/audio/words/theres.mp3",
+      "exists": false
+    },
+    {
+      "key": "they",
+      "text": "They",
+      "file": "assets/audio/words/they.mp3",
+      "exists": false
+    },
+    {
+      "key": "think",
+      "text": "Think",
+      "file": "assets/audio/words/think.mp3",
+      "exists": false
+    },
+    {
+      "key": "time",
+      "text": "time",
+      "file": "assets/audio/words/time.mp3",
+      "exists": false
+    },
+    {
+      "key": "tinnitus",
+      "text": "tinnitus",
+      "file": "assets/audio/words/tinnitus.mp3",
+      "exists": false
+    },
+    {
+      "key": "to",
+      "text": "to",
+      "file": "assets/audio/words/to.mp3",
+      "exists": false
+    },
+    {
+      "key": "too",
+      "text": "too",
+      "file": "assets/audio/words/too.mp3",
+      "exists": false
+    },
+    {
+      "key": "turn",
+      "text": "turn",
+      "file": "assets/audio/words/turn.mp3",
+      "exists": false
+    },
+    {
+      "key": "uneasy",
+      "text": "uneasy",
+      "file": "assets/audio/words/uneasy.mp3",
+      "exists": false
+    },
+    {
+      "key": "unless",
+      "text": "unless",
+      "file": "assets/audio/words/unless.mp3",
+      "exists": false
+    },
+    {
+      "key": "up",
+      "text": "up",
+      "file": "assets/audio/words/up.mp3",
+      "exists": false
+    },
+    {
+      "key": "us",
+      "text": "US",
+      "file": "assets/audio/words/us.mp3",
+      "exists": false
+    },
+    {
+      "key": "use",
+      "text": "use",
+      "file": "assets/audio/words/use.mp3",
+      "exists": false
+    },
+    {
+      "key": "volume",
+      "text": "volume",
+      "file": "assets/audio/words/volume.mp3",
+      "exists": false
+    },
+    {
+      "key": "watch",
+      "text": "watch",
+      "file": "assets/audio/words/watch.mp3",
+      "exists": false
+    },
+    {
+      "key": "waving",
+      "text": "waving",
+      "file": "assets/audio/words/waving.mp3",
+      "exists": false
+    },
+    {
+      "key": "we",
+      "text": "we",
+      "file": "assets/audio/words/we.mp3",
+      "exists": false
+    },
+    {
+      "key": "wearing",
+      "text": "wearing",
+      "file": "assets/audio/words/wearing.mp3",
+      "exists": false
+    },
+    {
+      "key": "were",
+      "text": "we're",
+      "file": "assets/audio/words/were.mp3",
+      "exists": false
+    },
+    {
+      "key": "what",
+      "text": "what",
+      "file": "assets/audio/words/what.mp3",
+      "exists": false
+    },
+    {
+      "key": "when",
+      "text": "when",
+      "file": "assets/audio/words/when.mp3",
+      "exists": false
+    },
+    {
+      "key": "will",
+      "text": "will",
+      "file": "assets/audio/words/will.mp3",
+      "exists": false
+    },
+    {
+      "key": "wind",
+      "text": "wind",
+      "file": "assets/audio/words/wind.mp3",
+      "exists": false
+    },
+    {
+      "key": "with",
+      "text": "with",
+      "file": "assets/audio/words/with.mp3",
+      "exists": false
+    },
+    {
+      "key": "worst",
+      "text": "worst",
+      "file": "assets/audio/words/worst.mp3",
+      "exists": false
+    },
+    {
+      "key": "you",
+      "text": "you",
+      "file": "assets/audio/words/you.mp3",
+      "exists": false
+    },
+    {
+      "key": "your",
+      "text": "your",
+      "file": "assets/audio/words/your.mp3",
+      "exists": false
+    },
+    {
+      "key": "youre",
+      "text": "you're",
+      "file": "assets/audio/words/youre.mp3",
+      "exists": false
+    }
+  ]
+}
