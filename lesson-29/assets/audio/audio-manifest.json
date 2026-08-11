@@ -1,113 +1,215 @@
 {
-  "voice": "成人男声｜老师清晰",
-  "reference": "/Users/zhaozixu/Documents/Codex/2026-06-04/new-chat/work/full_voice_catalog/12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "柔和清晰女声｜初中慢读",
+  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
-  "sentence_method": "one complete sentence per generation",
-  "word_method": "independent word generation, not extracted from sentence audio",
+  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
+  "word_method": "shared verified word bank; exact-ASR sentence timestamp extraction; carrier generation when absent",
   "sentences": [
     {
       "id": 1,
       "text": "When Albert Einstein was 16 years old, he imagined himself riding alongside a beam of light.",
       "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 8.905,
+      "raw_duration_seconds": 6.08,
+      "asr": "When Albert Einstein was 16 years old, he imagined himself riding alongside a beam of light.",
+      "published_asr": "When Albert Einstein was 16 years old, he imagined himself riding alongside a beam of light.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 2,
       "text": "He used this picture in mind to help him when working out the theory of relativity.",
       "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 6.099,
+      "raw_duration_seconds": 4.16,
+      "asr": "He used this picture in mind to help him when working out the theory of relativity.",
+      "published_asr": "He used this picture in mind to help him when working out the theory of relativity.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 3,
       "text": "Daydreaming, called Thought Experiments by Einstein, can make you have wild imaginings.",
       "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 7.742,
+      "raw_duration_seconds": 5.28,
+      "asr": "Daydreaming, called Thought Experiments by Einstein, can make you have wild imaginings.",
+      "published_asr": "Daydreaming, called Thought Experiments by Einstein, can make you have wild imaginings.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 4,
       "text": "We can imagine different landscapes, like mountains and forests.",
       "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 6.077,
+      "raw_duration_seconds": 4.16,
+      "asr": "We can imagine different landscapes, like mountains and forests.",
+      "published_asr": "We can imagine different landscapes, like mountains and forests.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 5,
       "text": "It lets your mind walk slowly around things that aren't happening right now.",
       "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 5.607,
+      "raw_duration_seconds": 3.84,
+      "asr": "It lets your mind walk slowly around things that aren't happening right now.",
+      "published_asr": "It lets your mind walk slowly around things that aren't happening right now.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 6,
       "text": "It means thinking ahead to a holiday or a birthday party.",
       "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 5.607,
+      "raw_duration_seconds": 3.84,
+      "asr": "It means thinking ahead to a holiday or a birthday party.",
+      "published_asr": "It means thinking ahead to a holiday or a birthday party.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 7,
       "text": "Disappearing into a daydream lets your mind escape when things are difficult.",
       "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 5.842,
+      "raw_duration_seconds": 4.0,
+      "asr": "Disappearing into a daydream lets your mind escape when things are difficult.",
+      "published_asr": "Disappearing into a daydream lets your mind escape when things are difficult.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 8,
       "text": "It helps you deal with worries and fears.",
       "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 4.197,
+      "raw_duration_seconds": 2.88,
+      "asr": "It helps you deal with worries and fears.",
+      "published_asr": "It helps you deal with worries and fears.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 9,
       "text": "For example, imagining how you're going to speak up in class is like practising the scene in your head, which can make you feel calmer.",
       "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 10.551,
+      "raw_duration_seconds": 7.2,
+      "asr": "For example, imagining how you're going to speak up in class is like practicing the scene in your head, which can make you feel calmer.",
+      "published_asr": "For example, imagining how you're going to speak up in class is like practicing the scene in your head, which can make you feel calmer.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 10,
       "text": "Imagining graduating encourages you to work harder towards your learning goals.",
       "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 6.56,
+      "raw_duration_seconds": 4.48,
+      "asr": "Imagining graduating encourages you to work harder towards your learning goals.",
+      "published_asr": "Imagining graduating encourages you to work harder towards your learning goals.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 11,
       "text": "Reading literature also inspires our creativity in daydreaming.",
       "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 6.319,
+      "raw_duration_seconds": 4.32,
+      "asr": "Reading literature also inspires our creativity in daydreaming.",
+      "published_asr": "Reading literature also inspires our creativity in daydreaming.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 12,
       "text": "When we picture ourselves as a princess or a queen wearing a beautiful dress, we let our minds wander in a fairy tale that brings us courage.",
       "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 12.197,
+      "raw_duration_seconds": 8.32,
+      "asr": "When we picture ourselves as a princess or a queen wearing a beautiful dress, we let our minds wander in a fairy tale that brings us courage.",
+      "published_asr": "When we picture ourselves as a princess or a queen wearing a beautiful dress, we let our minds wander in a fairy tale that brings us courage.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 13,
       "text": "Then we may pick up our pens to write our own paragraphs.",
       "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 5.607,
+      "raw_duration_seconds": 3.84,
+      "asr": "Then, we may pick up our pens to write our own paragraphs.",
+      "published_asr": "Then, we may pick up our pens to write our own paragraphs.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 14,
       "text": "However, try not to let your mind be absent when you need to focus in class or cross the road.",
       "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 8.67,
+      "raw_duration_seconds": 5.92,
+      "asr": "However, try not to let your mind be absent when you need to focus in class or cross the road.",
+      "published_asr": "However, try not to let your mind be absent when you need to focus in class or cross the road.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 15,
       "text": "Instead, find a time when you don't have to focus on anything, like going for a walk or brushing your teeth.",
       "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 8.905,
+      "raw_duration_seconds": 6.08,
+      "asr": "Instead, find a time when you don't have to focus on anything, like going for a walk or brushing your teeth.",
+      "published_asr": "Instead, find a time when you don't have to focus on anything, like going for a walk or brushing your teeth.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 16,
       "text": "Research shows that people often come up with more solutions to problems after daydreaming because it is similar to staying at a hotel, where we can take a break.",
       "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 12.681,
+      "raw_duration_seconds": 8.64,
+      "asr": "Research shows that people often come up with more solutions to problems after daydreaming, because it is similar to staying at a hotel, where we can take a break.",
+      "published_asr": "Research shows that people often come up with more solutions to problems after daydreaming because it is similar to staying at a hotel where we can take a break.",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     },
     {
       "id": 17,
       "text": "So next time you're stuck on homework, stop for a moment and see where your daydreams take you.",
       "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true
+      "exists": true,
+      "duration_seconds": 7.965,
+      "raw_duration_seconds": 5.44,
+      "asr": "So next time you're stuck on homework, stop for a moment and see where your daydreams take you.",
+      "published_asr": "So next time you're stuck on homework stop for a moment and see where your daydreams take you",
+      "raw_asr_exact": true,
+      "published_asr_exact": true
     }
   ],
   "words": [
@@ -115,1021 +217,2393 @@
       "key": "a",
       "text": "a",
       "file": "assets/audio/words/a.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "feb7012f3123c45add3394b9d15d75f8f51ff1c8e2de610c328997a5ef8d93fd",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "side of",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "absent",
       "text": "absent",
       "file": "assets/audio/words/absent.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.571,
+      "audio_sha256": "791ffe694a6187a79ec2987664cd4933c967416b6b4719ac3e1c4900a73c3243",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 14,
+      "isolated_asr": "the apps.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "after",
       "text": "after",
       "file": "assets/audio/words/after.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "e8a5c771c78a5cc7d5c05c40d1005a77a559053ce86852788b36ed1a029034f1",
+      "qa_source": "bank",
+      "source_lesson": 27,
+      "source_page": 2,
+      "isolated_asr": "after.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "ahead",
       "text": "ahead",
       "file": "assets/audio/words/ahead.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.588,
+      "audio_sha256": "a9744a49ee30403e347b344715221ab05c625b7bce90bdd8bc537096e1dd8c08",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 6,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "albert",
       "text": "Albert",
       "file": "assets/audio/words/albert.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.571,
+      "audio_sha256": "2610803eca5ee4f7d38904a176b1090ff6a2a731d3fe338fa6b0ee6e40a740d4",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "Albert",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "alongside",
       "text": "alongside",
       "file": "assets/audio/words/alongside.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.694,
+      "audio_sha256": "ac9c7124bea3c4b683ad9c89acd73af587fe92821ec0ea8e88e3e9b2f3b898ab",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "being alongside.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "also",
       "text": "also",
       "file": "assets/audio/words/also.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.447,
+      "audio_sha256": "dd3eb45ddaf1731b73c52c76d4f3cc2a19362e424005d1c99044c6523f899225",
+      "qa_source": "bank",
+      "source_lesson": 10,
+      "source_page": 15,
+      "isolated_asr": "Also",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "and",
       "text": "and",
       "file": "assets/audio/words/and.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "f75a9c7981b4ec4647c189b321c65317252a068e5bcf65dad6105f2144af5f1e",
+      "qa_source": "bank",
+      "source_lesson": 21,
+      "source_page": 3,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "anything",
       "text": "anything",
       "file": "assets/audio/words/anything.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "02605f4c4bf6507183960cfccb12d0b57621e4b1bb90d1f1587caff4e4d83c53",
+      "qa_source": "bank",
+      "source_lesson": 34,
+      "source_page": 6,
+      "isolated_asr": "Any",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "are",
       "text": "are",
       "file": "assets/audio/words/are.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.352,
+      "audio_sha256": "eb917c7b6bf7d74f3e7d3b634f6be5fe56932a806fa09acf0083e57eb6165363",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 1,
+      "isolated_asr": "and our.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "arent",
       "text": "aren't",
       "file": "assets/audio/words/arent.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.741,
+      "audio_sha256": "d94d67bf84c516210c209ade4897f53dc69051a66a1e90d8f1773b9579aae36a",
+      "qa_source": "bank",
+      "source_lesson": 7,
+      "source_page": 4,
+      "isolated_asr": "These aren't...",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "around",
       "text": "around",
       "file": "assets/audio/words/around.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "b5d82263a5495604ef355e861bce9cd707d944874e8757b5efcb1ee03215cfae",
+      "qa_source": "bank",
+      "source_lesson": 14,
+      "source_page": 20,
+      "isolated_asr": "around.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "as",
       "text": "as",
       "file": "assets/audio/words/as.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.304,
+      "audio_sha256": "4adcf4f479888451c40944966288b318b8f1177865bedd78374481264247bcba",
+      "qa_source": "bank",
+      "source_lesson": 23,
+      "source_page": 7,
+      "isolated_asr": "As",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "at",
       "text": "at",
       "file": "assets/audio/words/at.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "51f56fe83ef2b1d0eb6ce6574c5ce169b507df7b9fe541d022c79640fbbd5fec",
+      "qa_source": "bank",
+      "source_lesson": 6,
+      "source_page": 1,
+      "isolated_asr": "Thanks for watching and I'll see you in the next video.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "be",
       "text": "be",
       "file": "assets/audio/words/be.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.417,
+      "audio_sha256": "def0394e07c8b92fdcd7bb0648146b7853ecf0e04a1d824fb45107f446b149d9",
+      "qa_source": "bank",
+      "source_lesson": 27,
+      "source_page": 12,
+      "isolated_asr": "8B",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "beam",
       "text": "beam",
       "file": "assets/audio/words/beam.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.391,
+      "audio_sha256": "95f9ff581d132e06c073f3159537a7373bae630adae877c637a0a80d5c186d2f",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "Be",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "beautiful",
       "text": "beautiful",
       "file": "assets/audio/words/beautiful.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.337,
+      "audio_sha256": "a9bf590ab0c57da474379d67b28d2c280d80aad40e70f96de6d9f04b1fb2f012",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": null,
+      "isolated_asr": "Beautiful.",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "because",
       "text": "because",
       "file": "assets/audio/words/because.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.443,
+      "audio_sha256": "4262c4ae37821aa6750927781532d0a5975a88ae6979227e8f50c3977aa0871d",
+      "qa_source": "bank",
+      "source_lesson": 23,
+      "source_page": 4,
+      "isolated_asr": "Because",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "birthday",
       "text": "birthday",
       "file": "assets/audio/words/birthday.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "ee199fa14c2623559ba7aa17364c6b1938efdf992fbe92792c0cf130b58b8aff",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 6,
+      "isolated_asr": "birth",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "break",
       "text": "break",
       "file": "assets/audio/words/break.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.433,
+      "audio_sha256": "0ca63cda2c193d121e13ed42e7f144430e029517c10c6866e766a2733f374ce9",
+      "qa_source": "bank",
+      "source_lesson": 10,
+      "source_page": 16,
+      "isolated_asr": "and break",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "brings",
       "text": "brings",
       "file": "assets/audio/words/brings.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.405,
+      "audio_sha256": "60e0cac0323f96f99542cc8531b62e2b72f0995f3e245966c4039cac4849aee0",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "Bring",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "brushing",
       "text": "brushing",
       "file": "assets/audio/words/brushing.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "a3e5d128c1a2aa124d1893bc32091a4037df19e7c881d7cc09b9d6038ccd4090",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 15,
+      "isolated_asr": "Brush.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "by",
       "text": "by",
       "file": "assets/audio/words/by.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "623527f70e5775e9c19d4c2a7d614e7da29b9287b3fda27bca32075a31e21610",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": 11,
+      "isolated_asr": "Bye.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "called",
       "text": "called",
       "file": "assets/audio/words/called.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.429,
+      "audio_sha256": "d6011664ac45668893606b9720bebba783ad688aa91892f27c521ad327512ae5",
+      "qa_source": "bank",
+      "source_lesson": 29,
+      "source_page": 9,
+      "isolated_asr": "Call.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "calmer",
       "text": "calmer",
       "file": "assets/audio/words/calmer.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.67,
+      "audio_sha256": "1348365b6a97eb0233e4a4451cf3f3f6f2b9281ce4da7838b6071ed4ecb695a5",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 9,
+      "isolated_asr": "calmer",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "can",
       "text": "can",
       "file": "assets/audio/words/can.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "91835983359f08660ed819440822dddc411dc57acef030c4d0db0d7fd4acb896",
+      "qa_source": "bank",
+      "source_lesson": 26,
+      "source_page": 13,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "class",
       "text": "class",
       "file": "assets/audio/words/class.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "9650abea470ff0a0b7b2fb6876ab9d88bc6a9457240b5894bc5cc56cff90224a",
+      "qa_source": "bank",
+      "source_lesson": 32,
+      "source_page": 5,
+      "isolated_asr": "class.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "come",
       "text": "come",
       "file": "assets/audio/words/come.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.262,
+      "audio_sha256": "8318b01045cd9286bd89296195ea5171cc0bbde7bbb45d1ff5785e546dc0a250",
+      "qa_source": "bank",
+      "source_lesson": 21,
+      "source_page": 10,
+      "isolated_asr": "Come.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "courage",
       "text": "courage",
       "file": "assets/audio/words/courage.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.43,
+      "audio_sha256": "f8a5584a8293bb3a4b0b98ddc44f8935d1e9f71686f96909e5bd443df67b52e1",
+      "qa_source": "bank",
+      "source_lesson": 13,
+      "source_page": 7,
+      "isolated_asr": "career.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "creativity",
       "text": "creativity",
       "file": "assets/audio/words/creativity.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.717,
+      "audio_sha256": "9b743f325bc6792a6e340040ec99987ce99c37d64369c6d6188a2e891e2420de",
+      "qa_source": "bank",
+      "source_lesson": 14,
+      "source_page": 19,
+      "isolated_asr": "created.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "cross",
       "text": "cross",
       "file": "assets/audio/words/cross.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "8cee56bb6a5831592c2d94e625e9745524b643344b76f658033ae05d9fd2ffef",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 14,
+      "isolated_asr": "across.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "daydream",
       "text": "daydream",
       "file": "assets/audio/words/daydream.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.67,
+      "audio_sha256": "19a2bbe326241d8e6383f492d873eb3fafff6cd4d39483250d26f0a2cbadc1c2",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 7,
+      "isolated_asr": "Daydream.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "daydreaming",
       "text": "Daydreaming",
       "file": "assets/audio/words/daydreaming.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.114,
+      "audio_sha256": "6aba3b41a98639ec223a4c71bf4a58a4de5e4512cd4b4028c7f50891dfb4b54b",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 3,
+      "isolated_asr": "Daydreaming",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "daydreams",
       "text": "daydreams",
       "file": "assets/audio/words/daydreams.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.765,
+      "audio_sha256": "621451179ce3919f01d1dd5aa80c1ca96965d9bd8e5a96e66b5a89e00c0c4e35",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 17,
+      "isolated_asr": "for daydreams.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "deal",
       "text": "deal",
       "file": "assets/audio/words/deal.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.382,
+      "audio_sha256": "a8fa5e96483b77c6259f5ed66443b21755478545942d063fe214212622b02cce",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": 1,
+      "isolated_asr": "deal",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "different",
       "text": "different",
       "file": "assets/audio/words/different.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "9c4b6613ecc995be427ed1268908f4ad9f7410653360c10a2d652bba175ef8dc",
+      "qa_source": "bank",
+      "source_lesson": 25,
+      "source_page": 7,
+      "isolated_asr": "different",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "difficult",
       "text": "difficult",
       "file": "assets/audio/words/difficult.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.841,
+      "audio_sha256": "0c86124d9935687b6015d33281378854668ebf603ac2b7ca7439ef0d0a773287",
+      "qa_source": "bank",
+      "source_lesson": 39,
+      "source_page": 11,
+      "isolated_asr": "times difficult.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "disappearing",
       "text": "Disappearing",
       "file": "assets/audio/words/disappearing.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.158,
+      "audio_sha256": "99b04ffc6780492af7488a8108c290442994b912c080bfe676f8cd080c0c9e64",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 7,
+      "isolated_asr": "Disappearing",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "dont",
       "text": "don't",
       "file": "assets/audio/words/dont.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "f571f6b1c01e82650c887febb07c28b0d30729592989e8db140f73a26a64fdc2",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 15,
+      "isolated_asr": "Don't-",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "dress",
       "text": "dress",
       "file": "assets/audio/words/dress.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.741,
+      "audio_sha256": "5f3e8a2649b04ee95da5314bcb38b6b11bfbda385e69b9b8e3a312f9df077968",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "beautiful dress.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "einstein",
       "text": "Einstein",
       "file": "assets/audio/words/einstein.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.717,
+      "audio_sha256": "23a53607754ea4668c25ec7b996534a29087576b0200b7f9541fa0907ef525a9",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "encourages",
       "text": "encourages",
       "file": "assets/audio/words/encourages.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.903,
+      "audio_sha256": "ad7e7c51e771d49c6ede9cecfc4e0690010028a35d81b539b171d418f01dae93",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 10,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "escape",
       "text": "escape",
       "file": "assets/audio/words/escape.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.581,
+      "audio_sha256": "f9dcffbd6f89a412149eefab2b3d3f8c35202784f4de4f3c1e38c93be051665d",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 7,
+      "isolated_asr": "and escape.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "example",
       "text": "example",
       "file": "assets/audio/words/example.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.618,
+      "audio_sha256": "2315ed05b5b3ff463ecb54d87ba77bd6176ea6259a01c2e1b54ca8abe077c4f1",
+      "qa_source": "bank",
+      "source_lesson": 31,
+      "source_page": 9,
+      "isolated_asr": "For example.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "experiments",
       "text": "Experiments",
       "file": "assets/audio/words/experiments.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.865,
+      "audio_sha256": "6cdfa72d941f1a2b6b0aa9690bd4e97fa7e88e7e56f47965478a2193f639a4b6",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 3,
+      "isolated_asr": "experiment.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "fairy",
       "text": "fairy",
       "file": "assets/audio/words/fairy.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.415,
+      "audio_sha256": "1165067dd0a2ee9a6c385abb6caad82037c461a218bfc9dd1fddf6b14ac27e50",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "Very",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "fears",
       "text": "fears",
       "file": "assets/audio/words/fears.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "a47313d1b0f098dda2d545bf5ad02767878c3c1619cfd6a7cb8d11243acb2634",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 8,
+      "isolated_asr": "fear.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "feel",
       "text": "feel",
       "file": "assets/audio/words/feel.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.417,
+      "audio_sha256": "071a45b9b1265e30192496371b11e0dce0fa74b94a656e5016668543b020b247",
+      "qa_source": "bank",
+      "source_lesson": 28,
+      "source_page": 8,
+      "isolated_asr": "You feel",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "find",
       "text": "find",
       "file": "assets/audio/words/find.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "f13116dac0ccd3c405d3870ad1c8533a56cf2d88fae73f8b9e3ba2cc45c4cf9f",
+      "qa_source": "bank",
+      "source_lesson": 26,
+      "source_page": 20,
+      "isolated_asr": "Fine.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "focus",
       "text": "focus",
       "file": "assets/audio/words/focus.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "b4a5a403ec35ab3245307d6d6e79476c413098e13dbfe9b474bd196aee701c63",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 14,
+      "isolated_asr": "Folk.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "for",
       "text": "For",
       "file": "assets/audio/words/for.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.304,
+      "audio_sha256": "288f1a1f8d68ba7edf6d06494314589c5a6f8addf9f5d0b2ad330f116548a062",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 9,
+      "isolated_asr": "for",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "forests",
       "text": "forests",
       "file": "assets/audio/words/forests.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "238e3eacee75d0219cab52a963f553ba5c900bb7bc986d26818cc2825175f7e3",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 4,
+      "isolated_asr": "for it.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "goals",
       "text": "goals",
       "file": "assets/audio/words/goals.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "7949371f96b04e1b81e9e0f6c4ba169fea282be15b2a01adaade0f52527c4d58",
+      "qa_source": "bank",
+      "source_lesson": 7,
+      "source_page": 7,
+      "isolated_asr": "Go.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "going",
       "text": "going",
       "file": "assets/audio/words/going.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "94d4c0b4495834e8d8b3e0d0587b90a041013d695a407abf4c32bce06d7445ca",
+      "qa_source": "bank",
+      "source_lesson": 7,
+      "source_page": 10,
+      "isolated_asr": "going.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "graduating",
       "text": "graduating",
       "file": "assets/audio/words/graduating.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.59,
+      "audio_sha256": "004acaf33de9f8c0ae573eb4facb91376b4fe82320f0120b3eb8143d2a816c8c",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 10,
+      "isolated_asr": "and graduate.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "happening",
       "text": "happening",
       "file": "assets/audio/words/happening.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "aaa3c596258c7be62a907a50e1d7446bb6886a98d42b4c04aba2488032dfc660",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 5,
+      "isolated_asr": "Happen",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "harder",
       "text": "harder",
       "file": "assets/audio/words/harder.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "ec6f32f25c33862104dcf4b48cf168d47f98a9e2e4af3f2b5b6a22596f6f3918",
+      "qa_source": "bank",
+      "source_lesson": 6,
+      "source_page": 15,
+      "isolated_asr": "Hard.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "have",
       "text": "have",
       "file": "assets/audio/words/have.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.4,
+      "audio_sha256": "3fc0712d0dbbd832a4ebf937050f266da006ebba4b4835fa75f47688264b0976",
+      "qa_source": "bank",
+      "source_lesson": 23,
+      "source_page": 1,
+      "isolated_asr": "It's happened.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "he",
       "text": "he",
       "file": "assets/audio/words/he.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.39,
+      "audio_sha256": "8178fd2ed3bd4f374a5c0b3e84b4452a0d97c8a6878d3b84bbd7f7c6bfc6567d",
+      "qa_source": "bank",
+      "source_lesson": 13,
+      "source_page": 2,
+      "isolated_asr": "He",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "head",
       "text": "head",
       "file": "assets/audio/words/head.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.417,
+      "audio_sha256": "d36270d62d8b588755aaecda5eddf571a2fb556670cdfda05c8d9b1c47bb14ee",
+      "qa_source": "bank",
+      "source_lesson": 1,
+      "source_page": 16,
+      "isolated_asr": "head.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "help",
       "text": "help",
       "file": "assets/audio/words/help.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "e4ca99b8822c36b2e0ba5563578ecb94b36c8337c4ecdb740e7bbf2b360574a2",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 9,
+      "isolated_asr": "Help.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "helps",
       "text": "helps",
       "file": "assets/audio/words/helps.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.424,
+      "audio_sha256": "198c9820e557a146175abb4c88f0424035985c55c94af7461a9d9b0ebe4298f1",
+      "qa_source": "bank",
+      "source_lesson": 31,
+      "source_page": 10,
+      "isolated_asr": "Help.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "him",
       "text": "him",
       "file": "assets/audio/words/him.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.43,
+      "audio_sha256": "f403580d68cc2590372fddbef31409a35785b6a1840f49222f0091bf28d31cce",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 7,
+      "isolated_asr": "and him.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "himself",
       "text": "himself",
       "file": "assets/audio/words/himself.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.4,
+      "audio_sha256": "60778791e802c4431cd1566808fd54dea8b90bc89671c44fa8e3f4a08d095b8e",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 9,
+      "isolated_asr": "themselves.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "holiday",
       "text": "holiday",
       "file": "assets/audio/words/holiday.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.603,
+      "audio_sha256": "5aa06f18fb0a13f7909214e99d9ceee296983ed520d5e0e4727df3e412843392",
+      "qa_source": "bank",
+      "source_lesson": 21,
+      "source_page": 12,
+      "isolated_asr": "holiday.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "homework",
       "text": "homework",
       "file": "assets/audio/words/homework.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.531,
+      "audio_sha256": "dd181c14d46687a922846ae822198f9c714c0a054e5c6446d4bc83adac309e23",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": null,
+      "isolated_asr": "homework.",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "hotel",
       "text": "hotel",
       "file": "assets/audio/words/hotel.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.56,
+      "audio_sha256": "a2cf9966d4e0fe47a7a80c33570391ceba54ea004debaa7b478bf6f69ecb924b",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 16,
+      "isolated_asr": "Hotel.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "how",
       "text": "how",
       "file": "assets/audio/words/how.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "83f4417f44df2f597dda7d76ea61062f447aaee549aa7c175d4bb20dd66fd33c",
+      "qa_source": "bank",
+      "source_lesson": 21,
+      "source_page": 3,
+      "isolated_asr": "I'll have",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "however",
       "text": "However",
       "file": "assets/audio/words/however.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.944,
+      "audio_sha256": "f5cd66f09097fc674492fe752637e041904eb4b9d4e82d1b4d49d841d4280bf3",
+      "qa_source": "bank",
+      "source_lesson": 27,
+      "source_page": 14,
+      "isolated_asr": "However",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "imagine",
       "text": "imagine",
       "file": "assets/audio/words/imagine.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.499,
+      "audio_sha256": "e96cbe31e2f44999ab27713f2f952e1f6819dbe2b160deb7d13a4b777dd436f1",
+      "qa_source": "bank",
+      "source_lesson": 16,
+      "source_page": 14,
+      "isolated_asr": "Imagine",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "imagined",
       "text": "imagined",
       "file": "assets/audio/words/imagined.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.594,
+      "audio_sha256": "c977e576ccd7539c156ea16b75534b8a5babe70fe3f89b236211f6f51898a3a6",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "Imagine",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "imagining",
       "text": "imagining",
       "file": "assets/audio/words/imagining.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.841,
+      "audio_sha256": "9160331e662fa8bf2caa2ac353a26e49a01d9fbb5ebf4fcf5edd34cb14c8bcc9",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 9,
+      "isolated_asr": "Imagine",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "imaginings",
       "text": "imaginings",
       "file": "assets/audio/words/imaginings.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.011,
+      "audio_sha256": "b1d097b2d86c34ae0f422a25f8cc1c26936d46d3db08958812ca4294ca2574d2",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 3,
+      "isolated_asr": "Imaginings",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "in",
       "text": "in",
       "file": "assets/audio/words/in.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.237,
+      "audio_sha256": "be8b4d2060d4444a9543f2fa54bc26c7bd6c7131705f8d947544b6b41754d53b",
+      "qa_source": "bank",
+      "source_lesson": 27,
+      "source_page": 4,
+      "isolated_asr": "In",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "inspires",
       "text": "inspires",
       "file": "assets/audio/words/inspires.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.67,
+      "audio_sha256": "f27dead2e8e060d5f565421b458ff79e6d74b797bbd46940f2152d9dffcaf49d",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 11,
+      "isolated_asr": "so inspired.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "instead",
       "text": "Instead",
       "file": "assets/audio/words/instead.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.613,
+      "audio_sha256": "fea44992f48a66f18b8b526cb62f6e419bb9d2073c924010f488e5a9f659d609",
+      "qa_source": "bank",
+      "source_lesson": 14,
+      "source_page": 16,
+      "isolated_asr": "instead",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "into",
       "text": "into",
       "file": "assets/audio/words/into.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "e22955401f665fbc855b4ff028f2bb03f9cdd9c46315510464b08a6a3bc2f2a6",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 5,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "is",
       "text": "is",
       "file": "assets/audio/words/is.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.741,
+      "audio_sha256": "5dc8d657becf6c9114142ce202cfc4912cf6d9b6d4485f9798c4a81b6e6a60ac",
+      "qa_source": "bank",
+      "source_lesson": 14,
+      "source_page": 1,
+      "isolated_asr": "capacity is",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "it",
       "text": "It",
       "file": "assets/audio/words/it.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.352,
+      "audio_sha256": "bd43956d854c34f1c9f9062e91b33f53333d6057223222ef2f356dc1e5ed239a",
+      "qa_source": "bank",
+      "source_lesson": 28,
+      "source_page": 6,
+      "isolated_asr": "It's",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "landscapes",
       "text": "landscapes",
       "file": "assets/audio/words/landscapes.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.817,
+      "audio_sha256": "f4bab4866ab0ab393cc448475d5a3c364b1d055febb01a43bce6a60c3686a6e3",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 4,
+      "isolated_asr": "different landscape.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "learning",
       "text": "learning",
       "file": "assets/audio/words/learning.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "5bca51b3c5ba8e5f8a1812b28d67a501d3ffce1ecdc3ae6dd6d3d2a64ad83ebf",
+      "qa_source": "bank",
+      "source_lesson": 2,
+      "source_page": 14,
+      "isolated_asr": "learning.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "let",
       "text": "let",
       "file": "assets/audio/words/let.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.352,
+      "audio_sha256": "236dfff3c9623f22104bad04e5c4d5791b65d5e574fcaaaa2f4b521b26fd0457",
+      "qa_source": "bank",
+      "source_lesson": 25,
+      "source_page": 17,
+      "isolated_asr": "Let's",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "lets",
       "text": "lets",
       "file": "assets/audio/words/lets.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "42cfa417ef07f14fd3c38125c0015470e0c04bd4cfd711e680c304ec6e918d84",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 5,
+      "isolated_asr": "Let's",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "light",
       "text": "light",
       "file": "assets/audio/words/light.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "e9a902d99a90eaba8bff348a3d0da52a2b64919025a12b4e4d6d3351411ed9bd",
+      "qa_source": "bank",
+      "source_lesson": 30,
+      "source_page": 10,
+      "isolated_asr": "Like",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "like",
       "text": "like",
       "file": "assets/audio/words/like.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.4,
+      "audio_sha256": "04ba28c8a6a5b588d348304ad6f03e404afe94f208bd43e9587a254db115de86",
+      "qa_source": "bank",
+      "source_lesson": 23,
+      "source_page": 10,
+      "isolated_asr": "would like.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "literature",
       "text": "literature",
       "file": "assets/audio/words/literature.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.765,
+      "audio_sha256": "9078e54aeda743ac698d04d56fd0ded4b8f1442c8c4a448f0d241734bc4e7713",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 11,
+      "isolated_asr": "in literature.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "make",
       "text": "make",
       "file": "assets/audio/words/make.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.304,
+      "audio_sha256": "75066b32ffc25d615601942c77b67892e0258771e4b10f32409b823fde51536b",
+      "qa_source": "bank",
+      "source_lesson": 24,
+      "source_page": 12,
+      "isolated_asr": "Make",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "may",
       "text": "may",
       "file": "assets/audio/words/may.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "c61706f968030919f3537a2cff4b6ae5c8982631c28fc32d12c8d228bf8bfa48",
+      "qa_source": "bank",
+      "source_lesson": 32,
+      "source_page": 7,
+      "isolated_asr": "May",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "means",
       "text": "means",
       "file": "assets/audio/words/means.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.433,
+      "audio_sha256": "8ddb0ba18923cb15a16411db2291175ffd43492b8456430fa32dfdc36d0717fd",
+      "qa_source": "bank",
+      "source_lesson": 35,
+      "source_page": 5,
+      "isolated_asr": "to me.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "mind",
       "text": "mind",
       "file": "assets/audio/words/mind.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.571,
+      "audio_sha256": "02fb1d625bba2105e9915ae422d5b479e90c7f96f1e5a3131c85a98dfcbbbdae",
+      "qa_source": "bank",
+      "source_lesson": 13,
+      "source_page": 17,
+      "isolated_asr": "It's mine.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "minds",
       "text": "minds",
       "file": "assets/audio/words/minds.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "7a890c7697100552b9da29b3b2c4199554c2ae4d7a964649111f93fe584440e6",
+      "qa_source": "bank",
+      "source_lesson": 18,
+      "source_page": 2,
+      "isolated_asr": "mine",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "moment",
       "text": "moment",
       "file": "assets/audio/words/moment.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.419,
+      "audio_sha256": "794020709cf29d49bc5af27e439d4f31667657f45f69f9960b14dc9c013b9c8b",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 17,
+      "isolated_asr": "moment.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "more",
       "text": "more",
       "file": "assets/audio/words/more.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.388,
+      "audio_sha256": "d15789f5ca3e4f8221494d26f01b0b421c22230baa912706f9d77d112ee7a0b2",
+      "qa_source": "bank",
+      "source_lesson": 29,
+      "source_page": 7,
+      "isolated_asr": "More.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "mountains",
       "text": "mountains",
       "file": "assets/audio/words/mountains.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.618,
+      "audio_sha256": "dac73f1844ea3769ec0e017790ab203931f600b1944f76140c506ad012620ae1",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 4,
+      "isolated_asr": "Mountain",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "need",
       "text": "need",
       "file": "assets/audio/words/need.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.499,
+      "audio_sha256": "e22497603520be618e0cc8f3e56b2c579e4750f1156bc0e65dd03d0093e49e39",
+      "qa_source": "bank",
+      "source_lesson": 27,
+      "source_page": 2,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "next",
       "text": "next",
       "file": "assets/audio/words/next.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "32d4886626c4b27a1f4da5d42e78856b064b981280b14ea81e27feb1b88870d9",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 17,
+      "isolated_asr": "Next.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "not",
       "text": "not",
       "file": "assets/audio/words/not.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "52942ec39976cad3e7cc61860937a9a8b9110b9888fc26900bb4736acdff232e",
+      "qa_source": "bank",
+      "source_lesson": 26,
+      "source_page": 7,
+      "isolated_asr": "Not",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "now",
       "text": "now",
       "file": "assets/audio/words/now.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.383,
+      "audio_sha256": "c8eaee61024551a7169600b849c01c1ac9c960385ea8c2bba3b147f7a4d15beb",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 5,
+      "isolated_asr": "Now",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "of",
       "text": "of",
       "file": "assets/audio/words/of.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.416,
+      "audio_sha256": "4abcb38710503cf755d9e1efab0019defc213ab87d39fad1de2fc64d49eacc55",
+      "qa_source": "bank",
+      "source_lesson": 8,
+      "source_page": 5,
+      "isolated_asr": "So",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "often",
       "text": "often",
       "file": "assets/audio/words/often.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "f2b657727c2b5bba2aa0e732e0df1160d149ae1591aef1aec2b9568a63bd6982",
+      "qa_source": "bank",
+      "source_lesson": 35,
+      "source_page": 4,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "old",
       "text": "old",
       "file": "assets/audio/words/old.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "a32ab88b2203ce50b8540589b5e1c2d0c3c6ec4c1b8b23325f015e94df5bb173",
+      "qa_source": "bank",
+      "source_lesson": 32,
+      "source_page": 3,
+      "isolated_asr": "as old.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "on",
       "text": "on",
       "file": "assets/audio/words/on.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "08287a51b05483c2742688039d7f7d5e9956b8e81fd4f4b0cdd5dda6d295a3f3",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 12,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "or",
       "text": "or",
       "file": "assets/audio/words/or.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "52caa21087a237d860d3316f7a895a91b250c950fcc5df590416669461744097",
+      "qa_source": "bank",
+      "source_lesson": 26,
+      "source_page": 7,
+      "isolated_asr": "Or.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "our",
       "text": "our",
       "file": "assets/audio/words/our.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.262,
+      "audio_sha256": "8647ee5ffb20b4f6ffac78861044641c8d0663a863e1e34ae35f479259ecb335",
+      "qa_source": "bank",
+      "source_lesson": 21,
+      "source_page": 12,
+      "isolated_asr": "Sorry.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "ourselves",
       "text": "ourselves",
       "file": "assets/audio/words/ourselves.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.67,
+      "audio_sha256": "6f2ca0bc55b18c4f88cf97c61c3e9f0d66c727e7426c28d99e18809e3e43fbb0",
+      "qa_source": "bank",
+      "source_lesson": 25,
+      "source_page": 1,
+      "isolated_asr": "out ourselves.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "out",
       "text": "out",
       "file": "assets/audio/words/out.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "5e98c5ff269d0f65168e9914122833038e24d412e533334e904031a210f68aa4",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 4,
+      "isolated_asr": "out.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "own",
       "text": "own",
       "file": "assets/audio/words/own.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.304,
+      "audio_sha256": "c77d4b9273ae020f773a1d7ef14f29948b33d4b149cbdb26c61c60bdea749e79",
+      "qa_source": "bank",
+      "source_lesson": 29,
+      "source_page": 4,
+      "isolated_asr": "Don't",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "paragraphs",
       "text": "paragraphs",
       "file": "assets/audio/words/paragraphs.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.646,
+      "audio_sha256": "6b9d358129b6e8cf6a9d8834d64ed3d0be6b3e2782149eeabbecb0f5629198e5",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 13,
+      "isolated_asr": "Paragraph.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "party",
       "text": "party",
       "file": "assets/audio/words/party.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.589,
+      "audio_sha256": "0bbe13cbba2f3ad01cd1fc63b0ec1132f0b16ed060657ef4c23f095bbea99601",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": 13,
+      "isolated_asr": "part",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "pens",
       "text": "pens",
       "file": "assets/audio/words/pens.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.554,
+      "audio_sha256": "831ae7c6bffd74aed11a6b3b42f12739be6f413bb7a5ac3a2f5d259ee4e98d0b",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 13,
+      "isolated_asr": "a pen.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "people",
       "text": "people",
       "file": "assets/audio/words/people.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "d036db92745090b120f3fd5da6728d92c69bc75db7700161393637a61a85a995",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 16,
+      "isolated_asr": "People.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "pick",
       "text": "pick",
       "file": "assets/audio/words/pick.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "c73688ee2a8e307e011ce849d410fb2355cadd10b16d1b42d93c13762005be46",
+      "qa_source": "bank",
+      "source_lesson": 19,
+      "source_page": 6,
+      "isolated_asr": "Thank you.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "picture",
       "text": "picture",
       "file": "assets/audio/words/picture.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "47659bbc0cbaf58c9defd55908013b3fbed3470ab8e7d9ae47d1a7c702d4ca5f",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 2,
+      "isolated_asr": "picture.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "practising",
       "text": "practising",
       "file": "assets/audio/words/practising.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.646,
+      "audio_sha256": "46b3cd662a3aa2dc248274d3a5f4bdd9698a3e5a4c88b15d3c73da40059d8f34",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 9,
+      "isolated_asr": "Practice.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "princess",
       "text": "princess",
       "file": "assets/audio/words/princess.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "23decf1c7e76daf691cb9ba788f4b9a5e17e48d35a7194a0e326e110cb6de584",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "Prince-",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "problems",
       "text": "problems",
       "file": "assets/audio/words/problems.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.158,
+      "audio_sha256": "a2ac47a7f93560088dee0a10a6f52fd89ed0d38bba451cba70df0560d6541ae9",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": null,
+      "isolated_asr": "problems.",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "queen",
       "text": "queen",
       "file": "assets/audio/words/queen.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.435,
+      "audio_sha256": "7f2bf59e6e80702c919f34838c4578af5a52ad798a0aef19eeee4b54f19bec64",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "Queer",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "reading",
       "text": "Reading",
       "file": "assets/audio/words/reading.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.759,
+      "audio_sha256": "a09f38f4173d956e59635c441e0d954b9b25357cecf71d265408c88619577e76",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 11,
+      "isolated_asr": "Reading",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "relativity",
       "text": "relativity",
       "file": "assets/audio/words/relativity.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.571,
+      "audio_sha256": "489973c14925a96560a498add3651ca36667769fc03caa25c3083e40d5392a9a",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 2,
+      "isolated_asr": "Relative",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "research",
       "text": "Research",
       "file": "assets/audio/words/research.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.571,
+      "audio_sha256": "9532508d1bcacdc030e03a1ac4e05b068d725ce377609bc22e61e37bffbda678",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 16,
+      "isolated_asr": "Research.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "riding",
       "text": "riding",
       "file": "assets/audio/words/riding.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.646,
+      "audio_sha256": "672516fbd171579cbbf8cbaa5a6ac75778b1847be30f22dbd2023e0ba4060e13",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "self-righteous.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "right",
       "text": "right",
       "file": "assets/audio/words/right.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "b2cd98eeeb2a1ecaa5746326277f5b872ead150868d6b292ed3bb5aae6c11b61",
+      "qa_source": "bank",
+      "source_lesson": 34,
+      "source_page": 10,
+      "isolated_asr": "Right.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "road",
       "text": "road",
       "file": "assets/audio/words/road.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "4bd2552cb9722e9bc28925085bca230936a9e9db1594291871b610198463e260",
+      "qa_source": "bank",
+      "source_lesson": 24,
+      "source_page": 8,
+      "isolated_asr": "and wrote",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "scene",
       "text": "scene",
       "file": "assets/audio/words/scene.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.428,
+      "audio_sha256": "ed60d7285713f8258336b76c46463e74e76448d1bc530d9a72a45c1f63fe9482",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 9,
+      "isolated_asr": "See",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "see",
       "text": "see",
       "file": "assets/audio/words/see.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.365,
+      "audio_sha256": "776ab53a97eb30924153ac21fd0c00b0e041ab8be848c7d80f64074e341653e2",
+      "qa_source": "bank",
+      "source_lesson": 21,
+      "source_page": 7,
+      "isolated_asr": "See you.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "shows",
       "text": "shows",
       "file": "assets/audio/words/shows.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "63cae5c0a6c40cd662dda0fd15e0a6526528277431e49dba080c63c2b959eecf",
+      "qa_source": "bank",
+      "source_lesson": 5,
+      "source_page": 2,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "similar",
       "text": "similar",
       "file": "assets/audio/words/similar.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "52c7465b5609f51646c3e7999f6b88913033445d4644c82afa9c1e7e3e4fad88",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 16,
+      "isolated_asr": "Similarly",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "slowly",
       "text": "slowly",
       "file": "assets/audio/words/slowly.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.499,
+      "audio_sha256": "362d439220a1bf579f92eed866490482801181902f0796ecc42619b13e8847ff",
+      "qa_source": "bank",
+      "source_lesson": 13,
+      "source_page": 15,
+      "isolated_asr": "slow",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "so",
       "text": "So",
       "file": "assets/audio/words/so.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.717,
+      "audio_sha256": "6f4f00b45f27b616ccd20755c2aeb3221a0f34045bf3f0fd8033f7b2a9ccb6d7",
+      "qa_source": "bank",
+      "source_lesson": 23,
+      "source_page": 9,
+      "isolated_asr": "So",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "solutions",
       "text": "solutions",
       "file": "assets/audio/words/solutions.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.717,
+      "audio_sha256": "43e02bf521bc9aac1c5016fc96ba15f3dd8a088d6a715e43b8b875827bbd9a51",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 16,
+      "isolated_asr": "solution.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "speak",
       "text": "speak",
       "file": "assets/audio/words/speak.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.499,
+      "audio_sha256": "1b576f60a4fdcb1e5fec4da3fcd7d5ef4fcfd6125cb81813d71cfb8f1b7dcbee",
+      "qa_source": "bank",
+      "source_lesson": 17,
+      "source_page": 15,
+      "isolated_asr": "speech.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "staying",
       "text": "staying",
       "file": "assets/audio/words/staying.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "bd776f69272baf9f9174b681d37094680953d0affaa75a94d8b8c38ea709c679",
+      "qa_source": "bank",
+      "source_lesson": 25,
+      "source_page": 9,
+      "isolated_asr": "Stay...",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "stop",
       "text": "stop",
       "file": "assets/audio/words/stop.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "96743b06bf60534124f64425eb17964ae5abd13e843aaff6a034d43c37815f24",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 6,
+      "isolated_asr": "Stop.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "stuck",
       "text": "stuck",
       "file": "assets/audio/words/stuck.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "86e56fa6c2bf193e43635042972b10cd8743f9490f905f0c05f1c03a3c52c25f",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 17,
+      "isolated_asr": "Stop.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "take",
       "text": "take",
       "file": "assets/audio/words/take.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "df1258a97f0dda655bff52bf774d365e67018086d4985bb24bc4084a2c9b2985",
+      "qa_source": "bank",
+      "source_lesson": 30,
+      "source_page": 9,
+      "isolated_asr": "Take",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "tale",
       "text": "tale",
       "file": "assets/audio/words/tale.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "346cc774b97fcd58c21a438c1101ba568ae5cf29f6ea76b90e7c35eeec4f364e",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "Retail.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "teeth",
       "text": "teeth",
       "file": "assets/audio/words/teeth.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.392,
+      "audio_sha256": "eaebd0dd0f90d3aa3c523d3fd55f3f7391313535249105263ea0144cbfbee7c2",
+      "qa_source": "bank",
+      "source_lesson": 23,
+      "source_page": 6,
+      "isolated_asr": "T.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "that",
       "text": "that",
       "file": "assets/audio/words/that.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.376,
+      "audio_sha256": "044e5873a80b045720f4d69ad040237669cbdfa6657c7aae9d25b502d318e101",
+      "qa_source": "bank",
+      "source_lesson": 25,
+      "source_page": 1,
+      "isolated_asr": "Thank you.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "the",
       "text": "the",
       "file": "assets/audio/words/the.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "afded763a9f0087c0e858080f9764869405ee3ad09ebced37fc5836391b192c9",
+      "qa_source": "bank",
+      "source_lesson": 17,
+      "source_page": null,
+      "isolated_asr": "The",
+      "method": "exact-ASR carrier phrase generation and word-timestamp extraction",
+      "accepted": true
     },
     {
       "key": "then",
       "text": "Then",
       "file": "assets/audio/words/then.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.417,
+      "audio_sha256": "b160b05713078c459d63b6e11abf2079f08835fa32a098c9590b9c9d28075ed9",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 13,
+      "isolated_asr": "that",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "theory",
       "text": "theory",
       "file": "assets/audio/words/theory.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "a48b62cf44e15a48e476597e9f6d053dbe33ba0f66a999fbd2d98b846dcc790b",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 2,
+      "isolated_asr": "Theory",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "things",
       "text": "things",
       "file": "assets/audio/words/things.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.499,
+      "audio_sha256": "4e30add545e6e776c6d2c350d5b6e35e93fce0534126008f6c548b5739f135ae",
+      "qa_source": "bank",
+      "source_lesson": 34,
+      "source_page": 1,
+      "isolated_asr": "you think.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "thinking",
       "text": "thinking",
       "file": "assets/audio/words/thinking.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "d48e1a81488fdcebade297bebc4c9c635ba8887132fe62ff8b1f755196da08f4",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 6,
+      "isolated_asr": "Thank you.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "this",
       "text": "this",
       "file": "assets/audio/words/this.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.411,
+      "audio_sha256": "a33419b06366e958af9919b78d9ec601a3afbd50c8b3baadc3b23f074fdcc9e8",
+      "qa_source": "bank",
+      "source_lesson": 27,
+      "source_page": 20,
+      "isolated_asr": "be this",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "thought",
       "text": "Thought",
       "file": "assets/audio/words/thought.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "19487d0c837480d2b8ca0bc75ea07117bab38efd0f62543207537115c83c1967",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 3,
+      "isolated_asr": "I'll talk to you later.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "time",
       "text": "time",
       "file": "assets/audio/words/time.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.337,
+      "audio_sha256": "d39bea8b18bfd3ced3a7651c16d13d763dbe8c4bf22468bdcc8c6ee66728337c",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": null,
+      "isolated_asr": "time",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "to",
       "text": "to",
       "file": "assets/audio/words/to.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.326,
+      "audio_sha256": "0dfae1885cd03dbfb93cd446b953cd0ba0fd3ed97e7280e04886abf2ed19a5dd",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": 2,
+      "isolated_asr": "Just",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "towards",
       "text": "towards",
       "file": "assets/audio/words/towards.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "e29d7d5880f5dfe48884f0a38044605de38e07d76740c7cfb893587d59e78c3c",
+      "qa_source": "bank",
+      "source_lesson": 17,
+      "source_page": 5,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "try",
       "text": "try",
       "file": "assets/audio/words/try.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "cf17edac22dff2ce60944945306affdfc15da44829005b1b29eee737c8d87363",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 14,
+      "isolated_asr": "Try.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "up",
       "text": "up",
       "file": "assets/audio/words/up.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.142,
+      "audio_sha256": "39b6c8105e039ae2010dde52b7d878c4ee136a0a2aa0e995f19428c09bd37ff4",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": null,
+      "isolated_asr": "Up.",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "us",
       "text": "us",
       "file": "assets/audio/words/us.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.475,
+      "audio_sha256": "82b29a49c3bca7a591ed97b742b5a4167e75f4e733cfd77a79bfb10d4031a577",
+      "qa_source": "bank",
+      "source_lesson": 1,
+      "source_page": 16,
+      "isolated_asr": "us",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "used",
       "text": "used",
       "file": "assets/audio/words/used.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "bed3b3ae313c2f8eaf57edc9b0d53974cea34de85fca5a661886bf5aa6db75ac",
+      "qa_source": "bank",
+      "source_lesson": 40,
+      "source_page": 5,
+      "isolated_asr": "for you.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "walk",
       "text": "walk",
       "file": "assets/audio/words/walk.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.406,
+      "audio_sha256": "b7d15b86c242234fbaa92b741ea32ac5239716690adfd42b88009f4a52ae0027",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 5,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "wander",
       "text": "wander",
       "file": "assets/audio/words/wander.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.547,
+      "audio_sha256": "e981ff91a232dac9157d022e32afdece1c87e5e2d2b357cb73d4ac3787db722f",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "is one.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "was",
       "text": "was",
       "file": "assets/audio/words/was.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 1.337,
+      "audio_sha256": "0e50e1dc1f532349c75f35e473958dbec81908adc3a32a20a1b473a6175541d0",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": null,
+      "isolated_asr": "was",
+      "method": "seeded from user-approved lesson 22 replacement",
+      "accepted": true
     },
     {
       "key": "we",
       "text": "We",
       "file": "assets/audio/words/we.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.646,
+      "audio_sha256": "cf1b06994b305ae9a241a1697534c1289d8859c7ef7be6a47699cff4cd7172db",
+      "qa_source": "bank",
+      "source_lesson": 28,
+      "source_page": 4,
+      "isolated_asr": "We",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "wearing",
       "text": "wearing",
       "file": "assets/audio/words/wearing.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.559,
+      "audio_sha256": "770501da988b73f9dbf88490ec0f057f66a96e018cb1a392302c44dee5483369",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 12,
+      "isolated_asr": "We're",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "when",
       "text": "When",
       "file": "assets/audio/words/when.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.646,
+      "audio_sha256": "2e3ac6a016dc9dc3c7b5b5ac8878504e77ee99c8f04ff9ff23318eaaec587ce0",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 1,
+      "isolated_asr": "When",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "where",
       "text": "where",
       "file": "assets/audio/words/where.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.304,
+      "audio_sha256": "bd56563bab0df444e7185c8d4cf48910f11cd3f131071a648244bb5a4ce5059c",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 16,
+      "isolated_asr": "We're",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "which",
       "text": "which",
       "file": "assets/audio/words/which.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "c63275b652b25695349c537ac4a40d8de6dbb7cf9f73cb9c41115ca39e5e25cc",
+      "qa_source": "bank",
+      "source_lesson": 31,
+      "source_page": 11,
+      "isolated_asr": "with",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "wild",
       "text": "wild",
       "file": "assets/audio/words/wild.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "a9f212c8bfea934ef9ea192c494dfe28c46230292ec4819fcd69e28a1479bf30",
+      "qa_source": "sentence",
+      "source_lesson": 29,
+      "source_page": 3,
+      "isolated_asr": "While",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "with",
       "text": "with",
       "file": "assets/audio/words/with.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "04cadbfd999c258ac4f9a99774171325303dab4a4973ded9d22009c5e4702eac",
+      "qa_source": "bank",
+      "source_lesson": 20,
+      "source_page": 10,
+      "isolated_asr": "",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "work",
       "text": "work",
       "file": "assets/audio/words/work.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.352,
+      "audio_sha256": "b759bfa7d50c79981ea94a6e3d0647076a77f3ad58133fe787874128bd44bfab",
+      "qa_source": "bank",
+      "source_lesson": 38,
+      "source_page": 13,
+      "isolated_asr": "We're",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "working",
       "text": "working",
       "file": "assets/audio/words/working.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.523,
+      "audio_sha256": "8a17f00414879f1c96183e2b5da7befc62c87dd13bab39d1a8acd09d33b1e53a",
+      "qa_source": "bank",
+      "source_lesson": 36,
+      "source_page": 16,
+      "isolated_asr": "It works.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "worries",
       "text": "worries",
       "file": "assets/audio/words/worries.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.499,
+      "audio_sha256": "7595d98d3afb0d1680fb2421837514ef087d7508530ec97922fc8948968d0acf",
+      "qa_source": "bank",
+      "source_lesson": 19,
+      "source_page": 11,
+      "isolated_asr": "Worry",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "write",
       "text": "write",
       "file": "assets/audio/words/write.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.414,
+      "audio_sha256": "713fe6393276816cc2c5b08ecdcb0444b78b98fa7714a7360e45a74e6234b026",
+      "qa_source": "bank",
+      "source_lesson": 7,
+      "source_page": 22,
+      "isolated_asr": "Right.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "years",
       "text": "years",
       "file": "assets/audio/words/years.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.352,
+      "audio_sha256": "c23f850b1749e666fc46ef5379d522d5fd35580aa99ce2769592c5b2f2ac7128",
+      "qa_source": "bank",
+      "source_lesson": 32,
+      "source_page": 3,
+      "isolated_asr": "you",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "you",
       "text": "you",
       "file": "assets/audio/words/you.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.244,
+      "audio_sha256": "dc21e3590b35e7d385e4a5c320fa1bd1ffad0dbe983c18b72c280ec4c6741e2c",
+      "qa_source": "bank",
+      "source_lesson": 22,
+      "source_page": 1,
+      "isolated_asr": "You",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "your",
       "text": "your",
       "file": "assets/audio/words/your.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.237,
+      "audio_sha256": "8a4e8da7721da7e18a96cbda9adea4e03ed38776bb529ca4cbd88e8e6a30c8f1",
+      "qa_source": "bank",
+      "source_lesson": 24,
+      "source_page": 14,
+      "isolated_asr": "You",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     },
     {
       "key": "youre",
       "text": "you're",
       "file": "assets/audio/words/youre.mp3",
-      "exists": false
+      "exists": true,
+      "duration_seconds": 0.328,
+      "audio_sha256": "54e2cbd861fd6529da4a0c68e761872d366b0a6775522490688b5e69f7db82e2",
+      "qa_source": "bank",
+      "source_lesson": 5,
+      "source_page": 2,
+      "isolated_asr": "You're.",
+      "method": "word-timestamp extraction from exact-ASR sentence",
+      "accepted": true
     }
-  ]
+  ],
+  "model": "VoxCPM2",
+  "sentence_atempo": 0.68,
+  "word_atempo": 0.82,
+  "qa": {
+    "sentence_count": 17,
+    "raw_asr_exact_count": 17,
+    "published_asr_exact_count": 17,
+    "word_count": 170,
+    "word_accepted_count": 170,
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
