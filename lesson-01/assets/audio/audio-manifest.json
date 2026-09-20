@@ -1,290 +1,261 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "native_duration_factor": 1.18,
+  "pause_seconds": 0.7,
+  "units": [
     {
-      "id": 1,
+      "id": "s01-p01",
+      "source_sentence": 1,
       "text": "Once upon a time, there was a little boy.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Once upon a time there was a little boy",
-      "published_asr": "Once upon a time, there was a little boy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s01-p01.mp3",
+      "sha256": "978d0860f4ab903bab2912eab04e36a8394351bfa3691f643e144f25c8d46866"
     },
     {
-      "id": 2,
+      "id": "s02-p01",
+      "source_sentence": 2,
       "text": "His parents were poor farmers.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "His parents were poor farmers.",
-      "published_asr": "His parents were poor farmers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p01.mp3",
+      "sha256": "c04e30293d02d76908ef2273f700f0ec35eacb1fb327f8e161973f225e20e25a"
     },
     {
-      "id": 3,
-      "text": "They couldn't pay for a worker, so the boy had to help.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "They couldn't pay for a worker, so the boy had to help.",
-      "published_asr": "They couldn't pay for a worker, so the boy had to help.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s03-p01",
+      "source_sentence": 3,
+      "text": "They couldn't pay for a worker.",
+      "audio": "assets/audio/segments/s03-p01.mp3",
+      "sha256": "75baca1e0f49802ffc66e9def9c7ee06b314b3f596799aace0e4a5cd7f8ee50e"
     },
     {
-      "id": 4,
+      "id": "s03-p02",
+      "source_sentence": 3,
+      "text": "So the boy had to help.",
+      "audio": "assets/audio/segments/s03-p02.mp3",
+      "sha256": "babb12be5058edfa337f495b1e9b82af070bf647780333820d36e3d0578a486c"
+    },
+    {
+      "id": "s04-p01",
+      "source_sentence": 4,
       "text": "He worked hard.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "He worked hard.",
-      "published_asr": "He worked hard",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p01.mp3",
+      "sha256": "1aaddadd206b98bed73c95c322d4bf75c9ff1aaca1fb3712003b2cd6f4775414"
     },
     {
-      "id": 5,
+      "id": "s05-p01",
+      "source_sentence": 5,
       "text": "Every day, he had a one-hour rest at sunset.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Every day, he had a one-hour rest at sunset.",
-      "published_asr": "Every day, he had a one-hour rest at sunset.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p01.mp3",
+      "sha256": "2d958ce04d7f21904086304505db8b9efba464cd70532db7522aaaa15fcdf8a9"
     },
     {
-      "id": 6,
-      "text": "He used that time to climb to the top of a hill.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.686,
-      "raw_duration_seconds": 3.2,
-      "asr": "He used that time to climb to the top of a hill.",
-      "published_asr": "He used that time to climb to the top of a hill.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s06-p01",
+      "source_sentence": 6,
+      "text": "He used that time",
+      "audio": "assets/audio/segments/s06-p01.mp3",
+      "sha256": "0de5336cff9817454edbcb0005e980c08fee434f6d54258de8c97e589e6c4c63"
     },
     {
-      "id": 7,
-      "text": "There, he could see a house on another hill.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "There, he could see a house on another hill.",
-      "published_asr": "There he could see a house on another hill.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s06-p02",
+      "source_sentence": 6,
+      "text": "to climb to the top of a hill.",
+      "audio": "assets/audio/segments/s06-p02.mp3",
+      "sha256": "293c694dd3cf18efd4d1459958a89d2e09b52eb7a3a5dc8af5d7d5ff74234445"
     },
     {
-      "id": 8,
+      "id": "s07-p01",
+      "source_sentence": 7,
+      "text": "There, he could see a house",
+      "audio": "assets/audio/segments/s07-p01.mp3",
+      "sha256": "08ced0428e4408722fc48cff1f562a7e08f8c47b66719dd486034d8c5debbae2"
+    },
+    {
+      "id": "s07-p02",
+      "source_sentence": 7,
+      "text": "on another hill.",
+      "audio": "assets/audio/segments/s07-p02.mp3",
+      "sha256": "67cc1ddd0472f1f8666bc6fb1257d0c3f2efd3e2b34b2d12c175695e7c2acadf"
+    },
+    {
+      "id": "s08-p01",
+      "source_sentence": 8,
       "text": "It had golden windows.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 2.797,
-      "raw_duration_seconds": 1.92,
-      "asr": "It had golden windows.",
-      "published_asr": "It had golden windows.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p01.mp3",
+      "sha256": "cae9d9a33376c49ec24d8536f227b6463f9c4a570ea173abcc2a1c1c6990ec99"
     },
     {
-      "id": 9,
+      "id": "s09-p01",
+      "source_sentence": 9,
       "text": "They were really bright and shone like diamonds.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "They were really bright and shone like diamonds.",
-      "published_asr": "They were really bright and shone like diamonds.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p01.mp3",
+      "sha256": "651634d6009eabbb36526bca17f9c1f687166bfd12e1ae0e921216a1d6c4dd37"
     },
     {
-      "id": 10,
-      "text": "One day, the boy's father said to him, \"You worked really hard, so you can take a day off. Try to learn something good.\"",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 11.257,
-      "raw_duration_seconds": 7.68,
-      "asr": "One day, the boy's father said to him, you worked really hard, so you can take a day off. Try to learn something good.",
-      "published_asr": "One day, the boy's father said to him, You worked really hard, so you can take a day off. Try to learn something good.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s10-p01",
+      "source_sentence": 10,
+      "text": "One day, the boy's father said to him,",
+      "audio": "assets/audio/segments/s10-p01.mp3",
+      "sha256": "a90e95c445f24d1632bbc3dbc8e4c454e398f103419f888d3d44d74799734fcd"
     },
     {
-      "id": 11,
+      "id": "s10-p02",
+      "source_sentence": 10,
+      "text": "You worked really hard,",
+      "audio": "assets/audio/segments/s10-p02.mp3",
+      "sha256": "b4cee28e7e1118ecdcc84e8a541e26ce2efc3900e252e01df4d4576e25a52188"
+    },
+    {
+      "id": "s10-p03",
+      "source_sentence": 10,
+      "text": "so you can take a day off.",
+      "audio": "assets/audio/segments/s10-p03.mp3",
+      "sha256": "7e1801f665220cda714c85abd67c9400221c8a628568e59a33f530ff1f7a0bff"
+    },
+    {
+      "id": "s10-p04",
+      "source_sentence": 10,
+      "text": "Try to learn something good.",
+      "audio": "assets/audio/segments/s10-p04.mp3",
+      "sha256": "d909c19f658d2ea14eb19166dfbe18f4bb7e23a5a35cbcbbc4eabff3cdf5487e"
+    },
+    {
+      "id": "s11-p01",
+      "source_sentence": 11,
       "text": "The boy thanked his father.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 2.779,
-      "raw_duration_seconds": 1.92,
-      "asr": "The boy thanked his father.",
-      "published_asr": "The boy thanked his father.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p01.mp3",
+      "sha256": "f8de603639005fa60474b83124842dc891ae1a709f628405c76d1c9db283f4e7"
     },
     {
-      "id": 12,
-      "text": "Then, he left home and walked to the far hill.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Then, he left home and walked to the far hill.",
-      "published_asr": "Then he left home and walked to the far hill.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s12-p01",
+      "source_sentence": 12,
+      "text": "Then, he left home",
+      "audio": "assets/audio/segments/s12-p01.mp3",
+      "sha256": "fcb217de454e3fc45155e9aa61e2a171603e8f2859afc1e08f74ba96e41a9891"
     },
     {
-      "id": 13,
-      "text": "He came to the house and knocked on the door.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "He came to the house and knocked on the door.",
-      "published_asr": "He came to the house and knocked on the door.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s12-p02",
+      "source_sentence": 12,
+      "text": "and walked to the far hill.",
+      "audio": "assets/audio/segments/s12-p02.mp3",
+      "sha256": "1a86e3aec1d92729db721bce4fea9439afea54685648afe92b3b2ff570170c13"
     },
     {
-      "id": 14,
+      "id": "s13-p01",
+      "source_sentence": 13,
+      "text": "He came to the house",
+      "audio": "assets/audio/segments/s13-p01.mp3",
+      "sha256": "ca837fc64ebced0c18290bd99e209e2aa6b58da3e3be195558450ea11d4423e4"
+    },
+    {
+      "id": "s13-p02",
+      "source_sentence": 13,
+      "text": "and knocked on the door.",
+      "audio": "assets/audio/segments/s13-p02.mp3",
+      "sha256": "b7a87a8dccb6c955d7e236366ffc4e4c0266eded2ab60e1b936b6c7522c6cf67"
+    },
+    {
+      "id": "s14-p01",
+      "source_sentence": 14,
       "text": "Then a girl answered.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "Then a girl answered.",
-      "published_asr": "Then a girl answered.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p01.mp3",
+      "sha256": "37ecd712996e3d19e021ec50d97938e8cb604bf237f2eaf0cd763996ce286c8c"
     },
     {
-      "id": 15,
+      "id": "s15-p01",
+      "source_sentence": 15,
       "text": "He told her about the golden windows.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "He told her about the golden windows.",
-      "published_asr": "He told her about the golden windows.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p01.mp3",
+      "sha256": "ec0e5c86c4507b77b69e2d5e08c3819fec14724e67b18a939a0de2d9e20b88ee"
     },
     {
-      "id": 16,
-      "text": "The girl shook her head and said, \"Poor farmers like us only have glass windows. Look there! That's the house with the golden windows.\"",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 14.548,
-      "raw_duration_seconds": 9.92,
-      "asr": "The girl shook her head and said, poor farmers like us only have glass windows. Look there! That's the house with the golden windows.",
-      "published_asr": "The girl shook her head and said, Poor farmers like us only have glass windows. Look there! That's the house with the golden windows.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s16-p01",
+      "source_sentence": 16,
+      "text": "The girl shook her head and said,",
+      "audio": "assets/audio/segments/s16-p01.mp3",
+      "sha256": "9da4afc72eda0dd723da46651797d1e6b3edb6328f6f4a08a987323999c41b9b"
     },
     {
-      "id": 17,
+      "id": "s16-p02",
+      "source_sentence": 16,
+      "text": "Poor farmers like us only have glass windows.",
+      "audio": "assets/audio/segments/s16-p02.mp3",
+      "sha256": "4f125ea7343d682f105753229c02c6588909e338d6846648ba155a021f13ae9d"
+    },
+    {
+      "id": "s16-p03",
+      "source_sentence": 16,
+      "text": "Look there!",
+      "audio": "assets/audio/segments/s16-p03.mp3",
+      "sha256": "d1ca1e39ce5a070ea99b22e31f33576c2382a729cef39e25ae2c8978e7bdb3fb"
+    },
+    {
+      "id": "s16-p04",
+      "source_sentence": 16,
+      "text": "That's the house with the golden windows.",
+      "audio": "assets/audio/segments/s16-p04.mp3",
+      "sha256": "2b11f3558e5b324afc09a8fcfc471917aa48ae60ec0ebee416592a0bce0ad82d"
+    },
+    {
+      "id": "s17-p01",
+      "source_sentence": 17,
       "text": "She pointed at something far away.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 3.496,
-      "raw_duration_seconds": 2.4,
-      "asr": "She pointed at something far away.",
-      "published_asr": "She pointed at something far away.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p01.mp3",
+      "sha256": "f2e8375d0fa6318c93dc749499703d4ab6683f47af67d5940815541a90945bf8"
     },
     {
-      "id": 18,
-      "text": "When the boy looked, he saw his own house.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "When the boy looked, he saw his own house.",
-      "published_asr": "When the boy looked, he saw his own house.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s18-p01",
+      "source_sentence": 18,
+      "text": "When the boy looked,",
+      "audio": "assets/audio/segments/s18-p01.mp3",
+      "sha256": "2e86760e24cb721ff6fcaf6dfc6fa0f111eec6ee2e33047f04c597879ec48368"
     },
     {
-      "id": 19,
-      "text": "He then thanked the girl and rushed home.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 3.507,
-      "raw_duration_seconds": 2.4,
-      "asr": "He then thanked the girl and rushed home.",
-      "published_asr": "He then thanked the girl and rushed home.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s18-p02",
+      "source_sentence": 18,
+      "text": "he saw his own house.",
+      "audio": "assets/audio/segments/s18-p02.mp3",
+      "sha256": "df128020d85f306633416223a8b8f2c98354b269eee181211b840688eeef9544"
     },
     {
-      "id": 20,
+      "id": "s19-p01",
+      "source_sentence": 19,
+      "text": "He then thanked the girl",
+      "audio": "assets/audio/segments/s19-p01.mp3",
+      "sha256": "3b9ea63fff31f8b49207c38019ef50eb2340a4eaab22e9e13a3377d69655e58c"
+    },
+    {
+      "id": "s19-p02",
+      "source_sentence": 19,
+      "text": "and rushed home.",
+      "audio": "assets/audio/segments/s19-p02.mp3",
+      "sha256": "07223b2c130bfc934885b9139b22a4212255a29a7e44b00e5cb1dee4ee4203aa"
+    },
+    {
+      "id": "s20-p01",
+      "source_sentence": 20,
       "text": "Inside, he saw his family and smiled.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.426,
-      "raw_duration_seconds": 3.04,
-      "asr": "Inside, he saw his family and smiled.",
-      "published_asr": "Inside, he saw his family and smiled.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p01.mp3",
+      "sha256": "268d48b48800d2a15fb024a92b104ddb45d969759132db22e8ad52805b694b4e"
     },
     {
-      "id": 21,
+      "id": "s21-p01",
+      "source_sentence": 21,
       "text": "He told them about his excellent day.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "He told them about his excellent day.",
-      "published_asr": "He told them about his excellent day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p01.mp3",
+      "sha256": "1b84b8810595ced6fc40ab11f3f716f71f68c3540d26febf3b1621b1dd154606"
     },
     {
-      "id": 22,
-      "text": "He also said, \"I learned a great lesson—our house has golden windows.\"",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "He also said, I learned a great lesson. Our house has golden windows.",
-      "published_asr": "He also said I learned a great lesson. Our house has golden windows",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s22-p01",
+      "source_sentence": 22,
+      "text": "He also said, \"I learned a great lesson.",
+      "audio": "assets/audio/segments/s22-p01.mp3",
+      "sha256": "a91b294d462b00b0f7bfd11048605f4d89ad953e3816306b0d797a9e9d1e7c95"
+    },
+    {
+      "id": "s22-p02",
+      "source_sentence": 22,
+      "text": "Our house has golden windows.\"",
+      "audio": "assets/audio/segments/s22-p02.mp3",
+      "sha256": "95845f9779e0d8f0de6e369ee8358f835c5b7a343d4c2dcfe6d8fe13a84cc4c7"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 108,
-    "word_accepted_count": 108,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }
