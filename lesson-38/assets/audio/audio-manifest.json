@@ -1,206 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s38-p01",
       "text": "We know many musical instruments well, such as pianos, violins, drums, and so on.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "We know many musical instruments well, such as pianos, violins, drums, and so on.",
-      "published_asr": "We know many musical instruments well, such as pianos, violins, drums, and so on.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p01.mp3",
+      "sha256": "assets/audio/segments/s38-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s38-p02",
       "text": "What about the erhu?",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 2.327,
-      "raw_duration_seconds": 1.6,
-      "asr": "What about the air who?",
-      "published_asr": "What about the air who?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p02.mp3",
+      "sha256": "assets/audio/segments/s38-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s38-p03",
       "text": "The erhu is a traditional Chinese instrument.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "The Erhu is a traditional Chinese instrument.",
-      "published_asr": "The air who is a traditional Chinese instrument",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p03.mp3",
+      "sha256": "assets/audio/segments/s38-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s38-p04",
       "text": "It is different from Western string instruments because it has no board to hold the strings down.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "It is different from Western string instruments because it has no board to hold the strings down.",
-      "published_asr": "It is different from Western string instruments because it has no board to hold the strings down.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p04.mp3",
+      "sha256": "assets/audio/segments/s38-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s38-p05",
       "text": "The player puts it on the knee while moving the bow to create sound.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "The player puts it on the knee while moving the bow to create sound.",
-      "published_asr": "The player puts it on the knee while moving the bow to create sound.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p05.mp3",
+      "sha256": "assets/audio/segments/s38-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "If you learn to play erhu, you have to know where the notes are on the strings, which is similar to English learning, where one has to spell and pronounce the words right in the first place.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 14.548,
-      "raw_duration_seconds": 9.92,
-      "asr": "If you learn to play erhu, you have to know where the notes are on the strings, which is similar to English learning, where one has to spell and pronounce the words right in the first place.",
-      "published_asr": "If you learn to play Erhu, you have to know where the notes are on the strings, which is similar to English learning, where one has to spell and pronounce the words right in the first place.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s38-p06-01",
+      "text": "If you learn to play erhu,",
+      "audio": "assets/audio/segments/s38-p06-01.mp3",
+      "sha256": "assets/audio/segments/s38-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s38-p06-02",
+      "text": "you have to know where the notes are on the strings,",
+      "audio": "assets/audio/segments/s38-p06-02.mp3",
+      "sha256": "assets/audio/segments/s38-p06-02.mp3"
+    },
+    {
+      "id": "s38-p06-03",
+      "text": "which is similar to English learning,",
+      "audio": "assets/audio/segments/s38-p06-03.mp3",
+      "sha256": "assets/audio/segments/s38-p06-03.mp3"
+    },
+    {
+      "id": "s38-p06-04",
+      "text": "where one has to spell and pronounce the words right in the first place.",
+      "audio": "assets/audio/segments/s38-p06-04.mp3",
+      "sha256": "assets/audio/segments/s38-p06-04.mp3"
+    },
+    {
+      "id": "s38-p07",
       "text": "The modern erhu developed from the xiqin, played by many ethnic minorities during the Tang Dynasty.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "The modern erhu developed from the shiqin, played by many ethnic minorities during the Tang dynasty.",
-      "published_asr": "The modern erhu developed from the shiqin, played by many ethnic minorities during the Tang dynasty.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p07.mp3",
+      "sha256": "assets/audio/segments/s38-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s38-p08",
       "text": "In the Song Dynasty, musicians used the erhu to perform different kinds of music.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "In the Song Dynasty, musicians used the erhu to perform different kinds of music.",
-      "published_asr": "In the Song Dynasty, musicians used the erhu to perform different kinds of music.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p08.mp3",
+      "sha256": "assets/audio/segments/s38-p08.mp3"
     },
     {
-      "id": 9,
-      "text": "With the rise of some forms of folk art, the art of the erhu developed quickly during the Ming and Qing Dynasties.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 8.932,
-      "raw_duration_seconds": 6.08,
-      "asr": "With the rise of some forms of folk art, the art of the Erhu developed quickly during the Ming and Qing dynasties.",
-      "published_asr": "With the rise of some forms of folk art, the art of the Erhu developed quickly during the Ming and Qing dynasties.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s38-p09-01",
+      "text": "With the rise of some forms of folk art,",
+      "audio": "assets/audio/segments/s38-p09-01.mp3",
+      "sha256": "assets/audio/segments/s38-p09-01.mp3"
     },
     {
-      "id": 10,
+      "id": "s38-p09-02",
+      "text": "the art of the erhu developed quickly during the Ming and Qing Dynasties.",
+      "audio": "assets/audio/segments/s38-p09-02.mp3",
+      "sha256": "assets/audio/segments/s38-p09-02.mp3"
+    },
+    {
+      "id": "s38-p10",
       "text": "At present, it is used in both traditional and modern music, such as in pop, rock and jazz.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "At present, it is used in both traditional and modern music, such as in pop, rock and jazz.",
-      "published_asr": "At present, it is used in both traditional and modern music, such as in pop, rock and jazz.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p10.mp3",
+      "sha256": "assets/audio/segments/s38-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s38-p11",
       "text": "One of the most famous musical pieces played on the erhu is Erquan Yingyue, first played by a blind musician.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 10.037,
-      "raw_duration_seconds": 7.04,
-      "asr": "One of the most famous musical pieces played on the Erhu is Erkuan Ying Yue, first played by a blind musician.",
-      "published_asr": "One of the most famous musical pieces played on the airhu is Erquan Ying Yue, first played by a blind musician.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p11.mp3",
+      "sha256": "assets/audio/segments/s38-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s38-p12",
       "text": "You can now hear the erhu in some popular historical dramas.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "You can now hear the air who in some popular historical dramas.",
-      "published_asr": "You can now hear the air who in some popular historical dramas.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p12.mp3",
+      "sha256": "assets/audio/segments/s38-p12.mp3"
     },
     {
-      "id": 13,
-      "text": "As the erhu was mainly played by common people and the playing skills were passed down orally from father to son, there are few written records about the erhu that can be found.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 14.077,
-      "raw_duration_seconds": 9.6,
-      "asr": "As the Erhu was mainly played by common people and the playing skills were passed down orally from father to son. There are few written records about the Erhu that can be found.",
-      "published_asr": "As the airhu was mainly played by common people and the playing skills were passed down orally from father to son, there are few written records about the airhu that can be found.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s38-p13-01",
+      "text": "As the erhu was mainly played by common people and the playing skills were passed down orally from father to son,",
+      "audio": "assets/audio/segments/s38-p13-01.mp3",
+      "sha256": "assets/audio/segments/s38-p13-01.mp3"
     },
     {
-      "id": 14,
+      "id": "s38-p13-02",
+      "text": "there are few written records about the erhu that can be found.",
+      "audio": "assets/audio/segments/s38-p13-02.mp3",
+      "sha256": "assets/audio/segments/s38-p13-02.mp3"
+    },
+    {
+      "id": "s38-p14",
       "text": "To study the history and the development of the erhu, historians usually turn to ancient paintings.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 8.673,
-      "raw_duration_seconds": 5.92,
-      "asr": "To study the history and the development of the Erhu, historians usually turn to ancient paintings.",
-      "published_asr": "To study the history and the development of the Erhu, historians usually turn to ancient paintings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p14.mp3",
+      "sha256": "assets/audio/segments/s38-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s38-p15",
       "text": "In Yulin Caves and Eastern Thousand Buddha Caves in Gansu Province, five erhu pictures were discovered on murals.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 10.087,
-      "raw_duration_seconds": 6.88,
-      "asr": "In Yulin Caves and Eastern Thousand Buddha Caves, in Gansu Province, five Erhu pictures were discovered on murals.",
-      "published_asr": "In Yulin Caves and Eastern Thousand Buddha Caves, in Gansu Province, five Erhu pictures were discovered on murals.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s38-p15.mp3",
+      "sha256": "assets/audio/segments/s38-p15.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 15,
-    "raw_asr_exact_count": 15,
-    "published_asr_exact_count": 15,
-    "word_count": 147,
-    "word_accepted_count": 147,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

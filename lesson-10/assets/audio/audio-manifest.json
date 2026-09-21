@@ -1,290 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s10-p01",
       "text": "The language difference has drawn lots of attention.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "The language difference has drawn lots of attention.",
-      "published_asr": "The language difference has drawn lots of attention.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p01.mp3",
+      "sha256": "assets/audio/segments/s10-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s10-p02",
       "text": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
-      "published_asr": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p02.mp3",
+      "sha256": "assets/audio/segments/s10-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s10-p03",
       "text": "Chinese, for example, has just ten basic number words.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Chinese, for example, has just 10 basic number words.",
-      "published_asr": "Chinese, for example, has just 10 basic number words.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p03.mp3",
+      "sha256": "assets/audio/segments/s10-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s10-p04",
       "text": "English, however, has more than two dozen.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.688,
-      "raw_duration_seconds": 3.2,
-      "asr": "English, however, has more than two dozen.",
-      "published_asr": "English, however, has more than two dozen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p04.mp3",
+      "sha256": "assets/audio/segments/s10-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s10-p05",
       "text": "The trouble starts at 11.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "The trouble starts at 11.",
-      "published_asr": "The trouble starts at 11.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p05.mp3",
+      "sha256": "assets/audio/segments/s10-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s10-p06",
       "text": "In Chinese, Japanese and Korean, there are words that can be translated as ten-one, spoken with the ten first.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 12.902,
-      "raw_duration_seconds": 8.8,
-      "asr": "In Chinese, Japanese and Korean, there are words that can be translated as 10-1. Spoken with the 10 first.",
-      "published_asr": "In Chinese, Japanese and Korean, there are words that can be translated as 10-1. Spoken with the 10 first.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p06.mp3",
+      "sha256": "assets/audio/segments/s10-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s10-p07",
       "text": "That makes it easier for these children to understand the place value.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "That makes it easier for these children to understand the place value.",
-      "published_asr": "That makes it easier for these children to understand the place value.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p07.mp3",
+      "sha256": "assets/audio/segments/s10-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s10-p08",
       "text": "And the students can easily see the number system comes from units of 10.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "and the students can easily see the number system comes from units of 10.",
-      "published_asr": "and the students can easily see the number system comes from units of 10.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p08.mp3",
+      "sha256": "assets/audio/segments/s10-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s10-p09",
       "text": "Counting a few objects like pears, grapes, or cups is straightforward.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "Counting a few objects like pears, grapes or cups is straightforward.",
-      "published_asr": "Counting a few objects like pairs, grapes, or cups is straightforward.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p09.mp3",
+      "sha256": "assets/audio/segments/s10-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s10-p10",
       "text": "But English number words over 10 don't make the place value clear.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.366,
-      "raw_duration_seconds": 3.68,
-      "asr": "But English number words over 10 don't make the place value clear.",
-      "published_asr": "But English number words over 10 don't make the place value clear.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p10.mp3",
+      "sha256": "assets/audio/segments/s10-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s10-p11",
       "text": "Words for numbers 13 to 19 change the order of the ones and tens.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.79,
-      "raw_duration_seconds": 4.64,
-      "asr": "Words for numbers, 13 to 19, change the order of the ones and tens.",
-      "published_asr": "Words for numbers 13 to 19 change the order of the ones and tens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p11.mp3",
+      "sha256": "assets/audio/segments/s10-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s10-p12",
       "text": "Children often mix 17 with 71.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Children often mix 17 with 71.",
-      "published_asr": "Children often mix 17 with 71.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p12.mp3",
+      "sha256": "assets/audio/segments/s10-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s10-p13",
       "text": "As a result, children working with English number words have a harder time doing difficult calculations.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 9.382,
-      "raw_duration_seconds": 6.4,
-      "asr": "As a result, children working with English number words have a harder time doing difficult calculations.",
-      "published_asr": "As a result, children working with English number words have a harder time doing difficult calculations.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p13.mp3",
+      "sha256": "assets/audio/segments/s10-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s10-p14",
       "text": "They make more mistakes.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "They make more mistakes.",
-      "published_asr": "They make more mistakes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p14.mp3",
+      "sha256": "assets/audio/segments/s10-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s10-p15",
       "text": "It also feels more natural for Chinese speakers to use the make-a-ten method.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "It also feels more natural for Chinese speakers to use the make-a-ten method.",
-      "published_asr": "It also feels more natural for Chinese speakers to use the make-a-ten method.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p15.mp3",
+      "sha256": "assets/audio/segments/s10-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s10-p16",
       "text": "When adding two numbers, Chinese students often break down the numbers into parts and regroup them into tens and ones.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "When adding two numbers, Chinese students often break down the numbers into parts and regroup them into tens and ones.",
-      "published_asr": "When adding two numbers, Chinese students often break down the numbers into parts and regroup them into tens and ones.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p16.mp3",
+      "sha256": "assets/audio/segments/s10-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s10-p17",
       "text": "For example, 9+5 becomes 9+1+4.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "For example, 9 plus 5 becomes 9 plus 1 plus 4.",
-      "published_asr": "For example, 9 plus 5 becomes 9 plus 1 plus 4.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p17.mp3",
+      "sha256": "assets/audio/segments/s10-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s10-p18",
       "text": "This method greatly helps students work out maths problems.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.679,
-      "raw_duration_seconds": 3.2,
-      "asr": "This method greatly helps students work out math's problems.",
-      "published_asr": "This method greatly helps students work out math's problems.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p18.mp3",
+      "sha256": "assets/audio/segments/s10-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s10-p19",
       "text": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 10.083,
-      "raw_duration_seconds": 6.88,
-      "asr": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
-      "published_asr": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p19.mp3",
+      "sha256": "assets/audio/segments/s10-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s10-p20",
       "text": "However, they are still having trouble because of the unclear and difficult English number words.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "However, they are still having trouble because of the unclear and difficult English number words.",
-      "published_asr": "However, they are still having trouble because of the unclear and difficult English number words.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p20.mp3",
+      "sha256": "assets/audio/segments/s10-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s10-p21",
       "text": "Now, you should feel lucky that you are learning maths in China.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Now you should feel lucky that you are learning maths in China.",
-      "published_asr": "Now you should feel lucky that you are learning maths in China.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p21.mp3",
+      "sha256": "assets/audio/segments/s10-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s10-p22",
       "text": "Thanks to your mother language, all the maths problems have become clearer and less difficult.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "Thanks to your mother language, all the maths problems have become clearer and less difficult.",
-      "published_asr": "Thanks to your mother language, all the maths problems have become clearer and less difficult.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s10-p22.mp3",
+      "sha256": "assets/audio/segments/s10-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 148,
-    "word_accepted_count": 148,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

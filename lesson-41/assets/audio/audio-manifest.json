@@ -1,254 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s41-p01",
       "text": "In China, there are 24 solar terms in a year.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "In China, there are 24 solar terms in a year.",
-      "published_asr": "In China, there are 24 solar terms in a year.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p01.mp3",
+      "sha256": "assets/audio/segments/s41-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s41-p02",
       "text": "Six of them are in winter.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.056,
-      "raw_duration_seconds": 2.08,
-      "asr": "Six of them are in winter.",
-      "published_asr": "Six of them are in winter.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p02.mp3",
+      "sha256": "assets/audio/segments/s41-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s41-p03",
       "text": "They are Beginning of Winter, Light Snow, Heavy Snow, Winter Solstice, Lesser Cold and Greater Cold.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "They are beginning of winter, light snow, heavy snow, winter solstice, lesser cold and greater cold.",
-      "published_asr": "They are beginning of winter, light snow, heavy snow, winter solstice, lesser cold and greater cold.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p03.mp3",
+      "sha256": "assets/audio/segments/s41-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s41-p04",
       "text": "Beginning of Winter usually falls on November 7th or 8th, when people wear warm trousers to stay cozy.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 9.396,
-      "raw_duration_seconds": 6.4,
-      "asr": "Beginning of winter usually falls on November 7 or 8, when people wear warm trousers to stay cozy.",
-      "published_asr": "Beginning of winter usually falls on November 7th or 8th, when people wear warm trousers to stay cozy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p04.mp3",
+      "sha256": "assets/audio/segments/s41-p04.mp3"
     },
     {
-      "id": 5,
-      "text": "On this day, after a year of hard work, people are happy to have a rest and spend time with their families, including their brothers, sisters and cousins.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 12.667,
-      "raw_duration_seconds": 8.64,
-      "asr": "On this day, after a year of hard work, people are happy to have a rest and spend time with their families, including their brothers, sisters and cousins.",
-      "published_asr": "On this day, after a year of hard work, people are happy to have a rest and spend time with their families, including their brothers, sisters and cousins.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s41-p05-01",
+      "text": "On this day, after a year of hard work,",
+      "audio": "assets/audio/segments/s41-p05-01.mp3",
+      "sha256": "assets/audio/segments/s41-p05-01.mp3"
     },
     {
-      "id": 6,
+      "id": "s41-p05-02",
+      "text": "people are happy to have a rest and spend time with their families, including their brothers, sisters and cousins.",
+      "audio": "assets/audio/segments/s41-p05-02.mp3",
+      "sha256": "assets/audio/segments/s41-p05-02.mp3"
+    },
+    {
+      "id": "s41-p06",
       "text": "In ancient times, the northern part of China celebrated Beginning of Winter as the 'Small Spring Festival'.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "In ancient times, the northern part of China celebrated beginning of winter as the small spring festival.",
-      "published_asr": "In ancient times, the northern part of China celebrated beginning of winter as the small spring festival.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p06.mp3",
+      "sha256": "assets/audio/segments/s41-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s41-p07",
       "text": "People usually had delicious dumplings and mutton soup on that day.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "People usually had delicious dumplings and mutton soup on that day.",
-      "published_asr": "People usually had delicious dumplings and mutton soup on that day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p07.mp3",
+      "sha256": "assets/audio/segments/s41-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s41-p08",
       "text": "Light Snow usually falls on November 22nd or 23rd and Heavy Snow usually falls on December 7th or 8th.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "Light snow usually falls on November 22 or 23, and heavy snow usually falls on December 7 or 8.",
-      "published_asr": "Light snow usually falls on November 22nd or 23rd, and heavy snow usually falls on December 7th or 8th.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p08.mp3",
+      "sha256": "assets/audio/segments/s41-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s41-p09",
       "text": "When Winter Solstice comes, it brings the shortest day of the year and the longest night.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "When winter solstice comes, it brings the shortest day of the year and the longest night.",
-      "published_asr": "When winter solstice comes, it brings the shortest day of the year and the longest night.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p09.mp3",
+      "sha256": "assets/audio/segments/s41-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s41-p10",
       "text": "Many places around the country can expect the coldest weather.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.386,
-      "raw_duration_seconds": 3.68,
-      "asr": "Many places around the country can expect the coldest weather.",
-      "published_asr": "Many places around the country can expect the coldest weather.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p10.mp3",
+      "sha256": "assets/audio/segments/s41-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s41-p11",
       "text": "People usually cancel outdoor activities.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "People usually cancel outdoor activities.",
-      "published_asr": "People usually cancel outdoor activities.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p11.mp3",
+      "sha256": "assets/audio/segments/s41-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s41-p12",
       "text": "When they go outside, they have to wear warm coats and scarves.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "When they go outside, they have to wear warm coats and scarves.",
-      "published_asr": "When they go outside, they have to wear warm coats and scarves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p12.mp3",
+      "sha256": "assets/audio/segments/s41-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s41-p13",
       "text": "Trees lose their leaves and the land looks dead.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.205,
-      "raw_duration_seconds": 2.88,
-      "asr": "Trees lose their leaves, and the land looks dead.",
-      "published_asr": "Trees lose their leaves and the land looks dead.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p13.mp3",
+      "sha256": "assets/audio/segments/s41-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s41-p14",
       "text": "Farmers take care of their sheep and pigs, making sure they are safe in the cold.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.025,
-      "raw_duration_seconds": 4.8,
-      "asr": "Farmers take care of their sheep and pigs, making sure they are safe in the cold.",
-      "published_asr": "Farmers take care of their sheep and pigs, making sure they are safe in the cold.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p14.mp3",
+      "sha256": "assets/audio/segments/s41-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s41-p15",
       "text": "Greater Cold comes after Lesser Cold.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Greater cold comes after lesser cold.",
-      "published_asr": "Greater cold comes after lesser cold.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p15.mp3",
+      "sha256": "assets/audio/segments/s41-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s41-p16",
       "text": "The field is covered with snow.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "The field is covered with snow.",
-      "published_asr": "The field is covered with snow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p16.mp3",
+      "sha256": "assets/audio/segments/s41-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s41-p17",
       "text": "And all Chinese are ready to welcome the Spring Festival after it.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.147,
-      "raw_duration_seconds": 3.52,
-      "asr": "And all Chinese are ready to welcome the Spring Festival after it.",
-      "published_asr": "And all Chinese are ready to welcome the Spring Festival after it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p17.mp3",
+      "sha256": "assets/audio/segments/s41-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s41-p18",
       "text": "People take the lanterns and fireworks out, and children use scissors to make paper cuttings.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "People take the lanterns and fireworks out, and children use scissors to make paper cuttings.",
-      "published_asr": "People take the lanterns and fireworks out, and children use scissors to make paper cuttings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p18.mp3",
+      "sha256": "assets/audio/segments/s41-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s41-p19",
       "text": "Of course, a new round of solar terms will start.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.15,
-      "raw_duration_seconds": 3.52,
-      "asr": "Of course, a new round of solar terms will start.",
-      "published_asr": "Of course, a new round of solar terms will start.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s41-p19.mp3",
+      "sha256": "assets/audio/segments/s41-p19.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 19,
-    "raw_asr_exact_count": 19,
-    "published_asr_exact_count": 19,
-    "word_count": 125,
-    "word_accepted_count": 125,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

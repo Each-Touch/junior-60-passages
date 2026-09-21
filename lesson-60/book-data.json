@@ -1,0 +1,1769 @@
+{
+  "course": "初中60短文",
+  "passage": 60,
+  "title": "Passage 60",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s60-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s60-p01.mp3",
+      "en": "AI can help teenagers and students learn in several ways.",
+      "cn": "人工智能可以在多个方面帮助青少年和学生们学习。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s60-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s60-p02.mp3",
+      "en": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
+      "cn": "个性化学习：人工智能能够更好地了解学生，包括他们的优点、缺点、技能、学习偏好、学习需求等。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s60-p03",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s60-p03.mp3",
+      "en": "Then it can create a proper learning plan for each student.",
+      "cn": "然后，它可以为每个学生制订合适的学习计划。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s60-p04",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s60-p04.mp3",
+      "en": "This can help students concentrate on areas that they need to improve at their own speed.",
+      "cn": "这有助于学生按照自己的节奏专注于需要提高的领域。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s60-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s60-p05.mp3",
+      "en": "Interactive learning: Forget about the learning method of yesterday!",
+      "cn": "交互式学习：忘掉过去的学习方法吧！"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s60-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s60-p06.mp3",
+      "en": "AI has the ability to make learning more interactive and interesting.",
+      "cn": "人工智能有能力让学习变得更具互动性和趣味性。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s60-p07",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s60-p07.mp3",
+      "en": "Interactive learning apps and educational games can make students learn more carefully.",
+      "cn": "交互式学习应用程序和寓教于乐的游戏可以让学生学得更认真。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s60-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s60-p08.mp3",
+      "en": "The new method is sure to be more helpful than studying alone.",
+      "cn": "这种新方法一定会比单独学习更有帮助。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s60-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s60-p09.mp3",
+      "en": "Automated advice and help: AI can examine students' work and provide personalised help.",
+      "cn": "自动建议和帮助：人工智能可以检查学生的作业，并提供个性化帮助。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s60-p10",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s60-p10.mp3",
+      "en": "For example, ChatGPT can answer students' questions quickly in a private, low-pressure way.",
+      "cn": "例如，ChatGPT可以以一种私密的、没什么压力的方式快速回答学生的问题。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s60-p11",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s60-p11.mp3",
+      "en": "This kind of advice and answers can help students better understand knowledge and use their knowledge.",
+      "cn": "这样的建议和解答可以帮助学生更好地理解并运用知识。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s60-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s60-p12.mp3",
+      "en": "Greater resources: AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
+      "cn": "更丰富的资源：人工智能可以使学习资源更加丰富和广泛，如电子教科书、在线课程和学习应用程序。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s60-p13",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s60-p13.mp3",
+      "en": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
+      "cn": "例如，采用人工智能技术的生物教科书可以提供人体的交互式3D模型。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s60-p14-01",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s60-p14-01.mp3",
+      "en": "Students may also be able to talk to a simulated empress in history to know more about her life, for example,",
+      "cn": "学生还能够与虚拟的历史女皇对话，了解她的生平，比如她选择的结婚对象以及选择他的原因。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 14,
+      "chunkId": "s60-p14-02",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s60-p14-02.mp3",
+      "en": "whom she chose to marry and why.",
+      "cn": "学生还能够与虚拟的历史女皇对话，了解她的生平，比如她选择的结婚对象以及选择他的原因。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 15,
+      "chunkId": "s60-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s60-p15.mp3",
+      "en": "AI can provide interactive examples, introduce important passages, and offer assessments.",
+      "cn": "人工智能可以提供交互式案例，介绍重要文章，并提供测评。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 16,
+      "chunkId": "s60-p16",
+      "image": "assets/images/16.png",
+      "audio": "assets/audio/segments/s60-p16.mp3",
+      "en": "In a word, AI has a great ability to improve studying and learning.",
+      "cn": "总之，人工智能在提升学习效果方面有强大的能力。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 17,
+      "chunkId": "s60-p17",
+      "image": "assets/images/17.png",
+      "audio": "assets/audio/segments/s60-p17.mp3",
+      "en": "By using AI, students can study smarter and reach higher levels of learning and success.",
+      "cn": "通过使用人工智能，学生可以更高效地学习，达到更高的学习水平并取得更大的成功。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 18,
+      "chunkId": "s60-p18",
+      "image": "assets/images/18.png",
+      "audio": "assets/audio/segments/s60-p18.mp3",
+      "en": "The future of AI in education is hopeful as technologies continue to develop.",
+      "cn": "随着科技的不断发展，人工智能在教育领域的未来充满希望。"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/15.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/16.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/17.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/18.png"
+    }
+  ],
+  "dictionary": {
+    "ai": {
+      "word": "AI",
+      "phonetic": "/ai/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "ai"
+    },
+    "can": {
+      "word": "can",
+      "phonetic": "/kən/",
+      "translation": "能",
+      "core": false
+    },
+    "help": {
+      "word": "help",
+      "phonetic": "/hɛlp/",
+      "translation": "帮助",
+      "core": false
+    },
+    "teenagers": {
+      "word": "teenagers",
+      "phonetic": "/teenagers/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "teenager"
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "students": {
+      "word": "students",
+      "phonetic": "/ˈstudənts/",
+      "translation": "学生",
+      "core": false
+    },
+    "learn": {
+      "word": "learn",
+      "phonetic": "/lərn/",
+      "translation": "学习",
+      "core": false
+    },
+    "in": {
+      "word": "in",
+      "phonetic": "/ɪn/",
+      "translation": "在……里",
+      "core": false
+    },
+    "several": {
+      "word": "several",
+      "phonetic": "/ˈsɛvərəl/",
+      "translation": "一些",
+      "core": false
+    },
+    "ways": {
+      "word": "ways",
+      "phonetic": "/weɪz/",
+      "translation": "方式",
+      "core": false
+    },
+    "personalised": {
+      "word": "Personalised",
+      "phonetic": "/personalised/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "personalise"
+    },
+    "learning": {
+      "word": "learning",
+      "phonetic": "/ˈlərnɪŋ/",
+      "translation": "学习",
+      "core": false
+    },
+    "know": {
+      "word": "know",
+      "phonetic": "/noʊ/",
+      "translation": "知道",
+      "core": false
+    },
+    "better": {
+      "word": "better",
+      "phonetic": "/ˈbɛtər/",
+      "translation": "更好的",
+      "core": false
+    },
+    "about": {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "translation": "关于",
+      "core": false
+    },
+    "including": {
+      "word": "including",
+      "phonetic": "/ˌɪnˈkludɪŋ/",
+      "translation": "包括",
+      "core": false
+    },
+    "their": {
+      "word": "their",
+      "phonetic": "/ðɛr/",
+      "translation": "他们的",
+      "core": false
+    },
+    "advantages": {
+      "word": "advantages",
+      "phonetic": "/ædˈvæntɪʤɪz/",
+      "translation": "优点",
+      "core": false
+    },
+    "weaknesses": {
+      "word": "weaknesses",
+      "phonetic": "/weaknesses/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "weakness"
+    },
+    "skills": {
+      "word": "skills",
+      "phonetic": "/skills/",
+      "translation": "常用词",
+      "core": false
+    },
+    "favourites": {
+      "word": "favourites",
+      "phonetic": "/favourites/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "favourite"
+    },
+    "needs": {
+      "word": "needs",
+      "phonetic": "/nidz/",
+      "translation": "需要",
+      "core": true,
+      "coreWord": "need"
+    },
+    "so": {
+      "word": "so",
+      "phonetic": "/soʊ/",
+      "translation": "所以",
+      "core": false
+    },
+    "on": {
+      "word": "on",
+      "phonetic": "/ɑːn/",
+      "translation": "在……上",
+      "core": false
+    },
+    "then": {
+      "word": "Then",
+      "phonetic": "/ðɛn/",
+      "translation": "然后",
+      "core": false
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "create": {
+      "word": "create",
+      "phonetic": "/create/",
+      "translation": "常用词",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "proper": {
+      "word": "proper",
+      "phonetic": "/ˈprɑpər/",
+      "translation": "恰当的",
+      "core": false
+    },
+    "plan": {
+      "word": "plan",
+      "phonetic": "/plæn/",
+      "translation": "计划",
+      "core": false
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "each": {
+      "word": "each",
+      "phonetic": "/iʧ/",
+      "translation": "每个",
+      "core": false
+    },
+    "student": {
+      "word": "student",
+      "phonetic": "/ˈstudənt/",
+      "translation": "学生",
+      "core": false
+    },
+    "this": {
+      "word": "This",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "concentrate": {
+      "word": "concentrate",
+      "phonetic": "/concentrate/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "concentrate"
+    },
+    "areas": {
+      "word": "areas",
+      "phonetic": "/ˈɛriəz/",
+      "translation": "地区",
+      "core": false
+    },
+    "that": {
+      "word": "that",
+      "phonetic": "/ðət/",
+      "translation": "那",
+      "core": false
+    },
+    "they": {
+      "word": "they",
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们",
+      "core": false
+    },
+    "need": {
+      "word": "need",
+      "phonetic": "/nid/",
+      "translation": "需要",
+      "core": true,
+      "coreWord": "need"
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "improve": {
+      "word": "improve",
+      "phonetic": "/ˌɪmˈpruv/",
+      "translation": "提升",
+      "core": false
+    },
+    "at": {
+      "word": "at",
+      "phonetic": "/æt/",
+      "translation": "在；于",
+      "core": false
+    },
+    "own": {
+      "word": "own",
+      "phonetic": "/oʊn/",
+      "translation": "自己的",
+      "core": false
+    },
+    "speed": {
+      "word": "speed",
+      "phonetic": "/spid/",
+      "translation": "速度",
+      "core": false
+    },
+    "interactive": {
+      "word": "Interactive",
+      "phonetic": "/interactive/",
+      "translation": "常用词",
+      "core": false
+    },
+    "forget": {
+      "word": "Forget",
+      "phonetic": "/fərˈgɛt/",
+      "translation": "忘记",
+      "core": false
+    },
+    "the": {
+      "word": "the",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "method": {
+      "word": "method",
+      "phonetic": "/ˈmɛθəd/",
+      "translation": "方法",
+      "core": false
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "yesterday": {
+      "word": "yesterday",
+      "phonetic": "/yesterday/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "yesterday"
+    },
+    "has": {
+      "word": "has",
+      "phonetic": "/həz/",
+      "translation": "有",
+      "core": false
+    },
+    "ability": {
+      "word": "ability",
+      "phonetic": "/əˈbɪləˌti/",
+      "translation": "能力",
+      "core": false
+    },
+    "make": {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "translation": "制作",
+      "core": false
+    },
+    "more": {
+      "word": "more",
+      "phonetic": "/mɔr/",
+      "translation": "更多的",
+      "core": false
+    },
+    "interesting": {
+      "word": "interesting",
+      "phonetic": "/ˈɪntəˌrɛstɪŋ/",
+      "translation": "有趣的",
+      "core": false
+    },
+    "apps": {
+      "word": "apps",
+      "phonetic": "/apps/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "app"
+    },
+    "educational": {
+      "word": "educational",
+      "phonetic": "/educational/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "educational"
+    },
+    "games": {
+      "word": "games",
+      "phonetic": "/geɪmz/",
+      "translation": "游戏",
+      "core": false
+    },
+    "carefully": {
+      "word": "carefully",
+      "phonetic": "/ˈkɛrfəli/",
+      "translation": "小心",
+      "core": true,
+      "coreWord": "carefully"
+    },
+    "new": {
+      "word": "new",
+      "phonetic": "/nu/",
+      "translation": "新的",
+      "core": false
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "sure": {
+      "word": "sure",
+      "phonetic": "/ʃʊr/",
+      "translation": "当然",
+      "core": false
+    },
+    "be": {
+      "word": "be",
+      "phonetic": "/bi/",
+      "translation": "是",
+      "core": false
+    },
+    "helpful": {
+      "word": "helpful",
+      "phonetic": "/ˈhɛlpfəl/",
+      "translation": "有帮助的",
+      "core": false
+    },
+    "than": {
+      "word": "than",
+      "phonetic": "/ðən/",
+      "translation": "比",
+      "core": false
+    },
+    "studying": {
+      "word": "studying",
+      "phonetic": "/ˈstədiɪŋ/",
+      "translation": "学习",
+      "core": false
+    },
+    "alone": {
+      "word": "alone",
+      "phonetic": "/əˈloʊn/",
+      "translation": "独自的",
+      "core": false
+    },
+    "automated": {
+      "word": "Automated",
+      "phonetic": "/automated/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "automate"
+    },
+    "advice": {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "translation": "建议",
+      "core": false
+    },
+    "examine": {
+      "word": "examine",
+      "phonetic": "/examine/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "examine"
+    },
+    "work": {
+      "word": "work",
+      "phonetic": "/wərk/",
+      "translation": "工作",
+      "core": false
+    },
+    "provide": {
+      "word": "provide",
+      "phonetic": "/prəˈvaɪd/",
+      "translation": "提供",
+      "core": false
+    },
+    "example": {
+      "word": "example",
+      "phonetic": "/ɪgˈzæmpəl/",
+      "translation": "例子",
+      "core": false
+    },
+    "chatgpt": {
+      "word": "ChatGPT",
+      "phonetic": "/chatgpt/",
+      "translation": "常用词",
+      "core": false
+    },
+    "answer": {
+      "word": "answer",
+      "phonetic": "/ˈænsər/",
+      "translation": "回答",
+      "core": false
+    },
+    "questions": {
+      "word": "questions",
+      "phonetic": "/kˈwɛsʧənz/",
+      "translation": "问题",
+      "core": false
+    },
+    "quickly": {
+      "word": "quickly",
+      "phonetic": "/kˈwɪkli/",
+      "translation": "迅速地",
+      "core": false
+    },
+    "private": {
+      "word": "private",
+      "phonetic": "/private/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "private"
+    },
+    "low": {
+      "word": "low",
+      "phonetic": "/loʊ/",
+      "translation": "低的",
+      "core": false
+    },
+    "pressure": {
+      "word": "pressure",
+      "phonetic": "/pressure/",
+      "translation": "常用词",
+      "core": false
+    },
+    "way": {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "translation": "方式",
+      "core": false
+    },
+    "kind": {
+      "word": "kind",
+      "phonetic": "/kaɪnd/",
+      "translation": "种类",
+      "core": false
+    },
+    "answers": {
+      "word": "answers",
+      "phonetic": "/ˈænsərz/",
+      "translation": "答案",
+      "core": false
+    },
+    "understand": {
+      "word": "understand",
+      "phonetic": "/ˌəndərˈstænd/",
+      "translation": "理解",
+      "core": false
+    },
+    "knowledge": {
+      "word": "knowledge",
+      "phonetic": "/ˈnɑlɪʤ/",
+      "translation": "知识",
+      "core": false
+    },
+    "use": {
+      "word": "use",
+      "phonetic": "/juz/",
+      "translation": "使用",
+      "core": false
+    },
+    "greater": {
+      "word": "Greater",
+      "phonetic": "/greater/",
+      "translation": "常用词",
+      "core": false
+    },
+    "resources": {
+      "word": "resources",
+      "phonetic": "/resources/",
+      "translation": "常用词",
+      "core": false
+    },
+    "richer": {
+      "word": "richer",
+      "phonetic": "/richer/",
+      "translation": "常用词",
+      "core": false
+    },
+    "wider": {
+      "word": "wider",
+      "phonetic": "/wider/",
+      "translation": "常用词",
+      "core": false
+    },
+    "like": {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "translation": "喜欢",
+      "core": false
+    },
+    "electronic": {
+      "word": "electronic",
+      "phonetic": "/electronic/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "electronic"
+    },
+    "textbooks": {
+      "word": "textbooks",
+      "phonetic": "/textbooks/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "textbook"
+    },
+    "online": {
+      "word": "online",
+      "phonetic": "/ˈɔnˌlaɪn/",
+      "translation": "在线的",
+      "core": false
+    },
+    "courses": {
+      "word": "courses",
+      "phonetic": "/courses/",
+      "translation": "常用词",
+      "core": false
+    },
+    "study": {
+      "word": "study",
+      "phonetic": "/ˈstədi/",
+      "translation": "学习",
+      "core": false
+    },
+    "biology": {
+      "word": "biology",
+      "phonetic": "/biology/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "biology"
+    },
+    "textbook": {
+      "word": "textbook",
+      "phonetic": "/textbook/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "textbook"
+    },
+    "with": {
+      "word": "with",
+      "phonetic": "/wɪð/",
+      "translation": "和；带有",
+      "core": false
+    },
+    "technology": {
+      "word": "technology",
+      "phonetic": "/tɛkˈnɑləʤi/",
+      "translation": "技术",
+      "core": false
+    },
+    "may": {
+      "word": "may",
+      "phonetic": "/meɪ/",
+      "translation": "可能",
+      "core": false
+    },
+    "models": {
+      "word": "models",
+      "phonetic": "/models/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "model"
+    },
+    "human": {
+      "word": "human",
+      "phonetic": "/ˈjumən/",
+      "translation": "人类",
+      "core": false
+    },
+    "body": {
+      "word": "body",
+      "phonetic": "/ˈbɑdi/",
+      "translation": "身体",
+      "core": false
+    },
+    "also": {
+      "word": "also",
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还",
+      "core": false
+    },
+    "able": {
+      "word": "able",
+      "phonetic": "/ˈeɪbəl/",
+      "translation": "有能力的",
+      "core": false
+    },
+    "talk": {
+      "word": "talk",
+      "phonetic": "/tɔk/",
+      "translation": "讲话",
+      "core": false
+    },
+    "simulated": {
+      "word": "simulated",
+      "phonetic": "/simulated/",
+      "translation": "常用词",
+      "core": false
+    },
+    "empress": {
+      "word": "empress",
+      "phonetic": "/empress/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "empress"
+    },
+    "history": {
+      "word": "history",
+      "phonetic": "/ˈhɪstəri/",
+      "translation": "历史",
+      "core": false
+    },
+    "her": {
+      "word": "her",
+      "phonetic": "/hər/",
+      "translation": "她",
+      "core": false
+    },
+    "life": {
+      "word": "life",
+      "phonetic": "/laɪf/",
+      "translation": "生活",
+      "core": false
+    },
+    "whom": {
+      "word": "whom",
+      "phonetic": "/whom/",
+      "translation": "常用词",
+      "core": false
+    },
+    "she": {
+      "word": "she",
+      "phonetic": "/ʃiː/",
+      "translation": "她",
+      "core": false
+    },
+    "chose": {
+      "word": "chose",
+      "phonetic": "/ʧoʊz/",
+      "translation": "选择了",
+      "core": false
+    },
+    "marry": {
+      "word": "marry",
+      "phonetic": "/marry/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "marry"
+    },
+    "why": {
+      "word": "why",
+      "phonetic": "/waɪ/",
+      "translation": "为什么",
+      "core": false
+    },
+    "examples": {
+      "word": "examples",
+      "phonetic": "/examples/",
+      "translation": "常用词",
+      "core": false
+    },
+    "introduce": {
+      "word": "introduce",
+      "phonetic": "/introduce/",
+      "translation": "常用词",
+      "core": false
+    },
+    "important": {
+      "word": "important",
+      "phonetic": "/ˌɪmˈpɔrtənt/",
+      "translation": "重要的",
+      "core": false
+    },
+    "passages": {
+      "word": "passages",
+      "phonetic": "/passages/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "passage"
+    },
+    "offer": {
+      "word": "offer",
+      "phonetic": "/ˈɔfər/",
+      "translation": "提供",
+      "core": false
+    },
+    "assessments": {
+      "word": "assessments",
+      "phonetic": "/assessments/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "assessment"
+    },
+    "word": {
+      "word": "word",
+      "phonetic": "/word/",
+      "translation": "常用词",
+      "core": false
+    },
+    "great": {
+      "word": "great",
+      "phonetic": "/greɪt/",
+      "translation": "伟大的",
+      "core": false
+    },
+    "by": {
+      "word": "By",
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边",
+      "core": false
+    },
+    "using": {
+      "word": "using",
+      "phonetic": "/ˈjuzɪŋ/",
+      "translation": "使用",
+      "core": false
+    },
+    "smarter": {
+      "word": "smarter",
+      "phonetic": "/smarter/",
+      "translation": "常用词",
+      "core": false
+    },
+    "reach": {
+      "word": "reach",
+      "phonetic": "/riʧ/",
+      "translation": "抵达",
+      "core": false
+    },
+    "higher": {
+      "word": "higher",
+      "phonetic": "/haɪər/",
+      "translation": "更高",
+      "core": false
+    },
+    "levels": {
+      "word": "levels",
+      "phonetic": "/ˈlɛvəlz/",
+      "translation": "级别",
+      "core": false
+    },
+    "success": {
+      "word": "success",
+      "phonetic": "/success/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "success"
+    },
+    "future": {
+      "word": "future",
+      "phonetic": "/fˈjuʧər/",
+      "translation": "未来",
+      "core": false
+    },
+    "education": {
+      "word": "education",
+      "phonetic": "/education/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "education"
+    },
+    "hopeful": {
+      "word": "hopeful",
+      "phonetic": "/hopeful/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "hopeful"
+    },
+    "as": {
+      "word": "as",
+      "phonetic": "/æz/",
+      "translation": "作为；像",
+      "core": false
+    },
+    "technologies": {
+      "word": "technologies",
+      "phonetic": "/tɛkˈnɑləʤiz/",
+      "translation": "技术",
+      "core": false
+    },
+    "continue": {
+      "word": "continue",
+      "phonetic": "/continue/",
+      "translation": "常用词",
+      "core": false
+    },
+    "develop": {
+      "word": "develop",
+      "phonetic": "/dɪˈvɛləp/",
+      "translation": "发展",
+      "core": false
+    }
+  },
+  "coreCards": [
+    {
+      "word": "ai",
+      "phonetic": "/ai/",
+      "translation": "artificial intelligence） abbr. 人工智能",
+      "definition": "/ai/ artificial intelligence） abbr. 人工智能",
+      "sections": [],
+      "example": "AI can help teenagers and students learn in several ways.",
+      "aliases": [
+        "AI",
+        "ai"
+      ],
+      "sourcePhoto": "IMG_3841.JPG"
+    },
+    {
+      "word": "teenager",
+      "phonetic": "/'tixnerd3o（r）/",
+      "translation": "n.（13至19岁之间的）青少年",
+      "definition": "/'tixnerd3o（r）/ n.（13至19岁之间的）青少年",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：teen（青少年；十几岁的）+ager一青少年"
+        }
+      ],
+      "example": "AI can help teenagers and students learn in several ways.",
+      "aliases": [
+        "teenagers"
+      ],
+      "sourcePhoto": "IMG_3841.JPG"
+    },
+    {
+      "word": "personalise",
+      "phonetic": "/'p3:senalarz/",
+      "translation": "v. 为个人特制（或专设）；个人化",
+      "definition": "/'p3:senalarz/ v. 为个人特制（或专设）；个人化",
+      "sections": [
+        {
+          "label": "用",
+          "text": "美式写法：personalize"
+        }
+      ],
+      "example": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
+      "aliases": [
+        "Personalised",
+        "personalised"
+      ],
+      "sourcePhoto": "IMG_3841.JPG"
+    },
+    {
+      "word": "weakness",
+      "phonetic": "",
+      "translation": "教材核心词",
+      "definition": "教材核心词",
+      "sections": [],
+      "example": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
+      "aliases": [
+        "weaknesses"
+      ],
+      "sourcePhoto": "IMG_3841.JPG"
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/wi:knas/",
+      "translation": "n.虚弱；（系统、性格等的）弱点，缺点，不足\n［'fervarrt］ ad.特别受喜爱的n.特别喜爱的人（或事物）",
+      "definition": "/wi:knas/ n.虚弱；（系统、性格等的）弱点，缺点，不足\n［'fervarrt］ ad.特别受喜爱的n.特别喜爱的人（或事物）",
+      "sections": [
+        {
+          "label": "用",
+          "text": "美式写法：favorite\n$：260"
+        }
+      ],
+      "example": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
+      "aliases": [
+        "favourites"
+      ],
+      "sourcePhoto": "IMG_3841.JPG"
+    },
+    {
+      "word": "need",
+      "phonetic": "/nid/",
+      "translation": "需要",
+      "definition": "/nid/ 需要",
+      "sections": [],
+      "example": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
+      "aliases": [
+        "need",
+        "needs"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "concentrate",
+      "phonetic": "/concentrate/",
+      "translation": "常用词",
+      "definition": "/concentrate/ 常用词",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：种子（seed）发芽，需要（need）浇水\n聚集）\n［'konsntrert v.聚精会神，集中（注意力）；使⋯⋯集中（或集合、"
+        },
+        {
+          "label": "记",
+          "text": "词根记忆：con（共同）+centr（中心）+ate（使·...·）一使：\n都到中心一集中（注意力）\nconcentrate（sth.） on/upon（把某事物）集中在···\nPeople with a growth mindset don't concentrate on failure.\n拥有成长型思维的人不会专注于失败。"
+        },
+        {
+          "label": "拓",
+          "text": "concentration（n. 专心；集中，聚集）"
+        }
+      ],
+      "example": "This can help students concentrate on areas that they need to improve at their own speed.",
+      "aliases": [
+        "concentrate"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "yesterday",
+      "phonetic": "/yesterday/",
+      "translation": "adv. 在昨天 n. 昨天",
+      "definition": "/yesterday/ adv. 在昨天 n. 昨天",
+      "sections": [],
+      "example": "Interactive learning: Forget about the learning method of yesterday!",
+      "aliases": [
+        "yesterday"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "app",
+      "phonetic": "/aep/",
+      "translation": "n. 应用程序，应用软件",
+      "definition": "/aep/ n. 应用程序，应用软件",
+      "sections": [],
+      "example": "Interactive learning apps and educational games can make students learn more carefully.",
+      "aliases": [
+        "apps"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "educational",
+      "phonetic": "/educational/",
+      "translation": "adj. 教育的，有关教育的，有教育意义的",
+      "definition": "/educational/ adj. 教育的，有关教育的，有教育意义的",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "educational games 寓教于乐的游戏"
+        }
+      ],
+      "example": "Interactive learning apps and educational games can make students learn more carefully.",
+      "aliases": [
+        "educational"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "carefully",
+      "phonetic": "/ˈkɛrfəli/",
+      "translation": "adv.小心地；仔细地，认真地",
+      "definition": "/ˈkɛrfəli/ adv.小心地；仔细地，认真地",
+      "sections": [],
+      "example": "Interactive learning apps and educational games can make students learn more carefully.",
+      "aliases": [
+        "carefully"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "automate",
+      "phonetic": "/bztamert/",
+      "translation": "v.使自动化",
+      "definition": "/bztamert/ v.使自动化",
+      "sections": [],
+      "example": "Automated advice and help: AI can examine students' work and provide personalised help.",
+      "aliases": [
+        "Automated",
+        "automated"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "examine",
+      "phonetic": "/rg'zamn/",
+      "translation": "v. 审查，调查；检查；考，测验（某人）",
+      "definition": "/rg'zamn/ v. 审查，调查；检查；考，测验（某人）",
+      "sections": [
+        {
+          "label": "例",
+          "text": "Firefighters got the girl outside, where she was examined by\ndoctors and found to be fine. 消防员把女孩带到了外面，医\n生给她检查后发现她没事。\nexaminer（n. 主考人；审查人）examination（n. 考试；检查）"
+        }
+      ],
+      "example": "Automated advice and help: AI can examine students' work and provide personalised help.",
+      "aliases": [
+        "examine"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "private",
+      "phonetic": "/private/",
+      "translation": "adj. 私人的，私密的；私有的；私下的；私立的，私\n营的",
+      "definition": "/private/ adj. 私人的，私密的；私有的；私下的；私立的，私\n营的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：priv（私人）+ate（···的）一私人的，私密的"
+        },
+        {
+          "label": "搭",
+          "text": "in private 私下地，秘密地"
+        }
+      ],
+      "example": "For example, ChatGPT can answer students' questions quickly in a private, low-pressure way.",
+      "aliases": [
+        "private"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "electronic",
+      "phonetic": "/r,lek'tronrk/",
+      "translation": "ad. 电子的",
+      "definition": "/r,lek'tronrk/ ad. 电子的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：电子（electronic）产品要用电（electric）"
+        }
+      ],
+      "example": "Greater resources: AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
+      "aliases": [
+        "electronic"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "textbook",
+      "phonetic": "/tekstbok/",
+      "translation": "n.教科书，课本，教材",
+      "definition": "/tekstbok/ n.教科书，课本，教材",
+      "sections": [],
+      "example": "Greater resources: AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
+      "aliases": [
+        "textbook",
+        "textbooks"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "biology",
+      "phonetic": "/biology/",
+      "translation": "n. 生物学",
+      "definition": "/biology/ n. 生物学",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：bio（生物）+logy（⋯⋯学） 生物学"
+        }
+      ],
+      "example": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
+      "aliases": [
+        "biology"
+      ],
+      "sourcePhoto": "IMG_3842.JPG"
+    },
+    {
+      "word": "model",
+      "phonetic": "/modl/",
+      "translation": "n.模型；模特儿；样本，范例\nv.将…做成模型；（向顾客）穿戴展示",
+      "definition": "/modl/ n.模型；模特儿；样本，范例\nv.将…做成模型；（向顾客）穿戴展示",
+      "sections": [
+        {
+          "label": "记",
+          "text": "发音记忆：model 音译为“模特儿”"
+        }
+      ],
+      "example": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
+      "aliases": [
+        "models"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "empress",
+      "phonetic": "/'empres/",
+      "translation": "n. 女皇；皇后",
+      "definition": "/'empres/ n. 女皇；皇后",
+      "sections": [],
+      "example": "Students may also be able to talk to a simulated empress in history to know more about her life, for example, whom she chose to marry and why.",
+      "aliases": [
+        "empress"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "marry",
+      "phonetic": "/marry/",
+      "translation": "maril v 娶，嫁，（和某人）结婚",
+      "definition": "/marry/ maril v 娶，嫁，（和某人）结婚",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：结婚（marry）是令人快乐的\n（merry）事"
+        },
+        {
+          "label": "搭",
+          "text": "get married 结婚"
+        }
+      ],
+      "example": "Students may also be able to talk to a simulated empress in history to know more about her life, for example, whom she chose to marry and why.",
+      "aliases": [
+        "marry"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "passage",
+      "phonetic": "/passage/",
+      "translation": "n.段落，章节；通道；（时间的）\n流逝；通过",
+      "definition": "/passage/ n.段落，章节；通道；（时间的）\n流逝；通过",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：pass（通过，经过）tage（名词后缀）一供人通\n过的场所一通道"
+        }
+      ],
+      "example": "AI can provide interactive examples, introduce important passages, and offer assessments.",
+      "aliases": [
+        "passages"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "assessment",
+      "phonetic": "/'sesmant/",
+      "translation": "n. 评估；评定\nSuCCeSS",
+      "definition": "/'sesmant/ n. 评估；评定\nSuCCeSS",
+      "sections": [],
+      "example": "AI can provide interactive examples, introduce important passages, and offer assessments.",
+      "aliases": [
+        "assessments"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "success",
+      "phonetic": "/success/",
+      "translation": "n. 成功；成功的人（或事物）",
+      "definition": "/success/ n. 成功；成功的人（或事物）",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：suc（下）+cess（行走）\n从山下成功走到山顶一成功\nsuccessful（adj. 成功的）"
+        }
+      ],
+      "example": "By using AI, students can study smarter and reach higher levels of learning and success.",
+      "aliases": [
+        "success"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "education",
+      "phonetic": "/education/",
+      "translation": "n. 教育；培养",
+      "definition": "/education/ n. 教育；培养",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "higher education 高等教育"
+        }
+      ],
+      "example": "The future of AI in education is hopeful as technologies continue to develop.",
+      "aliases": [
+        "education"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    },
+    {
+      "word": "hopeful",
+      "phonetic": "/'haupfl/",
+      "translation": "adj. 抱有希望；给人以希望的\nhopefully（adv.有希望地）",
+      "definition": "/'haupfl/ adj. 抱有希望；给人以希望的\nhopefully（adv.有希望地）",
+      "sections": [],
+      "example": "The future of AI in education is hopeful as technologies continue to develop.",
+      "aliases": [
+        "hopeful"
+      ],
+      "sourcePhoto": "IMG_3843.JPG"
+    }
+  ],
+  "coreWordCount": 25,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s60-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s60-p01.mp3",
+      "en": "AI can help teenagers and students learn in several ways.",
+      "cn": "人工智能可以在多个方面帮助青少年和学生们学习。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s60-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s60-p02.mp3",
+      "en": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
+      "cn": "个性化学习：人工智能能够更好地了解学生，包括他们的优点、缺点、技能、学习偏好、学习需求等。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s60-p03",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s60-p03.mp3",
+      "en": "Then it can create a proper learning plan for each student.",
+      "cn": "然后，它可以为每个学生制订合适的学习计划。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s60-p04",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s60-p04.mp3",
+      "en": "This can help students concentrate on areas that they need to improve at their own speed.",
+      "cn": "这有助于学生按照自己的节奏专注于需要提高的领域。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s60-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s60-p05.mp3",
+      "en": "Interactive learning: Forget about the learning method of yesterday!",
+      "cn": "交互式学习：忘掉过去的学习方法吧！"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s60-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s60-p06.mp3",
+      "en": "AI has the ability to make learning more interactive and interesting.",
+      "cn": "人工智能有能力让学习变得更具互动性和趣味性。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s60-p07",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s60-p07.mp3",
+      "en": "Interactive learning apps and educational games can make students learn more carefully.",
+      "cn": "交互式学习应用程序和寓教于乐的游戏可以让学生学得更认真。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s60-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s60-p08.mp3",
+      "en": "The new method is sure to be more helpful than studying alone.",
+      "cn": "这种新方法一定会比单独学习更有帮助。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s60-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s60-p09.mp3",
+      "en": "Automated advice and help: AI can examine students' work and provide personalised help.",
+      "cn": "自动建议和帮助：人工智能可以检查学生的作业，并提供个性化帮助。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s60-p10",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s60-p10.mp3",
+      "en": "For example, ChatGPT can answer students' questions quickly in a private, low-pressure way.",
+      "cn": "例如，ChatGPT可以以一种私密的、没什么压力的方式快速回答学生的问题。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s60-p11",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s60-p11.mp3",
+      "en": "This kind of advice and answers can help students better understand knowledge and use their knowledge.",
+      "cn": "这样的建议和解答可以帮助学生更好地理解并运用知识。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s60-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s60-p12.mp3",
+      "en": "Greater resources: AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
+      "cn": "更丰富的资源：人工智能可以使学习资源更加丰富和广泛，如电子教科书、在线课程和学习应用程序。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s60-p13",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s60-p13.mp3",
+      "en": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
+      "cn": "例如，采用人工智能技术的生物教科书可以提供人体的交互式3D模型。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s60-p14-01",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s60-p14-01.mp3",
+      "en": "Students may also be able to talk to a simulated empress in history to know more about her life, for example,",
+      "cn": "学生还能够与虚拟的历史女皇对话，了解她的生平，比如她选择的结婚对象以及选择他的原因。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 14,
+      "chunkId": "s60-p14-02",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s60-p14-02.mp3",
+      "en": "whom she chose to marry and why.",
+      "cn": "学生还能够与虚拟的历史女皇对话，了解她的生平，比如她选择的结婚对象以及选择他的原因。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 15,
+      "chunkId": "s60-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s60-p15.mp3",
+      "en": "AI can provide interactive examples, introduce important passages, and offer assessments.",
+      "cn": "人工智能可以提供交互式案例，介绍重要文章，并提供测评。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 16,
+      "chunkId": "s60-p16",
+      "image": "assets/images/16.webp",
+      "audio": "assets/audio/segments/s60-p16.mp3",
+      "en": "In a word, AI has a great ability to improve studying and learning.",
+      "cn": "总之，人工智能在提升学习效果方面有强大的能力。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 17,
+      "chunkId": "s60-p17",
+      "image": "assets/images/17.webp",
+      "audio": "assets/audio/segments/s60-p17.mp3",
+      "en": "By using AI, students can study smarter and reach higher levels of learning and success.",
+      "cn": "通过使用人工智能，学生可以更高效地学习，达到更高的学习水平并取得更大的成功。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 18,
+      "chunkId": "s60-p18",
+      "image": "assets/images/18.webp",
+      "audio": "assets/audio/segments/s60-p18.mp3",
+      "en": "The future of AI in education is hopeful as technologies continue to develop.",
+      "cn": "随着科技的不断发展，人工智能在教育领域的未来充满希望。"
+    }
+  ]
+}

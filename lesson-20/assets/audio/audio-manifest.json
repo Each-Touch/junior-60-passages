@@ -1,266 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s20-p01",
       "text": "You will be really embarrassed if someone sees you talking to yourself, but don't feel bad about it.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.754,
-      "raw_duration_seconds": 5.28,
-      "asr": "You will be really embarrassed if someone sees you talking to yourself, but don't feel bad about it.",
-      "published_asr": "You will be really embarrassed if someone sees you talking to yourself, but don't feel bad about it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p01.mp3",
+      "sha256": "assets/audio/segments/s20-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s20-p02",
       "text": "It actually has a lot of advantages.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "It actually has a lot of advantages.",
-      "published_asr": "It actually has a lot of advantages.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p02.mp3",
+      "sha256": "assets/audio/segments/s20-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s20-p03",
       "text": "Thinking is good for the brain.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "Thinking is good for the brain.",
-      "published_asr": "Thinking is good for the brain.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p03.mp3",
+      "sha256": "assets/audio/segments/s20-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s20-p04",
       "text": "Talking to yourself loud is like showing this quiet inner speech.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.909,
-      "raw_duration_seconds": 3.36,
-      "asr": "Talking to yourself loud is like showing this quiet inner speech.",
-      "published_asr": "Talking to yourself loud is like showing this quiet inner speech.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p04.mp3",
+      "sha256": "assets/audio/segments/s20-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s20-p05",
       "text": "It can help us do better in different areas.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "It can help us do better in different areas.",
-      "published_asr": "It can help us do better in different areas.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p05.mp3",
+      "sha256": "assets/audio/segments/s20-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s20-p06",
       "text": "For example, a badminton or baseball champion might use self-talk while holding their bats.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.974,
-      "raw_duration_seconds": 5.44,
-      "asr": "For example, a badminton or baseball champion might use self-talk while holding their bats.",
-      "published_asr": "For example, a badminton or baseball champion might use self-talk while holding their bats.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p06.mp3",
+      "sha256": "assets/audio/segments/s20-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s20-p07",
       "text": "A policeman or policewoman may use words like 'you can do this' to help him or her stay calm in stressful situations.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 9.854,
-      "raw_duration_seconds": 6.72,
-      "asr": "A policeman or policewoman may use words like, you can do this to help him or her stay calm in stressful situations.",
-      "published_asr": "A policeman or policewoman may use words like, you can do this to help him or her stay calm in stressful situations.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p07.mp3",
+      "sha256": "assets/audio/segments/s20-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s20-p08",
       "text": "Talking to yourself in the third person can help us manage bad feelings.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Talking to yourself in the third person can help us manage bad feelings.",
-      "published_asr": "Talking to yourself in the third person can help us manage bad feelings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p08.mp3",
+      "sha256": "assets/audio/segments/s20-p08.mp3"
     },
     {
-      "id": 9,
-      "text": "A researcher said that when he is feeling nervous during a flight, he talks to himself, 'It's OK, Jason has been on thousands of flights.'",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 11.498,
-      "raw_duration_seconds": 7.84,
-      "asr": "A researcher said that when he is feeling nervous during a flight, he talks to himself, it's okay, Jason has been on thousands of flights.",
-      "published_asr": "A researcher said that when he is feeling nervous during a flight, he talks to himself, it's okay Jason has been on thousands of flights.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s20-p09-01",
+      "text": "A researcher said that when he is feeling nervous during a flight, he talks to himself,",
+      "audio": "assets/audio/segments/s20-p09-01.mp3",
+      "sha256": "assets/audio/segments/s20-p09-01.mp3"
     },
     {
-      "id": 10,
+      "id": "s20-p09-02",
+      "text": "'It's OK, Jason has been on thousands of flights.'",
+      "audio": "assets/audio/segments/s20-p09-02.mp3",
+      "sha256": "assets/audio/segments/s20-p09-02.mp3"
+    },
+    {
+      "id": "s20-p10",
       "text": "This can help him to see things from a different aspect.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "This can help him to see things from a different aspect.",
-      "published_asr": "This can help him to see things from a different aspect.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p10.mp3",
+      "sha256": "assets/audio/segments/s20-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s20-p11",
       "text": "When encouragement comes from oneself, it adds to self-confidence, making you feel like an eagle flying high.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 11.021,
-      "raw_duration_seconds": 7.52,
-      "asr": "When encouragement comes from oneself, it adds to self-confidence, making you feel like an eagle flying high.",
-      "published_asr": "When encouragement comes from oneself, it adds to self-confidence, making you feel like an eagle flying high.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p11.mp3",
+      "sha256": "assets/audio/segments/s20-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s20-p12",
       "text": "A study invited 72 tennis players to take part in some matches.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.323,
-      "raw_duration_seconds": 4.32,
-      "asr": "A study invited 72 tennis players to take part in some matches.",
-      "published_asr": "A study invited 72 tennis players to take part in some matches.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p12.mp3",
+      "sha256": "assets/audio/segments/s20-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s20-p13",
       "text": "Players were put into two groups: one group said nothing while playing, and the other talked to themselves.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "Players were put into two groups, one group said nothing while playing, and the other talked to themselves.",
-      "published_asr": "Players were put into two groups. One group said nothing while playing, and the other talked to themselves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p13.mp3",
+      "sha256": "assets/audio/segments/s20-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s20-p14",
       "text": "They found that the winners were often the self-talkers.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.679,
-      "raw_duration_seconds": 3.2,
-      "asr": "They found that the winners were often the self-talkers.",
-      "published_asr": "They found that the winners were often the self-talkers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p14.mp3",
+      "sha256": "assets/audio/segments/s20-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s20-p15",
       "text": "They showed more confidence than those in the silent group.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "They showed more confidence than those in the silent group.",
-      "published_asr": "They showed more confidence than those in the silent group",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p15.mp3",
+      "sha256": "assets/audio/segments/s20-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s20-p16",
       "text": "Self-talk also helps to improve memory.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Self-talk also helps to improve memory.",
-      "published_asr": "Self-talk also helps to improve memory.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p16.mp3",
+      "sha256": "assets/audio/segments/s20-p16.mp3"
     },
     {
-      "id": 17,
-      "text": "Researchers tested four different ways to memorise things: reading silently, reading aloud, listening to someone else read, and listening to a recording of oneself reading.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 18.081,
-      "raw_duration_seconds": 12.32,
-      "asr": "Researchers tested four different ways to memorize things. Reading silently. Reading aloud. Listening to someone else read. And listening to a recording of oneself reading.",
-      "published_asr": "Researchers tested four different ways to memorize things, reading silently, reading aloud, listening to someone else read, and listening to a recording of oneself reading.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s20-p17-01",
+      "text": "Researchers tested four different ways to memorise things: reading silently, reading aloud, listening to someone else read,",
+      "audio": "assets/audio/segments/s20-p17-01.mp3",
+      "sha256": "assets/audio/segments/s20-p17-01.mp3"
     },
     {
-      "id": 18,
+      "id": "s20-p17-02",
+      "text": "and listening to a recording of oneself reading.",
+      "audio": "assets/audio/segments/s20-p17-02.mp3",
+      "sha256": "assets/audio/segments/s20-p17-02.mp3"
+    },
+    {
+      "id": "s20-p18",
       "text": "Those who read out loud recalled the best, because the information becomes a long-term memory more easily.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 9.572,
-      "raw_duration_seconds": 7.2,
-      "asr": "Those who read out loud recalled the best because the information becomes a long-term memory more easily",
-      "published_asr": "Those who read out loud recalled the best because the information becomes a long-term memory more easily",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p18.mp3",
+      "sha256": "assets/audio/segments/s20-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s20-p19",
       "text": "Mastering self-talk can give you a tiger's determination.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Mastering self-talk can give you a tiger's determination.",
-      "published_asr": "Mastering self-talk can give you a tiger's determination.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p19.mp3",
+      "sha256": "assets/audio/segments/s20-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s20-p20",
       "text": "Next time you visit the dentist, feel free to talk to yourself.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Next time you visit the dentist, feel free to talk to yourself.",
-      "published_asr": "Next time you visit the dentist, feel free to talk to yourself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s20-p20.mp3",
+      "sha256": "assets/audio/segments/s20-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 169,
-    "word_accepted_count": 169,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

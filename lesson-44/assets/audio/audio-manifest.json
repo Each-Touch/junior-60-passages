@@ -1,266 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s44-p01",
       "text": "Wetlands are any land that is flooded with shallow water all or most of the time.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Wetlands are any land that is flooded with shallow water, all or most of the time.",
-      "published_asr": "Wetlands are any land that is flooded with shallow water, all or most of the time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p01.mp3",
+      "sha256": "assets/audio/segments/s44-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s44-p02",
       "text": "They are a natural water holding system.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "They are a natural water-holding system.",
-      "published_asr": "They are a natural water holding system.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p02.mp3",
+      "sha256": "assets/audio/segments/s44-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s44-p03",
       "text": "Many animals come to wetlands to drink water when they are thirsty.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Many animals come to wetlands to drink water when they are thirsty.",
-      "published_asr": "Many animals come to wetlands to drink water when they are thirsty.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p03.mp3",
+      "sha256": "assets/audio/segments/s44-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s44-p04",
       "text": "There are many types of wetlands.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "There are many types of wetlands.",
-      "published_asr": "There are many types of wetlands.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p04.mp3",
+      "sha256": "assets/audio/segments/s44-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s44-p05",
       "text": "Among them, bogs, marshes and swamps are the three main types.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "Among them, bogs, marshes and swamps are the three main types.",
-      "published_asr": "Among them, bogs, marshes and swamps are the three main types.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p05.mp3",
+      "sha256": "assets/audio/segments/s44-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s44-p06",
       "text": "In bogs, only mosses and a few other kinds of plants can grow.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "In bogs only mosses and a few other kinds of plants can grow.",
-      "published_asr": "In bogs, only mosses and a few other kinds of plants can grow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p06.mp3",
+      "sha256": "assets/audio/segments/s44-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s44-p07",
       "text": "Grassy plants like cattails and reeds are the most common plants in a marsh.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Grassy plants like cattails and reeds are the most common plants in a marsh.",
-      "published_asr": "Grassy plants like cattails and reeds are the most common plants in a marsh.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p07.mp3",
+      "sha256": "assets/audio/segments/s44-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s44-p08",
       "text": "A swamp is a forest whose ground is underwater all or most of the time.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "A swamp is a forest, whose ground is underwater all or most of the time.",
-      "published_asr": "A swamp is a forest whose ground is underwater all or most of the time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p08.mp3",
+      "sha256": "assets/audio/segments/s44-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s44-p09",
       "text": "Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.",
-      "published_asr": "Unlike bogs or marshes, a swamp is full of trees and bushes, with some trees standing tall as a tower.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p09.mp3",
+      "sha256": "assets/audio/segments/s44-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s44-p10",
       "text": "A special kind of rose also grows here.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "A special kind of rose also grows here.",
-      "published_asr": "A special kind of rose also grows here.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p10.mp3",
+      "sha256": "assets/audio/segments/s44-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s44-p11",
       "text": "The swamp is worth a short tour, but you'd better not try without a guide.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "The swamp is worth a short tour, but you'd better not try without a guide.",
-      "published_asr": "The swamp is worth a short tour, but you'd better not try without a guide.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p11.mp3",
+      "sha256": "assets/audio/segments/s44-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s44-p12",
       "text": "There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.",
-      "published_asr": "There are hidden pools of water, thick mud, and sometimes big crocodiles looking for their next meal.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p12.mp3",
+      "sha256": "assets/audio/segments/s44-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s44-p13",
       "text": "Hungry crocodiles aren't the only animals that make the wetlands their home.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Hungry crocodiles aren't the only animals that make the wetlands their home.",
-      "published_asr": "Hungry crocodiles aren't the only animals that make the wetlands their home.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p13.mp3",
+      "sha256": "assets/audio/segments/s44-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s44-p14",
       "text": "Otters, turtles, frogs, snakes and many other animals do too.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "otters, turtles, frogs, snakes and many other animals do too.",
-      "published_asr": "otters, turtles, frogs, snakes, and many other animals do too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p14.mp3",
+      "sha256": "assets/audio/segments/s44-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s44-p15",
       "text": "The water is home to many kinds of fish and crabs.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "The water is home to many kinds of fish and crabs.",
-      "published_asr": "The water is home to many kinds of fish and crabs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p15.mp3",
+      "sha256": "assets/audio/segments/s44-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s44-p16",
       "text": "Birds, including ducks, geese and cranes, use wetlands seasonally during their long migrations.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "Birds, including ducks, geese and cranes, use wetlands seasonally during their long migrations.",
-      "published_asr": "Birds including ducks, geese and cranes use wetlands seasonally during their long migrations.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p16.mp3",
+      "sha256": "assets/audio/segments/s44-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s44-p17",
       "text": "Wetlands are important because they provide habitats for plants and animals.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Wetlands are important because they provide habitats for plants and animals.",
-      "published_asr": "Wetlands are important because they provide habitats for plants and animals.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p17.mp3",
+      "sha256": "assets/audio/segments/s44-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s44-p18",
       "text": "A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 11.962,
-      "raw_duration_seconds": 8.16,
-      "asr": "A wetland system can also protect shorelines, make polluted waters clean, prevent floods, and restore underground water supplies.",
-      "published_asr": "A wetland system can also protect shorelines, make polluted waters clean, prevent floods and restore underground water supplies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p18.mp3",
+      "sha256": "assets/audio/segments/s44-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s44-p19",
       "text": "It is important to let the wetlands perform their usual functions.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "It is important to let the wetlands perform their usual functions.",
-      "published_asr": "It is important to let the wetlands perform their usual functions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s44-p19.mp3",
+      "sha256": "assets/audio/segments/s44-p19.mp3"
     },
     {
-      "id": 20,
-      "text": "Therefore, many voluntary groups work to protect wetlands by providing different services, such as clean-up events and educating the public.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 12.197,
-      "raw_duration_seconds": 8.32,
-      "asr": "Therefore, many voluntary groups work to protect wetlands by providing different services, such as cleanup events and educating the public.",
-      "published_asr": "Therefore, many voluntary groups work to protect wetlands by providing different services such as cleanup events and educating the public.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s44-p20-01",
+      "text": "Therefore, many voluntary groups work to protect wetlands by providing different services,",
+      "audio": "assets/audio/segments/s44-p20-01.mp3",
+      "sha256": "assets/audio/segments/s44-p20-01.mp3"
+    },
+    {
+      "id": "s44-p20-02",
+      "text": "such as clean-up events and educating the public.",
+      "audio": "assets/audio/segments/s44-p20-02.mp3",
+      "sha256": "assets/audio/segments/s44-p20-02.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 150,
-    "word_accepted_count": 150,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

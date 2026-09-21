@@ -1,290 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s30-p01",
       "text": "Headphones are helpful.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 1.846,
-      "raw_duration_seconds": 1.28,
-      "asr": "Headphones are helpful.",
-      "published_asr": "Headphones are helpful.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p01.mp3",
+      "sha256": "assets/audio/segments/s30-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s30-p02",
       "text": "Many kids use them to listen to music or watch a cartoon.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.865,
-      "raw_duration_seconds": 4,
-      "asr": "Many kids use them to listen to music or watch a cartoon.",
-      "published_asr": "Many kids use them to listen to music or watch a cartoon.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p02.mp3",
+      "sha256": "assets/audio/segments/s30-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s30-p03",
       "text": "But headphones can be harmful too.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.732,
-      "raw_duration_seconds": 2.56,
-      "asr": "But headphones can be harmful too.",
-      "published_asr": "But headphones can be harmful too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p03.mp3",
+      "sha256": "assets/audio/segments/s30-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s30-p04",
       "text": "They can cause hearing loss if the volume is too loud.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.368,
-      "raw_duration_seconds": 3.68,
-      "asr": "They can cause hearing loss, if the volume is too loud.",
-      "published_asr": "They can cause hearing loss if the volume is too loud.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p04.mp3",
+      "sha256": "assets/audio/segments/s30-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s30-p05",
       "text": "Surveys show that one out of every ten kids in the US has some hearing loss.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Surveys show that one out of every 10 kids in the US has some hearing loss.",
-      "published_asr": "Surveys show that one out of every 10 kids in the US has some hearing loss.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p05.mp3",
+      "sha256": "assets/audio/segments/s30-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s30-p06",
       "text": "The cause is loud noise, like listening to a band at a noisy concert.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "The cause is loud noise, like listening to a band at a noisy concert.",
-      "published_asr": "The cause is loud noise, like listening to a band at a noisy concert.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p06.mp3",
+      "sha256": "assets/audio/segments/s30-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s30-p07",
       "text": "Do you know how we hear?",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "Do you know how we hear?",
-      "published_asr": "Do you know how we hear?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p07.mp3",
+      "sha256": "assets/audio/segments/s30-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s30-p08",
       "text": "There are cells inside the ears that can't be seen with our eyes.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "There are cells inside the ears that can't be seen with our eyes.",
-      "published_asr": "There are cells inside the ears that can't be seen with our eyes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p08.mp3",
+      "sha256": "assets/audio/segments/s30-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s30-p09",
       "text": "We call them hair cells, said Jackie Clark, a scientist studying noises and ears.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 8.907,
-      "raw_duration_seconds": 6.08,
-      "asr": "We call them hair cells,\" said Jackie Clark, a scientist studying noises and ears.",
-      "published_asr": "We call them hair cells,\" said Jackie Clark, a scientist studying noises and ears.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p09.mp3",
+      "sha256": "assets/audio/segments/s30-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s30-p10",
       "text": "Sound can make the hair cells move back and forward.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Sound can make the hair cells move back and forward.",
-      "published_asr": "Sound can make the hair cells move back and forward.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p10.mp3",
+      "sha256": "assets/audio/segments/s30-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s30-p11",
       "text": "Think of the wind in the leaves or a waving flag.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.678,
-      "raw_duration_seconds": 3.2,
-      "asr": "Think of the wind in the leaves or a waving flag.",
-      "published_asr": "Think of the wind in the leaves or a waving flag",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p11.mp3",
+      "sha256": "assets/audio/segments/s30-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s30-p12",
       "text": "Once the cells are damaged by loud noises, they don't grow back.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.878,
-      "raw_duration_seconds": 4,
-      "asr": "Once the cells are damaged by loud noises they don't grow back",
-      "published_asr": "Once the cells are damaged by loud noises, they don't grow back.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p12.mp3",
+      "sha256": "assets/audio/segments/s30-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s30-p13",
       "text": "Sometimes there's tinnitus.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "Sometimes there's tinnitus.",
-      "published_asr": "Sometimes there's tinnitus.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p13.mp3",
+      "sha256": "assets/audio/segments/s30-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s30-p14",
       "text": "It's like someone is playing a note on the flute for a long time.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.895,
-      "raw_duration_seconds": 3.36,
-      "asr": "It's like someone is playing a note on the flute for a long time.",
-      "published_asr": "It's like someone is playing a note on the flute for a long time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p14.mp3",
+      "sha256": "assets/audio/segments/s30-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s30-p15",
       "text": "It shows we're losing hearing and in the worst case, becoming deaf.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "It shows we're losing hearing, and in the worst case, becoming deaf.",
-      "published_asr": "It shows we're losing hearing and in the worst case, becoming deaf.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p15.mp3",
+      "sha256": "assets/audio/segments/s30-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s30-p16",
       "text": "It makes us feel uneasy or even suffer an earache.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.439,
-      "raw_duration_seconds": 3.04,
-      "asr": "It makes us feel uneasy or even suffer an earache.",
-      "published_asr": "It makes us feel uneasy or even suffer an earache.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p16.mp3",
+      "sha256": "assets/audio/segments/s30-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s30-p17",
       "text": "It's necessary to protect our ears so that we don't end up in hospital.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "It's necessary to protect our ears so that we don't end up in hospital.",
-      "published_asr": "It's necessary to protect our ears so that we don't end up in hospital.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p17.mp3",
+      "sha256": "assets/audio/segments/s30-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s30-p18",
       "text": "Let's follow some strict rules to protect our ears.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Let's follow some strict rules to protect our ears.",
-      "published_asr": "Let's follow some strict rules to protect our ears.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p18.mp3",
+      "sha256": "assets/audio/segments/s30-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s30-p19",
       "text": "Keep the volume low, and seldom use headphones for more than one hour at a time unless it's necessary.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 8.914,
-      "raw_duration_seconds": 6.08,
-      "asr": "Keep the volume low and seldom use headphones for more than one hour at a time unless it's necessary",
-      "published_asr": "Keep the volume low, and seldom use headphones for more than one hour at a time, unless it's necessary.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p19.mp3",
+      "sha256": "assets/audio/segments/s30-p19.mp3"
     },
     {
-      "id": 20,
-      "text": "Don't use headphones in noisy places like a railway station, because you will need to turn up the volume to hear clearly.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "Don't use headphones in noisy places like a railway station, because you will need to turn up the volume to hear clearly.",
-      "published_asr": "Don't use headphones in noisy places like a railway station because you will need to turn up the volume to hear clearly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s30-p20-01",
+      "text": "Don't use headphones in noisy places like a railway station,",
+      "audio": "assets/audio/segments/s30-p20-01.mp3",
+      "sha256": "assets/audio/segments/s30-p20-01.mp3"
     },
     {
-      "id": 21,
+      "id": "s30-p20-02",
+      "text": "because you will need to turn up the volume to hear clearly.",
+      "audio": "assets/audio/segments/s30-p20-02.mp3",
+      "sha256": "assets/audio/segments/s30-p20-02.mp3"
+    },
+    {
+      "id": "s30-p21",
       "text": "If I can hear what you're listening to when you're wearing your headphones, Ms Clark said, It's too loud.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 8.44,
-      "raw_duration_seconds": 5.76,
-      "asr": "If I can hear what you're listening to when you're wearing your headphones, Ms. Clark said, It's too loud.",
-      "published_asr": "If I can hear what you're listening to when you're wearing your headphones, Ms. Clark said, it's too loud.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p21.mp3",
+      "sha256": "assets/audio/segments/s30-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s30-p22",
       "text": "Although there are so many beautiful pieces of music, none should be listened to too loudly.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 7.743,
-      "raw_duration_seconds": 5.28,
-      "asr": "Although there are so many beautiful pieces of music, none should be listened to too loudly.",
-      "published_asr": "Although there are so many beautiful pieces of music, none should be listened to too loudly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s30-p22.mp3",
+      "sha256": "assets/audio/segments/s30-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 152,
-    "word_accepted_count": 152,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

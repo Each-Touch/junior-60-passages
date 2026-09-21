@@ -1,206 +1,110 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s18-p01",
       "text": "Many of us have learned that chatting with a friend, relative or classmate can improve our mood.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "Many of us have learned that chatting with a friend, relative or classmate can improve our mood.",
-      "published_asr": "Many of us have learned that chatting with a friend, relative or classmate can improve our mood.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p01.mp3",
+      "sha256": "assets/audio/segments/s18-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s18-p02",
       "text": "And failing to communicate with others can also affect the health of our minds and bodies.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "and failing to communicate with others can also affect the health of our minds and bodies.",
-      "published_asr": "and failing to communicate with others can also affect the health of our minds and bodies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p02.mp3",
+      "sha256": "assets/audio/segments/s18-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s18-p03",
       "text": "What's more, social connections are also part of being a good citizen.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "What's more, social connections are also part of being a good citizen.",
-      "published_asr": "What's more, social connections are also part of being a good citizen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p03.mp3",
+      "sha256": "assets/audio/segments/s18-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s18-p04",
       "text": "Now experts in the US have found that a good conversation just once a day could be enough to boost people's happiness and lower their stress levels.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 12.667,
-      "raw_duration_seconds": 8.64,
-      "asr": "Now experts in the US have found that a good conversation just once a day could be enough to boost people's happiness and lower their stress levels.",
-      "published_asr": "Now experts in the U.S. have found that a good conversation just once a day could be enough to boost people's happiness and lower their stress levels.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p04.mp3",
+      "sha256": "assets/audio/segments/s18-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s18-p05",
       "text": "The researchers looked at five types of conversation that past research has found to make people feel closer.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "The researchers looked at five types of conversation that past research has found to make people feel closer.",
-      "published_asr": "The researchers looked at five types of conversation that past research has found to make people feel closer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p05.mp3",
+      "sha256": "assets/audio/segments/s18-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "These included things like sharing humour, listening to others' personal opinions, discussing recent experiences, offering real praise and showing care for others.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 13.372,
-      "raw_duration_seconds": 9.12,
-      "asr": "These included things like sharing humor, listening to others' personal opinions, discussing recent experiences, offering real praise and showing care for others.",
-      "published_asr": "These included things like sharing humor, listening to others' personal opinions, discussing recent experiences, offering real praise and showing care for others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s18-p06-01",
+      "text": "These included things like sharing humour, listening to others' personal opinions, discussing recent experiences,",
+      "audio": "assets/audio/segments/s18-p06-01.mp3",
+      "sha256": "assets/audio/segments/s18-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s18-p06-02",
+      "text": "offering real praise and showing care for others.",
+      "audio": "assets/audio/segments/s18-p06-02.mp3",
+      "sha256": "assets/audio/segments/s18-p06-02.mp3"
+    },
+    {
+      "id": "s18-p07",
       "text": "The researchers asked over 900 people to have one of these five types of conversation each day.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "The researchers asked over 900 people to have one of these five types of conversation each day.",
-      "published_asr": "The researchers asked over 900 people to have one of these five types of conversation each day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p07.mp3",
+      "sha256": "assets/audio/segments/s18-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s18-p08",
       "text": "Then these people reported how their chats affected their feelings that day.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.324,
-      "raw_duration_seconds": 4.32,
-      "asr": "Then these people reported how their chats affected their feelings that day.",
-      "published_asr": "Then these people reported how their chats affected their feelings that day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p08.mp3",
+      "sha256": "assets/audio/segments/s18-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s18-p09",
       "text": "The study also looked into how conversations affect the need for medicine.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "The study also looked into how conversations affect the need for medicine.",
-      "published_asr": "The study also looked into how conversations affect the need for medicine.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p09.mp3",
+      "sha256": "assets/audio/segments/s18-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s18-p10",
       "text": "Researchers found that those who chose to have more conversations were in a better mood that day.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Researchers found that those who chose to have more conversations were in a better mood that day.",
-      "published_asr": "Researchers found that those who chose to have more conversations were in a better mood that day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p10.mp3",
+      "sha256": "assets/audio/segments/s18-p10.mp3"
     },
     {
-      "id": 11,
-      "text": "This means the more you listened to your friends and took time to value others' opinions, the better you felt at the end of the day, one of the researchers said.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 12.44,
-      "raw_duration_seconds": 8.48,
-      "asr": "This means the more you listened to your friends and took time to value others' opinions, the better you felt at the end of the day,\" one of the researchers said.",
-      "published_asr": "This means the more you listened to your friends and took time to value others' opinions, the better you felt at the end of the day, one of the researchers said.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s18-p11-01",
+      "text": "This means the more you listened to your friends and took time to value others' opinions,",
+      "audio": "assets/audio/segments/s18-p11-01.mp3",
+      "sha256": "assets/audio/segments/s18-p11-01.mp3"
     },
     {
-      "id": 12,
+      "id": "s18-p11-02",
+      "text": "the better you felt at the end of the day, one of the researchers said.",
+      "audio": "assets/audio/segments/s18-p11-02.mp3",
+      "sha256": "assets/audio/segments/s18-p11-02.mp3"
+    },
+    {
+      "id": "s18-p12",
       "text": "The researchers also said that setting a date to meet for a chat on a sofa was better for people's well-being than using other mediums like phone calls, text messages or social media.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 15.253,
-      "raw_duration_seconds": 10.4,
-      "asr": "The researchers also said that setting a date to meet for a chat on a sofa was better for people's well-being than using other mediums like phone calls, text messages or social media.",
-      "published_asr": "The researchers also said that setting a date to meet for a chat on a sofa was better for people's well-being than using other mediums like phone calls, text messages or social media.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p12.mp3",
+      "sha256": "assets/audio/segments/s18-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s18-p13",
       "text": "Lively conversations make our lives no longer boring.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Lively conversations make our lives no longer boring.",
-      "published_asr": "Lively conversations make our lives no longer boring.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p13.mp3",
+      "sha256": "assets/audio/segments/s18-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s18-p14",
       "text": "Even a bit of conversation can bring us pleasure and satisfy our need for connection.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "Even a bit of conversation can bring us pleasure and satisfy our need for connection.",
-      "published_asr": "Even a bit of conversation can bring us pleasure and satisfy our need for connection.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p14.mp3",
+      "sha256": "assets/audio/segments/s18-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s18-p15",
       "text": "I've already tried for myself and it felt just fine.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "I've already tried for myself and it felt just fine.",
-      "published_asr": "I've already tried for myself and it felt just fine.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s18-p15.mp3",
+      "sha256": "assets/audio/segments/s18-p15.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 15,
-    "raw_asr_exact_count": 15,
-    "published_asr_exact_count": 15,
-    "word_count": 151,
-    "word_accepted_count": 151,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,290 +1,158 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s49-p01",
       "text": "When cold weather comes, many birds move to the south.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.151,
-      "raw_duration_seconds": 3.52,
-      "asr": "When cold weather comes, many birds move to the south.",
-      "published_asr": "When cold weather comes, many birds move to the south.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p01.mp3",
+      "sha256": "assets/audio/segments/s49-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s49-p02",
       "text": "Many animals do not remain in one place.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Many animals do not remain in one place.",
-      "published_asr": "Many animals do not remain in one place.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p02.mp3",
+      "sha256": "assets/audio/segments/s49-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s49-p03",
       "text": "Moving is a normal part of their lives.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.967,
-      "raw_duration_seconds": 2.72,
-      "asr": "Moving is a normal part of their lives.",
-      "published_asr": "Moving is a normal part of their lives.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p03.mp3",
+      "sha256": "assets/audio/segments/s49-p03.mp3"
     },
     {
-      "id": 4,
-      "text": "Some move to find food more easily, but others move to get away from crowded places or to survive disasters like an earthquake.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "Some move to find food more easily, but others move to get away from crowded places or to survive disasters like an earthquake.",
-      "published_asr": "Some move to find food more easily, but others move to get away from crowded places or to survive disasters like an earthquake.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s49-p04-01",
+      "text": "Some move to find food more easily,",
+      "audio": "assets/audio/segments/s49-p04-01.mp3",
+      "sha256": "assets/audio/segments/s49-p04-01.mp3"
     },
     {
-      "id": 5,
+      "id": "s49-p04-02",
+      "text": "but others move to get away from crowded places or to survive disasters like an earthquake.",
+      "audio": "assets/audio/segments/s49-p04-02.mp3",
+      "sha256": "assets/audio/segments/s49-p04-02.mp3"
+    },
+    {
+      "id": "s49-p05",
       "text": "We can compare this action to people moving for better opportunities.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.849,
-      "raw_duration_seconds": 4,
-      "asr": "We can compare this action to people moving for better opportunities.",
-      "published_asr": "We can compare this action to people moving for better opportunities.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p05.mp3",
+      "sha256": "assets/audio/segments/s49-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s49-p06",
       "text": "Some fishes give birth in warm water and move to cold water to feed.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "Some fishes give birth in warm water and move to cold water to feed.",
-      "published_asr": "Some fishes give birth in warm water and move to cold water to feed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p06.mp3",
+      "sha256": "assets/audio/segments/s49-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s49-p07",
       "text": "The most famous migration is probably that of the fish called salmon.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "The most famous migration is probably that of the fish called salmon.",
-      "published_asr": "The most famous migration is probably that of the fish called salmon.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p07.mp3",
+      "sha256": "assets/audio/segments/s49-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s49-p08",
       "text": "This fish is usually grey, but turns red when it is ready to breed.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.325,
-      "raw_duration_seconds": 4.32,
-      "asr": "This fish is usually gray, but turns red when it is ready to breed.",
-      "published_asr": "This fish is usually gray, but turns red when it is ready to breed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p08.mp3",
+      "sha256": "assets/audio/segments/s49-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s49-p09",
       "text": "It is born in fresh water but travels miles to salt water.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "It is born in fresh water, but travels miles to salt water.",
-      "published_asr": "It is born in fresh water, but travels miles to salt water.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p09.mp3",
+      "sha256": "assets/audio/segments/s49-p09.mp3"
     },
     {
-      "id": 10,
-      "text": "They must fight against the strong force of the river and avoid being hunted by bears, because the law of nature allows only the strongest salmon to survive.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 12.902,
-      "raw_duration_seconds": 8.8,
-      "asr": "They must fight against the strong force of the river and avoid being hunted by bears, because the law of nature allows only the strongest salmon to survive.",
-      "published_asr": "They must fight against the strong force of the river and avoid being hunted by bears, because the law of nature allows only the strongest salmon to survive.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s49-p10-01",
+      "text": "They must fight against the strong force of the river and avoid being hunted by bears,",
+      "audio": "assets/audio/segments/s49-p10-01.mp3",
+      "sha256": "assets/audio/segments/s49-p10-01.mp3"
     },
     {
-      "id": 11,
+      "id": "s49-p10-02",
+      "text": "because the law of nature allows only the strongest salmon to survive.",
+      "audio": "assets/audio/segments/s49-p10-02.mp3",
+      "sha256": "assets/audio/segments/s49-p10-02.mp3"
+    },
+    {
+      "id": "s49-p11",
       "text": "When it is old, it returns to its birthplace in fresh water.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.849,
-      "raw_duration_seconds": 4,
-      "asr": "When it is old, it returns to its birthplace in fresh water.",
-      "published_asr": "When it is old, it returns to its birthplace in fresh water.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p11.mp3",
+      "sha256": "assets/audio/segments/s49-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s49-p12",
       "text": "Then it gives birth and dies.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Then it gives birth and dies.",
-      "published_asr": "Then it gives birth and dies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p12.mp3",
+      "sha256": "assets/audio/segments/s49-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s49-p13",
       "text": "In the north of Europe, there is a kind of mouse.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "In the north of Europe, there is a kind of mouse.",
-      "published_asr": "In the north of Europe, there is a kind of mouse.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p13.mp3",
+      "sha256": "assets/audio/segments/s49-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s49-p14",
       "text": "They usually look pale, but when their homes become crowded, their colour gets brighter.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "They usually look pale, but when their homes become crowded, their color gets brighter.",
-      "published_asr": "They usually look pale, but when their homes become crowded, their color gets brighter.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p14.mp3",
+      "sha256": "assets/audio/segments/s49-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s49-p15",
       "text": "They have a crazy way of moving.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "They have a crazy way of moving.",
-      "published_asr": "They have a crazy way of moving.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p15.mp3",
+      "sha256": "assets/audio/segments/s49-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s49-p16",
       "text": "Sometimes they move all the way to the seaside, forming large groups like an army.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.26,
-      "raw_duration_seconds": 4.96,
-      "asr": "Sometimes they move all the way to the seaside, forming large groups like an army.",
-      "published_asr": "Sometimes they move all the way to the seaside, forming large groups like an army.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p16.mp3",
+      "sha256": "assets/audio/segments/s49-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s49-p17",
       "text": "Many of them are killed when they fall into the sea.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 3.729,
-      "raw_duration_seconds": 2.56,
-      "asr": "Many of them are killed when they fall into the sea.",
-      "published_asr": "Many of them are killed when they fall into the sea.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p17.mp3",
+      "sha256": "assets/audio/segments/s49-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s49-p18",
       "text": "Recently, scientists have studied a special kind of lobsters.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 6.096,
-      "raw_duration_seconds": 4.16,
-      "asr": "Recently, scientists have studied a special kind of lobsters.",
-      "published_asr": "Recently, scientists have studied a special kind of lobsters.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p18.mp3",
+      "sha256": "assets/audio/segments/s49-p18.mp3"
     },
     {
-      "id": 19,
-      "text": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 13.607,
-      "raw_duration_seconds": 9.28,
-      "asr": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
-      "published_asr": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s49-p19-01",
+      "text": "Every year, when the season of bad weather arrives,",
+      "audio": "assets/audio/segments/s49-p19-01.mp3",
+      "sha256": "assets/audio/segments/s49-p19-01.mp3"
     },
     {
-      "id": 20,
+      "id": "s49-p19-02",
+      "text": "the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "audio": "assets/audio/segments/s49-p19-02.mp3",
+      "sha256": "assets/audio/segments/s49-p19-02.mp3"
+    },
+    {
+      "id": "s49-p20",
       "text": "Nobody knows where they go.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "Nobody knows where they go.",
-      "published_asr": "Nobody knows where they go.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p20.mp3",
+      "sha256": "assets/audio/segments/s49-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s49-p21",
       "text": "The reason why animals move may vary.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "The reason why animals move may vary.",
-      "published_asr": "The reason why animals move may vary.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p21.mp3",
+      "sha256": "assets/audio/segments/s49-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s49-p22",
       "text": "Maybe living things just like to travel.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 3.75,
-      "raw_duration_seconds": 2.56,
-      "asr": "Maybe living things just like to travel.",
-      "published_asr": "Maybe living things just like to travel.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s49-p22.mp3",
+      "sha256": "assets/audio/segments/s49-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 164,
-    "word_accepted_count": 164,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

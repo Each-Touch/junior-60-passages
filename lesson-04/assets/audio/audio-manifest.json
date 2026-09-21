@@ -1,242 +1,122 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s04-p01",
       "text": "At an early age, we start learning how to manage money by watching our parents' spending habits.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.968,
-      "raw_duration_seconds": 5.44,
-      "asr": "At an early age, we start learning how to manage money by watching our parents spending habits.",
-      "published_asr": "At an early age, we start learning how to manage money by watching our parents spending habits.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p01.mp3",
+      "sha256": "assets/audio/segments/s04-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s04-p02",
       "text": "We need to know that our parents work hard to make money and that it may be used up one day.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "We need to know that our parents work hard to make money and that it may be used up one day.",
-      "published_asr": "We need to know that our parents work hard to make money and that it may be used up one day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p02.mp3",
+      "sha256": "assets/audio/segments/s04-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s04-p03",
       "text": "Going to their workplaces to watch how they work is a great way to understand money is not that easy to make.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 8.447,
-      "raw_duration_seconds": 5.76,
-      "asr": "Going to their workplaces to watch how they work is a great way to understand money is not that easy to make.",
-      "published_asr": "Going to their workplaces to watch how they work is a great way to understand money is not that easy to make.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p03.mp3",
+      "sha256": "assets/audio/segments/s04-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s04-p04",
       "text": "We should not spend all our money in one go.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "We should not spend all our money in one go.",
-      "published_asr": "We should not spend all our money in one go",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p04.mp3",
+      "sha256": "assets/audio/segments/s04-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s04-p05",
       "text": "It's important for us to have a budget.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "It's important for us to have a budget.",
-      "published_asr": "It's important for us to have a budget.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p05.mp3",
+      "sha256": "assets/audio/segments/s04-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "We need to think about how much money we have for the monthly bills and what we really want to spend money on, realising that our pocket money can't cover everything we want.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 14.092,
-      "raw_duration_seconds": 9.6,
-      "asr": "We need to think about how much money we have for the monthly bills and what we really want to spend money on. Realizing that our pocket money can't cover everything we want.",
-      "published_asr": "We need to think about how much money we have for the monthly bills and what we really want to spend money on. Realizing that our pocket money can't cover everything we want.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s04-p06-01",
+      "text": "We need to think about how much money we have for the monthly bills and what we really want to spend money on,",
+      "audio": "assets/audio/segments/s04-p06-01.mp3",
+      "sha256": "assets/audio/segments/s04-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s04-p06-02",
+      "text": "realising that our pocket money can't cover everything we want.",
+      "audio": "assets/audio/segments/s04-p06-02.mp3",
+      "sha256": "assets/audio/segments/s04-p06-02.mp3"
+    },
+    {
+      "id": "s04-p07",
       "text": "We should make smart spending choices.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "We should make smart spending choices.",
-      "published_asr": "We should make smart spending choices.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p07.mp3",
+      "sha256": "assets/audio/segments/s04-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s04-p08",
       "text": "We should set a clear goal and watch our money grow.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.426,
-      "raw_duration_seconds": 3.04,
-      "asr": "We should set a clear goal and watch our money grow.",
-      "published_asr": "We should set a clear goal and watch our money grow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p08.mp3",
+      "sha256": "assets/audio/segments/s04-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s04-p09",
       "text": "If we wish to own a new bicycle but can't afford it, we can save our pocket money.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 7.034,
-      "raw_duration_seconds": 4.8,
-      "asr": "If we wish to own a new bicycle but can't afford it, we can save our pocket money.",
-      "published_asr": "If we wish to own a new bicycle but can't afford it, we can save our pocket money.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p09.mp3",
+      "sha256": "assets/audio/segments/s04-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s04-p10",
       "text": "How?",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 1.376,
-      "raw_duration_seconds": 0.96,
-      "asr": "How?",
-      "published_asr": "How?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p10.mp3",
+      "sha256": "assets/audio/segments/s04-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s04-p11",
       "text": "Write down how much money we have in a notebook and watch it grow.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Write down how much money we have in a notebook and watch it grow",
-      "published_asr": "Write down how much money we have in a notebook and watch it grow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p11.mp3",
+      "sha256": "assets/audio/segments/s04-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s04-p12",
       "text": "After we have enough, we can buy that wonderful bicycle we've dreamed about.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "After we have enough, we can buy that wonderful bicycle we've dreamed about.",
-      "published_asr": "After we have enough, we can buy that wonderful bicycle we've dreamed about.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p12.mp3",
+      "sha256": "assets/audio/segments/s04-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s04-p13",
       "text": "Reaching our goal will greatly satiate us.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Reaching our goal will greatly satiate us.",
-      "published_asr": "Reaching our goal will greatly satiate us.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p13.mp3",
+      "sha256": "assets/audio/segments/s04-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s04-p14",
       "text": "We can talk with our parents about how money is used and where money goes.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "We can talk with our parents about how money is used and where money goes.",
-      "published_asr": "We can talk with our parents about how money is used and where money goes",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p14.mp3",
+      "sha256": "assets/audio/segments/s04-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s04-p15",
       "text": "We can also go to the supermarket with our parents to experience how money is spent in the real world.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 8.915,
-      "raw_duration_seconds": 6.08,
-      "asr": "We can also go to the supermarket with our parents to experience how money is spent in the real world.",
-      "published_asr": "We can also go to the supermarket with our parents to experience how money is spent in the real world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p15.mp3",
+      "sha256": "assets/audio/segments/s04-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s04-p16",
       "text": "Without doubt, we should treat money in a right way.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.132,
-      "raw_duration_seconds": 3.52,
-      "asr": "Without doubt, we should treat money in a right way.",
-      "published_asr": "Without doubt, we should treat money in a right way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p16.mp3",
+      "sha256": "assets/audio/segments/s04-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s04-p17",
       "text": "Actually, learning about money isn't a hard job.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Actually, learning about money isn't a hard job.",
-      "published_asr": "Actually, learning about money isn't a hard job.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p17.mp3",
+      "sha256": "assets/audio/segments/s04-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s04-p18",
       "text": "From these lessons, we can get a sense of money management and right money values step by step.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "From these lessons, we can get a sense of money management and write money values step by step.",
-      "published_asr": "From these lessons, we can get a sense of money management and write money values step by step.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s04-p18.mp3",
+      "sha256": "assets/audio/segments/s04-p18.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 18,
-    "raw_asr_exact_count": 18,
-    "published_asr_exact_count": 18,
-    "word_count": 123,
-    "word_accepted_count": 123,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

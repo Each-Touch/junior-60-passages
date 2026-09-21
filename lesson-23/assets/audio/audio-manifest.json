@@ -1,302 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s23-p01",
       "text": "About 80% of people do not get enough Vitamin D every day.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.39,
-      "raw_duration_seconds": 3.68,
-      "asr": "About 80% of people do not get enough vitamin D every day.",
-      "published_asr": "About 80% of people do not get enough vitamin D every day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p01.mp3",
+      "sha256": "assets/audio/segments/s23-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s23-p02",
       "text": "But this vitamin is very important for your health.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "But this vitamin is very important for your health.",
-      "published_asr": "But this vitamin is very important for your health",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p02.mp3",
+      "sha256": "assets/audio/segments/s23-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s23-p03",
       "text": "Vitamin D is really important for our bones.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Vitamin D is really important for our bones.",
-      "published_asr": "Vitamin D is really important for our bones.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p03.mp3",
+      "sha256": "assets/audio/segments/s23-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s23-p04",
       "text": "When we are young, vitamin D builds up our bones and makes them strong.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "When we are young, vitamin D builds up our bones and makes them strong.",
-      "published_asr": "When we are young vitamin D builds up our bones and makes them strong",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p04.mp3",
+      "sha256": "assets/audio/segments/s23-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s23-p05",
       "text": "When we are older, we still need vitamin D to keep our bones strong.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "When we are older, we still need vitamin D to keep our bones strong.",
-      "published_asr": "When we are older, we still need vitamin D to keep our bones strong.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p05.mp3",
+      "sha256": "assets/audio/segments/s23-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s23-p06",
       "text": "Our bodies keep the vitamin D in our bones and teeth.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.685,
-      "raw_duration_seconds": 3.2,
-      "asr": "Our bodies keep the vitamin D in our bones and teeth.",
-      "published_asr": "Our bodies keep the vitamin D in our bones and teeth.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p06.mp3",
+      "sha256": "assets/audio/segments/s23-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s23-p07",
       "text": "Then we lose vitamin D as we work and exercise during the day.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Then we lose vitamin D, as we work and exercise during the day.",
-      "published_asr": "Then we lose vitamin D as we work and exercise during the day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p07.mp3",
+      "sha256": "assets/audio/segments/s23-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s23-p08",
       "text": "But our bodies can't make vitamin D.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "But our bodies can't make vitamin D.",
-      "published_asr": "But our bodies can't make vitamin D",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p08.mp3",
+      "sha256": "assets/audio/segments/s23-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s23-p09",
       "text": "So we have to get it from outside of our bodies.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.434,
-      "raw_duration_seconds": 3.04,
-      "asr": "So we have to get it from outside of our bodies.",
-      "published_asr": "So we have to get it from outside of our bodies",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p09.mp3",
+      "sha256": "assets/audio/segments/s23-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s23-p10",
       "text": "Where can we get this very important vitamin?",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Where can we get this very important vitamin?",
-      "published_asr": "Where can we get this very important vitamin?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p10.mp3",
+      "sha256": "assets/audio/segments/s23-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s23-p11",
       "text": "Vitamin D is in foods like fish, eggs, cabbages and meat such as beef and pork.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 8.437,
-      "raw_duration_seconds": 5.76,
-      "asr": "Vitamin D is in foods like fish, eggs, cabbages and meat such as beef and pork.",
-      "published_asr": "Vitamin D is in foods like fish, eggs, cabbages and meat such as beef and pork.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p11.mp3",
+      "sha256": "assets/audio/segments/s23-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s23-p12",
       "text": "Sometimes, vitamin D is added to bread and orange juice.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.614,
-      "raw_duration_seconds": 3.84,
-      "asr": "Sometimes, vitamin D is added to bread and orange juice.",
-      "published_asr": "Sometimes vitamin D is added to bread and orange juice.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p12.mp3",
+      "sha256": "assets/audio/segments/s23-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s23-p13",
       "text": "Dairy products like milk, butter and yogurt provide vitamin D as well.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Dairy products like milk, butter and yogurt provide vitamin D as well.",
-      "published_asr": "Dairy products like milk, butter and yogurt provide vitamin D as well.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p13.mp3",
+      "sha256": "assets/audio/segments/s23-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s23-p14",
       "text": "We should be sure to eat such foods that are rich in vitamin D when choosing from a menu.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.266,
-      "raw_duration_seconds": 4.96,
-      "asr": "We should be sure to eat such foods that are rich in vitamin D when choosing from a menu.",
-      "published_asr": "We should be sure to eat such foods that are rich in vitamin D when choosing from a menu.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p14.mp3",
+      "sha256": "assets/audio/segments/s23-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s23-p15",
       "text": "Food is not the only way our bodies can get vitamin D.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Food is not the only way our bodies can get vitamin D.",
-      "published_asr": "Food is not the only way our bodies can get vitamin D.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p15.mp3",
+      "sha256": "assets/audio/segments/s23-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s23-p16",
       "text": "The sun also gives us vitamin D.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "The sun also gives us vitamin D.",
-      "published_asr": "The sun also gives us vitamin D.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p16.mp3",
+      "sha256": "assets/audio/segments/s23-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s23-p17",
       "text": "Too much sun is not good for you.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Too much sun is not good for you.",
-      "published_asr": "Too much sun is not good for you.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p17.mp3",
+      "sha256": "assets/audio/segments/s23-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s23-p18",
       "text": "But about 15 minutes a day is usually enough.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "But about 15 minutes a day is usually enough.",
-      "published_asr": "But about 15 minutes a day is usually enough.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p18.mp3",
+      "sha256": "assets/audio/segments/s23-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s23-p19",
       "text": "Living in a flat might limit your sun exposure.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Living in a flat might limit your sun exposure.",
-      "published_asr": "Living in a flat might limit your sun exposure.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p19.mp3",
+      "sha256": "assets/audio/segments/s23-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s23-p20",
       "text": "So consider using your passport to visit sunny places.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "So consider using your passport to visit sunny places.",
-      "published_asr": "So consider using your passport to visit sunny places.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p20.mp3",
+      "sha256": "assets/audio/segments/s23-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s23-p21",
       "text": "Some people may need to take vitamin D pills.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Some people may need to take vitamin D pills.",
-      "published_asr": "Some people may need to take vitamin D pills.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p21.mp3",
+      "sha256": "assets/audio/segments/s23-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s23-p22",
       "text": "You can conveniently get them at a local mall.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "You can conveniently get them at a local mall.",
-      "published_asr": "You can conveniently get them at a local mall.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p22.mp3",
+      "sha256": "assets/audio/segments/s23-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s23-p23",
       "text": "But it is important to consult a doctor if you think you aren't getting enough vitamin D.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "But it is important to consult a doctor, if you think you aren't getting enough vitamin D.",
-      "published_asr": "But it is important to consult a doctor if you think you aren't getting enough vitamin D.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s23-p23.mp3",
+      "sha256": "assets/audio/segments/s23-p23.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 23,
-    "raw_asr_exact_count": 23,
-    "published_asr_exact_count": 23,
-    "word_count": 124,
-    "word_accepted_count": 124,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

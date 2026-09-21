@@ -1,242 +1,122 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s02-p01",
       "text": "One day, I picked up my daughter Lingling from school and went to the supermarket for a few things.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "One day, I picked up my daughter Lingling from school and went to the supermarket for a few things.",
-      "published_asr": "One day, I picked up my daughter Lingling from school and went to the supermarket for a few things.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p01.mp3",
+      "sha256": "assets/audio/segments/s02-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s02-p02",
       "text": "I was hoping to be in and out quickly.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "I was hoping to be in and out quickly.",
-      "published_asr": "I was hoping to be in and out quickly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p02.mp3",
+      "sha256": "assets/audio/segments/s02-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s02-p03",
       "text": "I found a short line with just one person in front of me.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.449,
-      "raw_duration_seconds": 3.04,
-      "asr": "I found a short line with just one person in front of me.",
-      "published_asr": "I found a short line with just one person in front of me.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p03.mp3",
+      "sha256": "assets/audio/segments/s02-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s02-p04",
       "text": "It was an old woman, and she was paying for her things with only coins.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "It was an old woman, and she was paying for her things with only coins.",
-      "published_asr": "It was an old woman, and she was paying for her things with only coins.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p04.mp3",
+      "sha256": "assets/audio/segments/s02-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s02-p05",
       "text": "After a long day at work, I thought the woman was very terrible.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "After a long day at work, I thought the woman was very terrible.",
-      "published_asr": "After a long day at work, I thought the woman was very terrible.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p05.mp3",
+      "sha256": "assets/audio/segments/s02-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s02-p06",
       "text": "But then I saw a young salesman.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "But then I saw a young salesman.",
-      "published_asr": "But then I saw a young salesman.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p06.mp3",
+      "sha256": "assets/audio/segments/s02-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s02-p07",
       "text": "He helped her count her coins, ever so kindly taking them from her shaking hands.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "He helped her count her coins, ever so kindly taking them from her shaking hands.",
-      "published_asr": "He helped her count her coins, ever so kindly taking them from her shaking hands.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p07.mp3",
+      "sha256": "assets/audio/segments/s02-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s02-p08",
       "text": "He repeatedly said and nodded: \"Yes, ma'am.\"",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "He repeatedly said and nodded, Yes ma'am.",
-      "published_asr": "He repeatedly said and nodded yes ma'am",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p08.mp3",
+      "sha256": "assets/audio/segments/s02-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s02-p09",
       "text": "When she asked if she had enough money to buy a bag, he told her she did.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "When she asked if she had enough money to buy a bag, he told her she did.",
-      "published_asr": "When she asked if she had enough money to buy a bag, he told her she did.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p09.mp3",
+      "sha256": "assets/audio/segments/s02-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s02-p10",
       "text": "Then he walked over two lines and got one for her.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.453,
-      "raw_duration_seconds": 3.04,
-      "asr": "Then he walked over two lines and got one for her.",
-      "published_asr": "Then he walked over two lines and got one for her.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p10.mp3",
+      "sha256": "assets/audio/segments/s02-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s02-p11",
       "text": "This salesman wasn't angry at all.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.674,
-      "raw_duration_seconds": 3.2,
-      "asr": "This salesman wasn't angry at all",
-      "published_asr": "This salesman wasn't angry at all.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p11.mp3",
+      "sha256": "assets/audio/segments/s02-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s02-p12",
       "text": "He was patient and kind.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.027,
-      "raw_duration_seconds": 2.08,
-      "asr": "He was patient and kind.",
-      "published_asr": "He was patient and kind",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p12.mp3",
+      "sha256": "assets/audio/segments/s02-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s02-p13",
       "text": "As I was watching him, I saw Lingling was too.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "As I was watching him, I saw Ling Ling was too.",
-      "published_asr": "As I was watching him, I saw Ling Ling was too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p13.mp3",
+      "sha256": "assets/audio/segments/s02-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s02-p14",
       "text": "I realised my daughter was learning an important lesson from a stranger.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.838,
-      "raw_duration_seconds": 4,
-      "asr": "I realized my daughter was learning an important lesson from a stranger.",
-      "published_asr": "I realized my daughter was learning an important lesson from a stranger.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p14.mp3",
+      "sha256": "assets/audio/segments/s02-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s02-p15",
       "text": "When the woman was finished, the salesman began ringing up my things and thanked me for my patience.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 8.205,
-      "raw_duration_seconds": 5.6,
-      "asr": "When the woman was finished, the salesman began ringing up my things and thanked me for my patience.",
-      "published_asr": "When the woman was finished, the salesman began ringing up my things and thanked me for my patience.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p15.mp3",
+      "sha256": "assets/audio/segments/s02-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s02-p16",
       "text": "I thanked him too.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 2.095,
-      "raw_duration_seconds": 1.44,
-      "asr": "I thanked him too.",
-      "published_asr": "I thanked him too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p16.mp3",
+      "sha256": "assets/audio/segments/s02-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s02-p17",
       "text": "I found the manager and told him about the salesman's kindness and patience.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "I found the manager and told him about the salesman's kindness and patience.",
-      "published_asr": "I found the manager and told him about the salesman's kindness and patience.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s02-p17.mp3",
+      "sha256": "assets/audio/segments/s02-p17.mp3"
     },
     {
-      "id": 18,
-      "text": "Then we left the supermarket with a full basket, but also with a heart full of thankfulness for such an important lesson.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "Then we left the supermarket with a full basket, but also with a heart full of thankfulness for such an important lesson.",
-      "published_asr": "Then we left the supermarket with a full basket, but also with a heart full of thankfulness for such an important lesson.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s02-p18-01",
+      "text": "Then we left the supermarket with a full basket,",
+      "audio": "assets/audio/segments/s02-p18-01.mp3",
+      "sha256": "assets/audio/segments/s02-p18-01.mp3"
+    },
+    {
+      "id": "s02-p18-02",
+      "text": "but also with a heart full of thankfulness for such an important lesson.",
+      "audio": "assets/audio/segments/s02-p18-02.mp3",
+      "sha256": "assets/audio/segments/s02-p18-02.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 18,
-    "raw_asr_exact_count": 18,
-    "published_asr_exact_count": 18,
-    "word_count": 117,
-    "word_accepted_count": 117,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

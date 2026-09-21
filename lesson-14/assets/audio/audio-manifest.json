@@ -1,314 +1,152 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s14-p01",
       "text": "Children are known for wanting answers to many questions, because curiosity is part of human nature.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "Children are known for wanting answers to many questions because curiosity is part of human nature.",
-      "published_asr": "Children are known for wanting answers to many questions because curiosity is part of human nature.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p01.mp3",
+      "sha256": "assets/audio/segments/s14-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s14-p02",
       "text": "They wonder why air cannot be seen.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "They wonder why air cannot be seen.",
-      "published_asr": "They wonder why air cannot be seen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p02.mp3",
+      "sha256": "assets/audio/segments/s14-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s14-p03",
       "text": "They ask why tape can hold different things together.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "They ask why tape can hold different things together.",
-      "published_asr": "They ask why tape can hold different things together.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p03.mp3",
+      "sha256": "assets/audio/segments/s14-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s14-p04",
       "text": "Books and TV shows, including cartoons, often depend on curiosity.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Books and TV shows, including cartoons, often depend on curiosity.",
-      "published_asr": "Books and TV shows, including cartoons, often depend on curiosity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p04.mp3",
+      "sha256": "assets/audio/segments/s14-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s14-p05",
       "text": "People keep reading or watching because they want to find out what happens.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.379,
-      "raw_duration_seconds": 3.68,
-      "asr": "People keep reading or watching because they want to find out what happens.",
-      "published_asr": "People keep reading or watching because they want to find out what happens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p05.mp3",
+      "sha256": "assets/audio/segments/s14-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s14-p06",
       "text": "Curiosity provides many advantages.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Curiosity provides many advantages.",
-      "published_asr": "Curiosity provides many advantages.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p06.mp3",
+      "sha256": "assets/audio/segments/s14-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s14-p07",
       "text": "If you develop the curiosity of learning, classes will become more interesting.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.26,
-      "raw_duration_seconds": 4.96,
-      "asr": "If you develop the curiosity of learning, classes will become more interesting.",
-      "published_asr": "If you develop the curiosity of learning, classes will become more interesting.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p07.mp3",
+      "sha256": "assets/audio/segments/s14-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s14-p08",
       "text": "You will be good at them because you enjoy the process of learning.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.148,
-      "raw_duration_seconds": 3.52,
-      "asr": "You will be good at them because you enjoy the process of learning.",
-      "published_asr": "You will be good at them because you enjoy the process of learning.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p08.mp3",
+      "sha256": "assets/audio/segments/s14-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s14-p09",
       "text": "Even if you're no longer a student, curiosity will make you an able worker.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.334,
-      "raw_duration_seconds": 4.32,
-      "asr": "Even if you're no longer a student, curiosity will make you an able worker.",
-      "published_asr": "Even if you're no longer a student, curiosity will make you an able worker.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p09.mp3",
+      "sha256": "assets/audio/segments/s14-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s14-p10",
       "text": "What will you do if you're not yet curious?",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.743,
-      "raw_duration_seconds": 2.56,
-      "asr": "What will you do if you're not yet curious?",
-      "published_asr": "What will you do if you're not yet curious?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p10.mp3",
+      "sha256": "assets/audio/segments/s14-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s14-p11",
       "text": "Luckily, curiosity is a skill that can be improved.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Luckily, curiosity is a skill that can be improved.",
-      "published_asr": "Luckily, curiosity is a skill that can be improved.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p11.mp3",
+      "sha256": "assets/audio/segments/s14-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s14-p12",
       "text": "Often, the more you learn about a topic, the more interesting it becomes.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.084,
-      "raw_duration_seconds": 4.16,
-      "asr": "Often, the more you learn about a topic, the more interesting it becomes.",
-      "published_asr": "Often, the more you learn about a topic, the more interesting it becomes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p12.mp3",
+      "sha256": "assets/audio/segments/s14-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s14-p13",
       "text": "To improve your curiosity, get information from as many sources as possible when you learn about a topic.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "To improve your curiosity, get information from as many sources as possible when you learn about a topic.",
-      "published_asr": "To improve your curiosity, get information from as many sources as possible when you learn about a topic.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p13.mp3",
+      "sha256": "assets/audio/segments/s14-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s14-p14",
       "text": "At the same time, read all kinds of books, watch or listen to speeches, and ask questions.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 8.678,
-      "raw_duration_seconds": 5.92,
-      "asr": "At the same time, read all kinds of books, watch or listen to speeches, and ask questions.",
-      "published_asr": "At the same time, read all kinds of books, watch or listen to speeches, and ask questions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p14.mp3",
+      "sha256": "assets/audio/segments/s14-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s14-p15",
       "text": "Don't always get information in the same way.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Don't always get information in the same way.",
-      "published_asr": "Don't always get information in the same way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p15.mp3",
+      "sha256": "assets/audio/segments/s14-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s14-p16",
       "text": "Instead, learn to understand the facts that different people know.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Instead, learn to understand the facts that different people know.",
-      "published_asr": "Instead, learn to understand the facts that different people know.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p16.mp3",
+      "sha256": "assets/audio/segments/s14-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s14-p17",
       "text": "Don't assume you already know everything.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 3.728,
-      "raw_duration_seconds": 2.56,
-      "asr": "Don't assume you already know everything.",
-      "published_asr": "Don't assume you already know everything.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p17.mp3",
+      "sha256": "assets/audio/segments/s14-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s14-p18",
       "text": "Instead, search for other possibilities and opinions.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Instead, search for other possibilities and opinions.",
-      "published_asr": "Instead, search for other possibilities and opinions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p18.mp3",
+      "sha256": "assets/audio/segments/s14-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s14-p19",
       "text": "Learning to paint can promote your creativity.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Learning to paint can promote your creativity.",
-      "published_asr": "Learning to paint can promote your creativity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p19.mp3",
+      "sha256": "assets/audio/segments/s14-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s14-p20",
       "text": "Walking around your hometown or playing basketball at the playground on the weekend provides opportunities to ask and answer questions.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 11.275,
-      "raw_duration_seconds": 7.68,
-      "asr": "Walking around your hometown or playing basketball at the playground on the weekend provides opportunities to ask and answer questions.",
-      "published_asr": "Walking around your hometown or playing basketball at the playground on the weekend provides opportunities to ask and answer questions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p20.mp3",
+      "sha256": "assets/audio/segments/s14-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s14-p21",
       "text": "Listening to an opera or visiting the market allows you to explore.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "Listening to an opera or visiting the market allows you to explore.",
-      "published_asr": "Listening to an opera or visiting the market allows you to explore.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p21.mp3",
+      "sha256": "assets/audio/segments/s14-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s14-p22",
       "text": "And even a great ad on TV can inspire you.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 4.668,
-      "raw_duration_seconds": 3.2,
-      "asr": "And even a great ad on TV can inspire you.",
-      "published_asr": "And even a great ad on TV can inspire you.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p22.mp3",
+      "sha256": "assets/audio/segments/s14-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s14-p23",
       "text": "All these let you learn something, and other people are often happy to share their knowledge.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "All these let you learn something, and other people are often happy to share their knowledge.",
-      "published_asr": "All these let you learn something, and other people are often happy to share their knowledge.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p23.mp3",
+      "sha256": "assets/audio/segments/s14-p23.mp3"
     },
     {
-      "id": 24,
+      "id": "s14-p24",
       "text": "Let's try to become people who are full of curiosity.",
-      "file": "assets/audio/sentences/sentence-24.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Let's try to become people who are full of curiosity.",
-      "published_asr": "Let's try to become people who are full of curiosity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s14-p24.mp3",
+      "sha256": "assets/audio/segments/s14-p24.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 24,
-    "raw_asr_exact_count": 24,
-    "published_asr_exact_count": 24,
-    "word_count": 153,
-    "word_accepted_count": 153,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

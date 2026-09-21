@@ -1,290 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s39-p01",
       "text": "As a country powerful in maths, China has many creative folk games full of maths wisdom.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "As a country powerful in maths, China has many creative folk games full of maths wisdom.",
-      "published_asr": "As a country powerful in maths, China has many creative folk games full of maths wisdom.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p01.mp3",
+      "sha256": "assets/audio/segments/s39-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s39-p02",
       "text": "You may play them during a sunny afternoon or on a vacation abroad.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "You may play them during a sunny afternoon or on a vacation abroad.",
-      "published_asr": "You may play them during a sunny afternoon or on a vacation abroad.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p02.mp3",
+      "sha256": "assets/audio/segments/s39-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s39-p03",
       "text": "Let's take a look at three of them.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Let's take a look at three of them.",
-      "published_asr": "Let's take a look at three of them.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p03.mp3",
+      "sha256": "assets/audio/segments/s39-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s39-p04",
       "text": "Chinese Nine Linked Rings Puzzle",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Chinese 9 linked rings puzzle",
-      "published_asr": "Chinese 9 linked rings puzzle",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p04.mp3",
+      "sha256": "assets/audio/segments/s39-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s39-p05",
       "text": "It's believed that the Nine Linked Rings puzzle was created in the Western Han Dynasty and may have been played even by the emperor himself.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 12.432,
-      "raw_duration_seconds": 8.48,
-      "asr": "It's believed that the nine-linked rings puzzle was created in the western Han dynasty, and may have been played even by the emperor himself.",
-      "published_asr": "It's believed that the Nine-Linked Ring's puzzle was created in the Western Han dynasty and may have been played even by the Emperor himself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p05.mp3",
+      "sha256": "assets/audio/segments/s39-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s39-p06",
       "text": "It is usually made up of nine rings connected to a handle.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It is usually made up of 9 rings connected to a handle.",
-      "published_asr": "It is usually made up of 9 rings connected to a handle.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p06.mp3",
+      "sha256": "assets/audio/segments/s39-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s39-p07",
       "text": "Players have to remove all the rings from the handle to win the game.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Players have to remove all the rings from the handle to win the game.",
-      "published_asr": "Players have to remove all the rings from the handle to win the game.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p07.mp3",
+      "sha256": "assets/audio/segments/s39-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s39-p08",
       "text": "This is not a simple game.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "This is not a simple game.",
-      "published_asr": "This is not a simple game.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p08.mp3",
+      "sha256": "assets/audio/segments/s39-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s39-p09",
       "text": "The solution takes 341 moves.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.674,
-      "raw_duration_seconds": 3.2,
-      "asr": "The solution takes 341 moves.",
-      "published_asr": "The solution takes 341 moves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p09.mp3",
+      "sha256": "assets/audio/segments/s39-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s39-p10",
       "text": "So lots of effort is required.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "So lots of effort is required.",
-      "published_asr": "So lots of effort is required.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p10.mp3",
+      "sha256": "assets/audio/segments/s39-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s39-p11",
       "text": "But if you learn to solve it, you'll probably never forget.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.919,
-      "raw_duration_seconds": 3.36,
-      "asr": "But if you learn to solve it, you'll probably never forget.",
-      "published_asr": "But if you learn to solve it, you'll probably never forget.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p11.mp3",
+      "sha256": "assets/audio/segments/s39-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s39-p12",
       "text": "Tangram",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 1.611,
-      "raw_duration_seconds": 1.12,
-      "asr": "Tangram",
-      "published_asr": "Tangram",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p12.mp3",
+      "sha256": "assets/audio/segments/s39-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s39-p13",
       "text": "The tangram is a puzzle made up of seven pieces of different shapes, including a square, a parallelogram, and five triangles.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "The tangram is a puzzle made up of seven pieces of different shapes, including a square, a parallelogram, and five triangles.",
-      "published_asr": "The tangram is a puzzle made up of seven pieces of different shapes, including a square, a parallelogram, and five triangles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p13.mp3",
+      "sha256": "assets/audio/segments/s39-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s39-p14",
       "text": "Players need to use all the pieces to make a shape.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Players need to use all the pieces to make a shape.",
-      "published_asr": "Players need to use all the pieces to make a shape.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p14.mp3",
+      "sha256": "assets/audio/segments/s39-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s39-p15",
       "text": "In the 18th century, the tangram was brought to the West and soon gathered international attention.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "In the 18th century, the Tangram was brought to the west and soon gathered international attention.",
-      "published_asr": "In the 18th century, the Tangram was brought to the west and soon gathered international attention.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p15.mp3",
+      "sha256": "assets/audio/segments/s39-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s39-p16",
       "text": "Today, you can play it on a computer screen or over the Internet.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Today, you can play it on a computer screen or over the internet.",
-      "published_asr": "Today, you can play it on a computer screen or over the Internet.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p16.mp3",
+      "sha256": "assets/audio/segments/s39-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s39-p17",
       "text": "Luban Lock",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 1.625,
-      "raw_duration_seconds": 1.12,
-      "asr": "Lubin lock",
-      "published_asr": "Lubin lock",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p17.mp3",
+      "sha256": "assets/audio/segments/s39-p17.mp3"
     },
     {
-      "id": 18,
-      "text": "It is said that the Luban Lock was first created by Lu Ban, who was a famous engineer in ancient China.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 8.685,
-      "raw_duration_seconds": 5.92,
-      "asr": "It is said that the Luban lock was first created by Luban, who was a famous engineer in ancient China.",
-      "published_asr": "It is said that the Luban lock was first created by Luban, who was a famous engineer in ancient China.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s39-p18-01",
+      "text": "It is said that the Luban Lock was first created by Lu Ban,",
+      "audio": "assets/audio/segments/s39-p18-01.mp3",
+      "sha256": "assets/audio/segments/s39-p18-01.mp3"
     },
     {
-      "id": 19,
+      "id": "s39-p18-02",
+      "text": "who was a famous engineer in ancient China.",
+      "audio": "assets/audio/segments/s39-p18-02.mp3",
+      "sha256": "assets/audio/segments/s39-p18-02.mp3"
+    },
+    {
+      "id": "s39-p19",
       "text": "The lock has a lot to do with solid geometry.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "The lock has a lot to do with solid geometry.",
-      "published_asr": "The lock has a lot to do with solid geometry.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p19.mp3",
+      "sha256": "assets/audio/segments/s39-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s39-p20",
       "text": "It's hard to separate the six pieces.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "It's hard to separate the six pieces.",
-      "published_asr": "It's hard to separate the six pieces.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p20.mp3",
+      "sha256": "assets/audio/segments/s39-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s39-p21",
       "text": "However, it is usually easier to unlock a Luban lock than to fix it back together.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "However, it is usually easier to unlock a lube and lock than to fix it back together.",
-      "published_asr": "However, it is usually easier to unlock a lube and lock than to fix it back together.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p21.mp3",
+      "sha256": "assets/audio/segments/s39-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s39-p22",
       "text": "Many people like to collect different kinds of Luban locks, considering them as treasures of Chinese culture.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "Many people like to collect different kinds of Lubin locks, considering them as treasures of Chinese culture.",
-      "published_asr": "Many people like to collect different kinds of Lubin locks, considering them as treasures of Chinese culture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s39-p22.mp3",
+      "sha256": "assets/audio/segments/s39-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 145,
-    "word_accepted_count": 145,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

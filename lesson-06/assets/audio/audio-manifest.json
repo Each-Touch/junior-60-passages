@@ -1,278 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s06-p01",
       "text": "What subject do you worry about the most at school?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "What subject do you worry about the most at school?",
-      "published_asr": "What subject do you worry about the most at school?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p01.mp3",
+      "sha256": "assets/audio/segments/s06-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s06-p02",
       "text": "Many students worry about maths.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Many students worry about maths.",
-      "published_asr": "Many students worry about maths.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p02.mp3",
+      "sha256": "assets/audio/segments/s06-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s06-p03",
       "text": "Some students can't sleep well the day before a maths exam.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Some students can't sleep well the day before a maths exam.",
-      "published_asr": "Some students can't sleep well the day before a maths exam.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p03.mp3",
+      "sha256": "assets/audio/segments/s06-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s06-p04",
       "text": "Others may feel very nervous during the exam itself.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Others may feel very nervous during the exam itself.",
-      "published_asr": "Others may feel very nervous during the exam itself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p04.mp3",
+      "sha256": "assets/audio/segments/s06-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s06-p05",
       "text": "But there might be a way to make the subject less stressful.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "but there might be a way to make the subject less stressful.",
-      "published_asr": "but there might be a way to make the subject less stressful.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p05.mp3",
+      "sha256": "assets/audio/segments/s06-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s06-p06",
       "text": "For students who are worried about maths, posture makes a big difference.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.839,
-      "raw_duration_seconds": 4,
-      "asr": "For students who are worried about maths, posture makes a big difference.",
-      "published_asr": "For students who are worried about maths, posture makes a big difference.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p06.mp3",
+      "sha256": "assets/audio/segments/s06-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s06-p07",
       "text": "Researcher Erik Peper told Daily Mail, 'Sitting up straight in your chair can help you do better in maths exams.'",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "Researcher Eric Pepper told Daily Mail, sitting up straight in your chair can help you do better in maths exams.",
-      "published_asr": "Researcher Eric Pepper told Daily Mail, sitting up straight in your chair can help you do better in maths exams.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p07.mp3",
+      "sha256": "assets/audio/segments/s06-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s06-p08",
       "text": "Researchers tested 125 college students.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Researchers tested 125 college students.",
-      "published_asr": "Researchers tested 125 college students.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p08.mp3",
+      "sha256": "assets/audio/segments/s06-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s06-p09",
       "text": "They asked them to do a maths exam while sitting in a slumped-over position, or sitting up straight.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "They asked them to do a maths exam while sitting in a slumped-over position, or sitting up straight.",
-      "published_asr": "They asked them to do a maths exam while sitting in a slumped-over position, or sitting up straight.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p09.mp3",
+      "sha256": "assets/audio/segments/s06-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s06-p10",
       "text": "After the test, 56% of the students said the exam was easier to do if they were sitting up straight.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "After the test, 56% of the students said the exam was easier to do, if they were sitting up straight.",
-      "published_asr": "After the test, 56% of the students said the exam was easier to do if they were sitting up straight.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p10.mp3",
+      "sha256": "assets/audio/segments/s06-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s06-p11",
       "text": "They found the sound of the clock or the bell less annoying and felt less awful about the exam.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.777,
-      "raw_duration_seconds": 4.64,
-      "asr": "They found the sound of the clock or the bell less annoying and felt less awful about the exam.",
-      "published_asr": "They found the sound of the clock or the bell less annoying and felt less awful about the exam.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p11.mp3",
+      "sha256": "assets/audio/segments/s06-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s06-p12",
       "text": "Slumping over is a defensive posture.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Slumping over is a defensive posture.",
-      "published_asr": "Slumping over is a defensive posture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p12.mp3",
+      "sha256": "assets/audio/segments/s06-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s06-p13",
       "text": "It can bring out negative memories in the body and brain.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.912,
-      "raw_duration_seconds": 3.36,
-      "asr": "It can bring out negative memories in the body and brain.",
-      "published_asr": "It can bring out negative memories in the body and brain.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p13.mp3",
+      "sha256": "assets/audio/segments/s06-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s06-p14",
       "text": "'This can stop you from thinking clearly,' Peper said.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.915,
-      "raw_duration_seconds": 3.36,
-      "asr": "This can stop you from thinking clearly,\" Pepper said.",
-      "published_asr": "This can stop you from thinking clearly, Pepper said.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p14.mp3",
+      "sha256": "assets/audio/segments/s06-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s06-p15",
       "text": "A pain in your back can also make it harder to focus.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.439,
-      "raw_duration_seconds": 3.04,
-      "asr": "A pain in your back can also make it harder to focus.",
-      "published_asr": "A pain in your back can also make it harder to focus.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p15.mp3",
+      "sha256": "assets/audio/segments/s06-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s06-p16",
       "text": "Musicians, sports players and public speakers can all benefit from a good posture.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.508,
-      "raw_duration_seconds": 5.12,
-      "asr": "Musicians, sports players and public speakers can all benefit from a good posture.",
-      "published_asr": "Musicians, sports players and public speakers can all benefit from a good posture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p16.mp3",
+      "sha256": "assets/audio/segments/s06-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s06-p17",
       "text": "When you feel stressed out, you can also try to sit up straight or stand tall.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "When you feel stressed out, you can also try to sit up straight or stand tall.",
-      "published_asr": "When you feel stressed out you can also try to sit up straight or stand tall",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p17.mp3",
+      "sha256": "assets/audio/segments/s06-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s06-p18",
       "text": "How do we maintain a good posture?",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "How do we maintain a good posture?",
-      "published_asr": "How do we maintain a good posture?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p18.mp3",
+      "sha256": "assets/audio/segments/s06-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s06-p19",
       "text": "Some PE classes may help you correct your posture.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Some PE classes may help you correct your posture.",
-      "published_asr": "Some PE classes may help you correct your posture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p19.mp3",
+      "sha256": "assets/audio/segments/s06-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s06-p20",
       "text": "For computer-based exams, keeping your keyboard at the right height can be helpful.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "For computer-based exams, keeping your keyboard at the right height can be helpful.",
-      "published_asr": "For computer-based exams, keeping your keyboard at the right height can be helpful.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p20.mp3",
+      "sha256": "assets/audio/segments/s06-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s06-p21",
       "text": "A good posture can benefit you forever in various aspects of life.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "A good posture can benefit you forever in various aspects of life.",
-      "published_asr": "A good posture can benefit you forever in various aspects of life.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s06-p21.mp3",
+      "sha256": "assets/audio/segments/s06-p21.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 21,
-    "raw_asr_exact_count": 21,
-    "published_asr_exact_count": 21,
-    "word_count": 139,
-    "word_accepted_count": 139,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

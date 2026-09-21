@@ -1,326 +1,158 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s48-p01",
       "text": "Would you be able to sleep with one eye open?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Would you be able to sleep with one eye open?",
-      "published_asr": "Would you be able to sleep with one eye open?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p01.mp3",
+      "sha256": "assets/audio/segments/s48-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s48-p02",
       "text": "Bottlenose dolphins can.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 2.791,
-      "raw_duration_seconds": 1.92,
-      "asr": "Bottle nose dolphins can",
-      "published_asr": "Bottle nose dolphins can.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p02.mp3",
+      "sha256": "assets/audio/segments/s48-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s48-p03",
       "text": "When they sleep, only half of their brain goes to sleep.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "When they sleep, only half of their brain goes to sleep.",
-      "published_asr": "When they sleep, only half of their brain goes to sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p03.mp3",
+      "sha256": "assets/audio/segments/s48-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s48-p04",
       "text": "They sleep with one eye open to stay safe.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "They sleep with one eye open to stay safe.",
-      "published_asr": "They sleep with one eye open to stay safe.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p04.mp3",
+      "sha256": "assets/audio/segments/s48-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s48-p05",
       "text": "Half of their brain sleeps for about two hours before the other half gets a chance to sleep.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.796,
-      "raw_duration_seconds": 4.64,
-      "asr": "Half of their brain sleeps for about two hours before the other half gets a chance to sleep.",
-      "published_asr": "Half of their brain sleeps for about two hours before the other half gets a chance to sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p05.mp3",
+      "sha256": "assets/audio/segments/s48-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s48-p06",
       "text": "Dolphins are not fish—they are mammals.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Dolphins are not fish, they are mammals.",
-      "published_asr": "Dolphins are not fish. They are mammals.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p06.mp3",
+      "sha256": "assets/audio/segments/s48-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s48-p07",
       "text": "The smallest dolphin is about 50 kilos heavy, while the largest kind of dolphin weighs up to 10 tons.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "The smallest dolphin is about 50 kilos heavy, while the largest kind of dolphin weighs up to 10 tons.",
-      "published_asr": "The smallest dolphin is about 50 kilos heavy, while the largest kind of dolphin weighs up to 10 tons.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p07.mp3",
+      "sha256": "assets/audio/segments/s48-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s48-p08",
       "text": "These mammals have lungs.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "These mammals have lungs.",
-      "published_asr": "These mammals have lungs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p08.mp3",
+      "sha256": "assets/audio/segments/s48-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s48-p09",
       "text": "They have to go to the surface of the water to get fresh air.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.906,
-      "raw_duration_seconds": 3.36,
-      "asr": "They have to go to the surface of the water to get fresh air.",
-      "published_asr": "They have to go to the surface of the water to get fresh air.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p09.mp3",
+      "sha256": "assets/audio/segments/s48-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s48-p10",
       "text": "These energetic animals can be seen near the coast, sometimes swimming alongside boats.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "These energetic animals can be seen near the coast, sometimes swimming alongside boats.",
-      "published_asr": "These energetic animals can be seen near the coast, sometimes swimming alongside boats.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p10.mp3",
+      "sha256": "assets/audio/segments/s48-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s48-p11",
       "text": "Dolphins don't lay eggs.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 3.025,
-      "raw_duration_seconds": 2.08,
-      "asr": "Dolphins don't lay eggs.",
-      "published_asr": "Dolphins don't lay eggs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p11.mp3",
+      "sha256": "assets/audio/segments/s48-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s48-p12",
       "text": "Their young are born alive, and they drink milk from their mothers.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Their young are born alive, and they drink milk from their mothers.",
-      "published_asr": "Their young are born alive, and they drink milk from their mothers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p12.mp3",
+      "sha256": "assets/audio/segments/s48-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s48-p13",
       "text": "Dolphins are smart and brave.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.268,
-      "raw_duration_seconds": 2.24,
-      "asr": "Dolphins are smart and brave.",
-      "published_asr": "Dolphins are smart and brave.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p13.mp3",
+      "sha256": "assets/audio/segments/s48-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s48-p14",
       "text": "Some dolphins save people from shark attacks.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Some dolphins save people from shark attacks.",
-      "published_asr": "Some dolphins save people from shark attacks.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p14.mp3",
+      "sha256": "assets/audio/segments/s48-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s48-p15",
       "text": "They are able to solve many problems and even use tools to catch fish.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.546,
-      "raw_duration_seconds": 4.48,
-      "asr": "They are able to solve many problems, and even use tools to catch fish.",
-      "published_asr": "They are able to solve many problems and even use tools to catch fish.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p15.mp3",
+      "sha256": "assets/audio/segments/s48-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s48-p16",
       "text": "But their cleverness doesn't end there.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "But their cleverness doesn't end there.",
-      "published_asr": "But their cleverness doesn't end there.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p16.mp3",
+      "sha256": "assets/audio/segments/s48-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s48-p17",
       "text": "Dolphins can also pass on anything they learn to other dolphins.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Dolphins can also pass on anything they learn to other dolphins.",
-      "published_asr": "Dolphins can also pass on anything they learn to other dolphins.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p17.mp3",
+      "sha256": "assets/audio/segments/s48-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s48-p18",
       "text": "They show great teamwork.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "They show great teamwork.",
-      "published_asr": "They show great teamwork.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p18.mp3",
+      "sha256": "assets/audio/segments/s48-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s48-p19",
       "text": "They communicate with each other using sounds like whistles and clicks.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "They communicate with each other, using sounds like whistles and clicks.",
-      "published_asr": "They communicate with each other, using sounds like whistles and clicks.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p19.mp3",
+      "sha256": "assets/audio/segments/s48-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s48-p20",
       "text": "Maybe they make sentences just as humans do!",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Maybe they make sentences just as humans do.",
-      "published_asr": "Maybe they make sentences just as humans do.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p20.mp3",
+      "sha256": "assets/audio/segments/s48-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s48-p21",
       "text": "Dolphins know the \"voices\" of other dolphins and even know exactly from whom the sounds are.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 7.741,
-      "raw_duration_seconds": 5.28,
-      "asr": "Dolphins know the voices of other dolphins and even know exactly from whom the sounds are.",
-      "published_asr": "Dolphins know the voices of other dolphins and even know exactly from whom the sounds are.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p21.mp3",
+      "sha256": "assets/audio/segments/s48-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s48-p22",
       "text": "They can also know themselves in a mirror and check different parts of their bodies in it.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 6.79,
-      "raw_duration_seconds": 4.64,
-      "asr": "They can also know themselves in a mirror and check different parts of their bodies in it.",
-      "published_asr": "They can also know themselves in a mirror and check different parts of their bodies in it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p22.mp3",
+      "sha256": "assets/audio/segments/s48-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s48-p23",
       "text": "However, dolphins have been facing danger from humans.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 5.614,
-      "raw_duration_seconds": 3.84,
-      "asr": "However, dolphins have been facing danger from humans.",
-      "published_asr": "However, dolphins have been facing danger from humans.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p23.mp3",
+      "sha256": "assets/audio/segments/s48-p23.mp3"
     },
     {
-      "id": 24,
+      "id": "s48-p24",
       "text": "There are people shooting them with their guns, causing wounds that make them bleed to death.",
-      "file": "assets/audio/sentences/sentence-24.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "There are people shooting them with their guns, causing wounds that make them bleed to death.",
-      "published_asr": "There are people shooting them with their guns, causing wounds that make them bleed to death.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p24.mp3",
+      "sha256": "assets/audio/segments/s48-p24.mp3"
     },
     {
-      "id": 25,
+      "id": "s48-p25",
       "text": "We should protect the smart animal for a better future, not only for theirs, but also for ours.",
-      "file": "assets/audio/sentences/sentence-25.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "We should protect the smart animal for a better future, not only for theirs, but also for ours.",
-      "published_asr": "We should protect the smart animal for a better future, not only for theirs, but also for ours.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s48-p25.mp3",
+      "sha256": "assets/audio/segments/s48-p25.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 25,
-    "raw_asr_exact_count": 25,
-    "published_asr_exact_count": 25,
-    "word_count": 151,
-    "word_accepted_count": 151,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

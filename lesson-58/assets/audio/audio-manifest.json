@@ -1,242 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s58-p01",
       "text": "Wukong, Tiangong, Tianwen ... Do you know where the names of Chinese space programmes come from?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "Wukong, Tiangong, Tianwen? Do you know where the names of Chinese space programs come from?",
-      "published_asr": "Wukong, Tiangong, Tianwen? Do you know where the names of Chinese space programs come from?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p01.mp3",
+      "sha256": "assets/audio/segments/s58-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s58-p02",
       "text": "The well-known moon mission Chang'e is named after a goddess who flew to the moon.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "The well-known moon Mission Chang'e is named after a goddess who flew to the moon.",
-      "published_asr": "The well-known Moon mission Chang'e is named after a goddess who flew to the moon.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p02.mp3",
+      "sha256": "assets/audio/segments/s58-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s58-p03",
       "text": "This mission was important in studying the moon's surface.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.678,
-      "raw_duration_seconds": 3.2,
-      "asr": "This mission was important in studying the moon's surface.",
-      "published_asr": "This mission was important in studying the moon's surface.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p03.mp3",
+      "sha256": "assets/audio/segments/s58-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s58-p04",
       "text": "Wukong, the dark matter particle explorer, is named after a Chinese superhero, Monkey King.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "Wukong, the Dark Matter Particle Explorer, is named after a Chinese superhero, Monkey King.",
-      "published_asr": "Wukong, the Dark Matter particle explorer, is named after a Chinese superhero, Monkey King.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p04.mp3",
+      "sha256": "assets/audio/segments/s58-p04.mp3"
     },
     {
-      "id": 5,
-      "text": "According to Journey to the West, Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 9.852,
-      "raw_duration_seconds": 6.72,
-      "asr": "According to Journey to the West, Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
-      "published_asr": "According to Journey to the West, Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s58-p05-01",
+      "text": "According to Journey to the West,",
+      "audio": "assets/audio/segments/s58-p05-01.mp3",
+      "sha256": "assets/audio/segments/s58-p05-01.mp3"
     },
     {
-      "id": 6,
+      "id": "s58-p05-02",
+      "text": "Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
+      "audio": "assets/audio/segments/s58-p05-02.mp3",
+      "sha256": "assets/audio/segments/s58-p05-02.mp3"
+    },
+    {
+      "id": "s58-p06",
       "text": "The Wukong satellite is just as sharp-eyed as Monkey King to help scientists search for dark matter in space.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 8.921,
-      "raw_duration_seconds": 6.08,
-      "asr": "The Wukong satellite is just as sharp-eyed as Monkey King to help scientists search for dark matter in space.",
-      "published_asr": "The Wukong satellite is just as sharp-eyed as Monkey King to help scientists search for dark matter in space.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p06.mp3",
+      "sha256": "assets/audio/segments/s58-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s58-p07",
       "text": "The name of the space station, Tiangong, means 'Heavenly Palace'.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "The name of the space station, Tiangong, means Heavenly Palace.",
-      "published_asr": "The name of the space station, Tiangong, means heavenly palace.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p07.mp3",
+      "sha256": "assets/audio/segments/s58-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s58-p08",
       "text": "In Chinese myths, this is the home of Tian Di.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.661,
-      "raw_duration_seconds": 3.52,
-      "asr": "In Chinese myths, this is the home of Tian, D.",
-      "published_asr": "In Chinese Myths, this is the home of Tian, D.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p08.mp3",
+      "sha256": "assets/audio/segments/s58-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s58-p09",
       "text": "Now, Tiangong Space Station is a home for Chinese astronauts in space.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Now, Tiangong Space Station is a home for Chinese astronauts in space.",
-      "published_asr": "Now, Tiangong Space Station is a home for Chinese astronauts in space.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p09.mp3",
+      "sha256": "assets/audio/segments/s58-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s58-p10",
       "text": "Tianwen, China's Mars mission, gets its name from the poem Tianwen by Qu Yuan.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Tianwen, China's Mars mission, gets its name from the poem Tianwen by Qu Yuan.",
-      "published_asr": "Tianwen, China's Mars mission, gets its name from the poem Tianwen by Qu Yuan.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p10.mp3",
+      "sha256": "assets/audio/segments/s58-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s58-p11",
       "text": "Qu Yuan is a well-known poet from ancient China.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Q Yuan is a well-known poet from ancient China.",
-      "published_asr": "Q Yuan is a well-known poet from ancient China.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p11.mp3",
+      "sha256": "assets/audio/segments/s58-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s58-p12",
       "text": "In Tianwen, he had questions about the sky, stars, nature, myths and the real world, showing his hunger for truth.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 11.021,
-      "raw_duration_seconds": 7.52,
-      "asr": "In Tianwen, he had questions about the sky, stars, nature, myths and the real world, showing his hunger for truth.",
-      "published_asr": "In Tianwen, he had questions about the sky, stars, nature, myths and the real world, showing his hunger for truth.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p12.mp3",
+      "sha256": "assets/audio/segments/s58-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s58-p13",
       "text": "Perhaps the Tianwen missions will end up answering some of Qu Yuan's questions.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "Perhaps the Tianwen missions will end up answering some of Ku Yuan's questions.",
-      "published_asr": "Perhaps the Tianwen missions will end up answering some of Ku Yuan's questions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p13.mp3",
+      "sha256": "assets/audio/segments/s58-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s58-p14",
       "text": "If you look into more names of Chinese space programmes, you will find that they all have beautiful meanings.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "If you look into more names of Chinese space programs, you will find that they all have beautiful meanings.",
-      "published_asr": "If you look into more names of Chinese space programs, you will find that they all have beautiful meanings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p14.mp3",
+      "sha256": "assets/audio/segments/s58-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s58-p15",
       "text": "We, the Chinese people, have a long-cherished space dream.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "We, the Chinese people, have a long cherished space dream.",
-      "published_asr": "We, the Chinese people, have a long cherished space dream.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p15.mp3",
+      "sha256": "assets/audio/segments/s58-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s58-p16",
       "text": "Therefore, the naming of Chinese space programmes is taken very seriously.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Therefore, the naming of Chinese space programs is taken very seriously.",
-      "published_asr": "Therefore, the naming of Chinese space programs is taken very seriously.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p16.mp3",
+      "sha256": "assets/audio/segments/s58-p16.mp3"
     },
     {
-      "id": 17,
-      "text": "Scientists, from junior members to experienced leaders, are also working hard to sweep away setbacks, without letting any challenges disappoint them.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 12.902,
-      "raw_duration_seconds": 8.8,
-      "asr": "Scientists, from junior members to experienced leaders, are also working hard to sweep away setbacks, without letting any challenges disappoint them.",
-      "published_asr": "Scientists, from junior members to experienced leaders, are also working hard to sweep away setbacks, without letting any challenges disappoint them.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s58-p17-01",
+      "text": "Scientists, from junior members to experienced leaders,",
+      "audio": "assets/audio/segments/s58-p17-01.mp3",
+      "sha256": "assets/audio/segments/s58-p17-01.mp3"
     },
     {
-      "id": 18,
+      "id": "s58-p17-02",
+      "text": "are also working hard to sweep away setbacks,",
+      "audio": "assets/audio/segments/s58-p17-02.mp3",
+      "sha256": "assets/audio/segments/s58-p17-02.mp3"
+    },
+    {
+      "id": "s58-p17-03",
+      "text": "without letting any challenges disappoint them.",
+      "audio": "assets/audio/segments/s58-p17-03.mp3",
+      "sha256": "assets/audio/segments/s58-p17-03.mp3"
+    },
+    {
+      "id": "s58-p18",
       "text": "The names are like postcards to the world, showing our determination in space exploration.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.997,
-      "raw_duration_seconds": 5.44,
-      "asr": "The names are like postcards to the world, showing our determination in space exploration.",
-      "published_asr": "The names are like postcards to the world, showing our determination in space exploration.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s58-p18.mp3",
+      "sha256": "assets/audio/segments/s58-p18.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 18,
-    "raw_asr_exact_count": 18,
-    "published_asr_exact_count": 18,
-    "word_count": 151,
-    "word_accepted_count": 151,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

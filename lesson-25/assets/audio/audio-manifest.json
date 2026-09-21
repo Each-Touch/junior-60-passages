@@ -1,338 +1,170 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s25-p01",
       "text": "There are lots of things that cause stress, such as school problems, arguments with friends and bad feelings about ourselves.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 11.021,
-      "raw_duration_seconds": 7.52,
-      "asr": "There are lots of things that cause stress, such as school problems, arguments with friends and bad feelings about ourselves.",
-      "published_asr": "There are lots of things that cause stress, such as school problems, arguments with friends and bad feelings about ourselves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p01.mp3",
+      "sha256": "assets/audio/segments/s25-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s25-p02",
       "text": "It's important to manage stress properly and reduce its influence.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.614,
-      "raw_duration_seconds": 3.84,
-      "asr": "It's important to manage stress properly and reduce its influence.",
-      "published_asr": "It's important to manage stress properly and reduce its influence.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p02.mp3",
+      "sha256": "assets/audio/segments/s25-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s25-p03",
       "text": "Here are some helpful tips for dealing with stress.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Here are some helpful tips for dealing with stress.",
-      "published_asr": "Here are some helpful tips for dealing with stress.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p03.mp3",
+      "sha256": "assets/audio/segments/s25-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s25-p04",
       "text": "Do you always wait until Sunday evening to do homework?",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Do you always wait until Sunday evening to do homework?",
-      "published_asr": "Do you always wait until Sunday evening to do homework?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p04.mp3",
+      "sha256": "assets/audio/segments/s25-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s25-p05",
       "text": "This bad habit can cause last-minute stress, as well as poor grades.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "This bad habit can cause last-minute stress, as well as poor grades.",
-      "published_asr": "This bad habit can cause last-minute stress, as well as poor grades.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p05.mp3",
+      "sha256": "assets/audio/segments/s25-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s25-p06",
       "text": "To avoid that, time management is greatly needed.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "To avoid that, time management is greatly needed.",
-      "published_asr": "To avoid that, time management is greatly needed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p06.mp3",
+      "sha256": "assets/audio/segments/s25-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s25-p07",
       "text": "Plan your studies with a calendar.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.279,
-      "raw_duration_seconds": 2.24,
-      "asr": "Plan your studies with a calendar.",
-      "published_asr": "Plan your studies with a calendar.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p07.mp3",
+      "sha256": "assets/audio/segments/s25-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s25-p08",
       "text": "You can also divide big projects into smaller tasks.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.133,
-      "raw_duration_seconds": 3.52,
-      "asr": "You can also divide big projects into smaller tasks.",
-      "published_asr": "You can also divide big projects into smaller tasks.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p08.mp3",
+      "sha256": "assets/audio/segments/s25-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s25-p09",
       "text": "Besides, staying organised is very important for reducing stress.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Besides, staying organized is very important for reducing stress.",
-      "published_asr": "Besides, staying organized is very important for reducing stress.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p09.mp3",
+      "sha256": "assets/audio/segments/s25-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s25-p10",
       "text": "Do the necessary housework.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.046,
-      "raw_duration_seconds": 2.08,
-      "asr": "Do the necessary housework.",
-      "published_asr": "Do the necessary housework.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p10.mp3",
+      "sha256": "assets/audio/segments/s25-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s25-p11",
       "text": "Pack your school bag well.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "Pack your school bag well.",
-      "published_asr": "Pack your school bag well.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p11.mp3",
+      "sha256": "assets/audio/segments/s25-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s25-p12",
       "text": "Use your shelves at home to keep things in order.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 4.207,
-      "raw_duration_seconds": 2.88,
-      "asr": "Use your shelves at home to keep things in order.",
-      "published_asr": "Use your shelves at home to keep things in order.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p12.mp3",
+      "sha256": "assets/audio/segments/s25-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s25-p13",
       "text": "Be sure to eat healthy meals and get at least 8 hours of sleep.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Be sure to eat healthy meals and get at least eight hours of sleep.",
-      "published_asr": "Be sure to eat healthy meals and get at least eight hours of sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p13.mp3",
+      "sha256": "assets/audio/segments/s25-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s25-p14",
       "text": "Avoid checking your mobile phone or using the computer before bedtime.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Avoid checking your mobile phone or using the computer before bedtime.",
-      "published_asr": "Avoid checking your mobile phone or using the computer before bedtime.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p14.mp3",
+      "sha256": "assets/audio/segments/s25-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s25-p15",
       "text": "It will keep you awake and make things worse.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.22,
-      "raw_duration_seconds": 2.88,
-      "asr": "It will keep you awake and make things worse.",
-      "published_asr": "It will keep you awake and make things worse.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p15.mp3",
+      "sha256": "assets/audio/segments/s25-p15.mp3"
     },
     {
-      "id": 16,
-      "text": "When you're feeling stressed, it's helpful to speak to someone who understands your situation, such as a friend, your husband or wife or an elder family member.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 12.432,
-      "raw_duration_seconds": 8.48,
-      "asr": "When you're feeling stressed, it's helpful to speak to someone who understands your situation, such as a friend, your husband or wife, or an elder family member.",
-      "published_asr": "When you're feeling stressed, it's helpful to speak to someone who understands your situation such as a friend, your husband or wife, or an elder family member.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s25-p16-01",
+      "text": "When you're feeling stressed, it's helpful to speak to someone who understands your situation, such as a friend,",
+      "audio": "assets/audio/segments/s25-p16-01.mp3",
+      "sha256": "assets/audio/segments/s25-p16-01.mp3"
     },
     {
-      "id": 17,
+      "id": "s25-p16-02",
+      "text": "your husband or wife or an elder family member.",
+      "audio": "assets/audio/segments/s25-p16-02.mp3",
+      "sha256": "assets/audio/segments/s25-p16-02.mp3"
+    },
+    {
+      "id": "s25-p17",
       "text": "Sometimes just sharing your feelings is enough.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 4.201,
-      "raw_duration_seconds": 2.88,
-      "asr": "Sometimes just sharing your feelings is enough.",
-      "published_asr": "Sometimes just sharing your feelings is enough.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p17.mp3",
+      "sha256": "assets/audio/segments/s25-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s25-p18",
       "text": "Other times, however, you might need advice.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.185,
-      "raw_duration_seconds": 2.88,
-      "asr": "Other times, however, you might need advice.",
-      "published_asr": "Other times, however, you might need advice.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p18.mp3",
+      "sha256": "assets/audio/segments/s25-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s25-p19",
       "text": "Don't keep your worries to yourself.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 3.022,
-      "raw_duration_seconds": 2.08,
-      "asr": "Don't keep your worries to yourself.",
-      "published_asr": "Don't keep your worries to yourself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p19.mp3",
+      "sha256": "assets/audio/segments/s25-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s25-p20",
       "text": "Finally, relaxation is important.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 3.983,
-      "raw_duration_seconds": 2.72,
-      "asr": "Finally, relaxation is important.",
-      "published_asr": "Finally, relaxation is important.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p20.mp3",
+      "sha256": "assets/audio/segments/s25-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s25-p21",
       "text": "Do simple things like having a warm shower to calm yourself.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Do simple things like having a warm shower to calm yourself.",
-      "published_asr": "Do simple things like having a warm shower to calm yourself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p21.mp3",
+      "sha256": "assets/audio/segments/s25-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s25-p22",
       "text": "Find some free time for activities that you enjoy.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Find some free time for activities that you enjoy.",
-      "published_asr": "Find some free time for activities that you enjoy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p22.mp3",
+      "sha256": "assets/audio/segments/s25-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s25-p23",
       "text": "For example, you can go skating or skiing.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "For example, you can go skating or skiing.",
-      "published_asr": "For example, you can go skating or skiing.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p23.mp3",
+      "sha256": "assets/audio/segments/s25-p23.mp3"
     },
     {
-      "id": 24,
+      "id": "s25-p24",
       "text": "Walk in your village or town.",
-      "file": "assets/audio/sentences/sentence-24.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Walk in your village or town",
-      "published_asr": "Walk in your village or town.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p24.mp3",
+      "sha256": "assets/audio/segments/s25-p24.mp3"
     },
     {
-      "id": 25,
+      "id": "s25-p25",
       "text": "Fly a kite in the park or meet and hang out with friends.",
-      "file": "assets/audio/sentences/sentence-25.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Fly a kite in the park or meet and hang out with friends.",
-      "published_asr": "Fly a kite in the park or meet and hang out with friends.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p25.mp3",
+      "sha256": "assets/audio/segments/s25-p25.mp3"
     },
     {
-      "id": 26,
+      "id": "s25-p26",
       "text": "If you relax and enjoy yourself, you'll feel refreshed, have more energy and reduce your level of stress.",
-      "file": "assets/audio/sentences/sentence-26.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "If you relax and enjoy yourself, you'll feel refreshed, have more energy, and reduce your level of stress.",
-      "published_asr": "If you relax and enjoy yourself, you'll feel refreshed, have more energy, and reduce your level of stress.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s25-p26.mp3",
+      "sha256": "assets/audio/segments/s25-p26.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 26,
-    "raw_asr_exact_count": 26,
-    "published_asr_exact_count": 26,
-    "word_count": 169,
-    "word_accepted_count": 169,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

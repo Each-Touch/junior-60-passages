@@ -1,242 +1,122 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s60-p01",
       "text": "AI can help teenagers and students learn in several ways.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "AI can help teenagers and students learn in several ways.",
-      "published_asr": "AI can help teenagers and students learn in several ways.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p01.mp3",
+      "sha256": "assets/audio/segments/s60-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s60-p02",
       "text": "Personalised learning: AI can know better about students, including their advantages, weaknesses, skills, learning favourites, and learning needs, and so on.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 15.253,
-      "raw_duration_seconds": 10.4,
-      "asr": "Personalized Learning AI can know better about students, including their advantages, weaknesses, skills, learning favorites, and learning needs, and so on.",
-      "published_asr": "Personalized Learning AI can know better about students, including their advantages, weaknesses, skills, learning favorites, and learning needs, and so on.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p02.mp3",
+      "sha256": "assets/audio/segments/s60-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s60-p03",
       "text": "Then it can create a proper learning plan for each student.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Then it can create a proper learning plan for each student.",
-      "published_asr": "Then it can create a proper learning plan for each student.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p03.mp3",
+      "sha256": "assets/audio/segments/s60-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s60-p04",
       "text": "This can help students concentrate on areas that they need to improve at their own speed.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 7.016,
-      "raw_duration_seconds": 4.8,
-      "asr": "This can help students concentrate on areas that they need to improve at their own speed.",
-      "published_asr": "This can help students concentrate on areas that they need to improve at their own speed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p04.mp3",
+      "sha256": "assets/audio/segments/s60-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s60-p05",
       "text": "Interactive learning: Forget about the learning method of yesterday!",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.386,
-      "raw_duration_seconds": 3.68,
-      "asr": "Interactive learning. Forget about the learning method of yesterday.",
-      "published_asr": "Interactive learning. Forget about the learning method of yesterday.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p05.mp3",
+      "sha256": "assets/audio/segments/s60-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s60-p06",
       "text": "AI has the ability to make learning more interactive and interesting.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "AI has the ability to make learning more interactive and interesting.",
-      "published_asr": "AI has the ability to make learning more interactive and interesting.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p06.mp3",
+      "sha256": "assets/audio/segments/s60-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s60-p07",
       "text": "Interactive learning apps and educational games can make students learn more carefully.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.25,
-      "raw_duration_seconds": 4.96,
-      "asr": "Interactive learning apps and educational games can make students learn more carefully.",
-      "published_asr": "Interactive learning apps and educational games can make students learn more carefully.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p07.mp3",
+      "sha256": "assets/audio/segments/s60-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s60-p08",
       "text": "The new method is sure to be more helpful than studying alone.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "The new method is sure to be more helpful than studying alone.",
-      "published_asr": "The new method is sure to be more helpful than studying alone.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p08.mp3",
+      "sha256": "assets/audio/segments/s60-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s60-p09",
       "text": "Automated advice and help: AI can examine students' work and provide personalised help.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "Automated advice and help. AI can examine students' work and provide personalized help.",
-      "published_asr": "Automated advice and help. AI can examine students' work and provide personalized help.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p09.mp3",
+      "sha256": "assets/audio/segments/s60-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s60-p10",
       "text": "For example, ChatGPT can answer students' questions quickly in a private, low-pressure way.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "For example, chat GPT can answer students' questions quickly in a private, low-pressure way.",
-      "published_asr": "For example, chat GPT can answer students' questions quickly in a private, low-pressure way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p10.mp3",
+      "sha256": "assets/audio/segments/s60-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s60-p11",
       "text": "This kind of advice and answers can help students better understand knowledge and use their knowledge.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "This kind of advice and answers can help students better understand knowledge and use their knowledge.",
-      "published_asr": "This kind of advice and answers can help students better understand knowledge and use their knowledge.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p11.mp3",
+      "sha256": "assets/audio/segments/s60-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s60-p12",
       "text": "Greater resources: AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 12.923,
-      "raw_duration_seconds": 8.8,
-      "asr": "Greater Resources AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
-      "published_asr": "Greater Resources AI can make learning resources richer and wider, like electronic textbooks, online courses, and study apps.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p12.mp3",
+      "sha256": "assets/audio/segments/s60-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s60-p13",
       "text": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 9.385,
-      "raw_duration_seconds": 6.4,
-      "asr": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
-      "published_asr": "For example, a biology textbook with AI technology may provide interactive 3D models of a human body.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p13.mp3",
+      "sha256": "assets/audio/segments/s60-p13.mp3"
     },
     {
-      "id": 14,
-      "text": "Students may also be able to talk to a simulated empress in history to know more about her life, for example, whom she chose to marry and why.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 12.432,
-      "raw_duration_seconds": 8.48,
-      "asr": "Students may also be able to talk to a simulated Empress in history, to know more about her life, for example, whom she chose to marry and why.",
-      "published_asr": "Students may also be able to talk to a simulated Empress in history to know more about her life, for example, whom she chose to marry and why.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s60-p14-01",
+      "text": "Students may also be able to talk to a simulated empress in history to know more about her life, for example,",
+      "audio": "assets/audio/segments/s60-p14-01.mp3",
+      "sha256": "assets/audio/segments/s60-p14-01.mp3"
     },
     {
-      "id": 15,
+      "id": "s60-p14-02",
+      "text": "whom she chose to marry and why.",
+      "audio": "assets/audio/segments/s60-p14-02.mp3",
+      "sha256": "assets/audio/segments/s60-p14-02.mp3"
+    },
+    {
+      "id": "s60-p15",
       "text": "AI can provide interactive examples, introduce important passages, and offer assessments.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "AI can provide interactive examples, introduce important passages, and offer assessments.",
-      "published_asr": "AI can provide interactive examples, introduce important passages, and offer assessments.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p15.mp3",
+      "sha256": "assets/audio/segments/s60-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s60-p16",
       "text": "In a word, AI has a great ability to improve studying and learning.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "In a word, AI has a great ability to improve studying and learning.",
-      "published_asr": "In a word, AI has a great ability to improve studying and learning.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p16.mp3",
+      "sha256": "assets/audio/segments/s60-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s60-p17",
       "text": "By using AI, students can study smarter and reach higher levels of learning and success.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "By using AI, students can study smarter and reach higher levels of learning and success.",
-      "published_asr": "By using AI, students can study smarter and reach higher levels of learning and success.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p17.mp3",
+      "sha256": "assets/audio/segments/s60-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s60-p18",
       "text": "The future of AI in education is hopeful as technologies continue to develop.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "The future of AI in education is hopeful as technologies continue to develop.",
-      "published_asr": "The future of AI in education is hopeful as technologies continue to develop.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s60-p18.mp3",
+      "sha256": "assets/audio/segments/s60-p18.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 18,
-    "raw_asr_exact_count": 18,
-    "published_asr_exact_count": 18,
-    "word_count": 139,
-    "word_accepted_count": 139,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

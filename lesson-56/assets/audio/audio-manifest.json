@@ -1,218 +1,122 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s56-p01",
       "text": "China has named the nation's first Mars rover Zhu Rong.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "China has named the nation's first Mars rover Zhu Rong.",
-      "published_asr": "China has named the nation's first Mars rover Zhu Rong.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p01.mp3",
+      "sha256": "assets/audio/segments/s56-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s56-p02",
       "text": "For all of us, Zhu Rong is a well-suited name that has a cultural meaning within Chinese history.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "For all of us, Zhu Rong is a well-suited name that has a cultural meaning within Chinese history.",
-      "published_asr": "For all of us, Zhu Rong is a well-suited name that has a cultural meaning within Chinese history.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p02.mp3",
+      "sha256": "assets/audio/segments/s56-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s56-p03",
       "text": "In an ancient Chinese story, Zhu Rong had the face of a man and the body of an animal.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "In an ancient Chinese story, Zhu Rong had the face of a man and the body of an animal.",
-      "published_asr": "In an ancient Chinese story, Zhu Rong had the face of a man and the body of an animal.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p03.mp3",
+      "sha256": "assets/audio/segments/s56-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s56-p04",
       "text": "He rode on two dragons.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "He rode on two dragons.",
-      "published_asr": "He rode on two dragons.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p04.mp3",
+      "sha256": "assets/audio/segments/s56-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s56-p05",
       "text": "When he had a big fight with Gong Gong, the god of water, Zhu Rong won.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "When he had a big fight with Gonggong, the god of water, Zhu Rong won.",
-      "published_asr": "When he had a big fight with Gonggong, the God of Water, Zhu Rong won.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p05.mp3",
+      "sha256": "assets/audio/segments/s56-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s56-p06",
       "text": "But after the fight, the human world came into complete darkness.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "But after the fight, the human world came into complete darkness.",
-      "published_asr": "But after the fight, the human world came into complete darkness.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p06.mp3",
+      "sha256": "assets/audio/segments/s56-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s56-p07",
       "text": "Then he brought fire from heaven to the world, becoming a great hero.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.327,
-      "raw_duration_seconds": 4.32,
-      "asr": "Then he brought fire from heaven to the world, becoming a great hero.",
-      "published_asr": "Then he brought fire from heaven to the world, becoming a great hero.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p07.mp3",
+      "sha256": "assets/audio/segments/s56-p07.mp3"
     },
     {
-      "id": 8,
-      "text": "Much like the stories of kung fu heroes who travel far and face many dangers, the Mars rover went on its own adventures.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 10.562,
-      "raw_duration_seconds": 7.2,
-      "asr": "Much like the stories of Kung Fu heroes who travel far and face many dangers, the Mars rover went on its own adventures.",
-      "published_asr": "Much like the stories of Kung Fu heroes who travel far and face many dangers, the Mars rover went on its own adventures.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s56-p08-01",
+      "text": "Much like the stories of kung fu heroes who travel far and face many dangers,",
+      "audio": "assets/audio/segments/s56-p08-01.mp3",
+      "sha256": "assets/audio/segments/s56-p08-01.mp3"
     },
     {
-      "id": 9,
+      "id": "s56-p08-02",
+      "text": "the Mars rover went on its own adventures.",
+      "audio": "assets/audio/segments/s56-p08-02.mp3",
+      "sha256": "assets/audio/segments/s56-p08-02.mp3"
+    },
+    {
+      "id": "s56-p09",
       "text": "\"Zhu Rong is regarded as the earliest god of fire in traditional Chinese culture,\" a space official said.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 8.682,
-      "raw_duration_seconds": 5.92,
-      "asr": "Zhu Rong is regarded as the earliest god of fire in traditional Chinese culture, a space official said.",
-      "published_asr": "Zhu Rong is regarded as the earliest god of fire in traditional Chinese culture, a space official said.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p09.mp3",
+      "sha256": "assets/audio/segments/s56-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s56-p10",
       "text": "\"The first Mars rover was named Zhu Rong.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.979,
-      "raw_duration_seconds": 2.72,
-      "asr": "The first Mars rover was named Zhu Rong.",
-      "published_asr": "The first Mars rover was named Zhu Rong.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p10.mp3",
+      "sha256": "assets/audio/segments/s56-p10.mp3"
     },
     {
-      "id": 11,
-      "text": "The name symbolises light and hope for space exploration in our country, and means to guide humans to continue exploring somewhere we've never been before.\"",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 12.432,
-      "raw_duration_seconds": 8.48,
-      "asr": "The name symbolizes light and hope for space exploration in our country, and means to guide humans to continue exploring somewhere we've never been before.",
-      "published_asr": "The name symbolizes light and hope for space exploration in our country, and means to guide humans to continue exploring somewhere we've never been before.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s56-p11-01",
+      "text": "The name symbolises light and hope for space exploration in our country,",
+      "audio": "assets/audio/segments/s56-p11-01.mp3",
+      "sha256": "assets/audio/segments/s56-p11-01.mp3"
     },
     {
-      "id": 12,
+      "id": "s56-p11-02",
+      "text": "and means to guide humans to continue exploring somewhere we've never been before.\"",
+      "audio": "assets/audio/segments/s56-p11-02.mp3",
+      "sha256": "assets/audio/segments/s56-p11-02.mp3"
+    },
+    {
+      "id": "s56-p12",
       "text": "Aboard a powerful rocket, Zhu Rong left the Earth, circled Mars for several months and landed on it.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "Aboard a powerful rocket, Zhu Rong left the earth, circled Mars for several months and landed on it.",
-      "published_asr": "A board a powerful rocket, Zhu Rong left the Earth, circled Mars for several months and landed on it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p12.mp3",
+      "sha256": "assets/audio/segments/s56-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s56-p13",
       "text": "Zhu Rong is like a postman in the universe, having sent back many important messages from Mars.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 8.21,
-      "raw_duration_seconds": 5.6,
-      "asr": "Zhu Rong is like a postman in the universe, having sent back many important messages from Mars.",
-      "published_asr": "Zhu Rong is like a postman in the universe, having sent back many important messages from Mars.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p13.mp3",
+      "sha256": "assets/audio/segments/s56-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s56-p14",
       "text": "In recent years, our country has sent up the world's first quantum satellite and Chang'e-5 has made a soft landing on the moon.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 10.088,
-      "raw_duration_seconds": 6.88,
-      "asr": "In recent years, our country has sent up the world's first quantum satellite and Chang'e 5 has made a soft landing on the moon.",
-      "published_asr": "In recent years, our country has sent up the world's first quantum satellite, and Chang'e-5 has made a soft landing on the moon.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p14.mp3",
+      "sha256": "assets/audio/segments/s56-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s56-p15",
       "text": "Zhu Rong is another key step in our space technology achievements.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Zhu Rong is another key step in our space technology achievements.",
-      "published_asr": "Zhu Rong is another key step in our space technology achievements.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s56-p15.mp3",
+      "sha256": "assets/audio/segments/s56-p15.mp3"
     },
     {
-      "id": 16,
-      "text": "We have made great progress in space technology and have built our own space station, which fills us with great pride.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "We have made great progress in space technology, and have built our own space station, which fills us with great pride.",
-      "published_asr": "We have made great progress in space technology and have built our own space station, which fills us with great pride.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s56-p16-01",
+      "text": "We have made great progress in space technology and have built our own space station,",
+      "audio": "assets/audio/segments/s56-p16-01.mp3",
+      "sha256": "assets/audio/segments/s56-p16-01.mp3"
+    },
+    {
+      "id": "s56-p16-02",
+      "text": "which fills us with great pride.",
+      "audio": "assets/audio/segments/s56-p16-02.mp3",
+      "sha256": "assets/audio/segments/s56-p16-02.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 16,
-    "raw_asr_exact_count": 16,
-    "published_asr_exact_count": 16,
-    "word_count": 146,
-    "word_accepted_count": 146,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

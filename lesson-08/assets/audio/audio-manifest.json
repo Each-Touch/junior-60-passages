@@ -1,266 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s08-p01",
       "text": "Chemistry is usually thought to be more difficult than other subjects, at least for the beginners.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "Chemistry is usually thought to be more difficult than other subjects, at least for the beginners.",
-      "published_asr": "Chemistry is usually thought to be more difficult than other subjects, at least for the beginners.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p01.mp3",
+      "sha256": "assets/audio/segments/s08-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s08-p02",
       "text": "There are some reasons for this idea.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.262,
-      "raw_duration_seconds": 2.24,
-      "asr": "There are some reasons for this idea.",
-      "published_asr": "There are some reasons for this idea.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p02.mp3",
+      "sha256": "assets/audio/segments/s08-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s08-p03",
       "text": "For one thing, chemistry has a very specialised vocabulary.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.854,
-      "raw_duration_seconds": 4,
-      "asr": "For one thing, chemistry has a very specialized vocabulary.",
-      "published_asr": "For one thing, chemistry has a very specialized vocabulary.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p03.mp3",
+      "sha256": "assets/audio/segments/s08-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s08-p04",
       "text": "At first, studying chemistry is like learning a new language.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "At first, studying chemistry is like learning a new language.",
-      "published_asr": "At first, studying chemistry is like learning a new language.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p04.mp3",
+      "sha256": "assets/audio/segments/s08-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s08-p05",
       "text": "Also, some concepts of chemistry are hard to understand.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.63,
-      "raw_duration_seconds": 3.84,
-      "asr": "Also, some concepts of chemistry are hard to understand.",
-      "published_asr": "Also, some concepts of chemistry are hard to understand.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p05.mp3",
+      "sha256": "assets/audio/segments/s08-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s08-p06",
       "text": "However, with hard work and careful study, you can finish this subject successfully and even enjoy it.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "However, with hard work and careful study, you can finish this subject successfully and even enjoy it.",
-      "published_asr": "However, with hard work and careful study, you can finish this subject successfully and even enjoy it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p06.mp3",
+      "sha256": "assets/audio/segments/s08-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s08-p07",
       "text": "Here are some suggestions to help you develop good study habits and better understand the topics in the book.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 8.91,
-      "raw_duration_seconds": 6.08,
-      "asr": "Here are some suggestions to help you develop good study habits and better understand the topics in the book.",
-      "published_asr": "Here are some suggestions to help you develop good study habits and better understand the topics in the book.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p07.mp3",
+      "sha256": "assets/audio/segments/s08-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s08-p08",
       "text": "Firstly, attend classes on time.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.747,
-      "raw_duration_seconds": 2.56,
-      "asr": "Firstly, attend classes on time.",
-      "published_asr": "Firstly, attend classes on time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p08.mp3",
+      "sha256": "assets/audio/segments/s08-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s08-p09",
       "text": "Focus on what the teacher writes with chalk on the blackboard and take careful notes in class.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Focus on what the teacher writes with chalk on the blackboard and take careful notes in class.",
-      "published_asr": "Focus on what the teacher writes with chalk on the blackboard and take careful notes in class.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p09.mp3",
+      "sha256": "assets/audio/segments/s08-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s08-p10",
       "text": "If possible, always review the topics you learn in class.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.384,
-      "raw_duration_seconds": 3.68,
-      "asr": "If possible, always review the topics you learn in class.",
-      "published_asr": "If possible, always review the topics you learn in class.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p10.mp3",
+      "sha256": "assets/audio/segments/s08-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s08-p11",
       "text": "Do not be afraid to ask others for help.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Do not be afraid to ask others for help.",
-      "published_asr": "Do not be afraid to ask others for help.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p11.mp3",
+      "sha256": "assets/audio/segments/s08-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s08-p12",
       "text": "Secondly, think whether you really understand the meaning of a term.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.621,
-      "raw_duration_seconds": 3.84,
-      "asr": "Secondly, think whether you really understand the meaning of a term.",
-      "published_asr": "Secondly, think whether you really understand the meaning of a term.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p12.mp3",
+      "sha256": "assets/audio/segments/s08-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s08-p13",
       "text": "A good way to test your understanding is to explain a concept to a classmate or someone else.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "A good way to test your understanding is to explain a concept to a classmate or someone else.",
-      "published_asr": "A good way to test your understanding is to explain a concept to a classmate or someone else.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p13.mp3",
+      "sha256": "assets/audio/segments/s08-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s08-p14",
       "text": "Thirdly, pay attention to things which have something to do with chemistry in life.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Thirdly, pay attention to things which have something to do with chemistry in life.",
-      "published_asr": "Thirdly, pay attention to things which have something to do with chemistry in life.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p14.mp3",
+      "sha256": "assets/audio/segments/s08-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s08-p15",
       "text": "Do experiments in the lab actively to gain experience.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Do experiments in the lab actively to gain experience.",
-      "published_asr": "Do experiments in the lab actively to gain experience.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p15.mp3",
+      "sha256": "assets/audio/segments/s08-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s08-p16",
       "text": "Fourthly, aim to earn an award or medal in school science fairs to recognise your hard work.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Fourthly, aim to earn an award or medal in school science fairs to recognize your hard work.",
-      "published_asr": "Fourthly, aim to earn an award or medal in school science fairs to recognize your hard work.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p16.mp3",
+      "sha256": "assets/audio/segments/s08-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s08-p17",
       "text": "Have candy or a cookie after finishing a challenging project.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Have candy or a cookie after finishing a challenging project.",
-      "published_asr": "Have candy or a cookie after finishing a challenging project.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p17.mp3",
+      "sha256": "assets/audio/segments/s08-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s08-p18",
       "text": "This can serve as a reward for yourself.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "This can serve as a reward for yourself.",
-      "published_asr": "This can serve as a reward for yourself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p18.mp3",
+      "sha256": "assets/audio/segments/s08-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s08-p19",
       "text": "You will find that chemistry is much more than numbers, formulas, and equations.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "You will find that chemistry is much more than numbers, formulas, and equations.",
-      "published_asr": "You will find that chemistry is much more than numbers, formulas, and equations.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p19.mp3",
+      "sha256": "assets/audio/segments/s08-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s08-p20",
       "text": "It's often used in daily life just like maths and physics.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.15,
-      "raw_duration_seconds": 3.52,
-      "asr": "It's often used in daily life just like maths and physics.",
-      "published_asr": "It's often used in daily life, just like maths and physics.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s08-p20.mp3",
+      "sha256": "assets/audio/segments/s08-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 151,
-    "word_accepted_count": 151,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,0 +1,1988 @@
+{
+  "course": "初中60短文",
+  "passage": 5,
+  "title": "Passage 5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s05-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s05-p01.mp3",
+      "en": "One of the great things about travelling alone is that you make the rules about where you go and what you eat.",
+      "cn": "独自旅行的一大妙处在于，你可以自己做决定要去哪里以及吃什么。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s05-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s05-p02.mp3",
+      "en": "Travelling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
+      "cn": "独自旅行能真正地展现出你是什么样的人，并帮助你发掘你所拥有的自己未知的内在力量。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s05-p03",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s05-p03.mp3",
+      "en": "Besides, it also gives you time to think and learn.",
+      "cn": "它还能给你思考和学习的时间。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s05-p04",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s05-p04.mp3",
+      "en": "When your eyes are wide open, you'll get a whole new outlook on the world.",
+      "cn": "你会对这个世界有一个全新的认识。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s05-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s05-p05.mp3",
+      "en": "It's easy to think that travelling alone is lonely.",
+      "cn": "人们很容易认为独自旅行会很孤独。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s05-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s05-p06.mp3",
+      "en": "Although that may sometimes be true, you're hardly ever alone.",
+      "cn": "但其实你几乎从来都不是独自一人。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s05-p07-01",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s05-p07-01.mp3",
+      "en": "When you travel in a one-person team,",
+      "cn": "当你独自旅行时，这会为你提供一个机会，去享受旅行中最有趣的部分——与当地人交流，以及结识来自世界各个角落的旅行者。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 7,
+      "chunkId": "s05-p07-02",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s05-p07-02.mp3",
+      "en": "this can provide a chance for you to enjoy the most interesting part of travel,",
+      "cn": "当你独自旅行时，这会为你提供一个机会，去享受旅行中最有趣的部分——与当地人交流，以及结识来自世界各个角落的旅行者。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 7,
+      "chunkId": "s05-p07-03",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s05-p07-03.mp3",
+      "en": "communicating with the locals and meeting travellers from all corners of the world.",
+      "cn": "当你独自旅行时，这会为你提供一个机会，去享受旅行中最有趣的部分——与当地人交流，以及结识来自世界各个角落的旅行者。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 8,
+      "chunkId": "s05-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s05-p08.mp3",
+      "en": "In fact, travelling is not easy.",
+      "cn": "旅行并不容易。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 9,
+      "chunkId": "s05-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s05-p09.mp3",
+      "en": "There's research to be done, flights to be booked and choices to be made.",
+      "cn": "要做攻略、订机票、做选择。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 10,
+      "chunkId": "s05-p10",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s05-p10.mp3",
+      "en": "Not to mention that things can, and often do, go wrong.",
+      "cn": "更不用提旅行中很多事可能（也确实经常）会出错。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 11,
+      "chunkId": "s05-p11-01",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s05-p11-01.mp3",
+      "en": "One of the main advantages of travelling with friends is being able to share these things,",
+      "cn": "哪怕只是在你去洗手间时有人帮你拿包。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 11,
+      "chunkId": "s05-p11-02",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s05-p11-02.mp3",
+      "en": "and support each other through the process,",
+      "cn": "哪怕只是在你去洗手间时有人帮你拿包。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 11,
+      "chunkId": "s05-p11-03",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s05-p11-03.mp3",
+      "en": "even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "cn": "哪怕只是在你去洗手间时有人帮你拿包。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 12,
+      "chunkId": "s05-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s05-p12.mp3",
+      "en": "It's true that travelling with others can give you a sense of safety, especially if you're new to travel.",
+      "cn": "尤其是如果你是旅行新手的话。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 13,
+      "chunkId": "s05-p13-01",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s05-p13-01.mp3",
+      "en": "You know that if you get lost or have your wallet stolen,",
+      "cn": "你知道，如果迷路了，或是钱包被偷了，当你在陌生的警察局试图解释你的情况时，会有个人握着你的手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 13,
+      "chunkId": "s05-p13-02",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s05-p13-02.mp3",
+      "en": "there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "cn": "你知道，如果迷路了，或是钱包被偷了，当你在陌生的警察局试图解释你的情况时，会有个人握着你的手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 14,
+      "chunkId": "s05-p14",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s05-p14.mp3",
+      "en": "There's no right or wrong way to travel.",
+      "cn": "旅行的方式没有对错之分。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 15,
+      "chunkId": "s05-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s05-p15.mp3",
+      "en": "Whether you travel alone or team up with friends, it depends on yourself.",
+      "cn": "都取决于你自己。"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 20,
+      "label": "第20听力小节",
+      "file": "assets/images/15.png"
+    }
+  ],
+  "dictionary": {
+    "one": {
+      "word": "One",
+      "phonetic": "/wən/",
+      "translation": "一",
+      "core": false
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "the": {
+      "word": "the",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "great": {
+      "word": "great",
+      "phonetic": "/greɪt/",
+      "translation": "伟大的",
+      "core": false
+    },
+    "things": {
+      "word": "things",
+      "phonetic": "/θɪŋz/",
+      "translation": "事物",
+      "core": false
+    },
+    "about": {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "translation": "关于",
+      "core": false
+    },
+    "travelling": {
+      "word": "travelling",
+      "phonetic": "/ˈtrævəlɪŋ/",
+      "translation": "旅行",
+      "core": true,
+      "coreWord": "travel"
+    },
+    "alone": {
+      "word": "alone",
+      "phonetic": "/əˈloʊn/",
+      "translation": "独自的",
+      "core": true,
+      "coreWord": "alone"
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "that": {
+      "word": "that",
+      "phonetic": "/ðət/",
+      "translation": "那",
+      "core": false
+    },
+    "you": {
+      "word": "you",
+      "phonetic": "/juː/",
+      "translation": "你；你们",
+      "core": false
+    },
+    "make": {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "translation": "制作",
+      "core": true,
+      "coreWord": "make"
+    },
+    "rules": {
+      "word": "rules",
+      "phonetic": "/rulz/",
+      "translation": "规则",
+      "core": false
+    },
+    "where": {
+      "word": "where",
+      "phonetic": "/wɛr/",
+      "translation": "在哪里",
+      "core": false
+    },
+    "go": {
+      "word": "go",
+      "phonetic": "/goʊ/",
+      "translation": "去",
+      "core": false
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "what": {
+      "word": "what",
+      "phonetic": "/wət/",
+      "translation": "什么",
+      "core": false
+    },
+    "eat": {
+      "word": "eat",
+      "phonetic": "/it/",
+      "translation": "吃",
+      "core": false
+    },
+    "really": {
+      "word": "really",
+      "phonetic": "/ˈrɪli/",
+      "translation": "真的",
+      "core": false
+    },
+    "shows": {
+      "word": "shows",
+      "phonetic": "/ʃoʊz/",
+      "translation": "节目",
+      "core": true,
+      "coreWord": "show"
+    },
+    "youre": {
+      "word": "you're",
+      "phonetic": "/jʊr/",
+      "translation": "你是",
+      "core": false
+    },
+    "made": {
+      "word": "made",
+      "phonetic": "/meɪd/",
+      "translation": "制成",
+      "core": true,
+      "coreWord": "make"
+    },
+    "helps": {
+      "word": "helps",
+      "phonetic": "/hɛlps/",
+      "translation": "帮助",
+      "core": false
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "discover": {
+      "word": "discover",
+      "phonetic": "/dɪˈskəvər/",
+      "translation": "发现",
+      "core": false
+    },
+    "inner": {
+      "word": "inner",
+      "phonetic": "/ˈɪnər/",
+      "translation": "内",
+      "core": true,
+      "coreWord": "inner"
+    },
+    "strength": {
+      "word": "strength",
+      "phonetic": "/strɛŋθ/",
+      "translation": "力量",
+      "core": false
+    },
+    "didnt": {
+      "word": "didn't",
+      "phonetic": "/didnt/",
+      "translation": "没有",
+      "core": false
+    },
+    "know": {
+      "word": "know",
+      "phonetic": "/noʊ/",
+      "translation": "知道",
+      "core": false
+    },
+    "had": {
+      "word": "had",
+      "phonetic": "/hæd/",
+      "translation": "有",
+      "core": false
+    },
+    "besides": {
+      "word": "Besides",
+      "phonetic": "/ˌbiˈsaɪdz/",
+      "translation": "除了",
+      "core": false
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "also": {
+      "word": "also",
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还",
+      "core": false
+    },
+    "gives": {
+      "word": "gives",
+      "phonetic": "/gɪvz/",
+      "translation": "给出",
+      "core": true,
+      "coreWord": "give"
+    },
+    "time": {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "translation": "时间",
+      "core": false
+    },
+    "think": {
+      "word": "think",
+      "phonetic": "/θɪŋk/",
+      "translation": "思考",
+      "core": false
+    },
+    "learn": {
+      "word": "learn",
+      "phonetic": "/lərn/",
+      "translation": "学习",
+      "core": false
+    },
+    "when": {
+      "word": "When",
+      "phonetic": "/wɪn/",
+      "translation": "什么时候",
+      "core": false
+    },
+    "your": {
+      "word": "your",
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的",
+      "core": true,
+      "coreWord": "your"
+    },
+    "eyes": {
+      "word": "eyes",
+      "phonetic": "/aɪz/",
+      "translation": "眼睛",
+      "core": false
+    },
+    "are": {
+      "word": "are",
+      "phonetic": "/ər/",
+      "translation": "是",
+      "core": false
+    },
+    "wide": {
+      "word": "wide",
+      "phonetic": "/waɪd/",
+      "translation": "宽的",
+      "core": false
+    },
+    "open": {
+      "word": "open",
+      "phonetic": "/ˈoʊpən/",
+      "translation": "打开",
+      "core": false
+    },
+    "youll": {
+      "word": "you'll",
+      "phonetic": "/juːl/",
+      "translation": "你会",
+      "core": false
+    },
+    "get": {
+      "word": "get",
+      "phonetic": "/gɪt/",
+      "translation": "得到",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "whole": {
+      "word": "whole",
+      "phonetic": "/hoʊl/",
+      "translation": "所有的",
+      "core": true,
+      "coreWord": "whole"
+    },
+    "new": {
+      "word": "new",
+      "phonetic": "/nu/",
+      "translation": "新的",
+      "core": false
+    },
+    "outlook": {
+      "word": "outlook",
+      "phonetic": "/ˈaʊˌtlʊk/",
+      "translation": "前景",
+      "core": true,
+      "coreWord": "outlook"
+    },
+    "on": {
+      "word": "on",
+      "phonetic": "/ɑːn/",
+      "translation": "在……上",
+      "core": false
+    },
+    "world": {
+      "word": "world",
+      "phonetic": "/wərld/",
+      "translation": "世界",
+      "core": false
+    },
+    "its": {
+      "word": "It's",
+      "phonetic": "/ɪts/",
+      "translation": "它的；它是",
+      "core": false
+    },
+    "easy": {
+      "word": "easy",
+      "phonetic": "/ˈizi/",
+      "translation": "简单的",
+      "core": false
+    },
+    "lonely": {
+      "word": "lonely",
+      "phonetic": "/ˈloʊnli/",
+      "translation": "孤独",
+      "core": true,
+      "coreWord": "lonely"
+    },
+    "although": {
+      "word": "Although",
+      "phonetic": "/ˌɔlˈðoʊ/",
+      "translation": "虽然",
+      "core": true,
+      "coreWord": "although"
+    },
+    "may": {
+      "word": "may",
+      "phonetic": "/meɪ/",
+      "translation": "可能",
+      "core": false
+    },
+    "sometimes": {
+      "word": "sometimes",
+      "phonetic": "/ˈsəmˌtaɪmz/",
+      "translation": "有时",
+      "core": false
+    },
+    "be": {
+      "word": "be",
+      "phonetic": "/bi/",
+      "translation": "是",
+      "core": false
+    },
+    "true": {
+      "word": "true",
+      "phonetic": "/tru/",
+      "translation": "真的",
+      "core": false
+    },
+    "hardly": {
+      "word": "hardly",
+      "phonetic": "/ˈhɑrdli/",
+      "translation": "几乎不",
+      "core": false
+    },
+    "ever": {
+      "word": "ever",
+      "phonetic": "/ˈɛvər/",
+      "translation": "曾经",
+      "core": false
+    },
+    "travel": {
+      "word": "travel",
+      "phonetic": "/ˈtrævəl/",
+      "translation": "旅行",
+      "core": true,
+      "coreWord": "travel"
+    },
+    "in": {
+      "word": "in",
+      "phonetic": "/ɪn/",
+      "translation": "在……里",
+      "core": false
+    },
+    "person": {
+      "word": "person",
+      "phonetic": "/ˈpərsən/",
+      "translation": "人",
+      "core": false
+    },
+    "team": {
+      "word": "team",
+      "phonetic": "/tim/",
+      "translation": "团队",
+      "core": true,
+      "coreWord": "team"
+    },
+    "this": {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "can": {
+      "word": "can",
+      "phonetic": "/kən/",
+      "translation": "能",
+      "core": false
+    },
+    "provide": {
+      "word": "provide",
+      "phonetic": "/prəˈvaɪd/",
+      "translation": "提供",
+      "core": false
+    },
+    "chance": {
+      "word": "chance",
+      "phonetic": "/ʧæns/",
+      "translation": "机会",
+      "core": false
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "enjoy": {
+      "word": "enjoy",
+      "phonetic": "/ˌɛnˈʤɔɪ/",
+      "translation": "享受",
+      "core": false
+    },
+    "most": {
+      "word": "most",
+      "phonetic": "/moʊst/",
+      "translation": "最多",
+      "core": true,
+      "coreWord": "most"
+    },
+    "interesting": {
+      "word": "interesting",
+      "phonetic": "/ˈɪntəˌrɛstɪŋ/",
+      "translation": "有趣的",
+      "core": false
+    },
+    "part": {
+      "word": "part",
+      "phonetic": "/pɑrt/",
+      "translation": "部分",
+      "core": false
+    },
+    "communicating": {
+      "word": "communicating",
+      "phonetic": "/kəmˈjunəˌkeɪtɪŋ/",
+      "translation": "沟通",
+      "core": false
+    },
+    "with": {
+      "word": "with",
+      "phonetic": "/wɪð/",
+      "translation": "和；带有",
+      "core": false
+    },
+    "locals": {
+      "word": "locals",
+      "phonetic": "/ˈloʊkəlz/",
+      "translation": "当地人",
+      "core": false
+    },
+    "meeting": {
+      "word": "meeting",
+      "phonetic": "/ˈmitɪŋ/",
+      "translation": "会议",
+      "core": false
+    },
+    "travellers": {
+      "word": "travellers",
+      "phonetic": "/ˈtrævələrz/",
+      "translation": "旅行者",
+      "core": true,
+      "coreWord": "traveller"
+    },
+    "from": {
+      "word": "from",
+      "phonetic": "/frʌm/",
+      "translation": "从",
+      "core": false
+    },
+    "all": {
+      "word": "all",
+      "phonetic": "/ɔl/",
+      "translation": "全部",
+      "core": false
+    },
+    "corners": {
+      "word": "corners",
+      "phonetic": "/ˈkɔrnərz/",
+      "translation": "角落",
+      "core": true,
+      "coreWord": "corner"
+    },
+    "fact": {
+      "word": "fact",
+      "phonetic": "/fækt/",
+      "translation": "事实",
+      "core": false
+    },
+    "not": {
+      "word": "not",
+      "phonetic": "/nɑt/",
+      "translation": "不是",
+      "core": false
+    },
+    "theres": {
+      "word": "There's",
+      "phonetic": "/theres/",
+      "translation": "那里",
+      "core": false
+    },
+    "research": {
+      "word": "research",
+      "phonetic": "/ˈrisərʧ/",
+      "translation": "研究",
+      "core": false
+    },
+    "done": {
+      "word": "done",
+      "phonetic": "/dən/",
+      "translation": "完毕",
+      "core": false
+    },
+    "flights": {
+      "word": "flights",
+      "phonetic": "/flaɪts/",
+      "translation": "航班",
+      "core": true,
+      "coreWord": "flight"
+    },
+    "booked": {
+      "word": "booked",
+      "phonetic": "/bʊkt/",
+      "translation": "已预订",
+      "core": true,
+      "coreWord": "book"
+    },
+    "choices": {
+      "word": "choices",
+      "phonetic": "/ˈʧɔɪsɪz/",
+      "translation": "选择",
+      "core": false
+    },
+    "mention": {
+      "word": "mention",
+      "phonetic": "/ˈmɛnʃən/",
+      "translation": "提到",
+      "core": true,
+      "coreWord": "mention"
+    },
+    "often": {
+      "word": "often",
+      "phonetic": "/ˈɔfən/",
+      "translation": "经常",
+      "core": true,
+      "coreWord": "often"
+    },
+    "do": {
+      "word": "do",
+      "phonetic": "/du/",
+      "translation": "做",
+      "core": false
+    },
+    "wrong": {
+      "word": "wrong",
+      "phonetic": "/rɔŋ/",
+      "translation": "错误的",
+      "core": false
+    },
+    "main": {
+      "word": "main",
+      "phonetic": "/meɪn/",
+      "translation": "主要的",
+      "core": false
+    },
+    "advantages": {
+      "word": "advantages",
+      "phonetic": "/ædˈvæntɪʤɪz/",
+      "translation": "优点",
+      "core": true,
+      "coreWord": "advantage"
+    },
+    "friends": {
+      "word": "friends",
+      "phonetic": "/frɛndz/",
+      "translation": "朋友们",
+      "core": true,
+      "coreWord": "friend"
+    },
+    "being": {
+      "word": "being",
+      "phonetic": "/biɪŋ/",
+      "translation": "存在",
+      "core": false
+    },
+    "able": {
+      "word": "able",
+      "phonetic": "/ˈeɪbəl/",
+      "translation": "有能力的",
+      "core": false
+    },
+    "share": {
+      "word": "share",
+      "phonetic": "/ʃɛr/",
+      "translation": "分享",
+      "core": false
+    },
+    "these": {
+      "word": "these",
+      "phonetic": "/ðiz/",
+      "translation": "这些",
+      "core": true,
+      "coreWord": "these"
+    },
+    "support": {
+      "word": "support",
+      "phonetic": "/səˈpɔrt/",
+      "translation": "支持",
+      "core": false
+    },
+    "each": {
+      "word": "each",
+      "phonetic": "/iʧ/",
+      "translation": "每个",
+      "core": false
+    },
+    "other": {
+      "word": "other",
+      "phonetic": "/ˈəðər/",
+      "translation": "其他",
+      "core": false
+    },
+    "through": {
+      "word": "through",
+      "phonetic": "/θru/",
+      "translation": "通过",
+      "core": true,
+      "coreWord": "through"
+    },
+    "process": {
+      "word": "process",
+      "phonetic": "/ˈprɔˌsɛs/",
+      "translation": "过程",
+      "core": false
+    },
+    "even": {
+      "word": "even",
+      "phonetic": "/ˈivɪn/",
+      "translation": "甚至",
+      "core": false
+    },
+    "if": {
+      "word": "if",
+      "phonetic": "/ɪf/",
+      "translation": "如果",
+      "core": false
+    },
+    "just": {
+      "word": "just",
+      "phonetic": "/ʤɪst/",
+      "translation": "只是",
+      "core": false
+    },
+    "someone": {
+      "word": "someone",
+      "phonetic": "/ˈsəmˌwən/",
+      "translation": "某人",
+      "core": true,
+      "coreWord": "someone"
+    },
+    "who": {
+      "word": "who",
+      "phonetic": "/hu/",
+      "translation": "WHO",
+      "core": false
+    },
+    "will": {
+      "word": "will",
+      "phonetic": "/wɪl/",
+      "translation": "将要",
+      "core": false
+    },
+    "wait": {
+      "word": "wait",
+      "phonetic": "/weɪt/",
+      "translation": "等待",
+      "core": false
+    },
+    "bag": {
+      "word": "bag",
+      "phonetic": "/bæg/",
+      "translation": "包",
+      "core": false
+    },
+    "bathroom": {
+      "word": "bathroom",
+      "phonetic": "/ˈbæθˌrum/",
+      "translation": "浴室",
+      "core": false
+    },
+    "others": {
+      "word": "others",
+      "phonetic": "/ˈəðərz/",
+      "translation": "其他的",
+      "core": false
+    },
+    "give": {
+      "word": "give",
+      "phonetic": "/gɪv/",
+      "translation": "给",
+      "core": true,
+      "coreWord": "give"
+    },
+    "sense": {
+      "word": "sense",
+      "phonetic": "/sɛns/",
+      "translation": "感觉",
+      "core": false
+    },
+    "safety": {
+      "word": "safety",
+      "phonetic": "/ˈseɪfti/",
+      "translation": "安全",
+      "core": true,
+      "coreWord": "safety"
+    },
+    "especially": {
+      "word": "especially",
+      "phonetic": "/əˈspɛʃəli/",
+      "translation": "尤其",
+      "core": true,
+      "coreWord": "especially"
+    },
+    "lost": {
+      "word": "lost",
+      "phonetic": "/lɔst/",
+      "translation": "丢失的",
+      "core": true,
+      "coreWord": "lost"
+    },
+    "or": {
+      "word": "or",
+      "phonetic": "/ɔːr/",
+      "translation": "或者",
+      "core": false
+    },
+    "have": {
+      "word": "have",
+      "phonetic": "/hæv/",
+      "translation": "有",
+      "core": false
+    },
+    "wallet": {
+      "word": "wallet",
+      "phonetic": "/ˈwɔlət/",
+      "translation": "钱包",
+      "core": true,
+      "coreWord": "wallet"
+    },
+    "stolen": {
+      "word": "stolen",
+      "phonetic": "/ˈstoʊlən/",
+      "translation": "被盗",
+      "core": true,
+      "coreWord": "steal"
+    },
+    "hold": {
+      "word": "hold",
+      "phonetic": "/hoʊld/",
+      "translation": "抓住",
+      "core": false
+    },
+    "hand": {
+      "word": "hand",
+      "phonetic": "/hænd/",
+      "translation": "手",
+      "core": false
+    },
+    "try": {
+      "word": "try",
+      "phonetic": "/traɪ/",
+      "translation": "尝试",
+      "core": false
+    },
+    "explain": {
+      "word": "explain",
+      "phonetic": "/ɪkˈspleɪn/",
+      "translation": "解释",
+      "core": true,
+      "coreWord": "explain"
+    },
+    "situation": {
+      "word": "situation",
+      "phonetic": "/ˌsɪʧuˈeɪʃən/",
+      "translation": "情况",
+      "core": false
+    },
+    "foreign": {
+      "word": "foreign",
+      "phonetic": "/ˈfɔrən/",
+      "translation": "外国的",
+      "core": true,
+      "coreWord": "foreign"
+    },
+    "police": {
+      "word": "police",
+      "phonetic": "/pəˈlis/",
+      "translation": "警察",
+      "core": true,
+      "coreWord": "police"
+    },
+    "station": {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃən/",
+      "translation": "车站",
+      "core": false
+    },
+    "no": {
+      "word": "no",
+      "phonetic": "/noʊ/",
+      "translation": "不",
+      "core": false
+    },
+    "right": {
+      "word": "right",
+      "phonetic": "/raɪt/",
+      "translation": "正确的",
+      "core": false
+    },
+    "way": {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "translation": "方式",
+      "core": false
+    },
+    "whether": {
+      "word": "Whether",
+      "phonetic": "/ˈwɛðər/",
+      "translation": "无论",
+      "core": true,
+      "coreWord": "whether"
+    },
+    "up": {
+      "word": "up",
+      "phonetic": "/əp/",
+      "translation": "向上",
+      "core": false
+    },
+    "depends": {
+      "word": "depends",
+      "phonetic": "/dɪˈpɛndz/",
+      "translation": "取决于",
+      "core": false
+    },
+    "yourself": {
+      "word": "yourself",
+      "phonetic": "/ˈjɔrsɛlf/",
+      "translation": "你自己",
+      "core": false
+    }
+  },
+  "coreCards": [
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævəl/",
+      "translation": "旅行",
+      "definition": "/ˈtrævəl/ 旅行",
+      "sections": [
+        {
+          "label": "用",
+          "text": "过去式：traveled/travelled 过去分词：traveled/travelled\nHe travelled everywhere to look for herbs and do research.\n他到处寻找草药并做研究。"
+        }
+      ],
+      "example": "One of the great things about travelling alone is that you make the rules about where you go and what you eat.",
+      "aliases": [
+        "travel",
+        "travelling"
+      ],
+      "sourcePhoto": "IMG_3601.JPG"
+    },
+    {
+      "word": "alone",
+      "phonetic": "/əˈloʊn/",
+      "translation": "adj: /adv.独自，单独；孤独；仅仅",
+      "definition": "/əˈloʊn/ adj: /adv.独自，单独；孤独；仅仅",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "let alone 更不用说"
+        }
+      ],
+      "example": "One of the great things about travelling alone is that you make the rules about where you go and what you eat.",
+      "aliases": [
+        "alone"
+      ],
+      "sourcePhoto": "IMG_3601.JPG"
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "translation": "v.做；写，制订；造成；使产生；\n使变得，使成为；作出（决定、估计等）；。\n促使；赚钱",
+      "definition": "/meɪk/ v.做；写，制订；造成；使产生；\n使变得，使成为；作出（决定、估计等）；。\n促使；赚钱",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：生米做（make）熟饭，鸡蛋。\n做蛋糕（cake）"
+        },
+        {
+          "label": "搭",
+          "text": "make money 挣钱\nmake bed 整理床铺\nmake a living 谋生\nmake use of 利用\nmake up of 田···构成 make up one's\nmind 下定决心 be made of 由···⋯·制成"
+        },
+        {
+          "label": "用",
+          "text": "过去式：made 过去分词：made"
+        }
+      ],
+      "example": "One of the great things about travelling alone is that you make the rules about where you go and what you eat.",
+      "aliases": [
+        "make",
+        "made"
+      ],
+      "sourcePhoto": "IMG_3601.JPG"
+    },
+    {
+      "word": "show",
+      "phonetic": "/ou/",
+      "translation": "v. 表明；展示；带，领n.演出；展览",
+      "definition": "/ou/ v. 表明；展示；带，领n.演出；展览",
+      "sections": [
+        {
+          "label": "记",
+          "text": "发音记忆：“手”一手伸出来让我看看（show）"
+        },
+        {
+          "label": "搭",
+          "text": "show sb. around 领某人到处参观 show off 炫耀\n露出，露面"
+        },
+        {
+          "label": "用",
+          "text": "过去式：showed 过去分词：shown"
+        }
+      ],
+      "example": "Travelling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
+      "aliases": [
+        "shows"
+      ],
+      "sourcePhoto": "IMG_3601.JPG"
+    },
+    {
+      "word": "inner",
+      "phonetic": "/ˈɪnər/",
+      "translation": "内",
+      "definition": "/ˈɪnər/ 内",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：in（在⋯⋯里面）+ner 一内部的"
+        }
+      ],
+      "example": "Travelling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
+      "aliases": [
+        "inner"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "give",
+      "phonetic": "/gɪv/",
+      "translation": "给",
+      "definition": "/gɪv/ 给",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：give（给予）gift（礼物）\ngive up 放弃 give in 屈服，让步 give off 放出，发出（光、\n热等） give out 分发；发出（气味等）"
+        },
+        {
+          "label": "用",
+          "text": "过去式：gave"
+        },
+        {
+          "label": "用",
+          "text": "过去分词：given"
+        }
+      ],
+      "example": "Besides, it also gives you time to think and learn.",
+      "aliases": [
+        "give",
+        "gives"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "your",
+      "phonetic": "/jʊr/",
+      "translation": "det.你的，你们的",
+      "definition": "/jʊr/ det.你的，你们的",
+      "sections": [],
+      "example": "When your eyes are wide open, you'll get a whole new outlook on the world.",
+      "aliases": [
+        "your"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "whole",
+      "phonetic": "/hoʊl/",
+      "translation": "所有的",
+      "definition": "/hoʊl/ 所有的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：whole（全部的）宝物都藏在 hole（洞）里\non the whole 大体上，基本上 the whole life一生"
+        }
+      ],
+      "example": "When your eyes are wide open, you'll get a whole new outlook on the world.",
+      "aliases": [
+        "whole"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "outlook",
+      "phonetic": "/ˈaʊˌtlʊk/",
+      "translation": "n. 观点，看法；前景；景色",
+      "definition": "/ˈaʊˌtlʊk/ n. 观点，看法；前景；景色",
+      "sections": [
+        {
+          "label": "记",
+          "text": "合成词：out（向外）+look（看）一向外看一前景"
+        }
+      ],
+      "example": "When your eyes are wide open, you'll get a whole new outlook on the world.",
+      "aliases": [
+        "outlook"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "lonely",
+      "phonetic": "/ˈloʊnli/",
+      "translation": "孤独",
+      "definition": "/ˈloʊnli/ 孤独",
+      "sections": [],
+      "example": "It's easy to think that travelling alone is lonely.",
+      "aliases": [
+        "lonely"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "although",
+      "phonetic": "/ˌɔlˈðoʊ/",
+      "translation": "conj.虽然，尽管；然而",
+      "definition": "/ˌɔlˈðoʊ/ conj.虽然，尽管；然而",
+      "sections": [],
+      "example": "Although that may sometimes be true, you're hardly ever alone.",
+      "aliases": [
+        "Although",
+        "although"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "team",
+      "phonetic": "/tim/",
+      "translation": "n.队，组v.（使）合作",
+      "definition": "/tim/ n.队，组v.（使）合作",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：采tea（茶）小team（队）"
+        },
+        {
+          "label": "搭",
+          "text": "team up 结成一队，合作"
+        }
+      ],
+      "example": "When you travel in a one-person team, this can provide a chance for you to enjoy the most interesting part of travel, communicating with the locals and meeting travellers from all corners of the world.",
+      "aliases": [
+        "team"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "most",
+      "phonetic": "/moʊst/",
+      "translation": "adv. 最；极其 det./pron. 最多，\n最大；大多数",
+      "definition": "/moʊst/ adv. 最；极其 det./pron. 最多，\n最大；大多数",
+      "sections": [],
+      "example": "When you travel in a one-person team, this can provide a chance for you to enjoy the most interesting part of travel, communicating with the locals and meeting travellers from all corners of the world.",
+      "aliases": [
+        "most"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "traveller",
+      "phonetic": "/traevale（r）/",
+      "translation": "n.旅行者；旅客；游客",
+      "definition": "/traevale（r）/ n.旅行者；旅客；游客",
+      "sections": [],
+      "example": "When you travel in a one-person team, this can provide a chance for you to enjoy the most interesting part of travel, communicating with the locals and meeting travellers from all corners of the world.",
+      "aliases": [
+        "travellers"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "corner",
+      "phonetic": "/corner/",
+      "translation": "n.角，角落；街角\ncorner",
+      "definition": "/corner/ n.角，角落；街角\ncorner",
+      "sections": [
+        {
+          "label": "拓",
+          "text": "cornerstone（n. 奠基石；基础）"
+        }
+      ],
+      "example": "When you travel in a one-person team, this can provide a chance for you to enjoy the most interesting part of travel, communicating with the locals and meeting travellers from all corners of the world.",
+      "aliases": [
+        "corners"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "flight",
+      "phonetic": "/flart/",
+      "translation": "n.航班，班机；行",
+      "definition": "/flart/ n.航班，班机；行",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：f+light（轻的） 身体"
+        }
+      ],
+      "example": "There's research to be done, flights to be booked and choices to be made.",
+      "aliases": [
+        "flights"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "book",
+      "phonetic": "",
+      "translation": "轻飘飘的，像要飞起来一飞行\n［buk］ v.预订，预约n.书，书籍；本子；簿册\n一边 cook（做饭）",
+      "definition": "轻飘飘的，像要飞起来一飞行\n［buk］ v.预订，预约n.书，书籍；本子；簿册\n一边 cook（做饭）",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：手拿book（书），一边look（看），"
+        }
+      ],
+      "example": "There's research to be done, flights to be booked and choices to be made.",
+      "aliases": [
+        "booked"
+      ],
+      "sourcePhoto": "IMG_3602.JPG"
+    },
+    {
+      "word": "mention",
+      "phonetic": "/ˈmɛnʃən/",
+      "translation": "n./v 提及，说起",
+      "definition": "/ˈmɛnʃən/ n./v 提及，说起",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "not to mention 更不用说\nmention sth. to sb. 向某人提起某事"
+        }
+      ],
+      "example": "Not to mention that things can, and often do, go wrong.",
+      "aliases": [
+        "mention"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "often",
+      "phonetic": "/ˈɔfən/",
+      "translation": "adv.常常，时常",
+      "definition": "/ˈɔfən/ adv.常常，时常",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：of+ten（十） 十有八九 经常"
+        },
+        {
+          "label": "用",
+          "text": "always、usually、often、seldom、never 这些词都是频度副词，\n表示事情发生的概率，且频度是由高到低的。"
+        }
+      ],
+      "example": "Not to mention that things can, and often do, go wrong.",
+      "aliases": [
+        "often"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "advantage",
+      "phonetic": "/ed'vasntrdg/",
+      "translation": "n.优点；好处，优势",
+      "definition": "/ed'vasntrdg/ n.优点；好处，优势",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "take advantage of 利用"
+        }
+      ],
+      "example": "One of the main advantages of travelling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "aliases": [
+        "advantages"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "these",
+      "phonetic": "/ðiz/",
+      "translation": "det./pron. 这些",
+      "definition": "/ðiz/ det./pron. 这些",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：these（这些）和those（那些）对比记忆，一个\n中间是e，一个中间是。"
+        }
+      ],
+      "example": "One of the main advantages of travelling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "aliases": [
+        "these"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "through",
+      "phonetic": "/θru/",
+      "translation": "prep.穿过；自始至终；凭借\nthrough\nadv. 通过；直达；彻底地",
+      "definition": "/θru/ prep.穿过；自始至终；凭借\nthrough\nadv. 通过；直达；彻底地",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：th+rough（粗略的，大致的）\n一从头到尾粗略浏览一穿过；自始至终\nget through 打通（电话）；通过\ngo through 经受"
+        }
+      ],
+      "example": "One of the main advantages of travelling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "aliases": [
+        "through"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "someone",
+      "phonetic": "/ˈsəmˌwən/",
+      "translation": "pron.有人，某人",
+      "definition": "/ˈsəmˌwən/ pron.有人，某人",
+      "sections": [
+        {
+          "label": "记",
+          "text": "合成词：some（某个）+one（一个人）一某人"
+        }
+      ],
+      "example": "One of the main advantages of travelling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "aliases": [
+        "someone"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "safety",
+      "phonetic": "/ˈseɪfti/",
+      "translation": "n. 安全；安全场所",
+      "definition": "/ˈseɪfti/ n. 安全；安全场所",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：safe（安全的）+ty（表状态）一安全的状态一安全"
+        }
+      ],
+      "example": "It's true that travelling with others can give you a sense of safety, especially if you're new to travel.",
+      "aliases": [
+        "safety"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "especially",
+      "phonetic": "/əˈspɛʃəli/",
+      "translation": "adv.特别，尤其",
+      "definition": "/əˈspɛʃəli/ adv.特别，尤其",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：来自 especial（adj. 特别的）"
+        }
+      ],
+      "example": "It's true that travelling with others can give you a sense of safety, especially if you're new to travel.",
+      "aliases": [
+        "especially"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "lost",
+      "phonetic": "/lɔst/",
+      "translation": "丢失的",
+      "definition": "/lɔst/ 丢失的",
+      "sections": [],
+      "example": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "aliases": [
+        "lost"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "wallet",
+      "phonetic": "/ˈwɔlət/",
+      "translation": "n. 钱包，皮夹子",
+      "definition": "/ˈwɔlət/ n. 钱包，皮夹子",
+      "sections": [],
+      "example": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "aliases": [
+        "wallet"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "steal",
+      "phonetic": "",
+      "translation": "v.偷盗，行窃",
+      "definition": "v.偷盗，行窃",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：小偷经常去偷盗（steal）工 steal\n厂的钢铁（steel）"
+        },
+        {
+          "label": "用",
+          "text": "过去式：stole 过去分词：stolen"
+        }
+      ],
+      "example": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "aliases": [
+        "stolen"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "explain",
+      "phonetic": "/ɪkˈspleɪn/",
+      "translation": "v.解释，说明",
+      "definition": "/ɪkˈspleɪn/ v.解释，说明",
+      "sections": [
+        {
+          "label": "记",
+          "text": "，"
+        },
+        {
+          "label": "记",
+          "text": "词根记忆：ex（出）+plain（平的，明白的）一说明白一说明\nFew students could understand the sentence until it was\nexplained by Miss Chen.几乎没有学生能理解这句话，直到\n陈老师进行了解释。"
+        }
+      ],
+      "example": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "aliases": [
+        "explain"
+      ],
+      "sourcePhoto": "IMG_3603.JPG"
+    },
+    {
+      "word": "foreign",
+      "phonetic": "/ˈfɔrən/",
+      "translation": "外国的",
+      "definition": "/ˈfɔrən/ 外国的",
+      "sections": [
+        {
+          "label": "拓",
+          "text": "foreigner（n.外国人）"
+        }
+      ],
+      "example": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "aliases": [
+        "foreign"
+      ],
+      "sourcePhoto": "IMG_3604.JPG"
+    },
+    {
+      "word": "police",
+      "phonetic": "/pəˈlis/",
+      "translation": "n. 警方，警察",
+      "definition": "/pəˈlis/ n. 警方，警察",
+      "sections": [
+        {
+          "label": "记",
+          "text": "."
+        },
+        {
+          "label": "记",
+          "text": "词根记忆：polil（三polis，城市）+ce 一协助管理城市治安的人\n一警察\npolice 是集体名词，谓语动词通常用复数形式。若需强调单个\n警察，通常用 police officer 或 policeman/policewoman。"
+        }
+      ],
+      "example": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "aliases": [
+        "police"
+      ],
+      "sourcePhoto": "IMG_3604.JPG"
+    },
+    {
+      "word": "whether",
+      "phonetic": "/ˈwɛðər/",
+      "translation": "conj.是否；不管，无论\nfriend",
+      "definition": "/ˈwɛðər/ conj.是否；不管，无论\nfriend",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：明天天气（weather）是\n否（whether）会变晴呢？"
+        }
+      ],
+      "example": "Whether you travel alone or team up with friends, it depends on yourself.",
+      "aliases": [
+        "Whether",
+        "whether"
+      ],
+      "sourcePhoto": "IMG_3604.JPG"
+    },
+    {
+      "word": "friend",
+      "phonetic": "/frend/",
+      "translation": "n. 朋友",
+      "definition": "/frend/ n. 朋友",
+      "sections": [],
+      "example": "One of the main advantages of travelling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "aliases": [
+        "friends"
+      ],
+      "sourcePhoto": "IMG_3604.JPG"
+    }
+  ],
+  "coreWordCount": 33,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s05-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s05-p01.mp3",
+      "en": "One of the great things about travelling alone is that you make the rules about where you go and what you eat.",
+      "cn": "独自旅行的一大妙处在于，你可以自己做决定要去哪里以及吃什么。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s05-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s05-p02.mp3",
+      "en": "Travelling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
+      "cn": "独自旅行能真正地展现出你是什么样的人，并帮助你发掘你所拥有的自己未知的内在力量。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s05-p03",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s05-p03.mp3",
+      "en": "Besides, it also gives you time to think and learn.",
+      "cn": "它还能给你思考和学习的时间。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s05-p04",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s05-p04.mp3",
+      "en": "When your eyes are wide open, you'll get a whole new outlook on the world.",
+      "cn": "你会对这个世界有一个全新的认识。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s05-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s05-p05.mp3",
+      "en": "It's easy to think that travelling alone is lonely.",
+      "cn": "人们很容易认为独自旅行会很孤独。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s05-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s05-p06.mp3",
+      "en": "Although that may sometimes be true, you're hardly ever alone.",
+      "cn": "但其实你几乎从来都不是独自一人。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s05-p07-01",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s05-p07-01.mp3",
+      "en": "When you travel in a one-person team,",
+      "cn": "当你独自旅行时，这会为你提供一个机会，去享受旅行中最有趣的部分——与当地人交流，以及结识来自世界各个角落的旅行者。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 7,
+      "chunkId": "s05-p07-02",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s05-p07-02.mp3",
+      "en": "this can provide a chance for you to enjoy the most interesting part of travel,",
+      "cn": "当你独自旅行时，这会为你提供一个机会，去享受旅行中最有趣的部分——与当地人交流，以及结识来自世界各个角落的旅行者。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 7,
+      "chunkId": "s05-p07-03",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s05-p07-03.mp3",
+      "en": "communicating with the locals and meeting travellers from all corners of the world.",
+      "cn": "当你独自旅行时，这会为你提供一个机会，去享受旅行中最有趣的部分——与当地人交流，以及结识来自世界各个角落的旅行者。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 8,
+      "chunkId": "s05-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s05-p08.mp3",
+      "en": "In fact, travelling is not easy.",
+      "cn": "旅行并不容易。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 9,
+      "chunkId": "s05-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s05-p09.mp3",
+      "en": "There's research to be done, flights to be booked and choices to be made.",
+      "cn": "要做攻略、订机票、做选择。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 10,
+      "chunkId": "s05-p10",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s05-p10.mp3",
+      "en": "Not to mention that things can, and often do, go wrong.",
+      "cn": "更不用提旅行中很多事可能（也确实经常）会出错。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 11,
+      "chunkId": "s05-p11-01",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s05-p11-01.mp3",
+      "en": "One of the main advantages of travelling with friends is being able to share these things,",
+      "cn": "哪怕只是在你去洗手间时有人帮你拿包。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 11,
+      "chunkId": "s05-p11-02",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s05-p11-02.mp3",
+      "en": "and support each other through the process,",
+      "cn": "哪怕只是在你去洗手间时有人帮你拿包。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 11,
+      "chunkId": "s05-p11-03",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s05-p11-03.mp3",
+      "en": "even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "cn": "哪怕只是在你去洗手间时有人帮你拿包。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 12,
+      "chunkId": "s05-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s05-p12.mp3",
+      "en": "It's true that travelling with others can give you a sense of safety, especially if you're new to travel.",
+      "cn": "尤其是如果你是旅行新手的话。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 13,
+      "chunkId": "s05-p13-01",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s05-p13-01.mp3",
+      "en": "You know that if you get lost or have your wallet stolen,",
+      "cn": "你知道，如果迷路了，或是钱包被偷了，当你在陌生的警察局试图解释你的情况时，会有个人握着你的手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 13,
+      "chunkId": "s05-p13-02",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s05-p13-02.mp3",
+      "en": "there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "cn": "你知道，如果迷路了，或是钱包被偷了，当你在陌生的警察局试图解释你的情况时，会有个人握着你的手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 14,
+      "chunkId": "s05-p14",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s05-p14.mp3",
+      "en": "There's no right or wrong way to travel.",
+      "cn": "旅行的方式没有对错之分。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 15,
+      "chunkId": "s05-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s05-p15.mp3",
+      "en": "Whether you travel alone or team up with friends, it depends on yourself.",
+      "cn": "都取决于你自己。"
+    }
+  ]
+}

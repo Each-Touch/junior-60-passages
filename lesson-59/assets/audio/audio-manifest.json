@@ -1,302 +1,152 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s59-p01",
       "text": "Have you ever imagined the life in space?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Have you ever imagined the life in space?",
-      "published_asr": "Have you ever imagined the life in space?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p01.mp3",
+      "sha256": "assets/audio/segments/s59-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s59-p02",
       "text": "The following will show you the astronauts' daily life.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.93,
-      "raw_duration_seconds": 3.36,
-      "asr": "The following will show you the astronauts, daily life.",
-      "published_asr": "The following will show you the astronauts' daily life.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p02.mp3",
+      "sha256": "assets/audio/segments/s59-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s59-p03",
       "text": "Eating in space",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "Eating in Space",
-      "published_asr": "Eating in Space",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p03.mp3",
+      "sha256": "assets/audio/segments/s59-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s59-p04",
       "text": "Some foods can be eaten in their natural forms, such as chocolate cakes and bananas.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "Some foods can be eaten in their natural forms, such as chocolate cakes and bananas.",
-      "published_asr": "Some foods can be eaten in their natural forms, such as chocolate cakes and bananas.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p04.mp3",
+      "sha256": "assets/audio/segments/s59-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s59-p05",
       "text": "Other foods require adding water, such as cheese.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Other foods require adding water, such as cheese.",
-      "published_asr": "Other foods require adding water, such as cheese.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p05.mp3",
+      "sha256": "assets/audio/segments/s59-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s59-p06",
       "text": "Of course, an oven is provided at the space station to heat the food.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.857,
-      "raw_duration_seconds": 4,
-      "asr": "Of course, an oven is provided at the space station to heat the food.",
-      "published_asr": "Of course, an oven is provided at the space station to heat the food.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p06.mp3",
+      "sha256": "assets/audio/segments/s59-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s59-p07",
       "text": "But there are no fridges, so space food must be kept properly.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "But there are no fridges, so space food must be kept properly.",
-      "published_asr": "But there are no fridges, so space food must be kept properly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p07.mp3",
+      "sha256": "assets/audio/segments/s59-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s59-p08",
       "text": "Astronauts can never be careless with their food storage.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Astronauts can never be careless with their food storage.",
-      "published_asr": "Astronauts can never be careless with their food storage.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p08.mp3",
+      "sha256": "assets/audio/segments/s59-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s59-p09",
       "text": "Sleeping in space",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "Sleeping in Space",
-      "published_asr": "Sleeping in Space",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p09.mp3",
+      "sha256": "assets/audio/segments/s59-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s59-p10",
       "text": "Astronauts go to bed at a certain time, then get up and prepare for work again.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "Astronauts go to bed at a certain time, then get up and prepare for work again.",
-      "published_asr": "Astronauts go to bed at a certain time, then get up and prepare for work again.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p10.mp3",
+      "sha256": "assets/audio/segments/s59-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s59-p11",
       "text": "They might set their alarm clocks to wake up at 6 a.m.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "They might set their alarm clocks to wake up at 6 a.m.",
-      "published_asr": "They might set their alarm clocks to wake up at 6 a.m.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p11.mp3",
+      "sha256": "assets/audio/segments/s59-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s59-p12",
       "text": "When going to sleep, they have to attach themselves, so they don't float around or hit their bodies against something.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "When going to sleep, they have to attach themselves, so they don't float around or hit their bodies against something.",
-      "published_asr": "When going to sleep, they have to attach themselves so they don't float around or hit their bodies against something.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p12.mp3",
+      "sha256": "assets/audio/segments/s59-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s59-p13",
       "text": "They usually use sleeping bags located in small crew cabins.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.857,
-      "raw_duration_seconds": 4,
-      "asr": "They usually use sleeping bags located in small crew cabins.",
-      "published_asr": "They usually use sleeping bags located in small crew cabins.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p13.mp3",
+      "sha256": "assets/audio/segments/s59-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s59-p14",
       "text": "Each crew cabin is like a tiny apartment just big enough for one person.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.326,
-      "raw_duration_seconds": 4.32,
-      "asr": "Each crew cabin is like a tiny apartment just big enough for one person.",
-      "published_asr": "Each crew cabin is like a tiny apartment just big enough for one person.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p14.mp3",
+      "sha256": "assets/audio/segments/s59-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s59-p15",
       "text": "Exercise is an important part of every astronaut's daily life to prevent muscle loss.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "Exercise is an important part of every astronaut's daily life to prevent muscle loss.",
-      "published_asr": "Exercise is an important part of every astronaut's daily life to prevent muscle loss.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p15.mp3",
+      "sha256": "assets/audio/segments/s59-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s59-p16",
       "text": "Usually, astronauts exercise two hours every day.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Usually, astronauts exercise two hours every day.",
-      "published_asr": "Usually, astronauts exercise two hours every day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p16.mp3",
+      "sha256": "assets/audio/segments/s59-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s59-p17",
       "text": "They might use a special gym with exercise machines.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 4.677,
-      "raw_duration_seconds": 3.2,
-      "asr": "They might use a special gym with exercise machines.",
-      "published_asr": "They might use a special gym with exercise machines.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p17.mp3",
+      "sha256": "assets/audio/segments/s59-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s59-p18",
       "text": "Lifting 200 pounds on Earth may be a lot of work, but it would be much easier in space.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "Lifting 200 pounds on Earth may be a lot of work, but it would be much easier in space.",
-      "published_asr": "Lifting 200 pounds on Earth may be a lot of work, but it would be much easier in space.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p18.mp3",
+      "sha256": "assets/audio/segments/s59-p18.mp3"
     },
     {
-      "id": 19,
-      "text": "That means the things for exercise need to be specially designed, so astronauts can receive the exercise needed to stay fit.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 10.551,
-      "raw_duration_seconds": 7.2,
-      "asr": "That means the things for exercise need to be specially designed, so astronauts can receive the exercise needed to stay fit.",
-      "published_asr": "That means the things for exercise need to be specially designed, so astronauts can receive the exercise needed to stay fit.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s59-p19-01",
+      "text": "That means the things for exercise need to be specially designed,",
+      "audio": "assets/audio/segments/s59-p19-01.mp3",
+      "sha256": "assets/audio/segments/s59-p19-01.mp3"
     },
     {
-      "id": 20,
+      "id": "s59-p19-02",
+      "text": "so astronauts can receive the exercise needed to stay fit.",
+      "audio": "assets/audio/segments/s59-p19-02.mp3",
+      "sha256": "assets/audio/segments/s59-p19-02.mp3"
+    },
+    {
+      "id": "s59-p20",
       "text": "Living in space is not just all work and no play.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.909,
-      "raw_duration_seconds": 3.36,
-      "asr": "Living in space is not just all work and no play.",
-      "published_asr": "Living in space is not just all work and no play.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p20.mp3",
+      "sha256": "assets/audio/segments/s59-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s59-p21",
       "text": "Astronauts have fun too.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Astronauts have fun too!",
-      "published_asr": "Astronauts have fun, too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p21.mp3",
+      "sha256": "assets/audio/segments/s59-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s59-p22",
       "text": "They might take photos of Earth or write in their diaries.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 5.395,
-      "raw_duration_seconds": 3.68,
-      "asr": "They might take photos of Earth or write in their diaries.",
-      "published_asr": "They might take photos of Earth or write in their diaries.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p22.mp3",
+      "sha256": "assets/audio/segments/s59-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s59-p23",
       "text": "Fun plays an important role in the quality of their lives.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Fun plays an important role in the quality of their lives.",
-      "published_asr": "Fun plays an important role in the quality of their lives.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s59-p23.mp3",
+      "sha256": "assets/audio/segments/s59-p23.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 23,
-    "raw_asr_exact_count": 23,
-    "published_asr_exact_count": 23,
-    "word_count": 154,
-    "word_accepted_count": 154,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

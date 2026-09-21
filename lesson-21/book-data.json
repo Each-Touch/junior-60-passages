@@ -1,0 +1,1766 @@
+{
+  "course": "初中60短文",
+  "passage": 21,
+  "title": "Passage 21",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s21-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s21-p01.mp3",
+      "en": "You are always told to wash your hands before dining.",
+      "cn": "你总是被叮嘱用餐前要洗手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s21-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s21-p02.mp3",
+      "en": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
+      "cn": "你知道上完厕所或触碰垃圾桶后必须洗手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s21-p03",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s21-p03.mp3",
+      "en": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "cn": "但你知道如何正确洗手才能远离细菌和流感病毒吗？"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s21-p04",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s21-p04.mp3",
+      "en": "Always use soap to wash your hands.",
+      "cn": "一定要用肥皂洗手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s21-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s21-p05.mp3",
+      "en": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
+      "cn": "打开水龙头，把手弄湿后，就可以用肥皂搓手了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s21-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s21-p06.mp3",
+      "en": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
+      "cn": "肥皂可能无法杀死所有细菌，但可以洗去皮肤上的油脂。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s21-p07",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s21-p07.mp3",
+      "en": "As the grease is washed away, the germs will leave your hands and go away.",
+      "cn": "随着油脂被洗掉，细菌也会被带走冲掉。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s21-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s21-p08.mp3",
+      "en": "You should wash your hands for 15-20 seconds.",
+      "cn": "你应该洗手15到20秒。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s21-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s21-p09.mp3",
+      "en": "How do you know the length of 15-20 seconds?",
+      "cn": "那怎么知道15到20秒有多长呢？"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s21-p10",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s21-p10.mp3",
+      "en": "You can sing ABC Song.",
+      "cn": "你可以唱《字母歌》。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s21-p11",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s21-p11.mp3",
+      "en": "By the time you get to the last note, your hands will be clean.",
+      "cn": "等你唱到最后一个音符时，你的手就洗干净了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s21-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s21-p12.mp3",
+      "en": "Then you can pull your hands out from under the tap.",
+      "cn": "这时你就可以把手从水龙头下移开了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s21-p13",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s21-p13.mp3",
+      "en": "Rub your hands together.",
+      "cn": "双手一起搓洗。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s21-p14",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s21-p14.mp3",
+      "en": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
+      "cn": "你可以用一只手搓另一只手的手背，然后两手交换，重复这个动作。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 15,
+      "chunkId": "s21-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s21-p15.mp3",
+      "en": "You also need to rub between your fingers.",
+      "cn": "你还需要搓洗每根手指之间的位置。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 16,
+      "chunkId": "s21-p16",
+      "image": "assets/images/16.png",
+      "audio": "assets/audio/segments/s21-p16.mp3",
+      "en": "Don't forget to rub under and around your fingernails.",
+      "cn": "也别忘了搓指甲缝和指甲周围。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 17,
+      "chunkId": "s21-p17",
+      "image": "assets/images/17.png",
+      "audio": "assets/audio/segments/s21-p17.mp3",
+      "en": "Maybe your hands don't look dirty, but there are germs on them.",
+      "cn": "也许你的手看起来不脏，但上面会有细菌。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 18,
+      "chunkId": "s21-p18",
+      "image": "assets/images/18.png",
+      "audio": "assets/audio/segments/s21-p18.mp3",
+      "en": "Germs are too small for you to see.",
+      "cn": "细菌非常小，你看不到。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 19,
+      "chunkId": "s21-p19",
+      "image": "assets/images/19.png",
+      "audio": "assets/audio/segments/s21-p19.mp3",
+      "en": "They are on your hands all the time.",
+      "cn": "它们一直附着在你的手上。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 20,
+      "chunkId": "s21-p20",
+      "image": "assets/images/20.png",
+      "audio": "assets/audio/segments/s21-p20.mp3",
+      "en": "Many illnesses are caused by germs.",
+      "cn": "许多疾病都是由细菌引起的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 21,
+      "chunkId": "s21-p21",
+      "image": "assets/images/21.png",
+      "audio": "assets/audio/segments/s21-p21.mp3",
+      "en": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
+      "cn": "因此，在享用草莓、薄饼或土豆沙拉之前，一定要认真洗手！"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/15.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/16.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/17.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/18.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/19.png"
+    },
+    {
+      "page": 20,
+      "label": "第20听力小节",
+      "file": "assets/images/20.png"
+    },
+    {
+      "page": 21,
+      "label": "第21听力小节",
+      "file": "assets/images/21.png"
+    }
+  ],
+  "dictionary": {
+    "you": {
+      "word": "You",
+      "phonetic": "/juː/",
+      "translation": "你；你们",
+      "core": false
+    },
+    "are": {
+      "word": "are",
+      "phonetic": "/ər/",
+      "translation": "是",
+      "core": false
+    },
+    "always": {
+      "word": "always",
+      "phonetic": "/ˈɔlˌweɪz/",
+      "translation": "总是",
+      "core": false
+    },
+    "told": {
+      "word": "told",
+      "phonetic": "/toʊld/",
+      "translation": "告诉",
+      "core": false
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "wash": {
+      "word": "wash",
+      "phonetic": "/wɑʃ/",
+      "translation": "洗",
+      "core": true,
+      "coreWord": "wash"
+    },
+    "your": {
+      "word": "your",
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的",
+      "core": false
+    },
+    "hands": {
+      "word": "hands",
+      "phonetic": "/hænz/",
+      "translation": "手",
+      "core": true,
+      "coreWord": "hand"
+    },
+    "before": {
+      "word": "before",
+      "phonetic": "/ˌbiˈfɔr/",
+      "translation": "前",
+      "core": false
+    },
+    "dining": {
+      "word": "dining",
+      "phonetic": "/ˈdaɪnɪŋ/",
+      "translation": "用餐",
+      "core": true,
+      "coreWord": "dining"
+    },
+    "know": {
+      "word": "know",
+      "phonetic": "/noʊ/",
+      "translation": "知道",
+      "core": false
+    },
+    "must": {
+      "word": "must",
+      "phonetic": "/məst/",
+      "translation": "必须",
+      "core": false
+    },
+    "after": {
+      "word": "after",
+      "phonetic": "/ˈæftər/",
+      "translation": "后",
+      "core": false
+    },
+    "going": {
+      "word": "going",
+      "phonetic": "/goʊɪŋ/",
+      "translation": "去",
+      "core": false
+    },
+    "the": {
+      "word": "the",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "bathroom": {
+      "word": "bathroom",
+      "phonetic": "/ˈbæθˌrum/",
+      "translation": "浴室",
+      "core": true,
+      "coreWord": "bathroom"
+    },
+    "or": {
+      "word": "or",
+      "phonetic": "/ɔːr/",
+      "translation": "或者",
+      "core": false
+    },
+    "touching": {
+      "word": "touching",
+      "phonetic": "/ˈtəʧɪŋ/",
+      "translation": "接触",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "litter": {
+      "word": "litter",
+      "phonetic": "/ˈlɪtər/",
+      "translation": "垃圾",
+      "core": false
+    },
+    "bin": {
+      "word": "bin",
+      "phonetic": "/bɪn/",
+      "translation": "垃圾桶",
+      "core": true,
+      "coreWord": "bin"
+    },
+    "do": {
+      "word": "Do",
+      "phonetic": "/du/",
+      "translation": "做",
+      "core": false
+    },
+    "how": {
+      "word": "how",
+      "phonetic": "/haʊ/",
+      "translation": "如何",
+      "core": false
+    },
+    "correctly": {
+      "word": "correctly",
+      "phonetic": "/kərˈɛktli/",
+      "translation": "正确地",
+      "core": true,
+      "coreWord": "correctly"
+    },
+    "keep": {
+      "word": "keep",
+      "phonetic": "/kip/",
+      "translation": "保持",
+      "core": false
+    },
+    "away": {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "translation": "离开",
+      "core": false
+    },
+    "from": {
+      "word": "from",
+      "phonetic": "/frʌm/",
+      "translation": "从",
+      "core": false
+    },
+    "germs": {
+      "word": "germs",
+      "phonetic": "/ʤərmz/",
+      "translation": "病菌",
+      "core": true,
+      "coreWord": "germ"
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "flu": {
+      "word": "flu",
+      "phonetic": "/flu/",
+      "translation": "流感",
+      "core": true,
+      "coreWord": "flu"
+    },
+    "virus": {
+      "word": "virus",
+      "phonetic": "/ˈvaɪrəs/",
+      "translation": "病毒",
+      "core": true,
+      "coreWord": "virus"
+    },
+    "use": {
+      "word": "use",
+      "phonetic": "/juz/",
+      "translation": "使用",
+      "core": false
+    },
+    "soap": {
+      "word": "soap",
+      "phonetic": "/soʊp/",
+      "translation": "肥皂",
+      "core": true,
+      "coreWord": "soap"
+    },
+    "turning": {
+      "word": "turning",
+      "phonetic": "/ˈtərnɪŋ/",
+      "translation": "转动",
+      "core": false
+    },
+    "on": {
+      "word": "on",
+      "phonetic": "/ɑːn/",
+      "translation": "在……上",
+      "core": false
+    },
+    "tap": {
+      "word": "tap",
+      "phonetic": "/tæp/",
+      "translation": "轻敲",
+      "core": true,
+      "coreWord": "tap"
+    },
+    "wetting": {
+      "word": "wetting",
+      "phonetic": "/ˈwɛtɪŋ/",
+      "translation": "润湿",
+      "core": true,
+      "coreWord": "wet"
+    },
+    "can": {
+      "word": "can",
+      "phonetic": "/kən/",
+      "translation": "能",
+      "core": false
+    },
+    "rub": {
+      "word": "rub",
+      "phonetic": "/rəb/",
+      "translation": "擦",
+      "core": true,
+      "coreWord": "rub"
+    },
+    "with": {
+      "word": "with",
+      "phonetic": "/wɪð/",
+      "translation": "和；带有",
+      "core": false
+    },
+    "may": {
+      "word": "may",
+      "phonetic": "/meɪ/",
+      "translation": "可能",
+      "core": false
+    },
+    "not": {
+      "word": "not",
+      "phonetic": "/nɑt/",
+      "translation": "不是",
+      "core": false
+    },
+    "kill": {
+      "word": "kill",
+      "phonetic": "/kɪl/",
+      "translation": "杀",
+      "core": true,
+      "coreWord": "kill"
+    },
+    "all": {
+      "word": "all",
+      "phonetic": "/ɔl/",
+      "translation": "全部",
+      "core": false
+    },
+    "but": {
+      "word": "but",
+      "phonetic": "/bət/",
+      "translation": "但",
+      "core": false
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "grease": {
+      "word": "grease",
+      "phonetic": "/gris/",
+      "translation": "润滑脂",
+      "core": false
+    },
+    "skin": {
+      "word": "skin",
+      "phonetic": "/skɪn/",
+      "translation": "皮肤",
+      "core": false
+    },
+    "as": {
+      "word": "As",
+      "phonetic": "/æz/",
+      "translation": "作为；像",
+      "core": false
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "washed": {
+      "word": "washed",
+      "phonetic": "/wɑʃt/",
+      "translation": "洗过的",
+      "core": true,
+      "coreWord": "wash"
+    },
+    "will": {
+      "word": "will",
+      "phonetic": "/wɪl/",
+      "translation": "将要",
+      "core": false
+    },
+    "leave": {
+      "word": "leave",
+      "phonetic": "/liv/",
+      "translation": "离开",
+      "core": false
+    },
+    "go": {
+      "word": "go",
+      "phonetic": "/goʊ/",
+      "translation": "去",
+      "core": false
+    },
+    "should": {
+      "word": "should",
+      "phonetic": "/ʃʊd/",
+      "translation": "应该",
+      "core": false
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "seconds": {
+      "word": "seconds",
+      "phonetic": "/ˈsɛkəndz/",
+      "translation": "秒",
+      "core": false
+    },
+    "length": {
+      "word": "length",
+      "phonetic": "/lɛŋθ/",
+      "translation": "长度",
+      "core": true,
+      "coreWord": "length"
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "sing": {
+      "word": "sing",
+      "phonetic": "/sɪŋ/",
+      "translation": "唱歌",
+      "core": true,
+      "coreWord": "sing"
+    },
+    "abc": {
+      "word": "ABC",
+      "phonetic": "/ˌeɪ biː ˈsiː/",
+      "translation": "字母歌",
+      "core": false
+    },
+    "song": {
+      "word": "Song",
+      "phonetic": "/sɔŋ/",
+      "translation": "歌曲",
+      "core": true,
+      "coreWord": "song"
+    },
+    "by": {
+      "word": "By",
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边",
+      "core": false
+    },
+    "time": {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "translation": "时间",
+      "core": false
+    },
+    "get": {
+      "word": "get",
+      "phonetic": "/gɪt/",
+      "translation": "得到",
+      "core": false
+    },
+    "last": {
+      "word": "last",
+      "phonetic": "/læst/",
+      "translation": "最后的",
+      "core": false
+    },
+    "note": {
+      "word": "note",
+      "phonetic": "/noʊt/",
+      "translation": "笔记",
+      "core": false
+    },
+    "be": {
+      "word": "be",
+      "phonetic": "/bi/",
+      "translation": "是",
+      "core": false
+    },
+    "clean": {
+      "word": "clean",
+      "phonetic": "/klin/",
+      "translation": "干净的",
+      "core": false
+    },
+    "then": {
+      "word": "Then",
+      "phonetic": "/ðɛn/",
+      "translation": "然后",
+      "core": false
+    },
+    "pull": {
+      "word": "pull",
+      "phonetic": "/pʊl/",
+      "translation": "拉",
+      "core": true,
+      "coreWord": "pull"
+    },
+    "out": {
+      "word": "out",
+      "phonetic": "/aʊt/",
+      "translation": "出去",
+      "core": false
+    },
+    "under": {
+      "word": "under",
+      "phonetic": "/ˈəndər/",
+      "translation": "在下面",
+      "core": false
+    },
+    "together": {
+      "word": "together",
+      "phonetic": "/təˈgɛðər/",
+      "translation": "一起",
+      "core": true,
+      "coreWord": "together"
+    },
+    "one": {
+      "word": "one",
+      "phonetic": "/wən/",
+      "translation": "一",
+      "core": false
+    },
+    "hand": {
+      "word": "hand",
+      "phonetic": "/hænd/",
+      "translation": "手",
+      "core": true,
+      "coreWord": "hand"
+    },
+    "back": {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "translation": "后退",
+      "core": true,
+      "coreWord": "back"
+    },
+    "other": {
+      "word": "other",
+      "phonetic": "/ˈəðər/",
+      "translation": "其他",
+      "core": false
+    },
+    "exchange": {
+      "word": "exchange",
+      "phonetic": "/ɪksˈʧeɪnʤ/",
+      "translation": "交换",
+      "core": true,
+      "coreWord": "exchange"
+    },
+    "two": {
+      "word": "two",
+      "phonetic": "/tu/",
+      "translation": "二",
+      "core": false
+    },
+    "repeat": {
+      "word": "repeat",
+      "phonetic": "/rɪˈpit/",
+      "translation": "重复",
+      "core": true,
+      "coreWord": "repeat"
+    },
+    "this": {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "also": {
+      "word": "also",
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还",
+      "core": false
+    },
+    "need": {
+      "word": "need",
+      "phonetic": "/nid/",
+      "translation": "需要",
+      "core": false
+    },
+    "between": {
+      "word": "between",
+      "phonetic": "/bɪtˈwin/",
+      "translation": "之间",
+      "core": true,
+      "coreWord": "between"
+    },
+    "fingers": {
+      "word": "fingers",
+      "phonetic": "/ˈfɪŋgərz/",
+      "translation": "手指",
+      "core": true,
+      "coreWord": "finger"
+    },
+    "dont": {
+      "word": "Don't",
+      "phonetic": "/doʊnt/",
+      "translation": "不要",
+      "core": false
+    },
+    "forget": {
+      "word": "forget",
+      "phonetic": "/fərˈgɛt/",
+      "translation": "忘记",
+      "core": true,
+      "coreWord": "forget"
+    },
+    "around": {
+      "word": "around",
+      "phonetic": "/əraʊnd/",
+      "translation": "大约",
+      "core": false
+    },
+    "fingernails": {
+      "word": "fingernails",
+      "phonetic": "/ˈfɪŋgərˌneɪlz/",
+      "translation": "指甲",
+      "core": true,
+      "coreWord": "fingernail"
+    },
+    "maybe": {
+      "word": "Maybe",
+      "phonetic": "/ˈmeɪbi/",
+      "translation": "或许",
+      "core": true,
+      "coreWord": "maybe"
+    },
+    "look": {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "translation": "看",
+      "core": false
+    },
+    "dirty": {
+      "word": "dirty",
+      "phonetic": "/ˈdərti/",
+      "translation": "肮脏的",
+      "core": true,
+      "coreWord": "dirty"
+    },
+    "there": {
+      "word": "there",
+      "phonetic": "/ðer/",
+      "translation": "那里；有",
+      "core": false
+    },
+    "them": {
+      "word": "them",
+      "phonetic": "/ðɛm/",
+      "translation": "他们",
+      "core": false
+    },
+    "too": {
+      "word": "too",
+      "phonetic": "/tu/",
+      "translation": "也",
+      "core": false
+    },
+    "small": {
+      "word": "small",
+      "phonetic": "/smɔl/",
+      "translation": "小的",
+      "core": false
+    },
+    "see": {
+      "word": "see",
+      "phonetic": "/si/",
+      "translation": "看",
+      "core": false
+    },
+    "they": {
+      "word": "They",
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们",
+      "core": false
+    },
+    "many": {
+      "word": "Many",
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多",
+      "core": false
+    },
+    "illnesses": {
+      "word": "illnesses",
+      "phonetic": "/ˈɪlnəsɪz/",
+      "translation": "疾病",
+      "core": true,
+      "coreWord": "illness"
+    },
+    "caused": {
+      "word": "caused",
+      "phonetic": "/kɔzd/",
+      "translation": "造成的",
+      "core": false
+    },
+    "therefore": {
+      "word": "Therefore",
+      "phonetic": "/ˈðɛrˌfɔr/",
+      "translation": "所以",
+      "core": false
+    },
+    "carefully": {
+      "word": "carefully",
+      "phonetic": "/ˈkɛrfəli/",
+      "translation": "小心",
+      "core": false
+    },
+    "enjoying": {
+      "word": "enjoying",
+      "phonetic": "/ˌɛnˈʤɔɪɪŋ/",
+      "translation": "享受",
+      "core": false
+    },
+    "strawberries": {
+      "word": "strawberries",
+      "phonetic": "/ˈstrɔˌbɛriz/",
+      "translation": "草莓",
+      "core": true,
+      "coreWord": "strawberry"
+    },
+    "pancakes": {
+      "word": "pancakes",
+      "phonetic": "/ˈpænˌkeɪks/",
+      "translation": "煎饼",
+      "core": true,
+      "coreWord": "pancake"
+    },
+    "potato": {
+      "word": "potato",
+      "phonetic": "/pəˈteɪˌtoʊ/",
+      "translation": "土豆",
+      "core": true,
+      "coreWord": "potato"
+    },
+    "salad": {
+      "word": "salad",
+      "phonetic": "/ˈsæləd/",
+      "translation": "沙拉",
+      "core": true,
+      "coreWord": "salad"
+    }
+  },
+  "coreCards": [
+    {
+      "word": "wash",
+      "phonetic": "/wɑʃ/",
+      "translation": "洗",
+      "definition": "/wɑʃ/ 洗",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：这些 dish（盘子）需要 wash（洗）\nwash up 洗手和脸；洗餐具 wash sth. out 清\n洗；把···洗掉 wash away 冲走"
+        }
+      ],
+      "example": "You are always told to wash your hands before dining.",
+      "aliases": [
+        "wash",
+        "washed"
+      ],
+      "sourcePhoto": "IMG_3677.JPG"
+    },
+    {
+      "word": "hand",
+      "phonetic": "/hænd/",
+      "translation": "n. 手；指针；帮助v交，给",
+      "definition": "/hænd/ n. 手；指针；帮助v交，给",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "hand in 上交 hand out 分发 at hand（在时\n间或距离上）接近 by hand 手工 give sb.a hand 帮助幕\non the one hand .： on the other （hand）.一方面一\n面··"
+        }
+      ],
+      "example": "You are always told to wash your hands before dining.",
+      "aliases": [
+        "hand",
+        "hands"
+      ],
+      "sourcePhoto": "IMG_3677.JPG"
+    },
+    {
+      "word": "dining",
+      "phonetic": "/ˈdaɪnɪŋ/",
+      "translation": "n.进餐，吃饭",
+      "definition": "/ˈdaɪnɪŋ/ n.进餐，吃饭",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "dining habit 饮食习惯，用餐习惯"
+        }
+      ],
+      "example": "You are always told to wash your hands before dining.",
+      "aliases": [
+        "dining"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "bathroom",
+      "phonetic": "/ˈbæθˌrum/",
+      "translation": "浴室",
+      "definition": "/ˈbæθˌrum/ 浴室",
+      "sections": [],
+      "example": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
+      "aliases": [
+        "bathroom"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "bin",
+      "phonetic": "/bɪn/",
+      "translation": "n. 垃圾箱；（有盖）大容器，箱，柜",
+      "definition": "/bɪn/ n. 垃圾箱；（有盖）大容器，箱，柜",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "litter bin（公共场所的）垃圾箱"
+        }
+      ],
+      "example": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
+      "aliases": [
+        "bin"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "correctly",
+      "phonetic": "/kərˈɛktli/",
+      "translation": "adv 正确地，合适地；得体地",
+      "definition": "/kərˈɛktli/ adv 正确地，合适地；得体地",
+      "sections": [],
+      "example": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "aliases": [
+        "correctly"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "germ",
+      "phonetic": "/d33:m/",
+      "translation": "n.细菌；病菌\n园 本身就是词根：种子，引申为“细菌”",
+      "definition": "/d33:m/ n.细菌；病菌\n园 本身就是词根：种子，引申为“细菌”",
+      "sections": [],
+      "example": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "aliases": [
+        "germs"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "flu",
+      "phonetic": "/flu/",
+      "translation": "n.流行性感冒，流感",
+      "definition": "/flu/ n.流行性感冒，流感",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：流行性感冒（flu）可以通过飞\n（fly）沫传染"
+        }
+      ],
+      "example": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "aliases": [
+        "flu"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "virus",
+      "phonetic": "/ˈvaɪrəs/",
+      "translation": "n. 病毒",
+      "definition": "/ˈvaɪrəs/ n. 病毒",
+      "sections": [],
+      "example": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "aliases": [
+        "virus"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "soap",
+      "phonetic": "/soʊp/",
+      "translation": "肥皂",
+      "definition": "/soʊp/ 肥皂",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：一不小心把soap（肥皂）掉进\nsoup（汤）里"
+        }
+      ],
+      "example": "Always use soap to wash your hands.",
+      "aliases": [
+        "soap"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "tap",
+      "phonetic": "/tæp/",
+      "translation": "n.水龙头v.轻敲，轻拍",
+      "definition": "/tæp/ n.水龙头v.轻敲，轻拍",
+      "sections": [],
+      "example": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
+      "aliases": [
+        "tap"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "wet",
+      "phonetic": "",
+      "translation": "v.使潮湿，把····弄湿adj. 湿的，潮的，\n有雨的",
+      "definition": "v.使潮湿，把····弄湿adj. 湿的，潮的，\n有雨的",
+      "sections": [],
+      "example": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
+      "aliases": [
+        "wetting"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "rub",
+      "phonetic": "/rəb/",
+      "translation": "擦",
+      "definition": "/rəb/ 擦",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：太阳已经 set（落山），空气有点 wet （潮的）\nIFAD］ v.擦，磨，搓"
+        }
+      ],
+      "example": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
+      "aliases": [
+        "rub"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "kill",
+      "phonetic": "/kɪl/",
+      "translation": "n. 橡胶；橡皮；黑板擦）\n［krl］ v. 杀死；扼杀；消磨（时间）",
+      "definition": "/kɪl/ n. 橡胶；橡皮；黑板擦）\n［krl］ v. 杀死；扼杀；消磨（时间）",
+      "sections": [],
+      "example": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
+      "aliases": [
+        "kill"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "length",
+      "phonetic": "/lɛŋθ/",
+      "translation": "长度",
+      "definition": "/lɛŋθ/ 长度",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：宰杀（kill）病（ill）鸡\n［len日］ n. 长，长度"
+        },
+        {
+          "label": "搭",
+          "text": "at length 最后；详尽地"
+        }
+      ],
+      "example": "How do you know the length of 15-20 seconds?",
+      "aliases": [
+        "length"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "sing",
+      "phonetic": "/sɪŋ/",
+      "translation": "v.唱（歌），演唱",
+      "definition": "/sɪŋ/ v.唱（歌），演唱",
+      "sections": [
+        {
+          "label": "用",
+          "text": "过去式：sang"
+        },
+        {
+          "label": "用",
+          "text": "过去分词：sung"
+        }
+      ],
+      "example": "You can sing ABC Song.",
+      "aliases": [
+        "sing"
+      ],
+      "sourcePhoto": "IMG_3678.JPG"
+    },
+    {
+      "word": "song",
+      "phonetic": "/sɔŋ/",
+      "translation": "歌曲",
+      "definition": "/sɔŋ/ 歌曲",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：唱（sing）首歌（song）吧！"
+        }
+      ],
+      "example": "You can sing ABC Song.",
+      "aliases": [
+        "Song",
+        "song"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "pull",
+      "phonetic": "/pʊl/",
+      "translation": "拉",
+      "definition": "/pʊl/ 拉",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "pul down 拆毁\npull\nPull in 停靠 pull away\n（车辆）开动\nRalph threw off his coat and pulled up his\nshirt sleeves.拉尔夫脱下外套，挽起衬衫\n袖子。\ntogether"
+        }
+      ],
+      "example": "Then you can pull your hands out from under the tap.",
+      "aliases": [
+        "pull"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "together",
+      "phonetic": "/təˈgɛðər/",
+      "translation": "adv.在一起，共同；以使接触，\n到一起",
+      "definition": "/təˈgɛðər/ adv.在一起，共同；以使接触，\n到一起",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "gather together 集合在一起\nget together\n聚集"
+        }
+      ],
+      "example": "Rub your hands together.",
+      "aliases": [
+        "together"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "translation": "adv.回原处；向后adj. 后面的n. 背部；后面v.（使）后退",
+      "definition": "/bæk/ adv.回原处；向后adj. 后面的n. 背部；后面v.（使）后退",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "get back to 回到；恢复到 take back 收回；使回忆起 at\nthe back of 在⋯⋯后面 back and forth 来回地"
+        }
+      ],
+      "example": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
+      "aliases": [
+        "back"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "exchange",
+      "phonetic": "/ɪksˈʧeɪnʤ/",
+      "translation": "n. 交换；交流v. 交换；交流；兑换",
+      "definition": "/ɪksˈʧeɪnʤ/ n. 交换；交流v. 交换；交流；兑换",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：ex+change（变换）一交换\nexchange a few words 说几句话 in exchange for 作为（⋯⋯\n的）交换"
+        }
+      ],
+      "example": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
+      "aliases": [
+        "exchange"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "repeat",
+      "phonetic": "/rɪˈpit/",
+      "translation": "v. 重复；重做n. 重复的事件\nI repeated the sentence three times, but he still doesn't\nunderstand it. 我把这个句子重复了三遍，但他仍然不明白。",
+      "definition": "/rɪˈpit/ v. 重复；重做n. 重复的事件\nI repeated the sentence three times, but he still doesn't\nunderstand it. 我把这个句子重复了三遍，但他仍然不明白。",
+      "sections": [],
+      "example": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
+      "aliases": [
+        "repeat"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "between",
+      "phonetic": "/bɪtˈwin/",
+      "translation": "prep.在····之间",
+      "definition": "/bɪtˈwin/ prep.在····之间",
+      "sections": [],
+      "example": "You also need to rub between your fingers.",
+      "aliases": [
+        "between"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "finger",
+      "phonetic": "/frnga（r）/",
+      "translation": "n. 手指",
+      "definition": "/frnga（r）/ n. 手指",
+      "sections": [],
+      "example": "You also need to rub between your fingers.",
+      "aliases": [
+        "fingers"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "forget",
+      "phonetic": "/fərˈgɛt/",
+      "translation": "v.忘记，遗忘\nforget to do sth. 忘记要",
+      "definition": "/fərˈgɛt/ v.忘记，遗忘\nforget to do sth. 忘记要",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "forget doing sth. 忘记做过某事\n做某事"
+        },
+        {
+          "label": "用",
+          "text": "过去分词：forgotten 现在分词：forgetting"
+        },
+        {
+          "label": "用",
+          "text": "过去式：forgot"
+        }
+      ],
+      "example": "Don't forget to rub under and around your fingernails.",
+      "aliases": [
+        "forget"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "fingernail",
+      "phonetic": "/finganezl/",
+      "translation": "n. 手指甲\n园，\n合成词：finger（手指）+nail（指甲） 手指用",
+      "definition": "/finganezl/ n. 手指甲\n园，\n合成词：finger（手指）+nail（指甲） 手指用",
+      "sections": [],
+      "example": "Don't forget to rub under and around your fingernails.",
+      "aliases": [
+        "fingernails"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "maybe",
+      "phonetic": "/ˈmeɪbi/",
+      "translation": "adv.大概，也许\n合成词：may（可能）+be（是）一可能是吧一也许",
+      "definition": "/ˈmeɪbi/ adv.大概，也许\n合成词：may（可能）+be（是）一可能是吧一也许",
+      "sections": [],
+      "example": "Maybe your hands don't look dirty, but there are germs on them.",
+      "aliases": [
+        "Maybe",
+        "maybe"
+      ],
+      "sourcePhoto": "IMG_3679.JPG"
+    },
+    {
+      "word": "dirty",
+      "phonetic": "/ˈdərti/",
+      "translation": "肮脏的",
+      "definition": "/ˈdərti/ 肮脏的",
+      "sections": [],
+      "example": "Maybe your hands don't look dirty, but there are germs on them.",
+      "aliases": [
+        "dirty"
+      ],
+      "sourcePhoto": "IMG_3680.JPG"
+    },
+    {
+      "word": "illness",
+      "phonetic": "",
+      "translation": "n.病，疾病",
+      "definition": "n.病，疾病",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：il（病的）+ness（名词后缀）\n一病，疾病\n宿 i*（ad. 有病的，不舒服的；不良的）"
+        }
+      ],
+      "example": "Many illnesses are caused by germs.",
+      "aliases": [
+        "illnesses"
+      ],
+      "sourcePhoto": "IMG_3680.JPG"
+    },
+    {
+      "word": "strawberry",
+      "phonetic": "/'str:bari/",
+      "translation": "n. 草莓",
+      "definition": "/'str:bari/ n. 草莓",
+      "sections": [],
+      "example": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
+      "aliases": [
+        "strawberries"
+      ],
+      "sourcePhoto": "IMG_3680.JPG"
+    },
+    {
+      "word": "pancake",
+      "phonetic": "/pancake/",
+      "translation": "n. 薄饼\n合成词：pan（平底锅）+cake（饼）一用平底锅摊饼一薄饼",
+      "definition": "/pancake/ n. 薄饼\n合成词：pan（平底锅）+cake（饼）一用平底锅摊饼一薄饼",
+      "sections": [],
+      "example": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
+      "aliases": [
+        "pancakes"
+      ],
+      "sourcePhoto": "IMG_3680.JPG"
+    },
+    {
+      "word": "potato",
+      "phonetic": "/pəˈteɪˌtoʊ/",
+      "translation": "n.马铃薯，土豆",
+      "definition": "/pəˈteɪˌtoʊ/ n.马铃薯，土豆",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "couch potato 老泡在电视机前的人"
+        },
+        {
+          "label": "用",
+          "text": "复数形式：potatoes"
+        }
+      ],
+      "example": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
+      "aliases": [
+        "potato"
+      ],
+      "sourcePhoto": "IMG_3680.JPG"
+    },
+    {
+      "word": "salad",
+      "phonetic": "/ˈsæləd/",
+      "translation": "n. 沙拉",
+      "definition": "/ˈsæləd/ n. 沙拉",
+      "sections": [
+        {
+          "label": "记",
+          "text": "发音记忆：“沙拉”"
+        }
+      ],
+      "example": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
+      "aliases": [
+        "salad"
+      ],
+      "sourcePhoto": "IMG_3680.JPG"
+    }
+  ],
+  "coreWordCount": 33,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s21-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s21-p01.mp3",
+      "en": "You are always told to wash your hands before dining.",
+      "cn": "你总是被叮嘱用餐前要洗手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s21-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s21-p02.mp3",
+      "en": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
+      "cn": "你知道上完厕所或触碰垃圾桶后必须洗手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s21-p03",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s21-p03.mp3",
+      "en": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
+      "cn": "但你知道如何正确洗手才能远离细菌和流感病毒吗？"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s21-p04",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s21-p04.mp3",
+      "en": "Always use soap to wash your hands.",
+      "cn": "一定要用肥皂洗手。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s21-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s21-p05.mp3",
+      "en": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
+      "cn": "打开水龙头，把手弄湿后，就可以用肥皂搓手了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s21-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s21-p06.mp3",
+      "en": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
+      "cn": "肥皂可能无法杀死所有细菌，但可以洗去皮肤上的油脂。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s21-p07",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s21-p07.mp3",
+      "en": "As the grease is washed away, the germs will leave your hands and go away.",
+      "cn": "随着油脂被洗掉，细菌也会被带走冲掉。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s21-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s21-p08.mp3",
+      "en": "You should wash your hands for 15-20 seconds.",
+      "cn": "你应该洗手15到20秒。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s21-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s21-p09.mp3",
+      "en": "How do you know the length of 15-20 seconds?",
+      "cn": "那怎么知道15到20秒有多长呢？"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s21-p10",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s21-p10.mp3",
+      "en": "You can sing ABC Song.",
+      "cn": "你可以唱《字母歌》。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s21-p11",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s21-p11.mp3",
+      "en": "By the time you get to the last note, your hands will be clean.",
+      "cn": "等你唱到最后一个音符时，你的手就洗干净了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s21-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s21-p12.mp3",
+      "en": "Then you can pull your hands out from under the tap.",
+      "cn": "这时你就可以把手从水龙头下移开了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s21-p13",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s21-p13.mp3",
+      "en": "Rub your hands together.",
+      "cn": "双手一起搓洗。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s21-p14",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s21-p14.mp3",
+      "en": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
+      "cn": "你可以用一只手搓另一只手的手背，然后两手交换，重复这个动作。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 15,
+      "chunkId": "s21-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s21-p15.mp3",
+      "en": "You also need to rub between your fingers.",
+      "cn": "你还需要搓洗每根手指之间的位置。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 16,
+      "chunkId": "s21-p16",
+      "image": "assets/images/16.webp",
+      "audio": "assets/audio/segments/s21-p16.mp3",
+      "en": "Don't forget to rub under and around your fingernails.",
+      "cn": "也别忘了搓指甲缝和指甲周围。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 17,
+      "chunkId": "s21-p17",
+      "image": "assets/images/17.webp",
+      "audio": "assets/audio/segments/s21-p17.mp3",
+      "en": "Maybe your hands don't look dirty, but there are germs on them.",
+      "cn": "也许你的手看起来不脏，但上面会有细菌。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 18,
+      "chunkId": "s21-p18",
+      "image": "assets/images/18.webp",
+      "audio": "assets/audio/segments/s21-p18.mp3",
+      "en": "Germs are too small for you to see.",
+      "cn": "细菌非常小，你看不到。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 19,
+      "chunkId": "s21-p19",
+      "image": "assets/images/19.webp",
+      "audio": "assets/audio/segments/s21-p19.mp3",
+      "en": "They are on your hands all the time.",
+      "cn": "它们一直附着在你的手上。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 20,
+      "chunkId": "s21-p20",
+      "image": "assets/images/20.webp",
+      "audio": "assets/audio/segments/s21-p20.mp3",
+      "en": "Many illnesses are caused by germs.",
+      "cn": "许多疾病都是由细菌引起的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 21,
+      "chunkId": "s21-p21",
+      "image": "assets/images/21.webp",
+      "audio": "assets/audio/segments/s21-p21.mp3",
+      "en": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
+      "cn": "因此，在享用草莓、薄饼或土豆沙拉之前，一定要认真洗手！"
+    }
+  ]
+}

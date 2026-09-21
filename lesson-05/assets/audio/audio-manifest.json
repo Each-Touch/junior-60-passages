@@ -1,206 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s05-p01",
       "text": "One of the great things about travelling alone is that you make the rules about where you go and what you eat.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 8.686,
-      "raw_duration_seconds": 5.92,
-      "asr": "One of the great things about traveling alone is that you make the rules about where you go and what you eat.",
-      "published_asr": "One of the great things about traveling alone is that you make the rules about where you go and what you eat.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p01.mp3",
+      "sha256": "assets/audio/segments/s05-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s05-p02",
       "text": "Travelling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Traveling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
-      "published_asr": "Traveling alone really shows you what you're made of and helps you to discover inner strength you didn't know you had.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p02.mp3",
+      "sha256": "assets/audio/segments/s05-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s05-p03",
       "text": "Besides, it also gives you time to think and learn.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.617,
-      "raw_duration_seconds": 3.84,
-      "asr": "Besides, it also gives you time to think and learn.",
-      "published_asr": "Besides, it also gives you time to think and learn.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p03.mp3",
+      "sha256": "assets/audio/segments/s05-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s05-p04",
       "text": "When your eyes are wide open, you'll get a whole new outlook on the world.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.837,
-      "raw_duration_seconds": 4,
-      "asr": "When your eyes are wide open, you'll get a whole new outlook on the world.",
-      "published_asr": "When your eyes are wide open, you'll get a whole new outlook on the world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p04.mp3",
+      "sha256": "assets/audio/segments/s05-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s05-p05",
       "text": "It's easy to think that travelling alone is lonely.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.668,
-      "raw_duration_seconds": 3.2,
-      "asr": "It's easy to think that traveling alone is lonely.",
-      "published_asr": "It's easy to think that traveling alone is lonely.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p05.mp3",
+      "sha256": "assets/audio/segments/s05-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s05-p06",
       "text": "Although that may sometimes be true, you're hardly ever alone.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Although that may sometimes be true, you're hardly ever alone.",
-      "published_asr": "Although that may sometimes be true, you're hardly ever alone.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p06.mp3",
+      "sha256": "assets/audio/segments/s05-p06.mp3"
     },
     {
-      "id": 7,
-      "text": "When you travel in a one-person team, this can provide a chance for you to enjoy the most interesting part of travel, communicating with the locals and meeting travellers from all corners of the world.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 15.495,
-      "raw_duration_seconds": 10.56,
-      "asr": "When you travel in a one person team, this can provide a chance for you to enjoy the most interesting part of travel, communicating with the locals and meeting travelers from all corners of the world.",
-      "published_asr": "When you travel in a one-person team, this can provide a chance for you to enjoy the most interesting part of travel. Communicating with the locals and meeting travelers from all corners of the world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s05-p07-01",
+      "text": "When you travel in a one-person team,",
+      "audio": "assets/audio/segments/s05-p07-01.mp3",
+      "sha256": "assets/audio/segments/s05-p07-01.mp3"
     },
     {
-      "id": 8,
+      "id": "s05-p07-02",
+      "text": "this can provide a chance for you to enjoy the most interesting part of travel,",
+      "audio": "assets/audio/segments/s05-p07-02.mp3",
+      "sha256": "assets/audio/segments/s05-p07-02.mp3"
+    },
+    {
+      "id": "s05-p07-03",
+      "text": "communicating with the locals and meeting travellers from all corners of the world.",
+      "audio": "assets/audio/segments/s05-p07-03.mp3",
+      "sha256": "assets/audio/segments/s05-p07-03.mp3"
+    },
+    {
+      "id": "s05-p08",
       "text": "In fact, travelling is not easy.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "In fact, traveling is not easy.",
-      "published_asr": "In fact, traveling is not easy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p08.mp3",
+      "sha256": "assets/audio/segments/s05-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s05-p09",
       "text": "There's research to be done, flights to be booked and choices to be made.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.801,
-      "raw_duration_seconds": 4.64,
-      "asr": "There's research to be done, flights to be booked and choices to be made.",
-      "published_asr": "There's research to be done, flights to be booked and choices to be made.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p09.mp3",
+      "sha256": "assets/audio/segments/s05-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s05-p10",
       "text": "Not to mention that things can, and often do, go wrong.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "not to mention that things can and often do, go wrong.",
-      "published_asr": "not to mention that things can and often do, go wrong.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p10.mp3",
+      "sha256": "assets/audio/segments/s05-p10.mp3"
     },
     {
-      "id": 11,
-      "text": "One of the main advantages of travelling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 14.772,
-      "raw_duration_seconds": 10.08,
-      "asr": "One of the main advantages of traveling with friends is being able to share these things, and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
-      "published_asr": "One of the main advantages of traveling with friends is being able to share these things and support each other through the process, even if it's just someone who will wait with your bag when you go to the bathroom.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s05-p11-01",
+      "text": "One of the main advantages of travelling with friends is being able to share these things,",
+      "audio": "assets/audio/segments/s05-p11-01.mp3",
+      "sha256": "assets/audio/segments/s05-p11-01.mp3"
     },
     {
-      "id": 12,
+      "id": "s05-p11-02",
+      "text": "and support each other through the process,",
+      "audio": "assets/audio/segments/s05-p11-02.mp3",
+      "sha256": "assets/audio/segments/s05-p11-02.mp3"
+    },
+    {
+      "id": "s05-p11-03",
+      "text": "even if it's just someone who will wait with your bag when you go to the bathroom.",
+      "audio": "assets/audio/segments/s05-p11-03.mp3",
+      "sha256": "assets/audio/segments/s05-p11-03.mp3"
+    },
+    {
+      "id": "s05-p12",
       "text": "It's true that travelling with others can give you a sense of safety, especially if you're new to travel.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.976,
-      "raw_duration_seconds": 5.44,
-      "asr": "It's true that traveling with others can give you a sense of safety, especially if you're new to travel.",
-      "published_asr": "It's true that traveling with others can give you a sense of safety, especially if you're new to travel.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p12.mp3",
+      "sha256": "assets/audio/segments/s05-p12.mp3"
     },
     {
-      "id": 13,
-      "text": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 11.021,
-      "raw_duration_seconds": 7.52,
-      "asr": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
-      "published_asr": "You know that if you get lost or have your wallet stolen, there's someone to hold your hand when you try to explain your situation in a foreign police station.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s05-p13-01",
+      "text": "You know that if you get lost or have your wallet stolen,",
+      "audio": "assets/audio/segments/s05-p13-01.mp3",
+      "sha256": "assets/audio/segments/s05-p13-01.mp3"
     },
     {
-      "id": 14,
+      "id": "s05-p13-02",
+      "text": "there's someone to hold your hand when you try to explain your situation in a foreign police station.",
+      "audio": "assets/audio/segments/s05-p13-02.mp3",
+      "sha256": "assets/audio/segments/s05-p13-02.mp3"
+    },
+    {
+      "id": "s05-p14",
       "text": "There's no right or wrong way to travel.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.447,
-      "raw_duration_seconds": 3.04,
-      "asr": "There's no right or wrong way to travel.",
-      "published_asr": "There's no right or wrong way to travel.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p14.mp3",
+      "sha256": "assets/audio/segments/s05-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s05-p15",
       "text": "Whether you travel alone or team up with friends, it depends on yourself.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Whether you travel alone or team up with friends, it depends on yourself.",
-      "published_asr": "Whether you travel alone or team up with friends, it depends on yourself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s05-p15.mp3",
+      "sha256": "assets/audio/segments/s05-p15.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 15,
-    "raw_asr_exact_count": 15,
-    "published_asr_exact_count": 15,
-    "word_count": 140,
-    "word_accepted_count": 140,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

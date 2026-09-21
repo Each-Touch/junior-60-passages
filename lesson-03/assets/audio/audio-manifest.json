@@ -1,218 +1,110 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s03-p01",
       "text": "A marathon is a long running race of 26.2 miles.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.862,
-      "raw_duration_seconds": 4,
-      "asr": "A marathon is a long-running race of 26.2 miles.",
-      "published_asr": "A marathon is a long-running race of 26.2 miles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p01.mp3",
+      "sha256": "assets/audio/segments/s03-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s03-p02",
       "text": "The first Olympic marathon was held in Athens.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.15,
-      "raw_duration_seconds": 3.52,
-      "asr": "The first Olympic marathon was held in Athens.",
-      "published_asr": "The first Olympic Marathon was held in Athens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p02.mp3",
+      "sha256": "assets/audio/segments/s03-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s03-p03",
       "text": "Now, many cities host their own marathons every year.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.62,
-      "raw_duration_seconds": 3.84,
-      "asr": "Now many cities host their own marathons every year.",
-      "published_asr": "Now many cities host their own marathons every year.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p03.mp3",
+      "sha256": "assets/audio/segments/s03-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s03-p04",
       "text": "Themes of marathons add fun and meaning to the hard miles.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Themes of marathons add fun and meaning to the hard miles.",
-      "published_asr": "Themes of marathons add fun and meaning to the hard miles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p04.mp3",
+      "sha256": "assets/audio/segments/s03-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s03-p05",
       "text": "Runners run for helping sick kids, celebrating important events, or just enjoying nature.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Runners run for helping sick kids, celebrating important events, or just enjoying nature.",
-      "published_asr": "Runners run for helping sick kids, celebrating important events, or just enjoying nature.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p05.mp3",
+      "sha256": "assets/audio/segments/s03-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "There is a famous marathon in Gisborne, New Zealand, which is known for being the first city in the world to welcome the sunlight every day.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 12.674,
-      "raw_duration_seconds": 8.64,
-      "asr": "There is a famous marathon in Gisborne, New Zealand, which is known for being the first city in the world to welcome the sunlight every day.",
-      "published_asr": "There is a famous marathon in Gisborne, New Zealand, which is known for being the first city in the world to welcome the sunlight every day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s03-p06-01",
+      "text": "There is a famous marathon in Gisborne, New Zealand,",
+      "audio": "assets/audio/segments/s03-p06-01.mp3",
+      "sha256": "assets/audio/segments/s03-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s03-p06-02",
+      "text": "which is known for being the first city in the world to welcome the sunlight every day.",
+      "audio": "assets/audio/segments/s03-p06-02.mp3",
+      "sha256": "assets/audio/segments/s03-p06-02.mp3"
+    },
+    {
+      "id": "s03-p07",
       "text": "Runners can greet the sunrise as they race along the golden sandy beaches.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "Runners can greet the sunrise as they race along the golden sandy beaches.",
-      "published_asr": "Runners can greet the sunrise as they race along the golden sandy beaches.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p07.mp3",
+      "sha256": "assets/audio/segments/s03-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s03-p08",
       "text": "Marathon routes bring people more understanding of the old sport.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.857,
-      "raw_duration_seconds": 4,
-      "asr": "Marathon routes bring people more understanding of the old sport.",
-      "published_asr": "Marathon routes bring people more understanding of the old sport.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p08.mp3",
+      "sha256": "assets/audio/segments/s03-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s03-p09",
       "text": "Some routes provide great sporting challenges for runners.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Some routes provide great sporting challenges for runners.",
-      "published_asr": "Some routes provide great sporting challenges for runners.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p09.mp3",
+      "sha256": "assets/audio/segments/s03-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s03-p10",
       "text": "The routes offer various surfaces, from bridges to sand to hills.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "The routes offer various surfaces, from bridges to sand to hills.",
-      "published_asr": "The routes offer various surfaces, from bridges to sand to hills.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p10.mp3",
+      "sha256": "assets/audio/segments/s03-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s03-p11",
       "text": "Runners of all skill levels can sweat freely and push their limits in the race.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.554,
-      "raw_duration_seconds": 4.48,
-      "asr": "Runners of all skill levels can sweat freely and push their limits in the race.",
-      "published_asr": "Runners of all skill levels can sweat freely and push their limits in the race.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p11.mp3",
+      "sha256": "assets/audio/segments/s03-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s03-p12",
       "text": "Some routes are well planned for runners to explore the many sides of a city.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "Some routes are well planned for runners to explore the many sides of a city.",
-      "published_asr": "Some routes are well planned for runners to explore the many sides of a city.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p12.mp3",
+      "sha256": "assets/audio/segments/s03-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s03-p13",
       "text": "For example, the route of the Great Wall Marathon takes the runners along the great wonder of the world.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "For example, the route of the Great Wall Marathon takes the runners along the great wonder of the world.",
-      "published_asr": "For example, the route of the Great Wall Marathon takes the runners along the Great Wonder of the World.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p13.mp3",
+      "sha256": "assets/audio/segments/s03-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s03-p14",
       "text": "The race can be an amazing chance to get to know Beijing, its people and local food.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.268,
-      "raw_duration_seconds": 4.96,
-      "asr": "The race can be an amazing chance to get to know Beijing, its people and local food.",
-      "published_asr": "The race can be an amazing chance to get to know Beijing, its people and local food.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p14.mp3",
+      "sha256": "assets/audio/segments/s03-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s03-p15",
       "text": "A marathon is quite a journey for runners to enjoy the run, challenge themselves and experience the culture.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 9.617,
-      "raw_duration_seconds": 6.56,
-      "asr": "A marathon is quite a journey for runners to enjoy the run, challenge themselves and experience the culture.",
-      "published_asr": "A marathon is quite a journey for runners to enjoy the run, challenge themselves and experience the culture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p15.mp3",
+      "sha256": "assets/audio/segments/s03-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s03-p16",
       "text": "There is so much more behind the race for us to explore.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "There is so much more behind the race for us to explore.",
-      "published_asr": "There is so much more behind the race for us to explore.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s03-p16.mp3",
+      "sha256": "assets/audio/segments/s03-p16.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 16,
-    "raw_asr_exact_count": 16,
-    "published_asr_exact_count": 16,
-    "word_count": 123,
-    "word_accepted_count": 123,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

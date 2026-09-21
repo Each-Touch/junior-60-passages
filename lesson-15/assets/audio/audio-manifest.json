@@ -1,290 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s15-p01",
       "text": "Last year I had a trip with my friend Nancy.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.209,
-      "raw_duration_seconds": 2.88,
-      "asr": "Last year I had a trip with my friend Nancy.",
-      "published_asr": "Last year I had a trip with my friend Nancy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p01.mp3",
+      "sha256": "assets/audio/segments/s15-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s15-p02",
       "text": "We enjoyed sandwiches and shared a jar of honey tea over lunch.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "We enjoyed sandwiches and shared a jar of honey tea over lunch.",
-      "published_asr": "We enjoyed sandwiches and shared a jar of honey tea over lunch",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p02.mp3",
+      "sha256": "assets/audio/segments/s15-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s15-p03",
       "text": "The weather was cloudy except for one night.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "The weather was cloudy except for one night.",
-      "published_asr": "The weather was cloudy except for one night.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p03.mp3",
+      "sha256": "assets/audio/segments/s15-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s15-p04",
       "text": "Wearing comfortable skirts, Nancy and I camped in the field after dinner.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "Wearing comfortable skirts, Nancy and I camped in the field after dinner.",
-      "published_asr": "Wearing comfortable skirts, Nancy and I camped in the field after dinner.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p04.mp3",
+      "sha256": "assets/audio/segments/s15-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s15-p05",
       "text": "I listened to her playing the guitar and we felt relaxed.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "I listened to her playing the guitar and we felt relaxed.",
-      "published_asr": "I listened to her playing the guitar and we felt relaxed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p05.mp3",
+      "sha256": "assets/audio/segments/s15-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s15-p06",
       "text": "Looking at the stars, we started a hunt for the brightest one.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Looking at the stars, we started a hunt for the brightest one.",
-      "published_asr": "Looking at the stars, we started a hunt for the brightest one.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p06.mp3",
+      "sha256": "assets/audio/segments/s15-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s15-p07",
       "text": "'It's a pity we don't know which stars we're looking at, Jenny,' said Nancy.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "It's a pity we don't know which stars we're looking at.\" Jenny, said Nancy.",
-      "published_asr": "It's a pity we don't know which stars we're looking at.\" Jenny, said Nancy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p07.mp3",
+      "sha256": "assets/audio/segments/s15-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s15-p08",
       "text": "'I know some of them,' I answered.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.258,
-      "raw_duration_seconds": 2.24,
-      "asr": "I know some of them,\" I answered.",
-      "published_asr": "I know some of them,\" I answered.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p08.mp3",
+      "sha256": "assets/audio/segments/s15-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s15-p09",
       "text": "Nancy felt surprised when I finally finished telling her all the names I knew.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Nancy felt surprised when I finally finished telling her all the names I knew.",
-      "published_asr": "Nancy felt surprised when I finally finished telling her all the names I knew.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p09.mp3",
+      "sha256": "assets/audio/segments/s15-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s15-p10",
       "text": "My interest in stars began when I was eight.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "My interest in stars began when I was eight.",
-      "published_asr": "My interest in stars began when I was eight.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p10.mp3",
+      "sha256": "assets/audio/segments/s15-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s15-p11",
       "text": "My aunt Mrs Hill took me to a planetarium.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "My aunt Mrs. Hill took me to a planetarium.",
-      "published_asr": "My aunt Mrs. Hill took me to a planetarium.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p11.mp3",
+      "sha256": "assets/audio/segments/s15-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s15-p12",
       "text": "A guide showed us the groups of stars, and told us stories about how they got their names.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "A guide showed us the groups of stars, and told us stories about how they got their names.",
-      "published_asr": "A guide showed us the groups of stars and told us stories about how they got their names.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p12.mp3",
+      "sha256": "assets/audio/segments/s15-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s15-p13",
       "text": "The stories were wonderful.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.035,
-      "raw_duration_seconds": 2.08,
-      "asr": "The stories were wonderful.",
-      "published_asr": "The stories were wonderful.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p13.mp3",
+      "sha256": "assets/audio/segments/s15-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s15-p14",
       "text": "I even saw some X-ray images of the stars there.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "I even saw some x-ray images of the stars there.",
-      "published_asr": "I even saw some x-ray images of the stars there.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p14.mp3",
+      "sha256": "assets/audio/segments/s15-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s15-p15",
       "text": "It felt like standing in front of the gate of knowledge.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "It felt like standing in front of the gate of knowledge.",
-      "published_asr": "It felt like standing in front of the gate of knowledge.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p15.mp3",
+      "sha256": "assets/audio/segments/s15-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s15-p16",
       "text": "I took a course at the club to learn more about stars.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.918,
-      "raw_duration_seconds": 3.36,
-      "asr": "I took a course at the club to learn more about stars.",
-      "published_asr": "I took a course at the club to learn more about stars.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p16.mp3",
+      "sha256": "assets/audio/segments/s15-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s15-p17",
       "text": "I realised that in addition to clouds, a bright moon also stops us seeing stars clearly.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "I realized that in addition to clouds, a bright moon also stops us seeing stars clearly.",
-      "published_asr": "I realized that in addition to clouds, a bright moon also stops us seeing stars clearly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p17.mp3",
+      "sha256": "assets/audio/segments/s15-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s15-p18",
       "text": "I always look for the Plough, because once I see that, I can find the North Star and other stars.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "I always look for the plow, because once I see that, I can find the North Star and other stars.",
-      "published_asr": "I always look for the plow because once I see that, I can find the North Star and other stars.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p18.mp3",
+      "sha256": "assets/audio/segments/s15-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s15-p19",
       "text": "There are so many lights in the city that we have to go into the countryside to see any stars.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 7.733,
-      "raw_duration_seconds": 5.28,
-      "asr": "There are so many lights in the city, that we have to go into the countryside to see any stars.",
-      "published_asr": "There are so many lights in the city that we have to go into the countryside to see any stars.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p19.mp3",
+      "sha256": "assets/audio/segments/s15-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s15-p20",
       "text": "I'm planning to make videos about stars in the countryside.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "I'm planning to make videos about stars in the countryside.",
-      "published_asr": "I'm planning to make videos about stars in the countryside.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p20.mp3",
+      "sha256": "assets/audio/segments/s15-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s15-p21",
       "text": "I'll post them online for everyone to watch.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "I'll post them online for everyone to watch.",
-      "published_asr": "I'll post them online for everyone to watch.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p21.mp3",
+      "sha256": "assets/audio/segments/s15-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s15-p22",
       "text": "My greatest dream is to be an astronaut and I wish I could have a space travel.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 6.567,
-      "raw_duration_seconds": 4.48,
-      "asr": "My greatest dream is to be an astronaut and I wish I could have a space travel.",
-      "published_asr": "My greatest dream is to be an astronaut and I wish I could have a space travel.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s15-p22.mp3",
+      "sha256": "assets/audio/segments/s15-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 156,
-    "word_accepted_count": 156,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

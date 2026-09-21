@@ -1,290 +1,152 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s31-p01",
       "text": "Do you have difficulty falling asleep at night?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Do you have difficulty falling asleep at night?",
-      "published_asr": "Do you have difficulty falling asleep at night?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p01.mp3",
+      "sha256": "assets/audio/segments/s31-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s31-p02",
       "text": "If so, here's a piece of advice for you: Listen to some soft music.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "If so, here's a piece of advice for you. Listen to some soft music.",
-      "published_asr": "If so, here's a piece of advice for you. Listen to some soft music.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p02.mp3",
+      "sha256": "assets/audio/segments/s31-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s31-p03",
       "text": "Scientists have found that soft music can help to improve sleep quality and quantity.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "Scientists have found that soft music can help to improve sleep quality and quantity.",
-      "published_asr": "Scientists have found that soft music can help to improve sleep quality and quantity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p03.mp3",
+      "sha256": "assets/audio/segments/s31-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s31-p04",
       "text": "This works for sleepers of all ages, and especially for those with sleeping problems.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "This works for sleepers of all ages, and especially for those with sleeping problems.",
-      "published_asr": "This works for sleepers of all ages, and especially for those with sleeping problems.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p04.mp3",
+      "sha256": "assets/audio/segments/s31-p04.mp3"
     },
     {
-      "id": 5,
-      "text": "Soft music can help us fall asleep better, wake up less during the night, and feel more relaxed in the morning.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 9.388,
-      "raw_duration_seconds": 6.4,
-      "asr": "Soft music can help us fall asleep better, wake up less during the night, and feel more relaxed in the morning.",
-      "published_asr": "Soft music can help us fall asleep better. Wake up less during the night and feel more relaxed in the morning.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s31-p05-01",
+      "text": "Soft music can help us fall asleep better,",
+      "audio": "assets/audio/segments/s31-p05-01.mp3",
+      "sha256": "assets/audio/segments/s31-p05-01.mp3"
     },
     {
-      "id": 6,
+      "id": "s31-p05-02",
+      "text": "wake up less during the night,",
+      "audio": "assets/audio/segments/s31-p05-02.mp3",
+      "sha256": "assets/audio/segments/s31-p05-02.mp3"
+    },
+    {
+      "id": "s31-p05-03",
+      "text": "and feel more relaxed in the morning.",
+      "audio": "assets/audio/segments/s31-p05-03.mp3",
+      "sha256": "assets/audio/segments/s31-p05-03.mp3"
+    },
+    {
+      "id": "s31-p06",
       "text": "You may not notice the effects overnight, though.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "You may not notice the effects overnight though.",
-      "published_asr": "You may not notice the effects overnight though.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p06.mp3",
+      "sha256": "assets/audio/segments/s31-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s31-p07",
       "text": "It could take as many as 3 weeks to see any improvements.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It could take as many as three weeks to see any improvements.",
-      "published_asr": "It could take as many as three weeks to see any improvements.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p07.mp3",
+      "sha256": "assets/audio/segments/s31-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s31-p08",
       "text": "Why can soft music help us sleep better?",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.98,
-      "raw_duration_seconds": 2.72,
-      "asr": "Why can soft music help us sleep better?",
-      "published_asr": "Why can soft music help us sleep better?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p08.mp3",
+      "sha256": "assets/audio/segments/s31-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s31-p09",
       "text": "The reasons aren't clear yet.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "The reasons aren't clear yet.",
-      "published_asr": "The reasons aren't clear yet.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p09.mp3",
+      "sha256": "assets/audio/segments/s31-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s31-p10",
       "text": "It may connect with the relaxing effect of a good song.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "It may connect with the relaxing effect of a good song.",
-      "published_asr": "It may connect with the relaxing effect of a good song.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p10.mp3",
+      "sha256": "assets/audio/segments/s31-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s31-p11",
       "text": "Music can have real physical effects, too.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Music can have real physical effects too.",
-      "published_asr": "Music can have real physical effects too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p11.mp3",
+      "sha256": "assets/audio/segments/s31-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s31-p12",
       "text": "Soft music can lower our heart rate and slow down our breathing.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Soft music can lower our heart rate and slow down our breathing.",
-      "published_asr": "Soft music can lower our heart rate and slow down our breathing.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p12.mp3",
+      "sha256": "assets/audio/segments/s31-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s31-p13",
       "text": "This prepares us for sleep.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "This prepares us for sleep.",
-      "published_asr": "This prepares us for sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p13.mp3",
+      "sha256": "assets/audio/segments/s31-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s31-p14",
       "text": "Scientists say that for most people, music that has 70 beats per minute works best.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Scientists say that for most people, music that has 70 beats per minute works best.",
-      "published_asr": "Scientists say that for most people, music that has 70 beats per minute works best.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p14.mp3",
+      "sha256": "assets/audio/segments/s31-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s31-p15",
       "text": "Classical, jazz and folk music are usually more effective than other musical styles.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "Classical, jazz and folk music are usually more effective than other musical styles.",
-      "published_asr": "Classical jazz and folk music are usually more effective than other musical styles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p15.mp3",
+      "sha256": "assets/audio/segments/s31-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s31-p16",
       "text": "Familiar songs work well, too.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Familiar songs work well too.",
-      "published_asr": "Familiar songs work well, too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p16.mp3",
+      "sha256": "assets/audio/segments/s31-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s31-p17",
       "text": "You may need to test to make your own playlists.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "You may need to test to make your own playlists.",
-      "published_asr": "You may need to test to make your own playlists.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p17.mp3",
+      "sha256": "assets/audio/segments/s31-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s31-p18",
       "text": "And remember to get the volume right.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "and remember to get the volume right.",
-      "published_asr": "And remember to get the volume right.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p18.mp3",
+      "sha256": "assets/audio/segments/s31-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s31-p19",
       "text": "Make sure that the final piece is gradually slowing down, or you may be woken up by the sudden silence.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 9.383,
-      "raw_duration_seconds": 6.4,
-      "asr": "Make sure that the final piece is gradually slowing down, or you may be woken up by the sudden silence.",
-      "published_asr": "Make sure that the final piece is gradually slowing down, or you may be woken up by the sudden silence.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p19.mp3",
+      "sha256": "assets/audio/segments/s31-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s31-p20",
       "text": "It's very important to get enough high-quality sleep.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.674,
-      "raw_duration_seconds": 3.2,
-      "asr": "It's very important to get enough high-quality sleep.",
-      "published_asr": "It's very important to get enough high-quality sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p20.mp3",
+      "sha256": "assets/audio/segments/s31-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s31-p21",
       "text": "Before you go to bed tonight, play some soft music.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 4.909,
-      "raw_duration_seconds": 3.36,
-      "asr": "Before you go to bed tonight, play some soft music.",
-      "published_asr": "Before you go to bed tonight, play some soft music.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p21.mp3",
+      "sha256": "assets/audio/segments/s31-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s31-p22",
       "text": "Then, just prepare to be rocked off to dreamland.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 4.439,
-      "raw_duration_seconds": 3.04,
-      "asr": "Then, just prepare to be rocked off to Dreamland.",
-      "published_asr": "Then, just prepare to be rocked off to Dreamland.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s31-p22.mp3",
+      "sha256": "assets/audio/segments/s31-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 149,
-    "word_accepted_count": 149,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

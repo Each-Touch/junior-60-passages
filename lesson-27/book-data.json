@@ -1,0 +1,2177 @@
+{
+  "course": "初中60短文",
+  "passage": 27,
+  "title": "Passage 27",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s27-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s27-p01.mp3",
+      "en": "Do you yawn?",
+      "cn": "你打哈欠吗？"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s27-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s27-p02.mp3",
+      "en": "There are about 20 reasons that scientists think are possible for yawning after research.",
+      "cn": "经过研究，科学家们认为打哈欠有大约20种可能的原因。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s27-p03",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s27-p03.mp3",
+      "en": "They do not know exactly why yawning happens, but they do know many facts about yawning.",
+      "cn": "他们还不清楚打哈欠的确切原因，但对打哈欠的许多事实都有所了解。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s27-p04",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s27-p04.mp3",
+      "en": "Everyone yawns in the same way, from babies to adults.",
+      "cn": "从婴儿到成人，每个人打哈欠的方式都是一样的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s27-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s27-p05.mp3",
+      "en": "First you open your mouth slowly, like a sleepy lion.",
+      "cn": "首先，你会慢慢张开嘴，就像一头困倦的狮子。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s27-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s27-p06.mp3",
+      "en": "Your mouth stays open for about five seconds.",
+      "cn": "你的嘴会保持张开状态大约五秒钟。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s27-p07",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s27-p07.mp3",
+      "en": "You take in a lot of air and then push it out.",
+      "cn": "你会吸入大量空气，然后再将其呼出。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s27-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s27-p08.mp3",
+      "en": "Then you quickly close your mouth.",
+      "cn": "接着，你会迅速闭上嘴。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s27-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s27-p09.mp3",
+      "en": "Yawning is contagious.",
+      "cn": "打哈欠是会传染的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s27-p10",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s27-p10.mp3",
+      "en": "If you see someone yawn, your body may reply by yawning too, much like a secret way of communication.",
+      "cn": "如果你看到别人打哈欠，你的身体也可能会以打哈欠的方式回应，就像是某种秘密的交流方式。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s27-p11",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s27-p11.mp3",
+      "en": "Many people say they yawn because they are tired.",
+      "cn": "很多人说打哈欠是因为他们累了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s27-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s27-p12.mp3",
+      "en": "That might be true.",
+      "cn": "这可能是真的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s27-p13",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s27-p13.mp3",
+      "en": "People do often yawn before they sleep and after they wake up or before breakfast.",
+      "cn": "人们确实经常在睡觉前、睡醒后或早餐前打哈欠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s27-p14",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s27-p14.mp3",
+      "en": "However, people also yawn when they are excited or nervous.",
+      "cn": "然而，人们在兴奋或紧张时也会打哈欠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 15,
+      "chunkId": "s27-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s27-p15.mp3",
+      "en": "Yawning doesn't just mean you are lazy.",
+      "cn": "打哈欠并不只是意味着你懒惰。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 16,
+      "chunkId": "s27-p16",
+      "image": "assets/images/16.png",
+      "audio": "assets/audio/segments/s27-p16.mp3",
+      "en": "Yawning proves that your body needs to stay alert.",
+      "cn": "打哈欠表明你的身体需要保持警觉。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 17,
+      "chunkId": "s27-p17",
+      "image": "assets/images/17.png",
+      "audio": "assets/audio/segments/s27-p17.mp3",
+      "en": "When you yawn, you breathe deeply.",
+      "cn": "当你打哈欠时，你会深呼吸。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 18,
+      "chunkId": "s27-p18",
+      "image": "assets/images/18.png",
+      "audio": "assets/audio/segments/s27-p18.mp3",
+      "en": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "cn": "你还会拉伸面部、喉咙、颈部和肩部的肌肉。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 19,
+      "chunkId": "s27-p19",
+      "image": "assets/images/19.png",
+      "audio": "assets/audio/segments/s27-p19.mp3",
+      "en": "Your eardrums stretch, too.",
+      "cn": "你的鼓膜也会得到拉伸。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 20,
+      "chunkId": "s27-p20",
+      "image": "assets/images/20.png",
+      "audio": "assets/audio/segments/s27-p20.mp3",
+      "en": "Maybe this helps you to be quicker to notice things.",
+      "cn": "这或许有助于你更快察觉到周围的事物。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 21,
+      "chunkId": "s27-p21",
+      "image": "assets/images/21.png",
+      "audio": "assets/audio/segments/s27-p21.mp3",
+      "en": "In some countries, people think yawning is not nice.",
+      "cn": "在一些国家，人们认为打哈欠不太好。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 22,
+      "sourceSentenceId": 22,
+      "chunkId": "s27-p22-01",
+      "image": "assets/images/22.png",
+      "audio": "assets/audio/segments/s27-p22-01.mp3",
+      "en": "People put their hands over their mouths to cover a yawn,",
+      "cn": "人们会用手捂住嘴来遮掩自己的哈欠，"
+    },
+    {
+      "cover": false,
+      "sentenceId": 23,
+      "sourceSentenceId": 22,
+      "chunkId": "s27-p22-02",
+      "image": "assets/images/22.png",
+      "audio": "assets/audio/segments/s27-p22-02.mp3",
+      "en": "and we often do the same thing when we cough.",
+      "cn": "就像我们咳嗽时经常做的那样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 24,
+      "sourceSentenceId": 23,
+      "chunkId": "s27-p23",
+      "image": "assets/images/23.png",
+      "audio": "assets/audio/segments/s27-p23.mp3",
+      "en": "However, in other countries, people think yawning can let good things in.",
+      "cn": "而在另一些国家，人们则认为打哈欠可以带来好运。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 25,
+      "sourceSentenceId": 24,
+      "chunkId": "s27-p24",
+      "image": "assets/images/24.png",
+      "audio": "assets/audio/segments/s27-p24.mp3",
+      "en": "Scientists do not spend much time studying yawning.",
+      "cn": "科学家们并没有花太多时间研究打哈欠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 26,
+      "sourceSentenceId": 25,
+      "chunkId": "s27-p25",
+      "image": "assets/images/25.png",
+      "audio": "assets/audio/segments/s27-p25.mp3",
+      "en": "That is probably because yawning does not hurt or cause any medical emergency.",
+      "cn": "这可能是因为打哈欠不会造成伤害或引发任何医疗紧急情况。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 27,
+      "sourceSentenceId": 26,
+      "chunkId": "s27-p26",
+      "image": "assets/images/26.png",
+      "audio": "assets/audio/segments/s27-p26.mp3",
+      "en": "It is just a normal thing we do.",
+      "cn": "这只是我们做的一件平常事。"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/15.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/16.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/17.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/18.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/19.png"
+    },
+    {
+      "page": 20,
+      "label": "第20听力小节",
+      "file": "assets/images/20.png"
+    },
+    {
+      "page": 21,
+      "label": "第21听力小节",
+      "file": "assets/images/21.png"
+    },
+    {
+      "page": 22,
+      "label": "第22听力小节",
+      "file": "assets/images/22.png"
+    },
+    {
+      "page": 23,
+      "label": "第23听力小节",
+      "file": "assets/images/22.png"
+    },
+    {
+      "page": 24,
+      "label": "第24听力小节",
+      "file": "assets/images/23.png"
+    },
+    {
+      "page": 25,
+      "label": "第25听力小节",
+      "file": "assets/images/24.png"
+    },
+    {
+      "page": 26,
+      "label": "第26听力小节",
+      "file": "assets/images/25.png"
+    },
+    {
+      "page": 27,
+      "label": "第27听力小节",
+      "file": "assets/images/26.png"
+    }
+  ],
+  "dictionary": {
+    "do": {
+      "word": "Do",
+      "phonetic": "/du/",
+      "translation": "做",
+      "core": false
+    },
+    "you": {
+      "word": "you",
+      "phonetic": "/juː/",
+      "translation": "你；你们",
+      "core": false
+    },
+    "yawn": {
+      "word": "yawn",
+      "phonetic": "/jɔn/",
+      "translation": "打哈欠",
+      "core": true,
+      "coreWord": "yawn"
+    },
+    "there": {
+      "word": "There",
+      "phonetic": "/ðer/",
+      "translation": "那里；有",
+      "core": false
+    },
+    "are": {
+      "word": "are",
+      "phonetic": "/ər/",
+      "translation": "是",
+      "core": false
+    },
+    "about": {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "translation": "关于",
+      "core": false
+    },
+    "reasons": {
+      "word": "reasons",
+      "phonetic": "/ˈrizənz/",
+      "translation": "原因",
+      "core": false
+    },
+    "that": {
+      "word": "that",
+      "phonetic": "/ðət/",
+      "translation": "那",
+      "core": false
+    },
+    "scientists": {
+      "word": "scientists",
+      "phonetic": "/ˈsaɪəntɪsts/",
+      "translation": "科学家",
+      "core": true,
+      "coreWord": "scientist"
+    },
+    "think": {
+      "word": "think",
+      "phonetic": "/θɪŋk/",
+      "translation": "思考",
+      "core": false
+    },
+    "possible": {
+      "word": "possible",
+      "phonetic": "/ˈpɑsəbəl/",
+      "translation": "可能的",
+      "core": true,
+      "coreWord": "possible"
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "yawning": {
+      "word": "yawning",
+      "phonetic": "/ˈjɔnɪŋ/",
+      "translation": "打哈欠",
+      "core": true,
+      "coreWord": "yawn"
+    },
+    "after": {
+      "word": "after",
+      "phonetic": "/ˈæftər/",
+      "translation": "后",
+      "core": false
+    },
+    "research": {
+      "word": "research",
+      "phonetic": "/ˈrisərʧ/",
+      "translation": "研究",
+      "core": true,
+      "coreWord": "research"
+    },
+    "they": {
+      "word": "They",
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们",
+      "core": false
+    },
+    "not": {
+      "word": "not",
+      "phonetic": "/nɑt/",
+      "translation": "不是",
+      "core": false
+    },
+    "know": {
+      "word": "know",
+      "phonetic": "/noʊ/",
+      "translation": "知道",
+      "core": false
+    },
+    "exactly": {
+      "word": "exactly",
+      "phonetic": "/ɪgˈzæktli/",
+      "translation": "确切地",
+      "core": true,
+      "coreWord": "exactly"
+    },
+    "why": {
+      "word": "why",
+      "phonetic": "/waɪ/",
+      "translation": "为什么",
+      "core": false
+    },
+    "happens": {
+      "word": "happens",
+      "phonetic": "/ˈhæpənz/",
+      "translation": "发生",
+      "core": false
+    },
+    "but": {
+      "word": "but",
+      "phonetic": "/bət/",
+      "translation": "但",
+      "core": false
+    },
+    "many": {
+      "word": "many",
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多",
+      "core": false
+    },
+    "facts": {
+      "word": "facts",
+      "phonetic": "/fækts/",
+      "translation": "事实",
+      "core": true,
+      "coreWord": "fact"
+    },
+    "everyone": {
+      "word": "Everyone",
+      "phonetic": "/ˈɛvriˌwən/",
+      "translation": "每个人",
+      "core": false
+    },
+    "yawns": {
+      "word": "yawns",
+      "phonetic": "/jɔnz/",
+      "translation": "打哈欠",
+      "core": true,
+      "coreWord": "yawn"
+    },
+    "in": {
+      "word": "in",
+      "phonetic": "/ɪn/",
+      "translation": "在……里",
+      "core": false
+    },
+    "the": {
+      "word": "the",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "same": {
+      "word": "same",
+      "phonetic": "/seɪm/",
+      "translation": "相同的",
+      "core": false
+    },
+    "way": {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "translation": "方式",
+      "core": false
+    },
+    "from": {
+      "word": "from",
+      "phonetic": "/frʌm/",
+      "translation": "从",
+      "core": false
+    },
+    "babies": {
+      "word": "babies",
+      "phonetic": "/ˈbeɪbiz/",
+      "translation": "婴儿",
+      "core": true,
+      "coreWord": "baby"
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "adults": {
+      "word": "adults",
+      "phonetic": "/ˈædəlts/",
+      "translation": "成年人",
+      "core": false
+    },
+    "first": {
+      "word": "First",
+      "phonetic": "/fərst/",
+      "translation": "第一的",
+      "core": false
+    },
+    "open": {
+      "word": "open",
+      "phonetic": "/ˈoʊpən/",
+      "translation": "打开",
+      "core": false
+    },
+    "your": {
+      "word": "your",
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的",
+      "core": false
+    },
+    "mouth": {
+      "word": "mouth",
+      "phonetic": "/maʊθ/",
+      "translation": "嘴",
+      "core": false
+    },
+    "slowly": {
+      "word": "slowly",
+      "phonetic": "/sˈloʊli/",
+      "translation": "慢慢地",
+      "core": false
+    },
+    "like": {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "translation": "喜欢",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "sleepy": {
+      "word": "sleepy",
+      "phonetic": "/sˈlipi/",
+      "translation": "困",
+      "core": false
+    },
+    "lion": {
+      "word": "lion",
+      "phonetic": "/laɪən/",
+      "translation": "狮子",
+      "core": true,
+      "coreWord": "lion"
+    },
+    "stays": {
+      "word": "stays",
+      "phonetic": "/steɪz/",
+      "translation": "停留",
+      "core": true,
+      "coreWord": "stay"
+    },
+    "five": {
+      "word": "five",
+      "phonetic": "/faɪv/",
+      "translation": "五",
+      "core": false
+    },
+    "seconds": {
+      "word": "seconds",
+      "phonetic": "/ˈsɛkəndz/",
+      "translation": "秒",
+      "core": false
+    },
+    "take": {
+      "word": "take",
+      "phonetic": "/teɪk/",
+      "translation": "拿",
+      "core": false
+    },
+    "lot": {
+      "word": "lot",
+      "phonetic": "/lɔt/",
+      "translation": "很多",
+      "core": false
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "air": {
+      "word": "air",
+      "phonetic": "/ɛr/",
+      "translation": "空气",
+      "core": true,
+      "coreWord": "air"
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "then": {
+      "word": "then",
+      "phonetic": "/ðɛn/",
+      "translation": "然后",
+      "core": false
+    },
+    "push": {
+      "word": "push",
+      "phonetic": "/pʊʃ/",
+      "translation": "推",
+      "core": false
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "out": {
+      "word": "out",
+      "phonetic": "/aʊt/",
+      "translation": "出去",
+      "core": false
+    },
+    "quickly": {
+      "word": "quickly",
+      "phonetic": "/kˈwɪkli/",
+      "translation": "迅速地",
+      "core": true,
+      "coreWord": "quickly"
+    },
+    "close": {
+      "word": "close",
+      "phonetic": "/kloʊz/",
+      "translation": "关闭",
+      "core": true,
+      "coreWord": "close"
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "contagious": {
+      "word": "contagious",
+      "phonetic": "/kənˈteɪʤəs/",
+      "translation": "传染性",
+      "core": false
+    },
+    "if": {
+      "word": "If",
+      "phonetic": "/ɪf/",
+      "translation": "如果",
+      "core": false
+    },
+    "see": {
+      "word": "see",
+      "phonetic": "/si/",
+      "translation": "看",
+      "core": false
+    },
+    "someone": {
+      "word": "someone",
+      "phonetic": "/ˈsəmˌwən/",
+      "translation": "某人",
+      "core": false
+    },
+    "body": {
+      "word": "body",
+      "phonetic": "/ˈbɑdi/",
+      "translation": "身体",
+      "core": false
+    },
+    "may": {
+      "word": "may",
+      "phonetic": "/meɪ/",
+      "translation": "可能",
+      "core": false
+    },
+    "reply": {
+      "word": "reply",
+      "phonetic": "/rɪˈplaɪ/",
+      "translation": "回复",
+      "core": true,
+      "coreWord": "reply"
+    },
+    "by": {
+      "word": "by",
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边",
+      "core": false
+    },
+    "too": {
+      "word": "too",
+      "phonetic": "/tu/",
+      "translation": "也",
+      "core": false
+    },
+    "much": {
+      "word": "much",
+      "phonetic": "/məʧ/",
+      "translation": "很多",
+      "core": false
+    },
+    "secret": {
+      "word": "secret",
+      "phonetic": "/ˈsikrɪt/",
+      "translation": "秘密",
+      "core": true,
+      "coreWord": "secret"
+    },
+    "communication": {
+      "word": "communication",
+      "phonetic": "/kəmˌjunəˈkeɪʃən/",
+      "translation": "沟通",
+      "core": false
+    },
+    "people": {
+      "word": "people",
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们",
+      "core": false
+    },
+    "say": {
+      "word": "say",
+      "phonetic": "/seɪ/",
+      "translation": "说",
+      "core": false
+    },
+    "because": {
+      "word": "because",
+      "phonetic": "/bɪˈkəz/",
+      "translation": "因为",
+      "core": false
+    },
+    "tired": {
+      "word": "tired",
+      "phonetic": "/taɪərd/",
+      "translation": "疲劳的",
+      "core": true,
+      "coreWord": "tired"
+    },
+    "might": {
+      "word": "might",
+      "phonetic": "/maɪt/",
+      "translation": "可能",
+      "core": false
+    },
+    "be": {
+      "word": "be",
+      "phonetic": "/bi/",
+      "translation": "是",
+      "core": false
+    },
+    "true": {
+      "word": "true",
+      "phonetic": "/tru/",
+      "translation": "真的",
+      "core": true,
+      "coreWord": "true"
+    },
+    "often": {
+      "word": "often",
+      "phonetic": "/ˈɔfən/",
+      "translation": "经常",
+      "core": false
+    },
+    "before": {
+      "word": "before",
+      "phonetic": "/ˌbiˈfɔr/",
+      "translation": "前",
+      "core": false
+    },
+    "sleep": {
+      "word": "sleep",
+      "phonetic": "/slip/",
+      "translation": "睡觉",
+      "core": true,
+      "coreWord": "sleep"
+    },
+    "wake": {
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "translation": "唤醒",
+      "core": true,
+      "coreWord": "wake"
+    },
+    "up": {
+      "word": "up",
+      "phonetic": "/əp/",
+      "translation": "向上",
+      "core": false
+    },
+    "or": {
+      "word": "or",
+      "phonetic": "/ɔːr/",
+      "translation": "或者",
+      "core": false
+    },
+    "breakfast": {
+      "word": "breakfast",
+      "phonetic": "/ˈbrɛkfəst/",
+      "translation": "早餐",
+      "core": true,
+      "coreWord": "breakfast"
+    },
+    "however": {
+      "word": "However",
+      "phonetic": "/ˌhaʊˈɛvər/",
+      "translation": "然而",
+      "core": false
+    },
+    "also": {
+      "word": "also",
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还",
+      "core": false
+    },
+    "when": {
+      "word": "when",
+      "phonetic": "/wɪn/",
+      "translation": "什么时候",
+      "core": false
+    },
+    "excited": {
+      "word": "excited",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "translation": "兴奋的",
+      "core": false
+    },
+    "nervous": {
+      "word": "nervous",
+      "phonetic": "/ˈnərvəs/",
+      "translation": "紧张的",
+      "core": true,
+      "coreWord": "nervous"
+    },
+    "doesnt": {
+      "word": "doesn't",
+      "phonetic": "/doesnt/",
+      "translation": "不",
+      "core": false
+    },
+    "just": {
+      "word": "just",
+      "phonetic": "/ʤɪst/",
+      "translation": "只是",
+      "core": false
+    },
+    "mean": {
+      "word": "mean",
+      "phonetic": "/min/",
+      "translation": "意思是",
+      "core": false
+    },
+    "lazy": {
+      "word": "lazy",
+      "phonetic": "/ˈleɪzi/",
+      "translation": "懒惰的",
+      "core": true,
+      "coreWord": "lazy"
+    },
+    "proves": {
+      "word": "proves",
+      "phonetic": "/pruvz/",
+      "translation": "证明",
+      "core": false
+    },
+    "needs": {
+      "word": "needs",
+      "phonetic": "/nidz/",
+      "translation": "需要",
+      "core": false
+    },
+    "stay": {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "translation": "停留",
+      "core": true,
+      "coreWord": "stay"
+    },
+    "alert": {
+      "word": "alert",
+      "phonetic": "/əˈlərt/",
+      "translation": "警报",
+      "core": false
+    },
+    "breathe": {
+      "word": "breathe",
+      "phonetic": "/brið/",
+      "translation": "呼吸",
+      "core": true,
+      "coreWord": "breathe"
+    },
+    "deeply": {
+      "word": "deeply",
+      "phonetic": "/ˈdipli/",
+      "translation": "深",
+      "core": true,
+      "coreWord": "deeply"
+    },
+    "stretch": {
+      "word": "stretch",
+      "phonetic": "/strɛʧ/",
+      "translation": "拉紧",
+      "core": true,
+      "coreWord": "stretch"
+    },
+    "muscles": {
+      "word": "muscles",
+      "phonetic": "/ˈməsəlz/",
+      "translation": "肌肉",
+      "core": true,
+      "coreWord": "muscle"
+    },
+    "face": {
+      "word": "face",
+      "phonetic": "/feɪs/",
+      "translation": "脸",
+      "core": true,
+      "coreWord": "face"
+    },
+    "throat": {
+      "word": "throat",
+      "phonetic": "/θroʊt/",
+      "translation": "喉",
+      "core": true,
+      "coreWord": "throat"
+    },
+    "neck": {
+      "word": "neck",
+      "phonetic": "/nɛk/",
+      "translation": "脖子",
+      "core": true,
+      "coreWord": "neck"
+    },
+    "shoulders": {
+      "word": "shoulders",
+      "phonetic": "/ˈʃoʊldərz/",
+      "translation": "肩膀",
+      "core": true,
+      "coreWord": "shoulder"
+    },
+    "eardrums": {
+      "word": "eardrums",
+      "phonetic": "/eardrums/",
+      "translation": "耳膜",
+      "core": false
+    },
+    "maybe": {
+      "word": "Maybe",
+      "phonetic": "/ˈmeɪbi/",
+      "translation": "或许",
+      "core": false
+    },
+    "this": {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "helps": {
+      "word": "helps",
+      "phonetic": "/hɛlps/",
+      "translation": "帮助",
+      "core": false
+    },
+    "quicker": {
+      "word": "quicker",
+      "phonetic": "/kˈwɪkər/",
+      "translation": "更快",
+      "core": true,
+      "coreWord": "quick"
+    },
+    "notice": {
+      "word": "notice",
+      "phonetic": "/ˈnoʊtɪs/",
+      "translation": "注意",
+      "core": false
+    },
+    "things": {
+      "word": "things",
+      "phonetic": "/θɪŋz/",
+      "translation": "事物",
+      "core": false
+    },
+    "some": {
+      "word": "some",
+      "phonetic": "/səm/",
+      "translation": "一些",
+      "core": false
+    },
+    "countries": {
+      "word": "countries",
+      "phonetic": "/ˈkəntriz/",
+      "translation": "国家",
+      "core": false
+    },
+    "nice": {
+      "word": "nice",
+      "phonetic": "/nis/",
+      "translation": "好的",
+      "core": true,
+      "coreWord": "nice"
+    },
+    "put": {
+      "word": "put",
+      "phonetic": "/pʊt/",
+      "translation": "放",
+      "core": false
+    },
+    "their": {
+      "word": "their",
+      "phonetic": "/ðɛr/",
+      "translation": "他们的",
+      "core": false
+    },
+    "hands": {
+      "word": "hands",
+      "phonetic": "/hænz/",
+      "translation": "手",
+      "core": false
+    },
+    "over": {
+      "word": "over",
+      "phonetic": "/ˈoʊvər/",
+      "translation": "超过",
+      "core": false
+    },
+    "mouths": {
+      "word": "mouths",
+      "phonetic": "/maʊðz/",
+      "translation": "嘴",
+      "core": false
+    },
+    "cover": {
+      "word": "cover",
+      "phonetic": "/ˈkəvər/",
+      "translation": "覆盖",
+      "core": true,
+      "coreWord": "cover"
+    },
+    "we": {
+      "word": "we",
+      "phonetic": "/wiː/",
+      "translation": "我们",
+      "core": false
+    },
+    "thing": {
+      "word": "thing",
+      "phonetic": "/θɪŋ/",
+      "translation": "事物",
+      "core": false
+    },
+    "cough": {
+      "word": "cough",
+      "phonetic": "/kɔf/",
+      "translation": "咳嗽",
+      "core": true,
+      "coreWord": "cough"
+    },
+    "other": {
+      "word": "other",
+      "phonetic": "/ˈəðər/",
+      "translation": "其他",
+      "core": false
+    },
+    "can": {
+      "word": "can",
+      "phonetic": "/kən/",
+      "translation": "能",
+      "core": false
+    },
+    "let": {
+      "word": "let",
+      "phonetic": "/lɛt/",
+      "translation": "让",
+      "core": false
+    },
+    "good": {
+      "word": "good",
+      "phonetic": "/gʊd/",
+      "translation": "好的",
+      "core": false
+    },
+    "spend": {
+      "word": "spend",
+      "phonetic": "/spɛnd/",
+      "translation": "花费",
+      "core": false
+    },
+    "time": {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "translation": "时间",
+      "core": false
+    },
+    "studying": {
+      "word": "studying",
+      "phonetic": "/ˈstədiɪŋ/",
+      "translation": "学习",
+      "core": false
+    },
+    "probably": {
+      "word": "probably",
+      "phonetic": "/ˈprɑbəˌbli/",
+      "translation": "大概",
+      "core": false
+    },
+    "does": {
+      "word": "does",
+      "phonetic": "/dɪz/",
+      "translation": "做",
+      "core": false
+    },
+    "hurt": {
+      "word": "hurt",
+      "phonetic": "/hərt/",
+      "translation": "伤害",
+      "core": true,
+      "coreWord": "hurt"
+    },
+    "cause": {
+      "word": "cause",
+      "phonetic": "/kɔz/",
+      "translation": "原因",
+      "core": false
+    },
+    "any": {
+      "word": "any",
+      "phonetic": "/ˈɛni/",
+      "translation": "任何",
+      "core": false
+    },
+    "medical": {
+      "word": "medical",
+      "phonetic": "/ˈmɛdɪkəl/",
+      "translation": "医疗的",
+      "core": true,
+      "coreWord": "medical"
+    },
+    "emergency": {
+      "word": "emergency",
+      "phonetic": "/ˈimərʤənsi/",
+      "translation": "紧急情况",
+      "core": true,
+      "coreWord": "emergency"
+    },
+    "normal": {
+      "word": "normal",
+      "phonetic": "/ˈnɔrməl/",
+      "translation": "普通的",
+      "core": false
+    }
+  },
+  "coreCards": [
+    {
+      "word": "yawn",
+      "phonetic": "/jɔn/",
+      "translation": "打哈欠",
+      "definition": "/jɔn/ 打哈欠",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：躺在草地（lawn）上伸懒腰，打哈欠（yawn）"
+        }
+      ],
+      "example": "Do you yawn?",
+      "aliases": [
+        "yawn",
+        "yawning",
+        "yawns"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "scientist",
+      "phonetic": "/sarantrst/",
+      "translation": "n. 科学家",
+      "definition": "/sarantrst/ n. 科学家",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：scient（看作 science，科学）+ist（表人）一科学家"
+        }
+      ],
+      "example": "There are about 20 reasons that scientists think are possible for yawning after research.",
+      "aliases": [
+        "scientists"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "possible",
+      "phonetic": "/ˈpɑsəbəl/",
+      "translation": "可能的",
+      "definition": "/ˈpɑsəbəl/ 可能的",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "as··as possible 尽可能…的if possible 如果可能的话"
+        }
+      ],
+      "example": "There are about 20 reasons that scientists think are possible for yawning after research.",
+      "aliases": [
+        "possible"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "research",
+      "phonetic": "/ˈrisərʧ/",
+      "translation": "n. 研究，调查",
+      "definition": "/ˈrisərʧ/ n. 研究，调查",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：re（表强调）+search（搜寻）一不断搜寻资料进\n行研究一研究"
+        }
+      ],
+      "example": "There are about 20 reasons that scientists think are possible for yawning after research.",
+      "aliases": [
+        "research"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "exactly",
+      "phonetic": "/ɪgˈzæktli/",
+      "translation": "adv. 确切地，精确地；正是如此；究竟",
+      "definition": "/ɪgˈzæktli/ adv. 确切地，精确地；正是如此；究竟",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：ex（出，向外）+act（行为）tly（⋯··地）一向\n外探索寻求精确结果一精确地"
+        }
+      ],
+      "example": "They do not know exactly why yawning happens, but they do know many facts about yawning.",
+      "aliases": [
+        "exactly"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "fact",
+      "phonetic": "/faekt/",
+      "translation": "n. 事实，真相；实际情况\nbaby",
+      "definition": "/faekt/ n. 事实，真相；实际情况\nbaby",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：勇于 face（面对）fact（真相）"
+        },
+        {
+          "label": "搭",
+          "text": "in fact 事实上，实际上 as a matter of\nfact 事实上，实际上"
+        }
+      ],
+      "example": "They do not know exactly why yawning happens, but they do know many facts about yawning.",
+      "aliases": [
+        "facts"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "baby",
+      "phonetic": "",
+      "translation": "n. 婴儿",
+      "definition": "n. 婴儿",
+      "sections": [],
+      "example": "Everyone yawns in the same way, from babies to adults.",
+      "aliases": [
+        "babies"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "lion",
+      "phonetic": "/laɪən/",
+      "translation": "n. 狮子",
+      "definition": "/laɪən/ n. 狮子",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：狮子（lion）走过来，动物\n排成排（line）\nline"
+        }
+      ],
+      "example": "First you open your mouth slowly, like a sleepy lion.",
+      "aliases": [
+        "lion"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "translation": "v.停留：逗留；保持n.逗留\nstay up 熬夜\nOn Friday, her mum worked late so she had to stay at school\nfor one more hour. 星期五，她妈妈工作到很晚，所以她不得\n不在学校多待了一个小时。",
+      "definition": "/steɪ/ v.停留：逗留；保持n.逗留\nstay up 熬夜\nOn Friday, her mum worked late so she had to stay at school\nfor one more hour. 星期五，她妈妈工作到很晚，所以她不得\n不在学校多待了一个小时。",
+      "sections": [],
+      "example": "Your mouth stays open for about five seconds.",
+      "aliases": [
+        "stay",
+        "stays"
+      ],
+      "sourcePhoto": "IMG_3705.JPG"
+    },
+    {
+      "word": "air",
+      "phonetic": "/ɛr/",
+      "translation": "n.天空；空气；神态",
+      "definition": "/ɛr/ n.天空；空气；神态",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：风吹进来，空气（air）流通，\n秀发（hair）飞扬"
+        },
+        {
+          "label": "搭",
+          "text": "in the air 在空中 by air 乘飞机"
+        }
+      ],
+      "example": "You take in a lot of air and then push it out.",
+      "aliases": [
+        "air"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "quickly",
+      "phonetic": "/kˈwɪkli/",
+      "translation": "adv.迅速地，很快地；不久",
+      "definition": "/kˈwɪkli/ adv.迅速地，很快地；不久",
+      "sections": [],
+      "example": "Then you quickly close your mouth.",
+      "aliases": [
+        "quickly"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "close",
+      "phonetic": "/kloʊz/",
+      "translation": "关闭",
+      "definition": "/kloʊz/ 关闭",
+      "sections": [],
+      "example": "Then you quickly close your mouth.",
+      "aliases": [
+        "close"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "reply",
+      "phonetic": "/rɪˈplaɪ/",
+      "translation": "回复",
+      "definition": "/rɪˈplaɪ/ 回复",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：re（回）+ply（重叠）一把（问题）重叠回去 回答"
+        },
+        {
+          "label": "搭",
+          "text": "reply to 回答；对···作出反应"
+        }
+      ],
+      "example": "If you see someone yawn, your body may reply by yawning too, much like a secret way of communication.",
+      "aliases": [
+        "reply"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "secret",
+      "phonetic": "/ˈsikrɪt/",
+      "translation": "adj. 秘密的n. 秘密",
+      "definition": "/ˈsikrɪt/ adj. 秘密的n. 秘密",
+      "sections": [],
+      "example": "If you see someone yawn, your body may reply by yawning too, much like a secret way of communication.",
+      "aliases": [
+        "secret"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "tired",
+      "phonetic": "/taɪərd/",
+      "translation": "adj. 疲劳的；厌烦的",
+      "definition": "/taɪərd/ adj. 疲劳的；厌烦的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "发音记忆：“太饿的”一饿得慌，累得\n很一疲劳的"
+        },
+        {
+          "label": "搭",
+          "text": "be tired of 厌烦\ntired out 疲惫不堪"
+        }
+      ],
+      "example": "Many people say they yawn because they are tired.",
+      "aliases": [
+        "tired"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "true",
+      "phonetic": "/tru/",
+      "translation": "adj.符合事实的；真正的；忠诚的；\n精确的\ncome true 成为现实",
+      "definition": "/tru/ adj.符合事实的；真正的；忠诚的；\n精确的\ncome true 成为现实",
+      "sections": [],
+      "example": "That might be true.",
+      "aliases": [
+        "true"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "sleep",
+      "phonetic": "/slip/",
+      "translation": "n./v. 睡（眠）",
+      "definition": "/slip/ n./v. 睡（眠）",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：sleep（睡觉）困难的时候数\nsheep（绵羊）"
+        },
+        {
+          "label": "用",
+          "text": "过去式：slept 过去分词：slept\nsleep 作名词时不可数，但表示“一段睡眠时间”的时候，则是可"
+        },
+        {
+          "label": "拓",
+          "text": "数名词，如：Have a good sleep！（睡个好觉！）\nsleepy（adj. 困乏的）"
+        }
+      ],
+      "example": "People do often yawn before they sleep and after they wake up or before breakfast.",
+      "aliases": [
+        "sleep"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "translation": "v. 醒来，唤醒；唤起（记忆）\n撘",
+      "definition": "/weɪk/ v. 醒来，唤醒；唤起（记忆）\n撘",
+      "sections": [
+        {
+          "label": "用",
+          "text": "wake up 醒来 wake sb. up 把某人叫醒"
+        },
+        {
+          "label": "用",
+          "text": "过去式：woke 过去分词：woken\n98 126\n下得\n［'brekfast］ n. 早餐"
+        }
+      ],
+      "example": "People do often yawn before they sleep and after they wake up or before breakfast.",
+      "aliases": [
+        "wake"
+      ],
+      "sourcePhoto": "IMG_3706.JPG"
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrɛkfəst/",
+      "translation": "早餐",
+      "definition": "/ˈbrɛkfəst/ 早餐",
+      "sections": [],
+      "example": "People do often yawn before they sleep and after they wake up or before breakfast.",
+      "aliases": [
+        "breakfast"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "nervous",
+      "phonetic": "/ˈnərvəs/",
+      "translation": "adj. 神经紧张的；神经性的",
+      "definition": "/ˈnərvəs/ adj. 神经紧张的；神经性的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：nerv（神经）+ous（⋯⋯的）\n神经紧张的\n空"
+        }
+      ],
+      "example": "However, people also yawn when they are excited or nervous.",
+      "aliases": [
+        "nervous"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "lazy",
+      "phonetic": "/ˈleɪzi/",
+      "translation": "adj. 懒惰的；无精打采的",
+      "definition": "/ˈleɪzi/ adj. 懒惰的；无精打采的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：这个人既 lazy（懒惰的），\n又 crazy（疯狂的）\n面试\n答"
+        }
+      ],
+      "example": "Yawning doesn't just mean you are lazy.",
+      "aliases": [
+        "lazy"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "breathe",
+      "phonetic": "/brið/",
+      "translation": "呼吸",
+      "definition": "/brið/ 呼吸",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "breathe in 吸入 breathe out 出\n†"
+        }
+      ],
+      "example": "When you yawn, you breathe deeply.",
+      "aliases": [
+        "breathe"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "deeply",
+      "phonetic": "/ˈdipli/",
+      "translation": "adv.很，非常；深刻地，强烈地",
+      "definition": "/ˈdipli/ adv.很，非常；深刻地，强烈地",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "breathe deeply 深呼吸"
+        }
+      ],
+      "example": "When you yawn, you breathe deeply.",
+      "aliases": [
+        "deeply"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "stretch",
+      "phonetic": "/strɛʧ/",
+      "translation": "拉紧",
+      "definition": "/strɛʧ/ 拉紧",
+      "sections": [],
+      "example": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "aliases": [
+        "stretch"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "muscle",
+      "phonetic": "/'mAsl/",
+      "translation": "n. 肌肉",
+      "definition": "/'mAsl/ n. 肌肉",
+      "sections": [
+        {
+          "label": "拓",
+          "text": "muscular（adj. 肌肉的；强壮的）"
+        }
+      ],
+      "example": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "aliases": [
+        "muscles"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "face",
+      "phonetic": "/feɪs/",
+      "translation": "n.脸；面部表情；面，表面v面向，面对；面临",
+      "definition": "/feɪs/ n.脸；面部表情；面，表面v面向，面对；面临",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "face to face 面对面"
+        }
+      ],
+      "example": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "aliases": [
+        "face"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "throat",
+      "phonetic": "/θroʊt/",
+      "translation": "n.咽喉，喉咙",
+      "definition": "/θroʊt/ n.咽喉，喉咙",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：th+roat（看作road，道路）一咽喉下面是食道一\n河\n咽喉"
+        }
+      ],
+      "example": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "aliases": [
+        "throat"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "neck",
+      "phonetic": "/nɛk/",
+      "translation": "n. 颈，脖子；衣领",
+      "definition": "/nɛk/ n. 颈，脖子；衣领",
+      "sections": [],
+      "example": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "aliases": [
+        "neck"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "shoulder",
+      "phonetic": "/Jaulda（D/",
+      "translation": "n.肩，肩膀v担负，承担\nquick slow",
+      "definition": "/Jaulda（D/ n.肩，肩膀v担负，承担\nquick slow",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：肩膀（shoulder）就应当\n（should）扛起责任"
+        }
+      ],
+      "example": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "aliases": [
+        "shoulders"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "quick",
+      "phonetic": "",
+      "translation": "kwk］ ed. 快的，迅速的ad.快速地，迅\n速地",
+      "definition": "kwk］ ed. 快的，迅速的ad.快速地，迅\n速地",
+      "sections": [
+        {
+          "label": "用",
+          "text": "比较级：quicker 最高级：quickest"
+        }
+      ],
+      "example": "Maybe this helps you to be quicker to notice things.",
+      "aliases": [
+        "quicker"
+      ],
+      "sourcePhoto": "IMG_3707.JPG"
+    },
+    {
+      "word": "nice",
+      "phonetic": "/nis/",
+      "translation": "好的",
+      "definition": "/nis/ 好的",
+      "sections": [],
+      "example": "In some countries, people think yawning is not nice.",
+      "aliases": [
+        "nice"
+      ],
+      "sourcePhoto": "IMG_3708.JPG"
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkəvər/",
+      "translation": "v.掩蔽，遮盖；覆盖；占（一片\ncover\n面积）；包括；足以支付n.覆盖物，套子，\n罩子；躲避处；封面",
+      "definition": "/ˈkəvər/ v.掩蔽，遮盖；覆盖；占（一片\ncover\n面积）；包括；足以支付n.覆盖物，套子，\n罩子；躲避处；封面",
+      "sections": [
+        {
+          "label": "拓",
+          "text": "covering（n. 遮盖物）"
+        }
+      ],
+      "example": "People put their hands over their mouths to cover a yawn, and we often do the same thing when we cough.",
+      "aliases": [
+        "cover"
+      ],
+      "sourcePhoto": "IMG_3708.JPG"
+    },
+    {
+      "word": "cough",
+      "phonetic": "/kɔf/",
+      "translation": "n./v. 咳嗽",
+      "definition": "/kɔf/ n./v. 咳嗽",
+      "sections": [],
+      "example": "People put their hands over their mouths to cover a yawn, and we often do the same thing when we cough.",
+      "aliases": [
+        "cough"
+      ],
+      "sourcePhoto": "IMG_3708.JPG"
+    },
+    {
+      "word": "hurt",
+      "phonetic": "/hərt/",
+      "translation": "伤害",
+      "definition": "/hərt/ 伤害",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：在森林 hunt（打猎），结果\nhurt（受伤）"
+        },
+        {
+          "label": "用",
+          "text": "过去式：hurt 过去分词：hurt"
+        }
+      ],
+      "example": "That is probably because yawning does not hurt or cause any medical emergency.",
+      "aliases": [
+        "hurt"
+      ],
+      "sourcePhoto": "IMG_3708.JPG"
+    },
+    {
+      "word": "medical",
+      "phonetic": "/ˈmɛdɪkəl/",
+      "translation": "adj. 医学的，医疗的",
+      "definition": "/ˈmɛdɪkəl/ adj. 医学的，医疗的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：med（医药）+ic+al（·····的）一医疗的"
+        }
+      ],
+      "example": "That is probably because yawning does not hurt or cause any medical emergency.",
+      "aliases": [
+        "medical"
+      ],
+      "sourcePhoto": "IMG_3708.JPG"
+    },
+    {
+      "word": "emergency",
+      "phonetic": "/ˈimərʤənsi/",
+      "translation": "n. 紧急情况，突发事件\n联根记忆：出现（emerge）紧急情况（emergency）",
+      "definition": "/ˈimərʤənsi/ n. 紧急情况，突发事件\n联根记忆：出现（emerge）紧急情况（emergency）",
+      "sections": [],
+      "example": "That is probably because yawning does not hurt or cause any medical emergency.",
+      "aliases": [
+        "emergency"
+      ],
+      "sourcePhoto": "IMG_3708.JPG"
+    }
+  ],
+  "coreWordCount": 36,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s27-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s27-p01.mp3",
+      "en": "Do you yawn?",
+      "cn": "你打哈欠吗？"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s27-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s27-p02.mp3",
+      "en": "There are about 20 reasons that scientists think are possible for yawning after research.",
+      "cn": "经过研究，科学家们认为打哈欠有大约20种可能的原因。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s27-p03",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s27-p03.mp3",
+      "en": "They do not know exactly why yawning happens, but they do know many facts about yawning.",
+      "cn": "他们还不清楚打哈欠的确切原因，但对打哈欠的许多事实都有所了解。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s27-p04",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s27-p04.mp3",
+      "en": "Everyone yawns in the same way, from babies to adults.",
+      "cn": "从婴儿到成人，每个人打哈欠的方式都是一样的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s27-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s27-p05.mp3",
+      "en": "First you open your mouth slowly, like a sleepy lion.",
+      "cn": "首先，你会慢慢张开嘴，就像一头困倦的狮子。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s27-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s27-p06.mp3",
+      "en": "Your mouth stays open for about five seconds.",
+      "cn": "你的嘴会保持张开状态大约五秒钟。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s27-p07",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s27-p07.mp3",
+      "en": "You take in a lot of air and then push it out.",
+      "cn": "你会吸入大量空气，然后再将其呼出。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s27-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s27-p08.mp3",
+      "en": "Then you quickly close your mouth.",
+      "cn": "接着，你会迅速闭上嘴。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s27-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s27-p09.mp3",
+      "en": "Yawning is contagious.",
+      "cn": "打哈欠是会传染的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s27-p10",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s27-p10.mp3",
+      "en": "If you see someone yawn, your body may reply by yawning too, much like a secret way of communication.",
+      "cn": "如果你看到别人打哈欠，你的身体也可能会以打哈欠的方式回应，就像是某种秘密的交流方式。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s27-p11",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s27-p11.mp3",
+      "en": "Many people say they yawn because they are tired.",
+      "cn": "很多人说打哈欠是因为他们累了。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s27-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s27-p12.mp3",
+      "en": "That might be true.",
+      "cn": "这可能是真的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s27-p13",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s27-p13.mp3",
+      "en": "People do often yawn before they sleep and after they wake up or before breakfast.",
+      "cn": "人们确实经常在睡觉前、睡醒后或早餐前打哈欠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s27-p14",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s27-p14.mp3",
+      "en": "However, people also yawn when they are excited or nervous.",
+      "cn": "然而，人们在兴奋或紧张时也会打哈欠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 15,
+      "chunkId": "s27-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s27-p15.mp3",
+      "en": "Yawning doesn't just mean you are lazy.",
+      "cn": "打哈欠并不只是意味着你懒惰。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 16,
+      "chunkId": "s27-p16",
+      "image": "assets/images/16.webp",
+      "audio": "assets/audio/segments/s27-p16.mp3",
+      "en": "Yawning proves that your body needs to stay alert.",
+      "cn": "打哈欠表明你的身体需要保持警觉。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 17,
+      "chunkId": "s27-p17",
+      "image": "assets/images/17.webp",
+      "audio": "assets/audio/segments/s27-p17.mp3",
+      "en": "When you yawn, you breathe deeply.",
+      "cn": "当你打哈欠时，你会深呼吸。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 18,
+      "chunkId": "s27-p18",
+      "image": "assets/images/18.webp",
+      "audio": "assets/audio/segments/s27-p18.mp3",
+      "en": "You also stretch the muscles in your face, throat, neck and shoulders.",
+      "cn": "你还会拉伸面部、喉咙、颈部和肩部的肌肉。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 19,
+      "chunkId": "s27-p19",
+      "image": "assets/images/19.webp",
+      "audio": "assets/audio/segments/s27-p19.mp3",
+      "en": "Your eardrums stretch, too.",
+      "cn": "你的鼓膜也会得到拉伸。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 20,
+      "chunkId": "s27-p20",
+      "image": "assets/images/20.webp",
+      "audio": "assets/audio/segments/s27-p20.mp3",
+      "en": "Maybe this helps you to be quicker to notice things.",
+      "cn": "这或许有助于你更快察觉到周围的事物。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 21,
+      "chunkId": "s27-p21",
+      "image": "assets/images/21.webp",
+      "audio": "assets/audio/segments/s27-p21.mp3",
+      "en": "In some countries, people think yawning is not nice.",
+      "cn": "在一些国家，人们认为打哈欠不太好。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 22,
+      "sourceSentenceId": 22,
+      "chunkId": "s27-p22-01",
+      "image": "assets/images/22.webp",
+      "audio": "assets/audio/segments/s27-p22-01.mp3",
+      "en": "People put their hands over their mouths to cover a yawn,",
+      "cn": "人们会用手捂住嘴来遮掩自己的哈欠，"
+    },
+    {
+      "cover": false,
+      "sentenceId": 23,
+      "sourceSentenceId": 22,
+      "chunkId": "s27-p22-02",
+      "image": "assets/images/22.webp",
+      "audio": "assets/audio/segments/s27-p22-02.mp3",
+      "en": "and we often do the same thing when we cough.",
+      "cn": "就像我们咳嗽时经常做的那样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 24,
+      "sourceSentenceId": 23,
+      "chunkId": "s27-p23",
+      "image": "assets/images/23.webp",
+      "audio": "assets/audio/segments/s27-p23.mp3",
+      "en": "However, in other countries, people think yawning can let good things in.",
+      "cn": "而在另一些国家，人们则认为打哈欠可以带来好运。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 25,
+      "sourceSentenceId": 24,
+      "chunkId": "s27-p24",
+      "image": "assets/images/24.webp",
+      "audio": "assets/audio/segments/s27-p24.mp3",
+      "en": "Scientists do not spend much time studying yawning.",
+      "cn": "科学家们并没有花太多时间研究打哈欠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 26,
+      "sourceSentenceId": 25,
+      "chunkId": "s27-p25",
+      "image": "assets/images/25.webp",
+      "audio": "assets/audio/segments/s27-p25.mp3",
+      "en": "That is probably because yawning does not hurt or cause any medical emergency.",
+      "cn": "这可能是因为打哈欠不会造成伤害或引发任何医疗紧急情况。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 27,
+      "sourceSentenceId": 26,
+      "chunkId": "s27-p26",
+      "image": "assets/images/26.webp",
+      "audio": "assets/audio/segments/s27-p26.mp3",
+      "en": "It is just a normal thing we do.",
+      "cn": "这只是我们做的一件平常事。"
+    }
+  ]
+}

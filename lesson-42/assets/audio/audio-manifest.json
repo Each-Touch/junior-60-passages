@@ -1,290 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s42-p01",
       "text": "A red sky at sunset may mean that there are clear skies to the west, where the sun sets.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.733,
-      "raw_duration_seconds": 5.28,
-      "asr": "A red sky at sunset may mean that there are clear skies to the west, where the sun sets.",
-      "published_asr": "A red sky at sunset may mean that there are clear skies to the west where the sun sets.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p01.mp3",
+      "sha256": "assets/audio/segments/s42-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s42-p02",
       "text": "A red sky at sunrise usually means that the clear weather has already passed, so storms might be coming.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 9.839,
-      "raw_duration_seconds": 6.72,
-      "asr": "A red sky at sunrise usually means that the clear weather has already passed, so storms might be coming.",
-      "published_asr": "A red sky at sunrise usually means that the clear weather has already passed, so storms might be coming.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p02.mp3",
+      "sha256": "assets/audio/segments/s42-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s42-p03",
       "text": "Forecasting the weather has been practiced for thousands of years.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Forecasting the weather has been practiced for thousands of years.",
-      "published_asr": "Forecasting the weather has been practiced for thousands of years.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p03.mp3",
+      "sha256": "assets/audio/segments/s42-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s42-p04",
       "text": "In the 5th century BC, the Greeks sent out forecasts to sailors.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 7.025,
-      "raw_duration_seconds": 4.8,
-      "asr": "In the 5th century BC, the Greeks sent out forecasts to sailors.",
-      "published_asr": "In the 5th century BC, the Greeks sent out forecasts to sailors.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p04.mp3",
+      "sha256": "assets/audio/segments/s42-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s42-p05",
       "text": "They used signs in nature to forecast the weather.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.906,
-      "raw_duration_seconds": 3.36,
-      "asr": "They used signs in nature to forecast the weather.",
-      "published_asr": "They used signs in nature to forecast the weather.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p05.mp3",
+      "sha256": "assets/audio/segments/s42-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s42-p06",
       "text": "But today, meteorologists provide exact forecasts further in advance.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.274,
-      "raw_duration_seconds": 4.96,
-      "asr": "But today, meteorologists provide exact forecasts further in advance.",
-      "published_asr": "But today, meteorologists provide exact forecasts further in advance.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p06.mp3",
+      "sha256": "assets/audio/segments/s42-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s42-p07",
       "text": "They use scientific instruments to study weather conditions around the world and make forecasts.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.737,
-      "raw_duration_seconds": 5.28,
-      "asr": "They use scientific instruments to study weather conditions around the world and make forecasts.",
-      "published_asr": "They use scientific instruments to study weather conditions around the world and make forecasts.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p07.mp3",
+      "sha256": "assets/audio/segments/s42-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s42-p08",
       "text": "Pilots, farmers and many other people depend on these forecasts.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Pilots, farmers, and many other people depend on these forecasts.",
-      "published_asr": "Pilots, farmers, and many other people depend on these forecasts.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p08.mp3",
+      "sha256": "assets/audio/segments/s42-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s42-p09",
       "text": "Luckily, most of us can simply check the smartphone or turn on the TV to find out what kind of weather is coming.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "Luckily, most of us can simply check the smartphone, or turn on the TV to find out what kind of weather is coming.",
-      "published_asr": "Luckily, most of us can simply check the smartphone or turn on the TV to find out what kind of weather is coming.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p09.mp3",
+      "sha256": "assets/audio/segments/s42-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s42-p10",
       "text": "If you are looking for some signs of the weather, pay attention to nature.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "If you are looking for some signs of the weather, pay attention to nature.",
-      "published_asr": "If you are looking for some signs of the weather, pay attention to nature.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p10.mp3",
+      "sha256": "assets/audio/segments/s42-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s42-p11",
       "text": "There are two basic rules used in weather forecasting.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "There are two basic rules used in weather forecasting.",
-      "published_asr": "There are two basic rules used in weather forecasting.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p11.mp3",
+      "sha256": "assets/audio/segments/s42-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s42-p12",
       "text": "Weather generally moves from west to east.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 4.211,
-      "raw_duration_seconds": 2.88,
-      "asr": "Weather generally moves from west to east.",
-      "published_asr": "Weather generally moves from west to east.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p12.mp3",
+      "sha256": "assets/audio/segments/s42-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s42-p13",
       "text": "And low air pressure usually means rain or snow.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "and low air pressure usually means rain or snow.",
-      "published_asr": "and low air pressure usually means rain or snow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p13.mp3",
+      "sha256": "assets/audio/segments/s42-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s42-p14",
       "text": "So pay attention to the signs.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "So pay attention to the signs.",
-      "published_asr": "So pay attention to the signs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p14.mp3",
+      "sha256": "assets/audio/segments/s42-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s42-p15",
       "text": "If rainbows form in the west at sunrise, the sun is on the way.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "If rainbows form in the west at sunrise, the sun is on the way.",
-      "published_asr": "If rainbows form in the west at sunrise, the sun is on the way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p15.mp3",
+      "sha256": "assets/audio/segments/s42-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s42-p16",
       "text": "Smell the flowers, their smells are stronger in wet air.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Smell the flowers, their smells are stronger in wet air.",
-      "published_asr": "Smell the flowers, their smells are stronger in wet air.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p16.mp3",
+      "sha256": "assets/audio/segments/s42-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s42-p17",
       "text": "What are the ants doing?",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "What are the ants doing?",
-      "published_asr": "What are the ants doing?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p17.mp3",
+      "sha256": "assets/audio/segments/s42-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s42-p18",
       "text": "Are they moving to higher ground?",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 3.498,
-      "raw_duration_seconds": 2.4,
-      "asr": "Are they moving to higher ground?",
-      "published_asr": "Are they moving to higher ground?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p18.mp3",
+      "sha256": "assets/audio/segments/s42-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s42-p19",
       "text": "This could mean a drop in air pressure.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "This could mean a drop in air pressure.",
-      "published_asr": "This could mean a drop in air pressure.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p19.mp3",
+      "sha256": "assets/audio/segments/s42-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s42-p20",
       "text": "Are the birds flying low or high?",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Are the birds flying low or high?",
-      "published_asr": "Are the birds flying low or high?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p20.mp3",
+      "sha256": "assets/audio/segments/s42-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s42-p21",
       "text": "Falling air pressure may influence birds ears, so they fly low.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Falling air pressure may influence birds ears, so they fly low.",
-      "published_asr": "Falling air pressure may influence birds ears, so they fly low.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p21.mp3",
+      "sha256": "assets/audio/segments/s42-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s42-p22",
       "text": "And if the sky is red at sunset, you might plan a picnic for the next day.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "And if the sky is red at sunset, you might plan a picnic for the next day.",
-      "published_asr": "And if the sky is red at sunset, you might plan a picnic for the next day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s42-p22.mp3",
+      "sha256": "assets/audio/segments/s42-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 134,
-    "word_accepted_count": 134,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

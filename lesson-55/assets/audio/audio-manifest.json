@@ -1,254 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s55-p01",
       "text": "Governments around the world are investing capital to push for an end to plastic straws and bags.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "Governments around the world are investing capital to push for an end to plastic straws and bags.",
-      "published_asr": "Governments around the world are investing capital to push for an end to plastic straws and bags.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p01.mp3",
+      "sha256": "assets/audio/segments/s55-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s55-p02",
       "text": "Businesses are turning to paper products as a choice.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Businesses are turning to paper products as a choice.",
-      "published_asr": "Businesses are turning to paper products as a choice.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p02.mp3",
+      "sha256": "assets/audio/segments/s55-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s55-p03",
       "text": "Paper is considered by many to be better than plastic.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Paper is considered by many to be better than plastic.",
-      "published_asr": "Paper is considered by many to be better than plastic.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p03.mp3",
+      "sha256": "assets/audio/segments/s55-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s55-p04",
       "text": "However, it is harmful to the environment, too.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "However, it is harmful to the environment too.",
-      "published_asr": "However, it is harmful to the environment too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p04.mp3",
+      "sha256": "assets/audio/segments/s55-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s55-p05",
       "text": "Customers are becoming aware of its negative effects.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "customers are becoming aware of its negative effects.",
-      "published_asr": "customers are becoming aware of its negative effects.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p05.mp3",
+      "sha256": "assets/audio/segments/s55-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s55-p06",
       "text": "Firstly, paper products are made from trees.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 3.985,
-      "raw_duration_seconds": 2.72,
-      "asr": "Firstly, paper products are made from trees.",
-      "published_asr": "Firstly, paper products are made from trees.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p06.mp3",
+      "sha256": "assets/audio/segments/s55-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s55-p07",
       "text": "Trees can reduce carbon dioxide levels in the atmosphere, which slows down climate change.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.969,
-      "raw_duration_seconds": 5.44,
-      "asr": "Trees can reduce carbon dioxide levels in the atmosphere, which slows down climate change.",
-      "published_asr": "Trees can reduce carbon dioxide levels in the atmosphere, which slows down climate change.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p07.mp3",
+      "sha256": "assets/audio/segments/s55-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s55-p08",
       "text": "An increase in the use of paper bags is responsible for more acts of cutting down trees.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "An increase in the use of paper bags is responsible for more acts of cutting down trees.",
-      "published_asr": "An increase in the use of paper bags is responsible for more acts of cutting down trees.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p08.mp3",
+      "sha256": "assets/audio/segments/s55-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s55-p09",
       "text": "Secondly, paper products require more energy and water.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Secondly, paper products require more energy and water.",
-      "published_asr": "Secondly, paper products require more energy and water.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p09.mp3",
+      "sha256": "assets/audio/segments/s55-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s55-p10",
       "text": "Saving energy and water by recycling seems to be a good idea.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Saving energy and water by recycling seems to be a good idea.",
-      "published_asr": "Saving energy and water by recycling seems to be a good idea.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p10.mp3",
+      "sha256": "assets/audio/segments/s55-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s55-p11",
       "text": "However, the recycling process takes even more energy and water than to make a brand new paper bag.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "However, the recycling process takes even more energy and water than to make a brand new paper bag.",
-      "published_asr": "However, the recycling process takes even more energy and water than to make a brand new paper bag.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p11.mp3",
+      "sha256": "assets/audio/segments/s55-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s55-p12",
       "text": "So cooperating with recycling programmes will not always be an effective solution.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.04,
-      "raw_duration_seconds": 4.8,
-      "asr": "So, cooperating with recycling programs will not always be an effective solution.",
-      "published_asr": "So, cooperating with recycling programs will not always be an effective solution.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p12.mp3",
+      "sha256": "assets/audio/segments/s55-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s55-p13",
       "text": "Thirdly, paper products are heavier than plastic ones, so they require more oil to transport.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 8.213,
-      "raw_duration_seconds": 5.6,
-      "asr": "Thirdly, paper products are heavier than plastic ones, so they require more oil to transport.",
-      "published_asr": "Thirdly, paper products are heavier than plastic ones, so they require more oil to transport.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p13.mp3",
+      "sha256": "assets/audio/segments/s55-p13.mp3"
     },
     {
-      "id": 14,
-      "text": "Seven trucks are needed to transport two million paper bags, while only one truck is needed to transport the same number of plastic bags.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 11.726,
-      "raw_duration_seconds": 8,
-      "asr": "7 trucks are needed to transport 2 million paper bags, while only one truck is needed to transport the same number of plastic bags.",
-      "published_asr": "7 trucks are needed to transport 2 million paper bags, while only one truck is needed to transport the same number of plastic bags.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s55-p14-01",
+      "text": "Seven trucks are needed to transport two million paper bags,",
+      "audio": "assets/audio/segments/s55-p14-01.mp3",
+      "sha256": "assets/audio/segments/s55-p14-01.mp3"
     },
     {
-      "id": 15,
+      "id": "s55-p14-02",
+      "text": "while only one truck is needed to transport the same number of plastic bags.",
+      "audio": "assets/audio/segments/s55-p14-02.mp3",
+      "sha256": "assets/audio/segments/s55-p14-02.mp3"
+    },
+    {
+      "id": "s55-p15",
       "text": "So the price of transporting paper products can be expensive.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.852,
-      "raw_duration_seconds": 4,
-      "asr": "So the price of transporting paper products can be expensive.",
-      "published_asr": "So the price of transporting paper products can be expensive.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p15.mp3",
+      "sha256": "assets/audio/segments/s55-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s55-p16",
       "text": "The increased weight also leads to a large amount of waste once the bags are thrown away.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "The increased weight also leads to a large amount of waste once the bags are thrown away.",
-      "published_asr": "The increased weight also leads to a large amount of waste once the bags are thrown away.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p16.mp3",
+      "sha256": "assets/audio/segments/s55-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s55-p17",
       "text": "The most environment-friendly solution is to avoid single-use products altogether.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.79,
-      "raw_duration_seconds": 4.64,
-      "asr": "The most environment-friendly solution is to avoid single-use products altogether.",
-      "published_asr": "The most environment-friendly solution is to avoid single-use products altogether.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p17.mp3",
+      "sha256": "assets/audio/segments/s55-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s55-p18",
       "text": "Anyone can contribute by using products like glass water bottles and steel straws.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.03,
-      "raw_duration_seconds": 4.8,
-      "asr": "Anyone can contribute by using products like glass water bottles and steel straws.",
-      "published_asr": "Anyone can contribute by using products like glass water bottles and steel straws.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p18.mp3",
+      "sha256": "assets/audio/segments/s55-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s55-p19",
       "text": "They are convenient and can be used over and over again.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.155,
-      "raw_duration_seconds": 3.52,
-      "asr": "They are convenient and can be used over and over again.",
-      "published_asr": "They are convenient and can be used over and over again.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s55-p19.mp3",
+      "sha256": "assets/audio/segments/s55-p19.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 19,
-    "raw_asr_exact_count": 19,
-    "published_asr_exact_count": 19,
-    "word_count": 135,
-    "word_accepted_count": 135,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

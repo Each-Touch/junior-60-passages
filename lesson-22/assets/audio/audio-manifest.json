@@ -1,230 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
-      "text": "If you get angry many times in a day, it is time for you to think about how to deal with it.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "If you get angry many times in a day, it is time for you to think about how to deal with it.",
-      "published_asr": "If you get angry many times in a day, it is time for you to think about how to deal with it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s22-p01-01",
+      "text": "If you get angry many times in a day,",
+      "audio": "assets/audio/segments/s22-p01-01.mp3",
+      "sha256": "assets/audio/segments/s22-p01-01.mp3"
     },
     {
-      "id": 2,
+      "id": "s22-p01-02",
+      "text": "it is time for you to think about how to deal with it.",
+      "audio": "assets/audio/segments/s22-p01-02.mp3",
+      "sha256": "assets/audio/segments/s22-p01-02.mp3"
+    },
+    {
+      "id": "s22-p02",
       "text": "Here are some of my suggestions.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "Here are some of my suggestions.",
-      "published_asr": "Here are some of my suggestions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p02.mp3",
+      "sha256": "assets/audio/segments/s22-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s22-p03",
       "text": "When you are angry, try to tell yourself through another voice that you are angry and that it is okay.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "When you are angry, try to tell yourself through another voice that you are angry, and that it is okay.",
-      "published_asr": "When you are angry try to tell yourself through another voice that you are angry and that it is okay",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p03.mp3",
+      "sha256": "assets/audio/segments/s22-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s22-p04",
       "text": "You don't need to punish yourself for being angry.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "You don't need to punish yourself for being angry.",
-      "published_asr": "You don't need to punish yourself for being angry.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p04.mp3",
+      "sha256": "assets/audio/segments/s22-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s22-p05",
       "text": "It just shows that you have different ideas.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "It just shows that you have different ideas.",
-      "published_asr": "It just shows that you have different ideas.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p05.mp3",
+      "sha256": "assets/audio/segments/s22-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s22-p06",
       "text": "Accept that many things are not 100% right or wrong.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "except that many things are not 100% right or wrong.",
-      "published_asr": "except that many things are not 100% right or wrong.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p06.mp3",
+      "sha256": "assets/audio/segments/s22-p06.mp3"
     },
     {
-      "id": 7,
-      "text": "In our communication with others, the final purpose is not to decide who is right, but to look for something in common and agree on a solution.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 11.257,
-      "raw_duration_seconds": 7.68,
-      "asr": "In our communication with others, the final purpose is not to decide who is right, but to look for something in common and agree on a solution.",
-      "published_asr": "In our communication with others, the final purpose is not to decide who is right, but to look for something in common and agree on a solution.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s22-p07-01",
+      "text": "In our communication with others, the final purpose is not to decide who is right,",
+      "audio": "assets/audio/segments/s22-p07-01.mp3",
+      "sha256": "assets/audio/segments/s22-p07-01.mp3"
     },
     {
-      "id": 8,
+      "id": "s22-p07-02",
+      "text": "but to look for something in common and agree on a solution.",
+      "audio": "assets/audio/segments/s22-p07-02.mp3",
+      "sha256": "assets/audio/segments/s22-p07-02.mp3"
+    },
+    {
+      "id": "s22-p08",
       "text": "If you still feel strong anger, it is advised that you try going for a jog to let anger out.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "If you still feel strong anger, it is advised that you try going for a jog to let anger out.",
-      "published_asr": "If you still feel strong anger, it is advised that you try going for a jog to let anger out.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p08.mp3",
+      "sha256": "assets/audio/segments/s22-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s22-p09",
       "text": "Wearing a comfortable cotton blouse can also help you feel more relaxed.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Wearing a comfortable cotton blouse can also help you feel more relaxed.",
-      "published_asr": "Wearing a comfortable cotton blouse can also help you feel more relaxed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p09.mp3",
+      "sha256": "assets/audio/segments/s22-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s22-p10",
       "text": "It's useful to make a promise to yourself to manage anger.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It's useful to make a promise to yourself to manage anger.",
-      "published_asr": "It's useful to make a promise to yourself to manage anger.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p10.mp3",
+      "sha256": "assets/audio/segments/s22-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s22-p11",
       "text": "Just like building wealth by saving every cent, small efforts can lead to big improvements.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "Just like building wealth by saving every cent small efforts can lead to big improvements",
-      "published_asr": "Just like building wealth by saving every cent, small efforts can lead to big improvements.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p11.mp3",
+      "sha256": "assets/audio/segments/s22-p11.mp3"
     },
     {
-      "id": 12,
-      "text": "Don't shout or say angry words when you are very angry, for you will regret saying them when you cool down and may have to say sorry later.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "Don't shout or say angry words when you are very angry, for you will regret saying them when you cool down and may have to say sorry later.",
-      "published_asr": "Don't shout or say angry words when you are very angry, for you will regret saying them when you cool down and may have to say sorry later.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s22-p12-01",
+      "text": "Don't shout or say angry words when you are very angry,",
+      "audio": "assets/audio/segments/s22-p12-01.mp3",
+      "sha256": "assets/audio/segments/s22-p12-01.mp3"
     },
     {
-      "id": 13,
+      "id": "s22-p12-02",
+      "text": "for you will regret saying them when you cool down and may have to say sorry later.",
+      "audio": "assets/audio/segments/s22-p12-02.mp3",
+      "sha256": "assets/audio/segments/s22-p12-02.mp3"
+    },
+    {
+      "id": "s22-p13",
       "text": "Discussing with a third party is helpful.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Discussing with a third party is helpful.",
-      "published_asr": "Discussing with a third party is helpful.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p13.mp3",
+      "sha256": "assets/audio/segments/s22-p13.mp3"
     },
     {
-      "id": 14,
-      "text": "It is hard for the two parties in anger to understand each other, but the idea of an outsider can help both parties to get mutual understanding.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 12.432,
-      "raw_duration_seconds": 8.48,
-      "asr": "It is hard for the two parties in anger to understand each other, but the idea of an outsider can help both parties to get mutual understanding.",
-      "published_asr": "It is hard for the two parties in anger to understand each other, but the idea of an outsider can help both parties to get mutual understanding.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s22-p14-01",
+      "text": "It is hard for the two parties in anger to understand each other,",
+      "audio": "assets/audio/segments/s22-p14-01.mp3",
+      "sha256": "assets/audio/segments/s22-p14-01.mp3"
     },
     {
-      "id": 15,
-      "text": "Managing your anger is like letting a horse run in a field, which means you need to find ways to release the tension.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 9.85,
-      "raw_duration_seconds": 6.72,
-      "asr": "Managing your anger is like letting a horse run in a field, which means you need to find ways to release the tension.",
-      "published_asr": "Managing your anger is like letting a horse run in a field, which means you need to find ways to release the tension.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s22-p14-02",
+      "text": "but the idea of an outsider can help both parties to get mutual understanding.",
+      "audio": "assets/audio/segments/s22-p14-02.mp3",
+      "sha256": "assets/audio/segments/s22-p14-02.mp3"
     },
     {
-      "id": 16,
+      "id": "s22-p15-01",
+      "text": "Managing your anger is like letting a horse run in a field,",
+      "audio": "assets/audio/segments/s22-p15-01.mp3",
+      "sha256": "assets/audio/segments/s22-p15-01.mp3"
+    },
+    {
+      "id": "s22-p15-02",
+      "text": "which means you need to find ways to release the tension.",
+      "audio": "assets/audio/segments/s22-p15-02.mp3",
+      "sha256": "assets/audio/segments/s22-p15-02.mp3"
+    },
+    {
+      "id": "s22-p16",
       "text": "Anger is just one of the many emotions that make us human.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.146,
-      "raw_duration_seconds": 3.52,
-      "asr": "Anger is just one of the many emotions that make us human.",
-      "published_asr": "Anger is just one of the many emotions that make us human.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p16.mp3",
+      "sha256": "assets/audio/segments/s22-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s22-p17",
       "text": "And managing it well adds to our ability to truly understand the world.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "and managing it well adds to our ability to truly understand the world.",
-      "published_asr": "and managing it well adds to our ability to truly understand the world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s22-p17.mp3",
+      "sha256": "assets/audio/segments/s22-p17.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 17,
-    "raw_asr_exact_count": 17,
-    "published_asr_exact_count": 17,
-    "word_count": 150,
-    "word_accepted_count": 150,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

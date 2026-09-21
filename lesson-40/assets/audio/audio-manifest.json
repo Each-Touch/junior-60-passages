@@ -1,266 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s40-p01",
       "text": "Confucianism has been followed by Chinese people for more than 2,000 years, and it has influenced Chinese culture throughout this era.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 10.779,
-      "raw_duration_seconds": 7.36,
-      "asr": "Confucianism has been followed by Chinese people for more than 2,000 years, and it has influenced Chinese culture throughout this era.",
-      "published_asr": "Confucianism has been followed by Chinese people for more than 2,000 years, and it has influenced Chinese culture throughout this era.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p01.mp3",
+      "sha256": "assets/audio/segments/s40-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s40-p02",
       "text": "In modern socialism, Confucian values continue to guide how we treat others.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "In modern socialism, Confucian values continue to guide how we treat others.",
-      "published_asr": "In modern socialism, Confucian values continue to guide how we treat others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p02.mp3",
+      "sha256": "assets/audio/segments/s40-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s40-p03",
       "text": "Confucianism teaches Ren, Yi, Li, Ji and Xin, which are general virtues around the world.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 9.611,
-      "raw_duration_seconds": 6.56,
-      "asr": "Confucianism teaches Ren, Yi, Li, Ji, and Xin, which are general virtues around the world.",
-      "published_asr": "Confucianism teaches Ren, Yi, Li, Ji, and Xin, which are general virtues around the world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p03.mp3",
+      "sha256": "assets/audio/segments/s40-p03.mp3"
     },
     {
-      "id": 4,
-      "text": "According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.",
-      "published_asr": "According to Confucius, a wise and respected teacher, Ren is the feeling of care and love we should have for others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s40-p04-01",
+      "text": "According to Confucius, a wise and respected teacher,",
+      "audio": "assets/audio/segments/s40-p04-01.mp3",
+      "sha256": "assets/audio/segments/s40-p04-01.mp3"
     },
     {
-      "id": 5,
-      "text": "It can be as simple as giving care to a neighbour who has a fever, but it promotes friendship and harmony so that some wars may be avoided.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "It can be as simple as giving care to a neighbor who has a fever, but it promotes friendship and harmony so that some wars may be avoided.",
-      "published_asr": "It can be as simple as giving care to a neighbor who has a fever, but it promotes friendship and harmony so that some wars may be avoided.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s40-p04-02",
+      "text": "Ren is the feeling of care and love we should have for others.",
+      "audio": "assets/audio/segments/s40-p04-02.mp3",
+      "sha256": "assets/audio/segments/s40-p04-02.mp3"
     },
     {
-      "id": 6,
+      "id": "s40-p05-01",
+      "text": "It can be as simple as giving care to a neighbour who has a fever,",
+      "audio": "assets/audio/segments/s40-p05-01.mp3",
+      "sha256": "assets/audio/segments/s40-p05-01.mp3"
+    },
+    {
+      "id": "s40-p05-02",
+      "text": "but it promotes friendship and harmony so that some wars may be avoided.",
+      "audio": "assets/audio/segments/s40-p05-02.mp3",
+      "sha256": "assets/audio/segments/s40-p05-02.mp3"
+    },
+    {
+      "id": "s40-p06",
       "text": "Confucius said, \"What you do not want done to yourself, do not do to others.\"",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.329,
-      "raw_duration_seconds": 4.32,
-      "asr": "Confucius said, What you do not want done to yourself, do not do to others.",
-      "published_asr": "Confucius said, What you do not want done to yourself, do not do to others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p06.mp3",
+      "sha256": "assets/audio/segments/s40-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s40-p07",
       "text": "It is quite similar to the golden rule in western countries, which encourages people to be friendly.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "It is quite similar to the Golden Rule in Western countries, which encourages people to be friendly.",
-      "published_asr": "It is quite similar to the Golden Rule in western countries, which encourages people to be friendly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p07.mp3",
+      "sha256": "assets/audio/segments/s40-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s40-p08",
       "text": "The meaning of Yi is a little harder to express.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "The meaning of Yi is a little harder to express.",
-      "published_asr": "The meaning of Yi is a little harder to express.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p08.mp3",
+      "sha256": "assets/audio/segments/s40-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s40-p09",
       "text": "It can be thought of as duty or even respect.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.978,
-      "raw_duration_seconds": 2.72,
-      "asr": "It can be thought of as duty or even respect.",
-      "published_asr": "It can be thought of as duty or even respect.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p09.mp3",
+      "sha256": "assets/audio/segments/s40-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s40-p10",
       "text": "While Ren is mostly about our opinions and feelings, Yi is about how we should act.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "While Ren is mostly about our opinions and feelings, Yi is about how we should act.",
-      "published_asr": "While Ren is mostly about our opinions and feelings, Yi is about how we should act.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p10.mp3",
+      "sha256": "assets/audio/segments/s40-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s40-p11",
       "text": "Generally, Yi is the way we should connect with people.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Generally, Yi is the way we should connect with people.",
-      "published_asr": "Generally, Yi is the way we should connect with people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p11.mp3",
+      "sha256": "assets/audio/segments/s40-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s40-p12",
       "text": "For example, we say polite words such as pardon or excuse me to show our respect.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "For example, we say polite words such as pardon or excuse me to show our respect.",
-      "published_asr": "For example, we say polite words such as pardon or excuse me to show our respect.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p12.mp3",
+      "sha256": "assets/audio/segments/s40-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s40-p13",
       "text": "In Confucian writings, discussions about Yi also include how to remember ancestors.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.005,
-      "raw_duration_seconds": 4.8,
-      "asr": "In Confucian writings, discussions about Yi also include how to remember ancestors.",
-      "published_asr": "In Confucian writings, discussions about Yi also include how to remember ancestors.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p13.mp3",
+      "sha256": "assets/audio/segments/s40-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s40-p14",
       "text": "Xin emphasises that one should be honest in relationships.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Sin emphasizes that one should be honest in relationships.",
-      "published_asr": "Sin emphasizes that one should be honest in relationships.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p14.mp3",
+      "sha256": "assets/audio/segments/s40-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s40-p15",
       "text": "This means we shouldn't ever lie or cheat.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "This means we shouldn't ever lie or cheat.",
-      "published_asr": "This means we shouldn't ever lie or cheat.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p15.mp3",
+      "sha256": "assets/audio/segments/s40-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s40-p16",
       "text": "In this way, we can build strong and lasting relationships with others.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.63,
-      "raw_duration_seconds": 3.84,
-      "asr": "In this way, we can build strong and lasting relationships with others.",
-      "published_asr": "In this way, we can build strong and lasting relationships with others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p16.mp3",
+      "sha256": "assets/audio/segments/s40-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s40-p17",
       "text": "Perhaps the most well-known Confucian virtue is Xiao.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 4.913,
-      "raw_duration_seconds": 3.36,
-      "asr": "Perhaps the most well-known Confucian virtue is Xiao.",
-      "published_asr": "Perhaps the most well-known Confucian virtue is Xiao.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p17.mp3",
+      "sha256": "assets/audio/segments/s40-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s40-p18",
       "text": "Xiao means loving, respecting, obeying and taking care of one's parents, as well as grandfather and grandmother.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 12.197,
-      "raw_duration_seconds": 8.32,
-      "asr": "Xiao means loving, respecting, obeying, and taking care of one's parents, as well as grandfather and grandmother.",
-      "published_asr": "Xiao means loving, respecting, obeying and taking care of one's parents, as well as grandfather and grandmother.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p18.mp3",
+      "sha256": "assets/audio/segments/s40-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s40-p19",
       "text": "Xiao is important for a harmonious society.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.021,
-      "raw_duration_seconds": 3.04,
-      "asr": "Xiao is important for a harmonious society.",
-      "published_asr": "Xiao is important for a harmonious society.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p19.mp3",
+      "sha256": "assets/audio/segments/s40-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s40-p20",
       "text": "Without it, the whole world would fall into a mess.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.674,
-      "raw_duration_seconds": 3.2,
-      "asr": "Without it, the whole world would fall into a mess.",
-      "published_asr": "Without it, the whole world would fall into a mess.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s40-p20.mp3",
+      "sha256": "assets/audio/segments/s40-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 160,
-    "word_accepted_count": 160,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

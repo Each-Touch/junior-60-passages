@@ -1,0 +1,1935 @@
+{
+  "course": "初中60短文",
+  "passage": 10,
+  "title": "Passage 10",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s10-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s10-p01.mp3",
+      "en": "The language difference has drawn lots of attention.",
+      "cn": "语言差异已经引起了广泛关注。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s10-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s10-p02.mp3",
+      "en": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
+      "cn": "一些最近的研究将说英语的孩子数学能力较差与英语数字词汇联系起来。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s10-p03",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s10-p03.mp3",
+      "en": "Chinese, for example, has just ten basic number words.",
+      "cn": "例如，汉语只有十个基本的数字词。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s10-p04",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s10-p04.mp3",
+      "en": "English, however, has more than two dozen.",
+      "cn": "而英语却有二十多个。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s10-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s10-p05.mp3",
+      "en": "The trouble starts at 11.",
+      "cn": "问题从数字11开始。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s10-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s10-p06.mp3",
+      "en": "In Chinese, Japanese and Korean, there are words that can be translated as ten-one, spoken with the ten first.",
+      "cn": "汉语、日语和韩语中都有可以翻译成“十一”的词——说的时候以“十”开头。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s10-p07",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s10-p07.mp3",
+      "en": "That makes it easier for these children to understand the place value.",
+      "cn": "这让孩子们更容易理解位值的概念。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s10-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s10-p08.mp3",
+      "en": "And the students can easily see the number system comes from units of 10.",
+      "cn": "学生们能很容易地看出数字系统是以十为单位的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s10-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s10-p09.mp3",
+      "en": "Counting a few objects like pears, grapes, or cups is straightforward.",
+      "cn": "数几个物体，比如梨、葡萄或杯子，是简单的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s10-p10",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s10-p10.mp3",
+      "en": "But English number words over 10 don't make the place value clear.",
+      "cn": "但英语中超过十的数字词并未清晰地体现位值的概念。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s10-p11",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s10-p11.mp3",
+      "en": "Words for numbers 13 to 19 change the order of the ones and tens.",
+      "cn": "数字13到19的单词颠倒了个位和十位的顺序。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s10-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s10-p12.mp3",
+      "en": "Children often mix 17 with 71.",
+      "cn": "孩子们经常把17和71混淆。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s10-p13",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s10-p13.mp3",
+      "en": "As a result, children working with English number words have a harder time doing difficult calculations.",
+      "cn": "因此，使用英语数字词的孩子在做复杂计算时会更困难。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s10-p14",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s10-p14.mp3",
+      "en": "They make more mistakes.",
+      "cn": "他们会出更多的错。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 15,
+      "chunkId": "s10-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s10-p15.mp3",
+      "en": "It also feels more natural for Chinese speakers to use the make-a-ten method.",
+      "cn": "对于说汉语的人来说，使用“凑十法”也更自然。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 16,
+      "chunkId": "s10-p16",
+      "image": "assets/images/16.png",
+      "audio": "assets/audio/segments/s10-p16.mp3",
+      "en": "When adding two numbers, Chinese students often break down the numbers into parts and regroup them into tens and ones.",
+      "cn": "在将两个数字相加时，中国学生通常会把数字拆分成部分，然后重组十位和个位数字。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 17,
+      "chunkId": "s10-p17",
+      "image": "assets/images/17.png",
+      "audio": "assets/audio/segments/s10-p17.mp3",
+      "en": "For example, 9+5 becomes 9+1+4.",
+      "cn": "例如，将9+5变成9+1+4。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 18,
+      "chunkId": "s10-p18",
+      "image": "assets/images/18.png",
+      "audio": "assets/audio/segments/s10-p18.mp3",
+      "en": "This method greatly helps students work out maths problems.",
+      "cn": "这种方法对学生解决数学问题大有帮助。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 19,
+      "chunkId": "s10-p19",
+      "image": "assets/images/19.png",
+      "audio": "assets/audio/segments/s10-p19.mp3",
+      "en": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
+      "cn": "美国有很多老师都在教学生使用这种方法，有时会通过把刀叉等物品分组来进行演示。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 20,
+      "chunkId": "s10-p20",
+      "image": "assets/images/20.png",
+      "audio": "assets/audio/segments/s10-p20.mp3",
+      "en": "However, they are still having trouble because of the unclear and difficult English number words.",
+      "cn": "然而，由于英语数字词既不清晰又很费力，他们仍然会有困难。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 21,
+      "chunkId": "s10-p21",
+      "image": "assets/images/21.png",
+      "audio": "assets/audio/segments/s10-p21.mp3",
+      "en": "Now, you should feel lucky that you are learning maths in China.",
+      "cn": "现在，你应该感到幸运，因为你在中国学习数学。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 22,
+      "sourceSentenceId": 22,
+      "chunkId": "s10-p22",
+      "image": "assets/images/22.png",
+      "audio": "assets/audio/segments/s10-p22.mp3",
+      "en": "Thanks to your mother language, all the maths problems have become clearer and less difficult.",
+      "cn": "多亏了你的母语，所有数学问题都变得更加清晰，不那么难了。"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/15.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/16.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/17.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/18.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/19.png"
+    },
+    {
+      "page": 20,
+      "label": "第20听力小节",
+      "file": "assets/images/20.png"
+    },
+    {
+      "page": 21,
+      "label": "第21听力小节",
+      "file": "assets/images/21.png"
+    },
+    {
+      "page": 22,
+      "label": "第22听力小节",
+      "file": "assets/images/22.png"
+    }
+  ],
+  "dictionary": {
+    "the": {
+      "word": "The",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "language": {
+      "word": "language",
+      "phonetic": "/ˈlæŋgwɪʤ/",
+      "translation": "语言",
+      "core": false
+    },
+    "difference": {
+      "word": "difference",
+      "phonetic": "/ˈdɪfərəns/",
+      "translation": "不同之处",
+      "core": false
+    },
+    "has": {
+      "word": "has",
+      "phonetic": "/həz/",
+      "translation": "有",
+      "core": false
+    },
+    "drawn": {
+      "word": "drawn",
+      "phonetic": "/drɔn/",
+      "translation": "绘制的",
+      "core": true,
+      "coreWord": "draw"
+    },
+    "lots": {
+      "word": "lots",
+      "phonetic": "/lɑts/",
+      "translation": "地段",
+      "core": false
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "attention": {
+      "word": "attention",
+      "phonetic": "/əˈtɛnʃən/",
+      "translation": "注意力",
+      "core": false
+    },
+    "several": {
+      "word": "Several",
+      "phonetic": "/ˈsɛvərəl/",
+      "translation": "一些",
+      "core": false
+    },
+    "recent": {
+      "word": "recent",
+      "phonetic": "/ˈrisənt/",
+      "translation": "最近的",
+      "core": true,
+      "coreWord": "recent"
+    },
+    "studies": {
+      "word": "studies",
+      "phonetic": "/ˈstədiz/",
+      "translation": "研究",
+      "core": false
+    },
+    "have": {
+      "word": "have",
+      "phonetic": "/hæv/",
+      "translation": "有",
+      "core": false
+    },
+    "connected": {
+      "word": "connected",
+      "phonetic": "/kəˈnɛktɪd/",
+      "translation": "已连接",
+      "core": false
+    },
+    "weaker": {
+      "word": "weaker",
+      "phonetic": "/ˈwikər/",
+      "translation": "较弱",
+      "core": true,
+      "coreWord": "weak"
+    },
+    "maths": {
+      "word": "maths",
+      "phonetic": "/maths/",
+      "translation": "数学",
+      "core": false
+    },
+    "abilities": {
+      "word": "abilities",
+      "phonetic": "/əˈbɪləˌtiz/",
+      "translation": "能力",
+      "core": false
+    },
+    "english": {
+      "word": "English",
+      "phonetic": "/ˈɪŋlɪʃ/",
+      "translation": "英语",
+      "core": true,
+      "coreWord": "english"
+    },
+    "speaking": {
+      "word": "speaking",
+      "phonetic": "/ˈspikɪŋ/",
+      "translation": "请讲",
+      "core": false
+    },
+    "children": {
+      "word": "children",
+      "phonetic": "/ˈʧɪldrən/",
+      "translation": "孩子们",
+      "core": false
+    },
+    "with": {
+      "word": "with",
+      "phonetic": "/wɪð/",
+      "translation": "和；带有",
+      "core": false
+    },
+    "number": {
+      "word": "number",
+      "phonetic": "/ˈnəmbər/",
+      "translation": "数字",
+      "core": false
+    },
+    "words": {
+      "word": "words",
+      "phonetic": "/wərdz/",
+      "translation": "字",
+      "core": false
+    },
+    "chinese": {
+      "word": "Chinese",
+      "phonetic": "/ʧaɪˈniz/",
+      "translation": "中国人",
+      "core": true,
+      "coreWord": "chinese"
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "example": {
+      "word": "example",
+      "phonetic": "/ɪgˈzæmpəl/",
+      "translation": "例子",
+      "core": false
+    },
+    "just": {
+      "word": "just",
+      "phonetic": "/ʤɪst/",
+      "translation": "只是",
+      "core": false
+    },
+    "ten": {
+      "word": "ten",
+      "phonetic": "/tɛn/",
+      "translation": "十",
+      "core": false
+    },
+    "basic": {
+      "word": "basic",
+      "phonetic": "/ˈbeɪsɪk/",
+      "translation": "基本的",
+      "core": false
+    },
+    "however": {
+      "word": "however",
+      "phonetic": "/ˌhaʊˈɛvər/",
+      "translation": "然而",
+      "core": false
+    },
+    "more": {
+      "word": "more",
+      "phonetic": "/mɔr/",
+      "translation": "更多的",
+      "core": false
+    },
+    "than": {
+      "word": "than",
+      "phonetic": "/ðən/",
+      "translation": "比",
+      "core": false
+    },
+    "two": {
+      "word": "two",
+      "phonetic": "/tu/",
+      "translation": "二",
+      "core": false
+    },
+    "dozen": {
+      "word": "dozen",
+      "phonetic": "/ˈdəzən/",
+      "translation": "打",
+      "core": true,
+      "coreWord": "dozen"
+    },
+    "trouble": {
+      "word": "trouble",
+      "phonetic": "/ˈtrəbəl/",
+      "translation": "麻烦",
+      "core": true,
+      "coreWord": "trouble"
+    },
+    "starts": {
+      "word": "starts",
+      "phonetic": "/stɑrts/",
+      "translation": "开始",
+      "core": false
+    },
+    "at": {
+      "word": "at",
+      "phonetic": "/æt/",
+      "translation": "在；于",
+      "core": false
+    },
+    "in": {
+      "word": "In",
+      "phonetic": "/ɪn/",
+      "translation": "在……里",
+      "core": false
+    },
+    "japanese": {
+      "word": "Japanese",
+      "phonetic": "/ˌʤæpəˈniz/",
+      "translation": "日本人",
+      "core": false
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "korean": {
+      "word": "Korean",
+      "phonetic": "/ˌkɔˈriən/",
+      "translation": "韩国人",
+      "core": false
+    },
+    "there": {
+      "word": "there",
+      "phonetic": "/ðer/",
+      "translation": "那里；有",
+      "core": false
+    },
+    "are": {
+      "word": "are",
+      "phonetic": "/ər/",
+      "translation": "是",
+      "core": false
+    },
+    "that": {
+      "word": "that",
+      "phonetic": "/ðət/",
+      "translation": "那",
+      "core": false
+    },
+    "can": {
+      "word": "can",
+      "phonetic": "/kən/",
+      "translation": "能",
+      "core": false
+    },
+    "be": {
+      "word": "be",
+      "phonetic": "/bi/",
+      "translation": "是",
+      "core": false
+    },
+    "translated": {
+      "word": "translated",
+      "phonetic": "/trænzˈleɪtəd/",
+      "translation": "翻译的",
+      "core": true,
+      "coreWord": "translate"
+    },
+    "as": {
+      "word": "as",
+      "phonetic": "/æz/",
+      "translation": "作为；像",
+      "core": false
+    },
+    "one": {
+      "word": "one",
+      "phonetic": "/wən/",
+      "translation": "一",
+      "core": false
+    },
+    "spoken": {
+      "word": "spoken",
+      "phonetic": "/ˈspoʊkən/",
+      "translation": "说",
+      "core": false
+    },
+    "first": {
+      "word": "first",
+      "phonetic": "/fərst/",
+      "translation": "第一的",
+      "core": false
+    },
+    "makes": {
+      "word": "makes",
+      "phonetic": "/meɪks/",
+      "translation": "使",
+      "core": false
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "easier": {
+      "word": "easier",
+      "phonetic": "/ˈiziər/",
+      "translation": "更轻松",
+      "core": false
+    },
+    "these": {
+      "word": "these",
+      "phonetic": "/ðiz/",
+      "translation": "这些",
+      "core": false
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "understand": {
+      "word": "understand",
+      "phonetic": "/ˌəndərˈstænd/",
+      "translation": "理解",
+      "core": false
+    },
+    "place": {
+      "word": "place",
+      "phonetic": "/pleɪs/",
+      "translation": "地方",
+      "core": true,
+      "coreWord": "place"
+    },
+    "value": {
+      "word": "value",
+      "phonetic": "/ˈvælju/",
+      "translation": "价值",
+      "core": false
+    },
+    "students": {
+      "word": "students",
+      "phonetic": "/ˈstudənts/",
+      "translation": "学生",
+      "core": false
+    },
+    "easily": {
+      "word": "easily",
+      "phonetic": "/ˈizəli/",
+      "translation": "容易地",
+      "core": true,
+      "coreWord": "easily"
+    },
+    "see": {
+      "word": "see",
+      "phonetic": "/si/",
+      "translation": "看",
+      "core": false
+    },
+    "system": {
+      "word": "system",
+      "phonetic": "/ˈsɪstəm/",
+      "translation": "系统",
+      "core": true,
+      "coreWord": "system"
+    },
+    "comes": {
+      "word": "comes",
+      "phonetic": "/kəmz/",
+      "translation": "来了",
+      "core": false
+    },
+    "from": {
+      "word": "from",
+      "phonetic": "/frʌm/",
+      "translation": "从",
+      "core": false
+    },
+    "units": {
+      "word": "units",
+      "phonetic": "/ˈjunɪts/",
+      "translation": "单位",
+      "core": true,
+      "coreWord": "unit"
+    },
+    "counting": {
+      "word": "Counting",
+      "phonetic": "/ˈkaʊntɪŋ/",
+      "translation": "计数",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "few": {
+      "word": "few",
+      "phonetic": "/fju/",
+      "translation": "很少",
+      "core": false
+    },
+    "objects": {
+      "word": "objects",
+      "phonetic": "/ˈɑbʤɛkts/",
+      "translation": "物体",
+      "core": false
+    },
+    "like": {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "translation": "喜欢",
+      "core": false
+    },
+    "pears": {
+      "word": "pears",
+      "phonetic": "/pɛrz/",
+      "translation": "梨",
+      "core": true,
+      "coreWord": "pear"
+    },
+    "grapes": {
+      "word": "grapes",
+      "phonetic": "/greɪps/",
+      "translation": "葡萄",
+      "core": true,
+      "coreWord": "grape"
+    },
+    "or": {
+      "word": "or",
+      "phonetic": "/ɔːr/",
+      "translation": "或者",
+      "core": false
+    },
+    "cups": {
+      "word": "cups",
+      "phonetic": "/kəps/",
+      "translation": "杯子",
+      "core": true,
+      "coreWord": "cup"
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "straightforward": {
+      "word": "straightforward",
+      "phonetic": "/ˈstreɪtˈfɔrwərd/",
+      "translation": "直截了当",
+      "core": false
+    },
+    "but": {
+      "word": "But",
+      "phonetic": "/bət/",
+      "translation": "但",
+      "core": false
+    },
+    "over": {
+      "word": "over",
+      "phonetic": "/ˈoʊvər/",
+      "translation": "超过",
+      "core": false
+    },
+    "dont": {
+      "word": "don't",
+      "phonetic": "/doʊnt/",
+      "translation": "不要",
+      "core": false
+    },
+    "make": {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "translation": "制作",
+      "core": false
+    },
+    "clear": {
+      "word": "clear",
+      "phonetic": "/klɪr/",
+      "translation": "清除",
+      "core": false
+    },
+    "numbers": {
+      "word": "numbers",
+      "phonetic": "/ˈnəmbərz/",
+      "translation": "数字",
+      "core": false
+    },
+    "change": {
+      "word": "change",
+      "phonetic": "/ʧeɪnʤ/",
+      "translation": "改变",
+      "core": false
+    },
+    "order": {
+      "word": "order",
+      "phonetic": "/ˈɔrdər/",
+      "translation": "命令",
+      "core": false
+    },
+    "ones": {
+      "word": "ones",
+      "phonetic": "/wənz/",
+      "translation": "那些",
+      "core": false
+    },
+    "tens": {
+      "word": "tens",
+      "phonetic": "/tɛnz/",
+      "translation": "数十",
+      "core": false
+    },
+    "often": {
+      "word": "often",
+      "phonetic": "/ˈɔfən/",
+      "translation": "经常",
+      "core": false
+    },
+    "mix": {
+      "word": "mix",
+      "phonetic": "/mɪks/",
+      "translation": "混合",
+      "core": false
+    },
+    "result": {
+      "word": "result",
+      "phonetic": "/rɪˈzəlt/",
+      "translation": "结果",
+      "core": false
+    },
+    "working": {
+      "word": "working",
+      "phonetic": "/ˈwərkɪŋ/",
+      "translation": "在职的",
+      "core": false
+    },
+    "harder": {
+      "word": "harder",
+      "phonetic": "/ˈhɑrdər/",
+      "translation": "更难",
+      "core": false
+    },
+    "time": {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "translation": "时间",
+      "core": false
+    },
+    "doing": {
+      "word": "doing",
+      "phonetic": "/duɪŋ/",
+      "translation": "正在做",
+      "core": false
+    },
+    "difficult": {
+      "word": "difficult",
+      "phonetic": "/ˈdɪfəkəlt/",
+      "translation": "难的",
+      "core": false
+    },
+    "calculations": {
+      "word": "calculations",
+      "phonetic": "/ˌkælkjəˈleɪʃənz/",
+      "translation": "计算",
+      "core": false
+    },
+    "they": {
+      "word": "They",
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们",
+      "core": false
+    },
+    "mistakes": {
+      "word": "mistakes",
+      "phonetic": "/mɪˈsteɪks/",
+      "translation": "错误",
+      "core": true,
+      "coreWord": "mistake"
+    },
+    "also": {
+      "word": "also",
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还",
+      "core": false
+    },
+    "feels": {
+      "word": "feels",
+      "phonetic": "/filz/",
+      "translation": "感觉",
+      "core": false
+    },
+    "natural": {
+      "word": "natural",
+      "phonetic": "/ˈnæʧərəl/",
+      "translation": "自然的",
+      "core": true,
+      "coreWord": "natural"
+    },
+    "speakers": {
+      "word": "speakers",
+      "phonetic": "/ˈspikərz/",
+      "translation": "扬声器",
+      "core": false
+    },
+    "use": {
+      "word": "use",
+      "phonetic": "/juz/",
+      "translation": "使用",
+      "core": false
+    },
+    "method": {
+      "word": "method",
+      "phonetic": "/ˈmɛθəd/",
+      "translation": "方法",
+      "core": false
+    },
+    "when": {
+      "word": "When",
+      "phonetic": "/wɪn/",
+      "translation": "什么时候",
+      "core": false
+    },
+    "adding": {
+      "word": "adding",
+      "phonetic": "/ˈædɪŋ/",
+      "translation": "添加",
+      "core": false
+    },
+    "break": {
+      "word": "break",
+      "phonetic": "/breɪk/",
+      "translation": "休息",
+      "core": false
+    },
+    "down": {
+      "word": "down",
+      "phonetic": "/daʊn/",
+      "translation": "向下",
+      "core": false
+    },
+    "into": {
+      "word": "into",
+      "phonetic": "/ˈɪntu/",
+      "translation": "进入",
+      "core": false
+    },
+    "parts": {
+      "word": "parts",
+      "phonetic": "/pɑrts/",
+      "translation": "部分",
+      "core": false
+    },
+    "regroup": {
+      "word": "regroup",
+      "phonetic": "/riˈgrup/",
+      "translation": "重组",
+      "core": true,
+      "coreWord": "regroup"
+    },
+    "them": {
+      "word": "them",
+      "phonetic": "/ðɛm/",
+      "translation": "他们",
+      "core": false
+    },
+    "becomes": {
+      "word": "becomes",
+      "phonetic": "/bɪˈkəmz/",
+      "translation": "变成",
+      "core": true,
+      "coreWord": "become"
+    },
+    "this": {
+      "word": "This",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "greatly": {
+      "word": "greatly",
+      "phonetic": "/ˈgreɪtli/",
+      "translation": "大大地",
+      "core": true,
+      "coreWord": "greatly"
+    },
+    "helps": {
+      "word": "helps",
+      "phonetic": "/hɛlps/",
+      "translation": "帮助",
+      "core": false
+    },
+    "work": {
+      "word": "work",
+      "phonetic": "/wərk/",
+      "translation": "工作",
+      "core": false
+    },
+    "out": {
+      "word": "out",
+      "phonetic": "/aʊt/",
+      "translation": "出去",
+      "core": false
+    },
+    "problems": {
+      "word": "problems",
+      "phonetic": "/ˈprɑbləmz/",
+      "translation": "问题",
+      "core": true,
+      "coreWord": "problem"
+    },
+    "many": {
+      "word": "Many",
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多",
+      "core": false
+    },
+    "teachers": {
+      "word": "teachers",
+      "phonetic": "/ˈtiʧərz/",
+      "translation": "教师",
+      "core": false
+    },
+    "america": {
+      "word": "America",
+      "phonetic": "/əˈmɛrɪkə/",
+      "translation": "美国",
+      "core": false
+    },
+    "teaching": {
+      "word": "teaching",
+      "phonetic": "/ˈtiʧɪŋ/",
+      "translation": "教学",
+      "core": false
+    },
+    "their": {
+      "word": "their",
+      "phonetic": "/ðɛr/",
+      "translation": "他们的",
+      "core": false
+    },
+    "sometimes": {
+      "word": "sometimes",
+      "phonetic": "/ˈsəmˌtaɪmz/",
+      "translation": "有时",
+      "core": false
+    },
+    "by": {
+      "word": "by",
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边",
+      "core": false
+    },
+    "grouping": {
+      "word": "grouping",
+      "phonetic": "/ˈgrupɪŋ/",
+      "translation": "分组",
+      "core": false
+    },
+    "items": {
+      "word": "items",
+      "phonetic": "/ˈaɪtəmz/",
+      "translation": "项目",
+      "core": false
+    },
+    "such": {
+      "word": "such",
+      "phonetic": "/səʧ/",
+      "translation": "这样的",
+      "core": false
+    },
+    "knives": {
+      "word": "knives",
+      "phonetic": "/naɪvz/",
+      "translation": "刀",
+      "core": true,
+      "coreWord": "knife"
+    },
+    "forks": {
+      "word": "forks",
+      "phonetic": "/fɔrks/",
+      "translation": "叉子",
+      "core": true,
+      "coreWord": "fork"
+    },
+    "still": {
+      "word": "still",
+      "phonetic": "/stɪl/",
+      "translation": "仍然",
+      "core": true,
+      "coreWord": "still"
+    },
+    "having": {
+      "word": "having",
+      "phonetic": "/ˈhævɪŋ/",
+      "translation": "拥有",
+      "core": false
+    },
+    "because": {
+      "word": "because",
+      "phonetic": "/bɪˈkəz/",
+      "translation": "因为",
+      "core": false
+    },
+    "unclear": {
+      "word": "unclear",
+      "phonetic": "/ənˈklɪr/",
+      "translation": "不清楚",
+      "core": true,
+      "coreWord": "unclear"
+    },
+    "now": {
+      "word": "Now",
+      "phonetic": "/naʊ/",
+      "translation": "现在",
+      "core": false
+    },
+    "you": {
+      "word": "you",
+      "phonetic": "/juː/",
+      "translation": "你；你们",
+      "core": false
+    },
+    "should": {
+      "word": "should",
+      "phonetic": "/ʃʊd/",
+      "translation": "应该",
+      "core": false
+    },
+    "feel": {
+      "word": "feel",
+      "phonetic": "/fil/",
+      "translation": "感觉",
+      "core": false
+    },
+    "lucky": {
+      "word": "lucky",
+      "phonetic": "/ˈləki/",
+      "translation": "幸运的",
+      "core": true,
+      "coreWord": "lucky"
+    },
+    "learning": {
+      "word": "learning",
+      "phonetic": "/ˈlərnɪŋ/",
+      "translation": "学习",
+      "core": false
+    },
+    "china": {
+      "word": "China",
+      "phonetic": "/ˈʧaɪnə/",
+      "translation": "中国",
+      "core": true,
+      "coreWord": "china"
+    },
+    "thanks": {
+      "word": "Thanks",
+      "phonetic": "/θæŋks/",
+      "translation": "谢谢",
+      "core": true,
+      "coreWord": "thanks"
+    },
+    "your": {
+      "word": "your",
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的",
+      "core": false
+    },
+    "mother": {
+      "word": "mother",
+      "phonetic": "/ˈməðər/",
+      "translation": "母亲",
+      "core": false
+    },
+    "all": {
+      "word": "all",
+      "phonetic": "/ɔl/",
+      "translation": "全部",
+      "core": false
+    },
+    "become": {
+      "word": "become",
+      "phonetic": "/bɪˈkəm/",
+      "translation": "变得",
+      "core": true,
+      "coreWord": "become"
+    },
+    "clearer": {
+      "word": "clearer",
+      "phonetic": "/ˈklɪrər/",
+      "translation": "更清晰",
+      "core": false
+    },
+    "less": {
+      "word": "less",
+      "phonetic": "/lɛs/",
+      "translation": "较少的",
+      "core": false
+    }
+  },
+  "coreCards": [
+    {
+      "word": "draw",
+      "phonetic": "/dr：/",
+      "translation": "v.画；拖，拉；吸引，使感兴趣；得出，\n推断出",
+      "definition": "/dr：/ v.画；拖，拉；吸引，使感兴趣；得出，\n推断出",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "draw one's attention 吸引某人的注意"
+        },
+        {
+          "label": "用",
+          "text": "过去式：drew 过去分词：drawn"
+        }
+      ],
+      "example": "The language difference has drawn lots of attention.",
+      "aliases": [
+        "drawn"
+      ],
+      "sourcePhoto": "IMG_3625.JPG"
+    },
+    {
+      "word": "recent",
+      "phonetic": "/ˈrisənt/",
+      "translation": "最近的",
+      "definition": "/ˈrisənt/ 最近的",
+      "sections": [],
+      "example": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
+      "aliases": [
+        "recent"
+      ],
+      "sourcePhoto": "IMG_3625.JPG"
+    },
+    {
+      "word": "weak",
+      "phonetic": "/wi:k/",
+      "translation": "adj. 虚弱的，无力的；（能力）弱的；微弱的",
+      "definition": "/wi:k/ adj. 虚弱的，无力的；（能力）弱的；微弱的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：每上完一周（week）的课，总觉得浑身无力（weak）"
+        },
+        {
+          "label": "搭",
+          "text": "be weak in 在某方面薄弱"
+        }
+      ],
+      "example": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
+      "aliases": [
+        "weaker"
+      ],
+      "sourcePhoto": "IMG_3625.JPG"
+    },
+    {
+      "word": "english",
+      "phonetic": "/ˈɪŋlɪʃ/",
+      "translation": "英语",
+      "definition": "/ˈɪŋlɪʃ/ 英语",
+      "sections": [],
+      "example": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
+      "aliases": [
+        "English",
+        "english"
+      ],
+      "sourcePhoto": "IMG_3625.JPG"
+    },
+    {
+      "word": "chinese",
+      "phonetic": "/ʧaɪˈniz/",
+      "translation": "n. 中国人；汉语 adj. 中国的",
+      "definition": "/ʧaɪˈniz/ n. 中国人；汉语 adj. 中国的",
+      "sections": [],
+      "example": "Chinese, for example, has just ten basic number words.",
+      "aliases": [
+        "Chinese",
+        "chinese"
+      ],
+      "sourcePhoto": "IMG_3625.JPG"
+    },
+    {
+      "word": "dozen",
+      "phonetic": "/ˈdəzən/",
+      "translation": "n./det.（一）打，十二个；十几个；Ipl.］很多\n摺 a dozen一打 dozens of 几十个，很多",
+      "definition": "/ˈdəzən/ n./det.（一）打，十二个；十几个；Ipl.］很多\n摺 a dozen一打 dozens of 几十个，很多",
+      "sections": [],
+      "example": "English, however, has more than two dozen.",
+      "aliases": [
+        "dozen"
+      ],
+      "sourcePhoto": "IMG_3625.JPG"
+    },
+    {
+      "word": "trouble",
+      "phonetic": "/ˈtrəbəl/",
+      "translation": "n.问题，麻烦；疼痛v.使烦恼；麻烦；折磨",
+      "definition": "/ˈtrəbəl/ n.问题，麻烦；疼痛v.使烦恼；麻烦；折磨",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "get into trouble 陷入困境 （be） in trouble 处于困境中"
+        }
+      ],
+      "example": "The trouble starts at 11.",
+      "aliases": [
+        "trouble"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "translate",
+      "phonetic": "/traens'ert/",
+      "translation": "v.翻译；（使）转变",
+      "definition": "/traens'ert/ v.翻译；（使）转变",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：teans（转） +late一将一种语言转为另外一种语当\n翻译\nToday the Compendium of Materia Medica has been trans/ated\ninto many foreign languages. 如今，《本草纲目》已被翻泽\n成多种外语。"
+        }
+      ],
+      "example": "In Chinese, Japanese and Korean, there are words that can be translated as ten-one, spoken with the ten first.",
+      "aliases": [
+        "translated"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "place",
+      "phonetic": "/pleɪs/",
+      "translation": "n. 地方；位置；场所；地位v.放置\n1 take place 发生（不用于被动形式） take the place of 取代",
+      "definition": "/pleɪs/ n. 地方；位置；场所；地位v.放置\n1 take place 发生（不用于被动形式） take the place of 取代",
+      "sections": [],
+      "example": "That makes it easier for these children to understand the place value.",
+      "aliases": [
+        "place"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "easily",
+      "phonetic": "/ˈizəli/",
+      "translation": "adv.容易地，不费力地",
+      "definition": "/ˈizəli/ adv.容易地，不费力地",
+      "sections": [],
+      "example": "And the students can easily see the number system comes from units of 10.",
+      "aliases": [
+        "easily"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "system",
+      "phonetic": "/ˈsɪstəm/",
+      "translation": "n. 体系；系统",
+      "definition": "/ˈsɪstəm/ n. 体系；系统",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：sy（一起）+stem 多种支干在一起一系统"
+        }
+      ],
+      "example": "And the students can easily see the number system comes from units of 10.",
+      "aliases": [
+        "system"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "unit",
+      "phonetic": "/unit/",
+      "translation": "n.单位；单元",
+      "definition": "/unit/ n.单位；单元",
+      "sections": [],
+      "example": "And the students can easily see the number system comes from units of 10.",
+      "aliases": [
+        "units"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "pear",
+      "phonetic": "/pea（r）/",
+      "translation": "n. 梨",
+      "definition": "/pea（r）/ n. 梨",
+      "sections": [],
+      "example": "Counting a few objects like pears, grapes, or cups is straightforward.",
+      "aliases": [
+        "pears"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "grape",
+      "phonetic": "/grerp/",
+      "translation": "n. 葡萄",
+      "definition": "/grerp/ n. 葡萄",
+      "sections": [],
+      "example": "Counting a few objects like pears, grapes, or cups is straightforward.",
+      "aliases": [
+        "grapes"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "cup",
+      "phonetic": "/cup/",
+      "translation": "n. 杯子；一杯（的量）；奖杯",
+      "definition": "/cup/ n. 杯子；一杯（的量）；奖杯",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：卖掉cap（帽子），买了\nCup（杯子）"
+        }
+      ],
+      "example": "Counting a few objects like pears, grapes, or cups is straightforward.",
+      "aliases": [
+        "cups"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "mistake",
+      "phonetic": "/mr'steik/",
+      "translation": "n. 错误，失误v.误解；把…\n误认为",
+      "definition": "/mr'steik/ n. 错误，失误v.误解；把…\n误认为",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：mis（错）+take（拿） 拿\n错->失误"
+        },
+        {
+          "label": "搭",
+          "text": "make a mistake / make mistakes 犯错\n误 by mistake 错误地"
+        }
+      ],
+      "example": "They make more mistakes.",
+      "aliases": [
+        "mistakes"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "natural",
+      "phonetic": "/ˈnæʧərəl/",
+      "translation": "自然的",
+      "definition": "/ˈnæʧərəl/ 自然的",
+      "sections": [
+        {
+          "label": "用",
+          "text": "过去式：mistook 过去分词：mistaken\n［'naetjralad. 自然的，天然的；天生的\n一天生的"
+        },
+        {
+          "label": "记",
+          "text": "词根记忆：nat（生）+ur（=ure，表名词）+al（形容词后缴）"
+        }
+      ],
+      "example": "It also feels more natural for Chinese speakers to use the make-a-ten method.",
+      "aliases": [
+        "natural"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "regroup",
+      "phonetic": "/riˈgrup/",
+      "translation": "v. 重组，重编\n：46",
+      "definition": "/riˈgrup/ v. 重组，重编\n：46",
+      "sections": [],
+      "example": "When adding two numbers, Chinese students often break down the numbers into parts and regroup them into tens and ones.",
+      "aliases": [
+        "regroup"
+      ],
+      "sourcePhoto": "IMG_3626.JPG"
+    },
+    {
+      "word": "become",
+      "phonetic": "/bɪˈkəm/",
+      "translation": "v. 变成，开始变得",
+      "definition": "/bɪˈkəm/ v. 变成，开始变得",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：be（使）+come（来）一使改\n变主意来到这里一变成"
+        },
+        {
+          "label": "用",
+          "text": "过去式：became 过去分词：become"
+        }
+      ],
+      "example": "For example, 9+5 becomes 9+1+4.",
+      "aliases": [
+        "become",
+        "becomes"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "greatly",
+      "phonetic": "/ˈgreɪtli/",
+      "translation": "adv. 非常，很，大大地",
+      "definition": "/ˈgreɪtli/ adv. 非常，很，大大地",
+      "sections": [],
+      "example": "This method greatly helps students work out maths problems.",
+      "aliases": [
+        "greatly"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "problem",
+      "phonetic": "/'prbblam/",
+      "translation": "n. 问题，难题",
+      "definition": "/'prbblam/ n. 问题，难题",
+      "sections": [],
+      "example": "This method greatly helps students work out maths problems.",
+      "aliases": [
+        "problems"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "fork",
+      "phonetic": "/Pik/",
+      "translation": "n.叉，餐叉；岔口",
+      "definition": "/Pik/ n.叉，餐叉；岔口",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：用fork（餐叉）吃 pork（猪肉）"
+        }
+      ],
+      "example": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
+      "aliases": [
+        "forks"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "knife",
+      "phonetic": "",
+      "translation": "n.刀",
+      "definition": "n.刀",
+      "sections": [
+        {
+          "label": "用",
+          "text": "复数形式：knives"
+        }
+      ],
+      "example": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
+      "aliases": [
+        "knives"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "still",
+      "phonetic": "/stɪl/",
+      "translation": "adv.还，仍然adj.静止的",
+      "definition": "/stɪl/ adv.还，仍然adj.静止的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：Bil（比尔）still（仍然）喜欢爬hill（小山）"
+        }
+      ],
+      "example": "However, they are still having trouble because of the unclear and difficult English number words.",
+      "aliases": [
+        "still"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "unclear",
+      "phonetic": "/ənˈklɪr/",
+      "translation": "不清楚",
+      "definition": "/ənˈklɪr/ 不清楚",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：un（不）+clear（清楚的）一不清楚的"
+        }
+      ],
+      "example": "However, they are still having trouble because of the unclear and difficult English number words.",
+      "aliases": [
+        "unclear"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈləki/",
+      "translation": "adj.幸运的",
+      "definition": "/ˈləki/ adj.幸运的",
+      "sections": [],
+      "example": "Now, you should feel lucky that you are learning maths in China.",
+      "aliases": [
+        "lucky"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "china",
+      "phonetic": "/ˈʧaɪnə/",
+      "translation": "n. 中国\nchina 表示“瓷，瓷器”",
+      "definition": "/ˈʧaɪnə/ n. 中国\nchina 表示“瓷，瓷器”",
+      "sections": [],
+      "example": "Now, you should feel lucky that you are learning maths in China.",
+      "aliases": [
+        "China",
+        "china"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    },
+    {
+      "word": "thanks",
+      "phonetic": "/θæŋks/",
+      "translation": "n. ［pl.］感谢，谢意 int. 谢谢\nthanks to 幸亏；由于；因为",
+      "definition": "/θæŋks/ n. ［pl.］感谢，谢意 int. 谢谢\nthanks to 幸亏；由于；因为",
+      "sections": [],
+      "example": "Thanks to your mother language, all the maths problems have become clearer and less difficult.",
+      "aliases": [
+        "Thanks",
+        "thanks"
+      ],
+      "sourcePhoto": "IMG_3627.JPG"
+    }
+  ],
+  "coreWordCount": 28,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s10-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s10-p01.mp3",
+      "en": "The language difference has drawn lots of attention.",
+      "cn": "语言差异已经引起了广泛关注。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s10-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s10-p02.mp3",
+      "en": "Several recent studies have connected weaker maths abilities of English-speaking children with English number words.",
+      "cn": "一些最近的研究将说英语的孩子数学能力较差与英语数字词汇联系起来。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s10-p03",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s10-p03.mp3",
+      "en": "Chinese, for example, has just ten basic number words.",
+      "cn": "例如，汉语只有十个基本的数字词。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s10-p04",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s10-p04.mp3",
+      "en": "English, however, has more than two dozen.",
+      "cn": "而英语却有二十多个。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 5,
+      "chunkId": "s10-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s10-p05.mp3",
+      "en": "The trouble starts at 11.",
+      "cn": "问题从数字11开始。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 6,
+      "chunkId": "s10-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s10-p06.mp3",
+      "en": "In Chinese, Japanese and Korean, there are words that can be translated as ten-one, spoken with the ten first.",
+      "cn": "汉语、日语和韩语中都有可以翻译成“十一”的词——说的时候以“十”开头。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 7,
+      "chunkId": "s10-p07",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s10-p07.mp3",
+      "en": "That makes it easier for these children to understand the place value.",
+      "cn": "这让孩子们更容易理解位值的概念。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 8,
+      "chunkId": "s10-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s10-p08.mp3",
+      "en": "And the students can easily see the number system comes from units of 10.",
+      "cn": "学生们能很容易地看出数字系统是以十为单位的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 9,
+      "chunkId": "s10-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s10-p09.mp3",
+      "en": "Counting a few objects like pears, grapes, or cups is straightforward.",
+      "cn": "数几个物体，比如梨、葡萄或杯子，是简单的。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 10,
+      "chunkId": "s10-p10",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s10-p10.mp3",
+      "en": "But English number words over 10 don't make the place value clear.",
+      "cn": "但英语中超过十的数字词并未清晰地体现位值的概念。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 11,
+      "chunkId": "s10-p11",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s10-p11.mp3",
+      "en": "Words for numbers 13 to 19 change the order of the ones and tens.",
+      "cn": "数字13到19的单词颠倒了个位和十位的顺序。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 12,
+      "chunkId": "s10-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s10-p12.mp3",
+      "en": "Children often mix 17 with 71.",
+      "cn": "孩子们经常把17和71混淆。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 13,
+      "chunkId": "s10-p13",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s10-p13.mp3",
+      "en": "As a result, children working with English number words have a harder time doing difficult calculations.",
+      "cn": "因此，使用英语数字词的孩子在做复杂计算时会更困难。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 14,
+      "chunkId": "s10-p14",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s10-p14.mp3",
+      "en": "They make more mistakes.",
+      "cn": "他们会出更多的错。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 15,
+      "chunkId": "s10-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s10-p15.mp3",
+      "en": "It also feels more natural for Chinese speakers to use the make-a-ten method.",
+      "cn": "对于说汉语的人来说，使用“凑十法”也更自然。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 16,
+      "chunkId": "s10-p16",
+      "image": "assets/images/16.webp",
+      "audio": "assets/audio/segments/s10-p16.mp3",
+      "en": "When adding two numbers, Chinese students often break down the numbers into parts and regroup them into tens and ones.",
+      "cn": "在将两个数字相加时，中国学生通常会把数字拆分成部分，然后重组十位和个位数字。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 17,
+      "chunkId": "s10-p17",
+      "image": "assets/images/17.webp",
+      "audio": "assets/audio/segments/s10-p17.mp3",
+      "en": "For example, 9+5 becomes 9+1+4.",
+      "cn": "例如，将9+5变成9+1+4。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 18,
+      "chunkId": "s10-p18",
+      "image": "assets/images/18.webp",
+      "audio": "assets/audio/segments/s10-p18.mp3",
+      "en": "This method greatly helps students work out maths problems.",
+      "cn": "这种方法对学生解决数学问题大有帮助。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 19,
+      "chunkId": "s10-p19",
+      "image": "assets/images/19.webp",
+      "audio": "assets/audio/segments/s10-p19.mp3",
+      "en": "Many teachers in America are teaching their students this method, sometimes by grouping items such as knives or forks.",
+      "cn": "美国有很多老师都在教学生使用这种方法，有时会通过把刀叉等物品分组来进行演示。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 20,
+      "chunkId": "s10-p20",
+      "image": "assets/images/20.webp",
+      "audio": "assets/audio/segments/s10-p20.mp3",
+      "en": "However, they are still having trouble because of the unclear and difficult English number words.",
+      "cn": "然而，由于英语数字词既不清晰又很费力，他们仍然会有困难。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 21,
+      "chunkId": "s10-p21",
+      "image": "assets/images/21.webp",
+      "audio": "assets/audio/segments/s10-p21.mp3",
+      "en": "Now, you should feel lucky that you are learning maths in China.",
+      "cn": "现在，你应该感到幸运，因为你在中国学习数学。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 22,
+      "sourceSentenceId": 22,
+      "chunkId": "s10-p22",
+      "image": "assets/images/22.webp",
+      "audio": "assets/audio/segments/s10-p22.mp3",
+      "en": "Thanks to your mother language, all the maths problems have become clearer and less difficult.",
+      "cn": "多亏了你的母语，所有数学问题都变得更加清晰，不那么难了。"
+    }
+  ]
+}

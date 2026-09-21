@@ -1,266 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s50-p01",
       "text": "Nature is amazing!",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 2.552,
-      "raw_duration_seconds": 1.76,
-      "asr": "Nature is amazing.",
-      "published_asr": "Nature is amazing!",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p01.mp3",
+      "sha256": "assets/audio/segments/s50-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s50-p02",
       "text": "Take a close look at the world of insects, and you'll discover many unbelievable things.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.271,
-      "raw_duration_seconds": 4.96,
-      "asr": "Take a close look at the world of insects, and you'll discover many unbelievable things.",
-      "published_asr": "Take a close look at the world of insects, and you'll discover many unbelievable things.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p02.mp3",
+      "sha256": "assets/audio/segments/s50-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s50-p03",
       "text": "Consider butterflies.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "Consider butterflies.",
-      "published_asr": "Consider butterflies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p03.mp3",
+      "sha256": "assets/audio/segments/s50-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s50-p04",
       "text": "They have beautiful, colourful wings, and strong, fantastic flying skills.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.322,
-      "raw_duration_seconds": 4.32,
-      "asr": "They have beautiful, colorful wings, and strong, fantastic flying skills.",
-      "published_asr": "They have beautiful, colorful wings and strong, fantastic flying skills.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p04.mp3",
+      "sha256": "assets/audio/segments/s50-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s50-p05",
       "text": "On summer days, you always see them flying freely over gardens and wild fields.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 7.508,
-      "raw_duration_seconds": 5.12,
-      "asr": "On summer days, you always see them flying freely over gardens and wild fields.",
-      "published_asr": "On summer days, you always see them flying freely over gardens and wild fields.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p05.mp3",
+      "sha256": "assets/audio/segments/s50-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s50-p06",
       "text": "How a butterfly appears is one of the amazing wonders of nature.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "How a butterfly appears is one of the amazing wonders of nature.",
-      "published_asr": "How a butterfly appears is one of the amazing wonders of nature.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p06.mp3",
+      "sha256": "assets/audio/segments/s50-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s50-p07",
       "text": "In the beginning, female butterflies lay a small egg on a leaf or stem of a plant.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "In the beginning, female butterflies lay a small egg on a leaf or stem of a plant.",
-      "published_asr": "In the beginning, female butterflies lay a small egg on a leaf or stem of a plant.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p07.mp3",
+      "sha256": "assets/audio/segments/s50-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s50-p08",
       "text": "The egg will become something completely different in a few days.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "The egg will become something completely different in a few days.",
-      "published_asr": "The egg will become something completely different in a few days",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p08.mp3",
+      "sha256": "assets/audio/segments/s50-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s50-p09",
       "text": "It first becomes a walking insect called caterpillar.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "It first becomes a walking insect called caterpillar.",
-      "published_asr": "It first becomes a walking insect called Caterpillar.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p09.mp3",
+      "sha256": "assets/audio/segments/s50-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s50-p10",
       "text": "It then has legs, eyes and a body that looks fat.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.144,
-      "raw_duration_seconds": 3.52,
-      "asr": "It then has legs, eyes and a body that looks fat.",
-      "published_asr": "It then has legs, eyes, and a body that looks fat.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p10.mp3",
+      "sha256": "assets/audio/segments/s50-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s50-p11",
       "text": "But it is still not a butterfly.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "But it is still not a butterfly.",
-      "published_asr": "But it is still not a butterfly",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p11.mp3",
+      "sha256": "assets/audio/segments/s50-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s50-p12",
       "text": "Soon, after growing big, the caterpillar produces silk threads to make a cover for itself.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 8.44,
-      "raw_duration_seconds": 5.76,
-      "asr": "Soon, after growing big, the caterpillar produces silk threads to make a cover for itself.",
-      "published_asr": "Soon, after growing big, the caterpillar produces silk threads to make a cover for itself.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p12.mp3",
+      "sha256": "assets/audio/segments/s50-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s50-p13",
       "text": "It covers itself in a nice protective blanket to go to sleep.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It covers itself in a nice protective blanket to go to sleep.",
-      "published_asr": "It covers itself in a nice protective blanket to go to sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p13.mp3",
+      "sha256": "assets/audio/segments/s50-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s50-p14",
       "text": "It ties itself to a leaf or a branch, where it is not easy for birds to find.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "It ties itself to a leaf or a branch, where it is not easy for birds to find.",
-      "published_asr": "It ties itself to a leaf or a branch, where it is not easy for birds to find.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p14.mp3",
+      "sha256": "assets/audio/segments/s50-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s50-p15",
       "text": "This stage is known as the pupa stage.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.979,
-      "raw_duration_seconds": 2.72,
-      "asr": "This stage is known as the pupa stage.",
-      "published_asr": "This stage is known as the pupa stage.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p15.mp3",
+      "sha256": "assets/audio/segments/s50-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s50-p16",
       "text": "The pupa stays shut until it finishes the transformation.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "The pupa stays shut until it finishes the transformation.",
-      "published_asr": "The pupa stays shut until it finishes the transformation.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p16.mp3",
+      "sha256": "assets/audio/segments/s50-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s50-p17",
       "text": "After a period of time, the blanket breaks and a wet, weak butterfly appears.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "After a period of time, the blanket breaks and a wet, weak butterfly appears.",
-      "published_asr": "After a period of time, the blanket breaks and a wet, weak butterfly appears.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p17.mp3",
+      "sha256": "assets/audio/segments/s50-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s50-p18",
       "text": "It may look ugly at first, but shortly, the wings fill with blood, and the beautiful, colourful butterfly spreads its wings.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 11.257,
-      "raw_duration_seconds": 7.68,
-      "asr": "It may look ugly at first, but shortly, the wings fill with blood, and the beautiful, colorful butterfly spreads its wings.",
-      "published_asr": "It may look ugly at first, but shortly, the wings fill with blood and the beautiful, colorful butterfly spreads its wings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p18.mp3",
+      "sha256": "assets/audio/segments/s50-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s50-p19",
       "text": "Now this insect can fly to the left and to the right to look for food and a partner.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 7.271,
-      "raw_duration_seconds": 4.96,
-      "asr": "Now this insect can fly to the left and to the right to look for food and a partner.",
-      "published_asr": "Now this insect can fly to the left and to the right to look for food and a partner.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p19.mp3",
+      "sha256": "assets/audio/segments/s50-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s50-p20",
       "text": "After a few weeks, this adult butterfly lays her eggs, and the cycle begins all over again.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "After a few weeks, this adult butterfly lays her eggs, and the cycle begins all over again.",
-      "published_asr": "After a few weeks, this adult butterfly lays her eggs, and the cycle begins all over again.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s50-p20.mp3",
+      "sha256": "assets/audio/segments/s50-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 143,
-    "word_accepted_count": 143,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

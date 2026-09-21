@@ -1,194 +1,98 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s52-p01",
       "text": "The night sky is our earliest library.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.968,
-      "raw_duration_seconds": 2.72,
-      "asr": "The Night Sky is our earliest library.",
-      "published_asr": "The Night Sky is our earliest library.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p01.mp3",
+      "sha256": "assets/audio/segments/s52-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s52-p02",
       "text": "There, we stored our knowledge, and passed it down around the fire, before we invented the written word.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "There, we stored our knowledge, and passed it down around the fire, before we invented the written word.",
-      "published_asr": "There, we stored our knowledge and passed it down around the fire before we invented the written word.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p02.mp3",
+      "sha256": "assets/audio/segments/s52-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s52-p03",
       "text": "I remember going to the local university for an astronomy night when I was a child.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "I remember going to the local university for an astronomy night when I was a child.",
-      "published_asr": "I remember going to the local university for an astronomy night when I was a child.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p03.mp3",
+      "sha256": "assets/audio/segments/s52-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s52-p04",
       "text": "That night, I saw Saturn, one of the planets, and its rings with my own eyes for the first time.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "That night, I saw Saturn. One of the planets, and its rings with my own eyes for the first time.",
-      "published_asr": "That night, I saw Saturn, one of the planets, and its rings with my own eyes for the first time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p04.mp3",
+      "sha256": "assets/audio/segments/s52-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s52-p05",
       "text": "The rings shone bright against the blackness of space and suddenly the universe wasn't something that you only read about or imagined in your head.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 11.491,
-      "raw_duration_seconds": 7.84,
-      "asr": "The rings shone bright against the blackness of space and suddenly the universe wasn't something that you only read about or imagined in your head.",
-      "published_asr": "The rings shone bright against the blackness of space and suddenly the universe wasn't something that you only read about or imagined in your head.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p05.mp3",
+      "sha256": "assets/audio/segments/s52-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s52-p06",
       "text": "It was right there, and you were a part of it.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "It was right there, and you were a part of it.",
-      "published_asr": "It was right there, and you were a part of it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p06.mp3",
+      "sha256": "assets/audio/segments/s52-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s52-p07",
       "text": "That moment is priceless.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "That moment is priceless.",
-      "published_asr": "That moment is priceless.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p07.mp3",
+      "sha256": "assets/audio/segments/s52-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s52-p08",
       "text": "I admired the beauty of the stars and felt a deep connection with the night sky.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "I admired the beauty of the stars, and felt a deep connection with the night sky.",
-      "published_asr": "I admired the beauty of the stars and felt a deep connection with the night sky.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p08.mp3",
+      "sha256": "assets/audio/segments/s52-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s52-p09",
       "text": "While starlight is good, light pollution here on Earth can be a real problem.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "While starlight is good, light pollution here on Earth can be a real problem.",
-      "published_asr": "While starlight is good, light pollution here on Earth can be a real problem.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p09.mp3",
+      "sha256": "assets/audio/segments/s52-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s52-p10",
       "text": "For the past 200 years or so, we have used too much electricity to make the night brighter.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "For the past 200 years or so, we have used too much electricity to make the night brighter.",
-      "published_asr": "For the past 200 years or so, we have used too much electricity to make the night brighter.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p10.mp3",
+      "sha256": "assets/audio/segments/s52-p10.mp3"
     },
     {
-      "id": 11,
-      "text": "In our busy cities, street lamps and city lights can block our view of the stars, making it almost impossible to see them.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "In our busy cities, street lamps and city lights can block our view of the stars, making it almost impossible to see them.",
-      "published_asr": "In our busy cities, street lamps and city lights can block our view of the stars, making it almost impossible to see them.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s52-p11-01",
+      "text": "In our busy cities, street lamps and city lights can block our view of the stars,",
+      "audio": "assets/audio/segments/s52-p11-01.mp3",
+      "sha256": "assets/audio/segments/s52-p11-01.mp3"
     },
     {
-      "id": 12,
+      "id": "s52-p11-02",
+      "text": "making it almost impossible to see them.",
+      "audio": "assets/audio/segments/s52-p11-02.mp3",
+      "sha256": "assets/audio/segments/s52-p11-02.mp3"
+    },
+    {
+      "id": "s52-p12",
       "text": "Luckily, some cities have taken action, like setting up new lights along the streets that direct downwards.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 9.625,
-      "raw_duration_seconds": 6.56,
-      "asr": "Luckily, some cities have taken action, like setting up new lights along the streets that direct downwards.",
-      "published_asr": "Luckily, some cities have taken action, like setting up new lights along the streets that direct downwards.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p12.mp3",
+      "sha256": "assets/audio/segments/s52-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s52-p13",
       "text": "I hope more cities will join in and continue the practice of controlling unnecessary lighting.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.741,
-      "raw_duration_seconds": 5.28,
-      "asr": "I hope more cities will join in and continue the practice of controlling unnecessary lighting.",
-      "published_asr": "I hope more cities will join in and continue the practice of controlling unnecessary lighting.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p13.mp3",
+      "sha256": "assets/audio/segments/s52-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s52-p14",
       "text": "This way, we can enjoy the peace and beauty of the universe.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "This way, we can enjoy the peace and beauty of the universe.",
-      "published_asr": "This way we can enjoy the peace and beauty of the universe.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s52-p14.mp3",
+      "sha256": "assets/audio/segments/s52-p14.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 14,
-    "raw_asr_exact_count": 14,
-    "published_asr_exact_count": 14,
-    "word_count": 137,
-    "word_accepted_count": 137,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,326 +1,158 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s26-p01",
       "text": "Salt has always been important to people.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.753,
-      "raw_duration_seconds": 2.56,
-      "asr": "Salt has always been important to people.",
-      "published_asr": "Salt has always been important to people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p01.mp3",
+      "sha256": "assets/audio/segments/s26-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s26-p02",
       "text": "In the past, it was as valuable as gold.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "In the past, it was as valuable as gold.",
-      "published_asr": "In the past, it was as valuable as gold.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p02.mp3",
+      "sha256": "assets/audio/segments/s26-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s26-p03",
       "text": "People would trade for it.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "People would trade for it.",
-      "published_asr": "People would trade for it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p03.mp3",
+      "sha256": "assets/audio/segments/s26-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s26-p04",
       "text": "Over the years, people discovered different ways to get salt.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Over the years, people discovered different ways to get salt.",
-      "published_asr": "Over the years, people discovered different ways to get salt.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p04.mp3",
+      "sha256": "assets/audio/segments/s26-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s26-p05",
       "text": "Depending on the geography, some early people got salt from rocks.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Depending on the geography, some early people got salt from rocks.",
-      "published_asr": "Depending on the geography, some early people got salt from rocks.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p05.mp3",
+      "sha256": "assets/audio/segments/s26-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s26-p06",
       "text": "In other places, like on the islands, people got salt from the sea.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.088,
-      "raw_duration_seconds": 4.16,
-      "asr": "In other places like on the islands, people got salt from the sea.",
-      "published_asr": "In other places like on the islands, people got salt from the sea.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p06.mp3",
+      "sha256": "assets/audio/segments/s26-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s26-p07",
       "text": "They took sea water and put it in the sun.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "They took seawater and put it in the sun.",
-      "published_asr": "They took seawater and put it in the sun.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p07.mp3",
+      "sha256": "assets/audio/segments/s26-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s26-p08",
       "text": "After a long time, the water dried up.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.439,
-      "raw_duration_seconds": 3.04,
-      "asr": "After a long time, the water dried up.",
-      "published_asr": "After a long time, the water dried up.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p08.mp3",
+      "sha256": "assets/audio/segments/s26-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s26-p09",
       "text": "Then people could get salt.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "then people could get salt.",
-      "published_asr": "Then people could get salt.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p09.mp3",
+      "sha256": "assets/audio/segments/s26-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s26-p10",
       "text": "Sometimes they would boil the sea water in large pots to get salt faster.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Sometimes they would boil the seawater in large pots to get salt faster.",
-      "published_asr": "Sometimes they would boil the seawater in large pots to get salt faster.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p10.mp3",
+      "sha256": "assets/audio/segments/s26-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s26-p11",
       "text": "Today, people still get salt from the sea, but most salt comes from salt mines and salt wells.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "Today, people still get salt from the sea, but most salt comes from salt mines and salt wells.",
-      "published_asr": "Today, people still get salt from the sea, but most salt comes from salt mines and salt wells.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p11.mp3",
+      "sha256": "assets/audio/segments/s26-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s26-p12",
       "text": "They dig deep holes into the ground for salt.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 4.211,
-      "raw_duration_seconds": 2.88,
-      "asr": "They dig deep holes into the ground for salt.",
-      "published_asr": "They dig deep holes into the ground for salt.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p12.mp3",
+      "sha256": "assets/audio/segments/s26-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s26-p13",
       "text": "They also operate machines to aid themselves.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.661,
-      "raw_duration_seconds": 3.2,
-      "asr": "They also operate machines to aid themselves.",
-      "published_asr": "They also operate machines to aid themselves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p13.mp3",
+      "sha256": "assets/audio/segments/s26-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s26-p14",
       "text": "To get salt from salt wells, people put two pipes into the ground.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.79,
-      "raw_duration_seconds": 4.64,
-      "asr": "To get salt from salt wells, people put two pipes into the ground.",
-      "published_asr": "To get salt from salt wells, people put two pipes into the ground.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p14.mp3",
+      "sha256": "assets/audio/segments/s26-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s26-p15",
       "text": "Water is sent down through one of the pipes.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Water is sent down through one of the pipes.",
-      "published_asr": "Water is sent down through one of the pipes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p15.mp3",
+      "sha256": "assets/audio/segments/s26-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s26-p16",
       "text": "And the water is mixed with the salt in salt wells.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "and the water is mixed with the salt in salt wells.",
-      "published_asr": "and the water is mixed with the salt in salt wells.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p16.mp3",
+      "sha256": "assets/audio/segments/s26-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s26-p17",
       "text": "It makes salt water.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "It makes salt water.",
-      "published_asr": "It makes salt water",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p17.mp3",
+      "sha256": "assets/audio/segments/s26-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s26-p18",
       "text": "Then the salt water is pushed up through the other pipe.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Then the salt water is pushed up through the other pipe.",
-      "published_asr": "Then the salt water is pushed up through the other pipe.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p18.mp3",
+      "sha256": "assets/audio/segments/s26-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s26-p19",
       "text": "Later, the salt is taken out of the salt water.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Later, the salt is taken out of the salt water.",
-      "published_asr": "Later, the salt is taken out of the salt water.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p19.mp3",
+      "sha256": "assets/audio/segments/s26-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s26-p20",
       "text": "People once worked hard to find and make salt.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.443,
-      "raw_duration_seconds": 3.04,
-      "asr": "People once worked hard to find and make salt.",
-      "published_asr": "People once worked hard to find and make salt.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p20.mp3",
+      "sha256": "assets/audio/segments/s26-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s26-p21",
       "text": "Now, people can buy it at any food store.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 3.747,
-      "raw_duration_seconds": 2.56,
-      "asr": "Now people can buy it at any food store.",
-      "published_asr": "Now people can buy it at any food store",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p21.mp3",
+      "sha256": "assets/audio/segments/s26-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s26-p22",
       "text": "Salt is cheap and comes in packets or boxes.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 4.679,
-      "raw_duration_seconds": 3.2,
-      "asr": "Salt is cheap and comes in packets or boxes.",
-      "published_asr": "Salt is cheap and comes in packets or boxes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p22.mp3",
+      "sha256": "assets/audio/segments/s26-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s26-p23",
       "text": "It is almost always there in the recipes you download online.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "It is almost always there in the recipes you download online.",
-      "published_asr": "It is almost always there in the recipes you download online.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p23.mp3",
+      "sha256": "assets/audio/segments/s26-p23.mp3"
     },
     {
-      "id": 24,
+      "id": "s26-p24",
       "text": "You can use it when cooking noodles or making soup.",
-      "file": "assets/audio/sentences/sentence-24.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "You can use it when cooking noodles or making soup.",
-      "published_asr": "You can use it when cooking noodles or making soup",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p24.mp3",
+      "sha256": "assets/audio/segments/s26-p24.mp3"
     },
     {
-      "id": 25,
+      "id": "s26-p25",
       "text": "It has become an important part of our everyday lives.",
-      "file": "assets/audio/sentences/sentence-25.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "It has become an important part of our everyday lives.",
-      "published_asr": "It has become an important part of our everyday lives.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s26-p25.mp3",
+      "sha256": "assets/audio/segments/s26-p25.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 25,
-    "raw_asr_exact_count": 25,
-    "published_asr_exact_count": 25,
-    "word_count": 123,
-    "word_accepted_count": 123,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

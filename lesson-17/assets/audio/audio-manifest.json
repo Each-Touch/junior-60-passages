@@ -1,266 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s17-p01",
       "text": "When a friend of yours turns to you to talk about his or her problems, you give advice and help.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "When a friend of yours turns to you to talk about his or her problems, you give advice and help.",
-      "published_asr": "When a friend of yours turns to you to talk about his or her problems, you give advice and help.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p01.mp3",
+      "sha256": "assets/audio/segments/s17-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s17-p02",
       "text": "One important thing of our growth is to make decisions to help our friends and learn to support each other.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "One important thing of our growth is to make decisions to help our friends and learn to support each other.",
-      "published_asr": "One important thing of our growth is to make decisions to help our friends and learn to support each other.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p02.mp3",
+      "sha256": "assets/audio/segments/s17-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s17-p03",
       "text": "This requires us to learn what it means to help friends and how to help in the right way.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "This requires us to learn what it means to help friends and how to help in the right way.",
-      "published_asr": "This requires us to learn what it means to help friends and how to help in the right way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p03.mp3",
+      "sha256": "assets/audio/segments/s17-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s17-p04",
       "text": "This is just like a nurse giving proper care to the patients.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.392,
-      "raw_duration_seconds": 3.68,
-      "asr": "This is just like a nurse giving proper care to the patients.",
-      "published_asr": "This is just like a nurse giving proper care to the patients.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p04.mp3",
+      "sha256": "assets/audio/segments/s17-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s17-p05",
       "text": "The first step towards helping others is to identify that they need help.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "The first step towards helping others is to identify that they need help.",
-      "published_asr": "The first step towards helping others is to identify that they need help.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p05.mp3",
+      "sha256": "assets/audio/segments/s17-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s17-p06",
       "text": "We all know that difficulties are part of our daily lives.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "We all know that difficulties are part of our daily lives.",
-      "published_asr": "We all know that difficulties are part of our daily lives.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p06.mp3",
+      "sha256": "assets/audio/segments/s17-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s17-p07",
       "text": "However, sometimes small things can lead to more serious problems.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "However, sometimes small things can lead to more serious problems.",
-      "published_asr": "However, sometimes small things can lead to more serious problems.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p07.mp3",
+      "sha256": "assets/audio/segments/s17-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s17-p08",
       "text": "If someone is crying, it's clear that they may not be well.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "If someone is crying, it's clear that they may not be well.",
-      "published_asr": "If someone is crying, it's clear that they may not be well.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p08.mp3",
+      "sha256": "assets/audio/segments/s17-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s17-p09",
       "text": "Yet you may as well pick up small signs that your friends are not acting like themselves.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Yet you may as well pick up small signs that your friends are not acting like themselves.",
-      "published_asr": "Yet, you may as well pick up small signs that your friends are not acting like themselves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p09.mp3",
+      "sha256": "assets/audio/segments/s17-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s17-p10",
       "text": "Maybe they're being bullied but shy about their problems.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Maybe they're being bullied but shy about their problems.",
-      "published_asr": "Maybe they're being bullied but shy about their problems.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p10.mp3",
+      "sha256": "assets/audio/segments/s17-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s17-p11",
       "text": "Just remind them that you're there to help.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Just remind them that you're there to help.",
-      "published_asr": "Just remind them that you're there to help.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p11.mp3",
+      "sha256": "assets/audio/segments/s17-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s17-p12",
       "text": "They'll be glad if you give them a hug and ask what is going on.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "They'll be glad if you give them a hug and ask what is going on.",
-      "published_asr": "They'll be glad if you give them a hug and ask what is going on.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p12.mp3",
+      "sha256": "assets/audio/segments/s17-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s17-p13",
       "text": "The next step is to listen.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.043,
-      "raw_duration_seconds": 2.08,
-      "asr": "The next step is to listen.",
-      "published_asr": "The next step is to listen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p13.mp3",
+      "sha256": "assets/audio/segments/s17-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s17-p14",
       "text": "Listening to others is very important throughout our life.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Listening to others is very important throughout our life.",
-      "published_asr": "Listening to others is very important throughout our life.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p14.mp3",
+      "sha256": "assets/audio/segments/s17-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s17-p15",
       "text": "We need to learn when to speak and when not to.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.446,
-      "raw_duration_seconds": 3.04,
-      "asr": "We need to learn when to speak, and when not to.",
-      "published_asr": "We need to learn when to speak and when not to.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p15.mp3",
+      "sha256": "assets/audio/segments/s17-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s17-p16",
       "text": "Just like any lady or gentleman would.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Just like any lady or gentleman would.",
-      "published_asr": "Just like any lady or gentleman would.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p16.mp3",
+      "sha256": "assets/audio/segments/s17-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s17-p17",
       "text": "As listeners, we should try to see things from their perspectives.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "As listeners, we should try to see things from their perspectives.",
-      "published_asr": "As listeners, we should try to see things from their perspectives.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p17.mp3",
+      "sha256": "assets/audio/segments/s17-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s17-p18",
       "text": "Listening is a sign of respect and an important skill.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Listening is a sign of respect and an important skill.",
-      "published_asr": "Listening is a sign of respect and an important skill.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p18.mp3",
+      "sha256": "assets/audio/segments/s17-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s17-p19",
       "text": "Finally, when helping friends, consider practical support such as doing the chores for them or bringing them a plate of food.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "Finally, when helping friends, consider practical support such as doing the chores for them or bringing them a plate of food.",
-      "published_asr": "Finally, when helping friends, consider practical support such as doing the chores for them or bringing them a plate of food.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p19.mp3",
+      "sha256": "assets/audio/segments/s17-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s17-p20",
       "text": "Maintaining a positive manner and showing real joy in helping others can lead to deeper relationships and make you a better person.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 11.491,
-      "raw_duration_seconds": 7.84,
-      "asr": "Maintaining a positive manner and showing real joy in helping others can lead to deeper relationships and make you a better person.",
-      "published_asr": "Maintaining a positive manner and showing real joy in helping others can lead to deeper relationships and make you a better person.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s17-p20.mp3",
+      "sha256": "assets/audio/segments/s17-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 149,
-    "word_accepted_count": 149,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,0 +1,2229 @@
+{
+  "course": "初中60短文",
+  "passage": 49,
+  "title": "Passage 49",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s49-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s49-p01.mp3",
+      "en": "When cold weather comes, many birds move to the south.",
+      "cn": "寒冷天气来临时，许多鸟类会向南方迁徙。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s49-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s49-p02.mp3",
+      "en": "Many animals do not remain in one place.",
+      "cn": "许多动物不会固定停留在一个地方。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s49-p03",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s49-p03.mp3",
+      "en": "Moving is a normal part of their lives.",
+      "cn": "迁徙是它们生活中很正常的一部分。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s49-p04-01",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s49-p04-01.mp3",
+      "en": "Some move to find food more easily,",
+      "cn": "有些动物迁移是为了更容易找到食物，而有些则是为了远离拥挤的地方，或者是为了在地震等灾难中存活下来。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 4,
+      "chunkId": "s49-p04-02",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s49-p04-02.mp3",
+      "en": "but others move to get away from crowded places or to survive disasters like an earthquake.",
+      "cn": "有些动物迁移是为了更容易找到食物，而有些则是为了远离拥挤的地方，或者是为了在地震等灾难中存活下来。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 5,
+      "chunkId": "s49-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s49-p05.mp3",
+      "en": "We can compare this action to people moving for better opportunities.",
+      "cn": "我们可以将这种行为与人类为了更好机会而迁移相比较。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 6,
+      "chunkId": "s49-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s49-p06.mp3",
+      "en": "Some fishes give birth in warm water and move to cold water to feed.",
+      "cn": "有些鱼类在温暖的水域产卵，然后游到冷水域觅食。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 7,
+      "chunkId": "s49-p07",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s49-p07.mp3",
+      "en": "The most famous migration is probably that of the fish called salmon.",
+      "cn": "其中最著名的迁徙可能是一种叫“鲑鱼”的鱼类。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 8,
+      "chunkId": "s49-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s49-p08.mp3",
+      "en": "This fish is usually grey, but turns red when it is ready to breed.",
+      "cn": "这种鱼通常是灰色的，但在准备交配繁殖时会变成红色。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 9,
+      "chunkId": "s49-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s49-p09.mp3",
+      "en": "It is born in fresh water but travels miles to salt water.",
+      "cn": "它们出生在淡水中，却要跋涉数英里来到海水中。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 10,
+      "chunkId": "s49-p10-01",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s49-p10-01.mp3",
+      "en": "They must fight against the strong force of the river and avoid being hunted by bears,",
+      "cn": "它们必须对抗河流的强大力量，还要躲避熊的捕食，因为自然法则只允许最强壮的鲑鱼存活。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 10,
+      "chunkId": "s49-p10-02",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s49-p10-02.mp3",
+      "en": "because the law of nature allows only the strongest salmon to survive.",
+      "cn": "它们必须对抗河流的强大力量，还要躲避熊的捕食，因为自然法则只允许最强壮的鲑鱼存活。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 11,
+      "chunkId": "s49-p11",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s49-p11.mp3",
+      "en": "When it is old, it returns to its birthplace in fresh water.",
+      "cn": "当它们年老时，会回到淡水的出生地。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 12,
+      "chunkId": "s49-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s49-p12.mp3",
+      "en": "Then it gives birth and dies.",
+      "cn": "然后它们产卵并死去。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 13,
+      "chunkId": "s49-p13",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s49-p13.mp3",
+      "en": "In the north of Europe, there is a kind of mouse.",
+      "cn": "在欧洲北部有一种老鼠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 14,
+      "chunkId": "s49-p14",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s49-p14.mp3",
+      "en": "They usually look pale, but when their homes become crowded, their colour gets brighter.",
+      "cn": "它们通常毛色较淡，但当它们的栖息地变得拥挤时，其毛色就会变得更鲜艳。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 15,
+      "chunkId": "s49-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s49-p15.mp3",
+      "en": "They have a crazy way of moving.",
+      "cn": "它们的迁徙方式有些疯狂。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 16,
+      "chunkId": "s49-p16",
+      "image": "assets/images/16.png",
+      "audio": "assets/audio/segments/s49-p16.mp3",
+      "en": "Sometimes they move all the way to the seaside, forming large groups like an army.",
+      "cn": "有时，它们会一路迁徙到海边，成群结队地前进，就像军队一样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 17,
+      "chunkId": "s49-p17",
+      "image": "assets/images/17.png",
+      "audio": "assets/audio/segments/s49-p17.mp3",
+      "en": "Many of them are killed when they fall into the sea.",
+      "cn": "它们中有许多会掉入海里丧生。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 18,
+      "chunkId": "s49-p18",
+      "image": "assets/images/18.png",
+      "audio": "assets/audio/segments/s49-p18.mp3",
+      "en": "Recently, scientists have studied a special kind of lobsters.",
+      "cn": "最近，科学家研究了一种特殊的龙虾。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 19,
+      "chunkId": "s49-p19-01",
+      "image": "assets/images/19.png",
+      "audio": "assets/audio/segments/s49-p19-01.mp3",
+      "en": "Every year, when the season of bad weather arrives,",
+      "cn": "每年天气恶劣的季节来临时，这些龙虾会排成长队，开始在海底行走，就像士兵行军一样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 22,
+      "sourceSentenceId": 19,
+      "chunkId": "s49-p19-02",
+      "image": "assets/images/19.png",
+      "audio": "assets/audio/segments/s49-p19-02.mp3",
+      "en": "the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "cn": "每年天气恶劣的季节来临时，这些龙虾会排成长队，开始在海底行走，就像士兵行军一样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 23,
+      "sourceSentenceId": 20,
+      "chunkId": "s49-p20",
+      "image": "assets/images/20.png",
+      "audio": "assets/audio/segments/s49-p20.mp3",
+      "en": "Nobody knows where they go.",
+      "cn": "没有人知道它们要去哪里。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 24,
+      "sourceSentenceId": 21,
+      "chunkId": "s49-p21",
+      "image": "assets/images/21.png",
+      "audio": "assets/audio/segments/s49-p21.mp3",
+      "en": "The reason why animals move may vary.",
+      "cn": "动物迁徙的原因可能各不相同。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 25,
+      "sourceSentenceId": 22,
+      "chunkId": "s49-p22",
+      "image": "assets/images/22.png",
+      "audio": "assets/audio/segments/s49-p22.mp3",
+      "en": "Maybe living things just like to travel.",
+      "cn": "也许生物就是喜欢“旅行”。"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/15.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/16.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/17.png"
+    },
+    {
+      "page": 20,
+      "label": "第20听力小节",
+      "file": "assets/images/18.png"
+    },
+    {
+      "page": 21,
+      "label": "第21听力小节",
+      "file": "assets/images/19.png"
+    },
+    {
+      "page": 22,
+      "label": "第22听力小节",
+      "file": "assets/images/19.png"
+    },
+    {
+      "page": 23,
+      "label": "第23听力小节",
+      "file": "assets/images/20.png"
+    },
+    {
+      "page": 24,
+      "label": "第24听力小节",
+      "file": "assets/images/21.png"
+    },
+    {
+      "page": 25,
+      "label": "第25听力小节",
+      "file": "assets/images/22.png"
+    }
+  ],
+  "dictionary": {
+    "when": {
+      "word": "When",
+      "phonetic": "/wɪn/",
+      "translation": "什么时候",
+      "core": false
+    },
+    "cold": {
+      "word": "cold",
+      "phonetic": "/koʊld/",
+      "translation": "寒冷的",
+      "core": false
+    },
+    "weather": {
+      "word": "weather",
+      "phonetic": "/ˈwɛðər/",
+      "translation": "天气",
+      "core": false
+    },
+    "comes": {
+      "word": "comes",
+      "phonetic": "/kəmz/",
+      "translation": "来了",
+      "core": false
+    },
+    "many": {
+      "word": "many",
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多",
+      "core": false
+    },
+    "birds": {
+      "word": "birds",
+      "phonetic": "/bərdz/",
+      "translation": "鸟类",
+      "core": false
+    },
+    "move": {
+      "word": "move",
+      "phonetic": "/muv/",
+      "translation": "移动",
+      "core": false
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "the": {
+      "word": "the",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "south": {
+      "word": "south",
+      "phonetic": "/south/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "south"
+    },
+    "animals": {
+      "word": "animals",
+      "phonetic": "/ˈænəməlz/",
+      "translation": "动物",
+      "core": false
+    },
+    "do": {
+      "word": "do",
+      "phonetic": "/du/",
+      "translation": "做",
+      "core": false
+    },
+    "not": {
+      "word": "not",
+      "phonetic": "/nɑt/",
+      "translation": "不是",
+      "core": false
+    },
+    "remain": {
+      "word": "remain",
+      "phonetic": "/remain/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "remain"
+    },
+    "in": {
+      "word": "in",
+      "phonetic": "/ɪn/",
+      "translation": "在……里",
+      "core": false
+    },
+    "one": {
+      "word": "one",
+      "phonetic": "/wən/",
+      "translation": "一",
+      "core": false
+    },
+    "place": {
+      "word": "place",
+      "phonetic": "/pleɪs/",
+      "translation": "地方",
+      "core": false
+    },
+    "moving": {
+      "word": "Moving",
+      "phonetic": "/ˈmuvɪŋ/",
+      "translation": "移动",
+      "core": false
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "normal": {
+      "word": "normal",
+      "phonetic": "/ˈnɔrməl/",
+      "translation": "普通的",
+      "core": true,
+      "coreWord": "normal"
+    },
+    "part": {
+      "word": "part",
+      "phonetic": "/pɑrt/",
+      "translation": "部分",
+      "core": false
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "their": {
+      "word": "their",
+      "phonetic": "/ðɛr/",
+      "translation": "他们的",
+      "core": false
+    },
+    "lives": {
+      "word": "lives",
+      "phonetic": "/lɪvz/",
+      "translation": "生活",
+      "core": false
+    },
+    "some": {
+      "word": "Some",
+      "phonetic": "/səm/",
+      "translation": "一些",
+      "core": false
+    },
+    "find": {
+      "word": "find",
+      "phonetic": "/faɪnd/",
+      "translation": "寻找",
+      "core": false
+    },
+    "food": {
+      "word": "food",
+      "phonetic": "/fud/",
+      "translation": "食物",
+      "core": false
+    },
+    "more": {
+      "word": "more",
+      "phonetic": "/mɔr/",
+      "translation": "更多的",
+      "core": false
+    },
+    "easily": {
+      "word": "easily",
+      "phonetic": "/ˈizəli/",
+      "translation": "容易地",
+      "core": false
+    },
+    "but": {
+      "word": "but",
+      "phonetic": "/bət/",
+      "translation": "但",
+      "core": false
+    },
+    "others": {
+      "word": "others",
+      "phonetic": "/ˈəðərz/",
+      "translation": "其他的",
+      "core": false
+    },
+    "get": {
+      "word": "get",
+      "phonetic": "/gɪt/",
+      "translation": "得到",
+      "core": false
+    },
+    "away": {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "translation": "离开",
+      "core": false
+    },
+    "from": {
+      "word": "from",
+      "phonetic": "/frʌm/",
+      "translation": "从",
+      "core": false
+    },
+    "crowded": {
+      "word": "crowded",
+      "phonetic": "/crowded/",
+      "translation": "常用词",
+      "core": false
+    },
+    "places": {
+      "word": "places",
+      "phonetic": "/ˈpleɪsɪz/",
+      "translation": "地方",
+      "core": false
+    },
+    "or": {
+      "word": "or",
+      "phonetic": "/ɔːr/",
+      "translation": "或者",
+      "core": false
+    },
+    "survive": {
+      "word": "survive",
+      "phonetic": "/survive/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "survive"
+    },
+    "disasters": {
+      "word": "disasters",
+      "phonetic": "/disasters/",
+      "translation": "常用词",
+      "core": false
+    },
+    "like": {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "translation": "喜欢",
+      "core": false
+    },
+    "an": {
+      "word": "an",
+      "phonetic": "/ən/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "earthquake": {
+      "word": "earthquake",
+      "phonetic": "/earthquake/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "earthquake"
+    },
+    "we": {
+      "word": "We",
+      "phonetic": "/wiː/",
+      "translation": "我们",
+      "core": false
+    },
+    "can": {
+      "word": "can",
+      "phonetic": "/kən/",
+      "translation": "能",
+      "core": false
+    },
+    "compare": {
+      "word": "compare",
+      "phonetic": "/compare/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "compare"
+    },
+    "this": {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "action": {
+      "word": "action",
+      "phonetic": "/action/",
+      "translation": "常用词",
+      "core": false
+    },
+    "people": {
+      "word": "people",
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们",
+      "core": false
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "better": {
+      "word": "better",
+      "phonetic": "/ˈbɛtər/",
+      "translation": "更好的",
+      "core": false
+    },
+    "opportunities": {
+      "word": "opportunities",
+      "phonetic": "/ˌɑpərˈtunətiz/",
+      "translation": "机会",
+      "core": false
+    },
+    "fishes": {
+      "word": "fishes",
+      "phonetic": "/fishes/",
+      "translation": "常用词",
+      "core": false
+    },
+    "give": {
+      "word": "give",
+      "phonetic": "/gɪv/",
+      "translation": "给",
+      "core": false
+    },
+    "birth": {
+      "word": "birth",
+      "phonetic": "/bərθ/",
+      "translation": "出生",
+      "core": true,
+      "coreWord": "birth"
+    },
+    "warm": {
+      "word": "warm",
+      "phonetic": "/wɔrm/",
+      "translation": "温暖的",
+      "core": false
+    },
+    "water": {
+      "word": "water",
+      "phonetic": "/ˈwɔtər/",
+      "translation": "水",
+      "core": false
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "feed": {
+      "word": "feed",
+      "phonetic": "/feed/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "feed"
+    },
+    "most": {
+      "word": "most",
+      "phonetic": "/moʊst/",
+      "translation": "最多",
+      "core": false
+    },
+    "famous": {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "translation": "著名的",
+      "core": true,
+      "coreWord": "famous"
+    },
+    "migration": {
+      "word": "migration",
+      "phonetic": "/migration/",
+      "translation": "常用词",
+      "core": false
+    },
+    "probably": {
+      "word": "probably",
+      "phonetic": "/ˈprɑbəˌbli/",
+      "translation": "大概",
+      "core": false
+    },
+    "that": {
+      "word": "that",
+      "phonetic": "/ðət/",
+      "translation": "那",
+      "core": false
+    },
+    "fish": {
+      "word": "fish",
+      "phonetic": "/fɪʃ/",
+      "translation": "鱼",
+      "core": false
+    },
+    "called": {
+      "word": "called",
+      "phonetic": "/kɔld/",
+      "translation": "被称为",
+      "core": false
+    },
+    "salmon": {
+      "word": "salmon",
+      "phonetic": "/salmon/",
+      "translation": "常用词",
+      "core": false
+    },
+    "usually": {
+      "word": "usually",
+      "phonetic": "/ˈjuʒəwəli/",
+      "translation": "通常",
+      "core": false
+    },
+    "grey": {
+      "word": "grey",
+      "phonetic": "/grey/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "grey"
+    },
+    "turns": {
+      "word": "turns",
+      "phonetic": "/tərnz/",
+      "translation": "轮流",
+      "core": false
+    },
+    "red": {
+      "word": "red",
+      "phonetic": "/rɛd/",
+      "translation": "红色的",
+      "core": false
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "ready": {
+      "word": "ready",
+      "phonetic": "/ready/",
+      "translation": "常用词",
+      "core": false
+    },
+    "breed": {
+      "word": "breed",
+      "phonetic": "/breed/",
+      "translation": "常用词",
+      "core": false
+    },
+    "born": {
+      "word": "born",
+      "phonetic": "/born/",
+      "translation": "常用词",
+      "core": false
+    },
+    "fresh": {
+      "word": "fresh",
+      "phonetic": "/frɛʃ/",
+      "translation": "新鲜的",
+      "core": true,
+      "coreWord": "fresh"
+    },
+    "travels": {
+      "word": "travels",
+      "phonetic": "/ˈtrævəlz/",
+      "translation": "旅行",
+      "core": false
+    },
+    "miles": {
+      "word": "miles",
+      "phonetic": "/maɪəlz/",
+      "translation": "英里",
+      "core": true,
+      "coreWord": "mile"
+    },
+    "salt": {
+      "word": "salt",
+      "phonetic": "/sɔlt/",
+      "translation": "盐",
+      "core": false
+    },
+    "they": {
+      "word": "They",
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们",
+      "core": false
+    },
+    "must": {
+      "word": "must",
+      "phonetic": "/məst/",
+      "translation": "必须",
+      "core": false
+    },
+    "fight": {
+      "word": "fight",
+      "phonetic": "/fight/",
+      "translation": "常用词",
+      "core": false
+    },
+    "against": {
+      "word": "against",
+      "phonetic": "/against/",
+      "translation": "常用词",
+      "core": false
+    },
+    "strong": {
+      "word": "strong",
+      "phonetic": "/strɔŋ/",
+      "translation": "强的",
+      "core": false
+    },
+    "force": {
+      "word": "force",
+      "phonetic": "/force/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "force"
+    },
+    "river": {
+      "word": "river",
+      "phonetic": "/ˈrɪvər/",
+      "translation": "河",
+      "core": false
+    },
+    "avoid": {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "translation": "避免",
+      "core": false
+    },
+    "being": {
+      "word": "being",
+      "phonetic": "/biɪŋ/",
+      "translation": "存在",
+      "core": false
+    },
+    "hunted": {
+      "word": "hunted",
+      "phonetic": "/hunted/",
+      "translation": "常用词",
+      "core": false
+    },
+    "by": {
+      "word": "by",
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边",
+      "core": false
+    },
+    "bears": {
+      "word": "bears",
+      "phonetic": "/bɛrz/",
+      "translation": "熊",
+      "core": true,
+      "coreWord": "bear"
+    },
+    "because": {
+      "word": "because",
+      "phonetic": "/bɪˈkəz/",
+      "translation": "因为",
+      "core": false
+    },
+    "law": {
+      "word": "law",
+      "phonetic": "/law/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "law"
+    },
+    "nature": {
+      "word": "nature",
+      "phonetic": "/ˈneɪʧər/",
+      "translation": "自然",
+      "core": false
+    },
+    "allows": {
+      "word": "allows",
+      "phonetic": "/əˈlaʊz/",
+      "translation": "允许",
+      "core": false
+    },
+    "only": {
+      "word": "only",
+      "phonetic": "/ˈoʊnli/",
+      "translation": "仅有的",
+      "core": false
+    },
+    "strongest": {
+      "word": "strongest",
+      "phonetic": "/strongest/",
+      "translation": "常用词",
+      "core": false
+    },
+    "old": {
+      "word": "old",
+      "phonetic": "/oʊld/",
+      "translation": "老的",
+      "core": false
+    },
+    "returns": {
+      "word": "returns",
+      "phonetic": "/returns/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "return"
+    },
+    "its": {
+      "word": "its",
+      "phonetic": "/ɪts/",
+      "translation": "它的；它是",
+      "core": false
+    },
+    "birthplace": {
+      "word": "birthplace",
+      "phonetic": "/birthplace/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "birthplace"
+    },
+    "then": {
+      "word": "Then",
+      "phonetic": "/ðɛn/",
+      "translation": "然后",
+      "core": false
+    },
+    "gives": {
+      "word": "gives",
+      "phonetic": "/gɪvz/",
+      "translation": "给出",
+      "core": false
+    },
+    "dies": {
+      "word": "dies",
+      "phonetic": "/dies/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "die"
+    },
+    "north": {
+      "word": "north",
+      "phonetic": "/nɔrθ/",
+      "translation": "北",
+      "core": true,
+      "coreWord": "north"
+    },
+    "europe": {
+      "word": "Europe",
+      "phonetic": "/europe/",
+      "translation": "常用词",
+      "core": false
+    },
+    "there": {
+      "word": "there",
+      "phonetic": "/ðer/",
+      "translation": "那里；有",
+      "core": false
+    },
+    "kind": {
+      "word": "kind",
+      "phonetic": "/kaɪnd/",
+      "translation": "种类",
+      "core": false
+    },
+    "mouse": {
+      "word": "mouse",
+      "phonetic": "/mouse/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "mouse"
+    },
+    "look": {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "translation": "看",
+      "core": false
+    },
+    "pale": {
+      "word": "pale",
+      "phonetic": "/pale/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "pale"
+    },
+    "homes": {
+      "word": "homes",
+      "phonetic": "/hoʊmz/",
+      "translation": "家园",
+      "core": false
+    },
+    "become": {
+      "word": "become",
+      "phonetic": "/bɪˈkəm/",
+      "translation": "变得",
+      "core": false
+    },
+    "colour": {
+      "word": "colour",
+      "phonetic": "/ˈkələr/",
+      "translation": "颜色",
+      "core": false
+    },
+    "gets": {
+      "word": "gets",
+      "phonetic": "/gɪts/",
+      "translation": "得到",
+      "core": false
+    },
+    "brighter": {
+      "word": "brighter",
+      "phonetic": "/brighter/",
+      "translation": "常用词",
+      "core": false
+    },
+    "have": {
+      "word": "have",
+      "phonetic": "/hæv/",
+      "translation": "有",
+      "core": false
+    },
+    "crazy": {
+      "word": "crazy",
+      "phonetic": "/crazy/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "crazy"
+    },
+    "way": {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "translation": "方式",
+      "core": false
+    },
+    "sometimes": {
+      "word": "Sometimes",
+      "phonetic": "/ˈsəmˌtaɪmz/",
+      "translation": "有时",
+      "core": false
+    },
+    "all": {
+      "word": "all",
+      "phonetic": "/ɔl/",
+      "translation": "全部",
+      "core": false
+    },
+    "seaside": {
+      "word": "seaside",
+      "phonetic": "/seaside/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "seaside"
+    },
+    "forming": {
+      "word": "forming",
+      "phonetic": "/forming/",
+      "translation": "常用词",
+      "core": false
+    },
+    "large": {
+      "word": "large",
+      "phonetic": "/lɑrʤ/",
+      "translation": "大的",
+      "core": false
+    },
+    "groups": {
+      "word": "groups",
+      "phonetic": "/grups/",
+      "translation": "团体",
+      "core": false
+    },
+    "army": {
+      "word": "army",
+      "phonetic": "/army/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "army"
+    },
+    "them": {
+      "word": "them",
+      "phonetic": "/ðɛm/",
+      "translation": "他们",
+      "core": false
+    },
+    "are": {
+      "word": "are",
+      "phonetic": "/ər/",
+      "translation": "是",
+      "core": false
+    },
+    "killed": {
+      "word": "killed",
+      "phonetic": "/killed/",
+      "translation": "常用词",
+      "core": false
+    },
+    "fall": {
+      "word": "fall",
+      "phonetic": "/fɔl/",
+      "translation": "落下",
+      "core": false
+    },
+    "into": {
+      "word": "into",
+      "phonetic": "/ˈɪntu/",
+      "translation": "进入",
+      "core": false
+    },
+    "sea": {
+      "word": "sea",
+      "phonetic": "/si/",
+      "translation": "海",
+      "core": false
+    },
+    "recently": {
+      "word": "Recently",
+      "phonetic": "/recently/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "recently"
+    },
+    "scientists": {
+      "word": "scientists",
+      "phonetic": "/ˈsaɪəntɪsts/",
+      "translation": "科学家",
+      "core": false
+    },
+    "studied": {
+      "word": "studied",
+      "phonetic": "/ˈstədid/",
+      "translation": "研究过",
+      "core": false
+    },
+    "special": {
+      "word": "special",
+      "phonetic": "/special/",
+      "translation": "常用词",
+      "core": false
+    },
+    "lobsters": {
+      "word": "lobsters",
+      "phonetic": "/lobsters/",
+      "translation": "常用词",
+      "core": false
+    },
+    "every": {
+      "word": "Every",
+      "phonetic": "/ˈɛvəri/",
+      "translation": "每一个",
+      "core": false
+    },
+    "year": {
+      "word": "year",
+      "phonetic": "/jɪr/",
+      "translation": "年",
+      "core": false
+    },
+    "season": {
+      "word": "season",
+      "phonetic": "/ˈsizən/",
+      "translation": "季节",
+      "core": true,
+      "coreWord": "season"
+    },
+    "bad": {
+      "word": "bad",
+      "phonetic": "/bæd/",
+      "translation": "坏的",
+      "core": true,
+      "coreWord": "bad"
+    },
+    "arrives": {
+      "word": "arrives",
+      "phonetic": "/arrives/",
+      "translation": "常用词",
+      "core": false
+    },
+    "long": {
+      "word": "long",
+      "phonetic": "/lɔŋ/",
+      "translation": "长的",
+      "core": false
+    },
+    "line": {
+      "word": "line",
+      "phonetic": "/laɪn/",
+      "translation": "线",
+      "core": false
+    },
+    "start": {
+      "word": "start",
+      "phonetic": "/stɑrt/",
+      "translation": "开始",
+      "core": false
+    },
+    "walk": {
+      "word": "walk",
+      "phonetic": "/wɔk/",
+      "translation": "走",
+      "core": false
+    },
+    "across": {
+      "word": "across",
+      "phonetic": "/əˈkrɔs/",
+      "translation": "穿过",
+      "core": false
+    },
+    "floor": {
+      "word": "floor",
+      "phonetic": "/floor/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "floor"
+    },
+    "ocean": {
+      "word": "ocean",
+      "phonetic": "/ocean/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "ocean"
+    },
+    "just": {
+      "word": "just",
+      "phonetic": "/ʤɪst/",
+      "translation": "只是",
+      "core": false
+    },
+    "soldiers": {
+      "word": "soldiers",
+      "phonetic": "/soldiers/",
+      "translation": "常用词",
+      "core": true,
+      "coreWord": "soldier"
+    },
+    "marching": {
+      "word": "marching",
+      "phonetic": "/marching/",
+      "translation": "常用词",
+      "core": false
+    },
+    "nobody": {
+      "word": "Nobody",
+      "phonetic": "/ˈnoʊˌbɑˌdi/",
+      "translation": "没有人",
+      "core": true,
+      "coreWord": "nobody"
+    },
+    "knows": {
+      "word": "knows",
+      "phonetic": "/noʊz/",
+      "translation": "知道",
+      "core": false
+    },
+    "where": {
+      "word": "where",
+      "phonetic": "/wɛr/",
+      "translation": "在哪里",
+      "core": false
+    },
+    "go": {
+      "word": "go",
+      "phonetic": "/goʊ/",
+      "translation": "去",
+      "core": false
+    },
+    "reason": {
+      "word": "reason",
+      "phonetic": "/reason/",
+      "translation": "常用词",
+      "core": false
+    },
+    "why": {
+      "word": "why",
+      "phonetic": "/waɪ/",
+      "translation": "为什么",
+      "core": false
+    },
+    "may": {
+      "word": "may",
+      "phonetic": "/meɪ/",
+      "translation": "可能",
+      "core": false
+    },
+    "vary": {
+      "word": "vary",
+      "phonetic": "/vary/",
+      "translation": "常用词",
+      "core": false
+    },
+    "maybe": {
+      "word": "Maybe",
+      "phonetic": "/ˈmeɪbi/",
+      "translation": "或许",
+      "core": false
+    },
+    "living": {
+      "word": "living",
+      "phonetic": "/ˈlɪvɪŋ/",
+      "translation": "活的",
+      "core": true,
+      "coreWord": "living"
+    },
+    "things": {
+      "word": "things",
+      "phonetic": "/θɪŋz/",
+      "translation": "事物",
+      "core": false
+    },
+    "travel": {
+      "word": "travel",
+      "phonetic": "/ˈtrævəl/",
+      "translation": "旅行",
+      "core": false
+    }
+  },
+  "coreCards": [
+    {
+      "word": "south",
+      "phonetic": "/south/",
+      "translation": "常用词",
+      "definition": "/south/ 常用词",
+      "sections": [],
+      "example": "When cold weather comes, many birds move to the south.",
+      "aliases": [
+        "south"
+      ],
+      "sourcePhoto": "IMG_3794.JPG"
+    },
+    {
+      "word": "remain",
+      "phonetic": "/sae/",
+      "translation": "n. 南方；南部 ad.南方的，南部的 adv.向南，朝南\n［r'mezn］ v.仍然是，保持不变；继续存在；逗留，不离去",
+      "definition": "/sae/ n. 南方；南部 ad.南方的，南部的 adv.向南，朝南\n［r'mezn］ v.仍然是，保持不变；继续存在；逗留，不离去",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：re（回）+main（留） 回来留下一逗留\nIt remains to be seen\n……有待观望。\n·：214\nremains （n. ［pl.］剩余物；遗迹；遗骸）"
+        }
+      ],
+      "example": "Many animals do not remain in one place.",
+      "aliases": [
+        "remain"
+      ],
+      "sourcePhoto": "IMG_3794.JPG"
+    },
+    {
+      "word": "normal",
+      "phonetic": "/ˈnɔrməl/",
+      "translation": "普通的",
+      "definition": "/ˈnɔrməl/ 普通的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆： norm（规范）+al（形容词后缀） 符合规范的一\n正常的"
+        },
+        {
+          "label": "拓",
+          "text": "normally（adv. 正常地；通常）"
+        }
+      ],
+      "example": "Moving is a normal part of their lives.",
+      "aliases": [
+        "normal"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "survive",
+      "phonetic": "/savarv/",
+      "translation": "v. 生存，存活；幸存",
+      "definition": "/savarv/ v. 生存，存活；幸存",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：sur（上）+viv（生命）+e 一上面还有生命迹象一\n存活\nFor a tsunami, the only way to survive it is to be prepared. 面\n对海啸，唯一的生存之道就是做好准备。今"
+        }
+      ],
+      "example": "Some move to find food more easily, but others move to get away from crowded places or to survive disasters like an earthquake.",
+      "aliases": [
+        "survive"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "earthquake",
+      "phonetic": "/'3:0kwerk/",
+      "translation": "n.［C］地震\n园合成词：earth（地球）+quake（震动） 地震",
+      "definition": "/'3:0kwerk/ n.［C］地震\n园合成词：earth（地球）+quake（震动） 地震",
+      "sections": [],
+      "example": "Some move to find food more easily, but others move to get away from crowded places or to survive disasters like an earthquake.",
+      "aliases": [
+        "earthquake"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "compare",
+      "phonetic": "/kam'pea（r）/",
+      "translation": "v. 比较；与…·类似（或相似）",
+      "definition": "/kam'pea（r）/ v. 比较；与…·类似（或相似）",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：com（一起）+pare（看作pair，对）一比来比去，\n天生一对一比较"
+        },
+        {
+          "label": "搭",
+          "text": "compare ..with\n把\n·与\n相比 compare⋯to ⋯\n把⋯⋯比作·"
+        },
+        {
+          "label": "拓",
+          "text": "comparison （n. 比较；对比）"
+        }
+      ],
+      "example": "We can compare this action to people moving for better opportunities.",
+      "aliases": [
+        "compare"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "birth",
+      "phonetic": "/bərθ/",
+      "translation": "n. 出生，分娩；创始，起源",
+      "definition": "/bərθ/ n. 出生，分娩；创始，起源",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "give birth （to sb./sth.）生孩子，产仔\nfeed"
+        }
+      ],
+      "example": "Some fishes give birth in warm water and move to cold water to feed.",
+      "aliases": [
+        "birth"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "feed",
+      "phonetic": "/fi:d/",
+      "translation": "v.喂养，给（人或动物）食物；进食；\n养活n.一餐；（动物的）一次喂给的饲料合",
+      "definition": "/fi:d/ v.喂养，给（人或动物）食物；进食；\n养活n.一餐；（动物的）一次喂给的饲料合",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：播种就是给土地喂（feed）种\n子（seed）\nbe fed up （with）（对·····）厌倦"
+        },
+        {
+          "label": "搭",
+          "text": "feed on 以⋯·为食"
+        },
+        {
+          "label": "用",
+          "text": "过去式：fed 过去分词：fed\nfamous"
+        }
+      ],
+      "example": "Some fishes give birth in warm water and move to cold water to feed.",
+      "aliases": [
+        "feed"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "translation": "著名的",
+      "definition": "/ˈfeɪməs/ 著名的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：fam（e）（名声）+ous（有……\n性质的） 名声在外的一著名的"
+        },
+        {
+          "label": "搭",
+          "text": "be famous for 因···而出名"
+        }
+      ],
+      "example": "The most famous migration is probably that of the fish called salmon.",
+      "aliases": [
+        "famous"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "grey",
+      "phonetic": "/grer/",
+      "translation": "adj. 灰色的；阴沉的n.灰色",
+      "definition": "/grer/ adj. 灰色的；阴沉的n.灰色",
+      "sections": [
+        {
+          "label": "用",
+          "text": "美式写法：gray"
+        }
+      ],
+      "example": "This fish is usually grey, but turns red when it is ready to breed.",
+      "aliases": [
+        "grey"
+      ],
+      "sourcePhoto": "IMG_3795.JPG"
+    },
+    {
+      "word": "fresh",
+      "phonetic": "/frɛʃ/",
+      "translation": "新鲜的",
+      "definition": "/frɛʃ/ 新鲜的",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：那个新（fresh）人自由（free）散漫"
+        }
+      ],
+      "example": "It is born in fresh water but travels miles to salt water.",
+      "aliases": [
+        "fresh"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "mile",
+      "phonetic": "/mile/",
+      "translation": "n.英里；大面积，长距离",
+      "definition": "/mile/ n.英里；大面积，长距离",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：英里（mile）是活动的（mobile）距离"
+        }
+      ],
+      "example": "It is born in fresh water but travels miles to salt water.",
+      "aliases": [
+        "miles"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "force",
+      "phonetic": "/f:s/",
+      "translation": "n. 暴力；力量；巨大影响；［Pl.］武装力量v.强迫，迫使",
+      "definition": "/f:s/ n. 暴力；力量；巨大影响；［Pl.］武装力量v.强迫，迫使",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：forc（力量）+e 力量\ncome into force 开始生效，开始实施\nput ... in/into force 施\n行，实施 by force 用暴力，强迫地"
+        }
+      ],
+      "example": "They must fight against the strong force of the river and avoid being hunted by bears, because the law of nature allows only the strongest salmon to survive.",
+      "aliases": [
+        "force"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "bear",
+      "phonetic": "/bear/",
+      "translation": "n. 熊v.承受，忍受；承担责任；生（孩子）",
+      "definition": "/bear/ n. 熊v.承受，忍受；承担责任；生（孩子）",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：梨（pear）和熊（bear）掌，不可兼得"
+        },
+        {
+          "label": "用",
+          "text": "过去式：bore过去分词：borne"
+        },
+        {
+          "label": "拓",
+          "text": "bearable（ad. 可忍受的） unbearable（adj. 不可忍受的）"
+        }
+      ],
+      "example": "They must fight against the strong force of the river and avoid being hunted by bears, because the law of nature allows only the strongest salmon to survive.",
+      "aliases": [
+        "bears"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "law",
+      "phonetic": "/law/",
+      "translation": "n.法律，法规；法学；规律，法则",
+      "definition": "/law/ n.法律，法规；法学；规律，法则",
+      "sections": [],
+      "example": "They must fight against the strong force of the river and avoid being hunted by bears, because the law of nature allows only the strongest salmon to survive.",
+      "aliases": [
+        "law"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "return",
+      "phonetic": "/rr't3:n/",
+      "translation": "v/n. 返回，回来；归还，放回",
+      "definition": "/rr't3:n/ v/n. 返回，回来；归还，放回",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：re（回）+turn（转动） 转回一返回"
+        },
+        {
+          "label": "搭",
+          "text": "return to 重新回到（地方、话题等）return ticket 往返票"
+        },
+        {
+          "label": "例",
+          "text": "More and more people would like to return to their\nhometowns to do some meaningful things. 越来越多的人愿\n意回到家乡做一些有意义的事情。"
+        }
+      ],
+      "example": "When it is old, it returns to its birthplace in fresh water.",
+      "aliases": [
+        "returns"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "birthplace",
+      "phonetic": "/'b3:0plers/",
+      "translation": "n. 出生地；发源地\n运合成词：birth（出生）+place（地方）一出生地",
+      "definition": "/'b3:0plers/ n. 出生地；发源地\n运合成词：birth（出生）+place（地方）一出生地",
+      "sections": [],
+      "example": "When it is old, it returns to its birthplace in fresh water.",
+      "aliases": [
+        "birthplace"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "die",
+      "phonetic": "/die/",
+      "translation": "danlv.死，死亡；消失；停止运转",
+      "definition": "/die/ danlv.死，死亡；消失；停止运转",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "die out 灭绝；消失 die of死于（内因）die from死于（外因）"
+        },
+        {
+          "label": "用",
+          "text": "现在分词：dying"
+        }
+      ],
+      "example": "Then it gives birth and dies.",
+      "aliases": [
+        "dies"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "north",
+      "phonetic": "/nɔrθ/",
+      "translation": "n. 北方；北部 adj. 北方的；北部的 adv. 向北",
+      "definition": "/nɔrθ/ n. 北方；北部 adj. 北方的；北部的 adv. 向北",
+      "sections": [],
+      "example": "In the north of Europe, there is a kind of mouse.",
+      "aliases": [
+        "north"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "mouse",
+      "phonetic": "/maus/",
+      "translation": "n. 老鼠；鼠标\nmouth",
+      "definition": "/maus/ n. 老鼠；鼠标\nmouth",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：一只老鼠（mouse）张嘴（mouth）\n咬东西"
+        },
+        {
+          "label": "用",
+          "text": "复数形式：mice\nmousy （adj. 暗灰褐色的；沉静害羞的）\n。216"
+        }
+      ],
+      "example": "In the north of Europe, there is a kind of mouse.",
+      "aliases": [
+        "mouse"
+      ],
+      "sourcePhoto": "IMG_3796.JPG"
+    },
+    {
+      "word": "pale",
+      "phonetic": "/pale/",
+      "translation": "常用词",
+      "definition": "/pale/ 常用词",
+      "sections": [],
+      "example": "They usually look pale, but when their homes become crowded, their colour gets brighter.",
+      "aliases": [
+        "pale"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "crazy",
+      "phonetic": "/crazy/",
+      "translation": "adj. 苍白的，灰白的；浅色的\n［krerzll ad/.疯狂的；狂热的；迷态的；精神失常（或错乱）的\nbe crazy about 对.⋯着迷",
+      "definition": "/crazy/ adj. 苍白的，灰白的；浅色的\n［krerzll ad/.疯狂的；狂热的；迷态的；精神失常（或错乱）的\nbe crazy about 对.⋯着迷",
+      "sections": [],
+      "example": "They have a crazy way of moving.",
+      "aliases": [
+        "crazy"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "seaside",
+      "phonetic": "/seaside/",
+      "translation": "常用词",
+      "definition": "/seaside/ 常用词",
+      "sections": [],
+      "example": "Sometimes they move all the way to the seaside, forming large groups like an army.",
+      "aliases": [
+        "seaside"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "army",
+      "phonetic": "/army/",
+      "translation": "'si:sardln.（尤指人们游玩、度假的）海边，海滨\n［'axmil n. 陆军部队；大批，大群",
+      "definition": "/army/ 'si:sardln.（尤指人们游玩、度假的）海边，海滨\n［'axmil n. 陆军部队；大批，大群",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "join the army 参军"
+        },
+        {
+          "label": "拓",
+          "text": "an army of 一大群⋯⋯\narm*（n. 手臂v.武装）"
+        }
+      ],
+      "example": "Sometimes they move all the way to the seaside, forming large groups like an army.",
+      "aliases": [
+        "army"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "recently",
+      "phonetic": "/recently/",
+      "translation": "adv.不久前，最近",
+      "definition": "/recently/ adv.不久前，最近",
+      "sections": [],
+      "example": "Recently, scientists have studied a special kind of lobsters.",
+      "aliases": [
+        "Recently",
+        "recently"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "season",
+      "phonetic": "/ˈsizən/",
+      "translation": "n. 季，季节",
+      "definition": "/ˈsizən/ n. 季，季节",
+      "sections": [
+        {
+          "label": "拓",
+          "text": "联憩记忆：season（季节）变換，不需要reason（理由）\n山.不可恐罗热\nSeasonal（ad）. 季节性的，随季节变化的）"
+        }
+      ],
+      "example": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "aliases": [
+        "season"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "bad",
+      "phonetic": "/bæd/",
+      "translation": "adj. 坏的；问题成堆的；令人不快的；严\n重的；糟糕的\n返回",
+      "definition": "/bæd/ adj. 坏的；问题成堆的；令人不快的；严\n重的；糟糕的\n返回",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：二个 Dad（爸爸），感觉身体bad\n（不好的），躺在bed（床上）\nHicket 往處"
+        }
+      ],
+      "example": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "aliases": [
+        "bad"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "floor",
+      "phonetic": "/flb：（r）/",
+      "translation": "n.地面，地板；楼层；（海等的）底\nreturn to ther",
+      "definition": "/flb：（r）/ n.地面，地板；楼层；（海等的）底\nreturn to ther",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：floor（楼层）上都有door（门）\n盛来越多的）人"
+        },
+        {
+          "label": "用",
+          "text": "在英美两国，楼层的表述有所不同。在美国，一楼是 the first\nfloor；在英国，一楼是 the ground floor，而 the first floor 指\n的是二楼。"
+        }
+      ],
+      "example": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "aliases": [
+        "floor"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "ocean",
+      "phonetic": "/ocean/",
+      "translation": "auJnln.洋；海洋，大海",
+      "definition": "/ocean/ auJnln.洋；海洋，大海",
+      "sections": [
+        {
+          "label": "记",
+          "text": "发音记忆：“噢，深！”一好深的大海啊！一海洋"
+        },
+        {
+          "label": "搭",
+          "text": "an ocean of / oceans of 大量，众多\nm死于（外团"
+        }
+      ],
+      "example": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "aliases": [
+        "ocean"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "soldier",
+      "phonetic": "/'sauldze（r）/",
+      "translation": "n. 士兵，军人",
+      "definition": "/'sauldze（r）/ n. 士兵，军人",
+      "sections": [],
+      "example": "Every year, when the season of bad weather arrives, the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "aliases": [
+        "soldiers"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "nobody",
+      "phonetic": "/ˈnoʊˌbɑˌdi/",
+      "translation": "pron. 没有人n.小人物，无足轻重的人\n合成词：no（不，无）+body（人）一没有人",
+      "definition": "/ˈnoʊˌbɑˌdi/ pron. 没有人n.小人物，无足轻重的人\n合成词：no（不，无）+body（人）一没有人",
+      "sections": [],
+      "example": "Nobody knows where they go.",
+      "aliases": [
+        "Nobody",
+        "nobody"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    },
+    {
+      "word": "living",
+      "phonetic": "/ˈlɪvɪŋ/",
+      "translation": "活的",
+      "definition": "/ˈlɪvɪŋ/ 活的",
+      "sections": [],
+      "example": "Maybe living things just like to travel.",
+      "aliases": [
+        "living"
+      ],
+      "sourcePhoto": "IMG_3797.JPG"
+    }
+  ],
+  "coreWordCount": 32,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s49-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s49-p01.mp3",
+      "en": "When cold weather comes, many birds move to the south.",
+      "cn": "寒冷天气来临时，许多鸟类会向南方迁徙。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s49-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s49-p02.mp3",
+      "en": "Many animals do not remain in one place.",
+      "cn": "许多动物不会固定停留在一个地方。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s49-p03",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s49-p03.mp3",
+      "en": "Moving is a normal part of their lives.",
+      "cn": "迁徙是它们生活中很正常的一部分。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 4,
+      "chunkId": "s49-p04-01",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s49-p04-01.mp3",
+      "en": "Some move to find food more easily,",
+      "cn": "有些动物迁移是为了更容易找到食物，而有些则是为了远离拥挤的地方，或者是为了在地震等灾难中存活下来。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 4,
+      "chunkId": "s49-p04-02",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s49-p04-02.mp3",
+      "en": "but others move to get away from crowded places or to survive disasters like an earthquake.",
+      "cn": "有些动物迁移是为了更容易找到食物，而有些则是为了远离拥挤的地方，或者是为了在地震等灾难中存活下来。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 5,
+      "chunkId": "s49-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s49-p05.mp3",
+      "en": "We can compare this action to people moving for better opportunities.",
+      "cn": "我们可以将这种行为与人类为了更好机会而迁移相比较。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 6,
+      "chunkId": "s49-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s49-p06.mp3",
+      "en": "Some fishes give birth in warm water and move to cold water to feed.",
+      "cn": "有些鱼类在温暖的水域产卵，然后游到冷水域觅食。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 7,
+      "chunkId": "s49-p07",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s49-p07.mp3",
+      "en": "The most famous migration is probably that of the fish called salmon.",
+      "cn": "其中最著名的迁徙可能是一种叫“鲑鱼”的鱼类。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 8,
+      "chunkId": "s49-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s49-p08.mp3",
+      "en": "This fish is usually grey, but turns red when it is ready to breed.",
+      "cn": "这种鱼通常是灰色的，但在准备交配繁殖时会变成红色。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 9,
+      "chunkId": "s49-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s49-p09.mp3",
+      "en": "It is born in fresh water but travels miles to salt water.",
+      "cn": "它们出生在淡水中，却要跋涉数英里来到海水中。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 10,
+      "chunkId": "s49-p10-01",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s49-p10-01.mp3",
+      "en": "They must fight against the strong force of the river and avoid being hunted by bears,",
+      "cn": "它们必须对抗河流的强大力量，还要躲避熊的捕食，因为自然法则只允许最强壮的鲑鱼存活。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 10,
+      "chunkId": "s49-p10-02",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s49-p10-02.mp3",
+      "en": "because the law of nature allows only the strongest salmon to survive.",
+      "cn": "它们必须对抗河流的强大力量，还要躲避熊的捕食，因为自然法则只允许最强壮的鲑鱼存活。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 11,
+      "chunkId": "s49-p11",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s49-p11.mp3",
+      "en": "When it is old, it returns to its birthplace in fresh water.",
+      "cn": "当它们年老时，会回到淡水的出生地。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 12,
+      "chunkId": "s49-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s49-p12.mp3",
+      "en": "Then it gives birth and dies.",
+      "cn": "然后它们产卵并死去。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 13,
+      "chunkId": "s49-p13",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s49-p13.mp3",
+      "en": "In the north of Europe, there is a kind of mouse.",
+      "cn": "在欧洲北部有一种老鼠。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 14,
+      "chunkId": "s49-p14",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s49-p14.mp3",
+      "en": "They usually look pale, but when their homes become crowded, their colour gets brighter.",
+      "cn": "它们通常毛色较淡，但当它们的栖息地变得拥挤时，其毛色就会变得更鲜艳。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 15,
+      "chunkId": "s49-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s49-p15.mp3",
+      "en": "They have a crazy way of moving.",
+      "cn": "它们的迁徙方式有些疯狂。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 16,
+      "chunkId": "s49-p16",
+      "image": "assets/images/16.webp",
+      "audio": "assets/audio/segments/s49-p16.mp3",
+      "en": "Sometimes they move all the way to the seaside, forming large groups like an army.",
+      "cn": "有时，它们会一路迁徙到海边，成群结队地前进，就像军队一样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 17,
+      "chunkId": "s49-p17",
+      "image": "assets/images/17.webp",
+      "audio": "assets/audio/segments/s49-p17.mp3",
+      "en": "Many of them are killed when they fall into the sea.",
+      "cn": "它们中有许多会掉入海里丧生。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 18,
+      "chunkId": "s49-p18",
+      "image": "assets/images/18.webp",
+      "audio": "assets/audio/segments/s49-p18.mp3",
+      "en": "Recently, scientists have studied a special kind of lobsters.",
+      "cn": "最近，科学家研究了一种特殊的龙虾。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 21,
+      "sourceSentenceId": 19,
+      "chunkId": "s49-p19-01",
+      "image": "assets/images/19.webp",
+      "audio": "assets/audio/segments/s49-p19-01.mp3",
+      "en": "Every year, when the season of bad weather arrives,",
+      "cn": "每年天气恶劣的季节来临时，这些龙虾会排成长队，开始在海底行走，就像士兵行军一样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 22,
+      "sourceSentenceId": 19,
+      "chunkId": "s49-p19-02",
+      "image": "assets/images/19.webp",
+      "audio": "assets/audio/segments/s49-p19-02.mp3",
+      "en": "the lobsters get into a long line and start to walk across the floor of the ocean, just like soldiers marching.",
+      "cn": "每年天气恶劣的季节来临时，这些龙虾会排成长队，开始在海底行走，就像士兵行军一样。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 23,
+      "sourceSentenceId": 20,
+      "chunkId": "s49-p20",
+      "image": "assets/images/20.webp",
+      "audio": "assets/audio/segments/s49-p20.mp3",
+      "en": "Nobody knows where they go.",
+      "cn": "没有人知道它们要去哪里。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 24,
+      "sourceSentenceId": 21,
+      "chunkId": "s49-p21",
+      "image": "assets/images/21.webp",
+      "audio": "assets/audio/segments/s49-p21.mp3",
+      "en": "The reason why animals move may vary.",
+      "cn": "动物迁徙的原因可能各不相同。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 25,
+      "sourceSentenceId": 22,
+      "chunkId": "s49-p22",
+      "image": "assets/images/22.webp",
+      "audio": "assets/audio/segments/s49-p22.mp3",
+      "en": "Maybe living things just like to travel.",
+      "cn": "也许生物就是喜欢“旅行”。"
+    }
+  ]
+}

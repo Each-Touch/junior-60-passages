@@ -1,242 +1,122 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s45-p01",
       "text": "What would happen if you tried to blow a soap bubble in below freezing weather?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.849,
-      "raw_duration_seconds": 4,
-      "asr": "What would happen if you tried to blow a soap bubble in below freezing weather?",
-      "published_asr": "What would happen if you tried to blow a soap bubble in below freezing weather?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p01.mp3",
+      "sha256": "assets/audio/segments/s45-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s45-p02",
       "text": "Would it freeze and fall to the ground?",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.748,
-      "raw_duration_seconds": 2.56,
-      "asr": "Would it freeze and fall to the ground?",
-      "published_asr": "Would it freeze and fall to the ground?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p02.mp3",
+      "sha256": "assets/audio/segments/s45-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s45-p03",
       "text": "Would you have to hit it with a stone to break it?",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Would you have to hit it with a stone to break it?",
-      "published_asr": "Would you have to hit it with a stone to break it?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p03.mp3",
+      "sha256": "assets/audio/segments/s45-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s45-p04",
       "text": "These questions came into my mind one cold winter day as I finished my freshly baked apple pie.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "These questions came into my mind one cold winter day as I finished my freshly baked apple pie.",
-      "published_asr": "These questions came into my mind one cold winter day as I finished my freshly baked apple pie.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p04.mp3",
+      "sha256": "assets/audio/segments/s45-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s45-p05",
       "text": "It was a perfect time to experiment with blowing frozen bubbles.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "It was a perfect time to experiment with blowing frozen bubbles.",
-      "published_asr": "It was a perfect time to experiment with blowing frozen bubbles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p05.mp3",
+      "sha256": "assets/audio/segments/s45-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "To blow frozen bubbles, I had to wait until the air outside was very cold, meaning 10 degrees below zero Fahrenheit or colder.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 11.257,
-      "raw_duration_seconds": 7.68,
-      "asr": "To blow frozen bubbles, I had to wait until the air outside was very cold, meaning 10 degrees below zero Fahrenheit or colder.",
-      "published_asr": "To blow frozen bubbles, I had to wait until the air outside was very cold, meaning 10 degrees below zero Fahrenheit or colder.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s45-p06-01",
+      "text": "To blow frozen bubbles, I had to wait until the air outside was very cold,",
+      "audio": "assets/audio/segments/s45-p06-01.mp3",
+      "sha256": "assets/audio/segments/s45-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s45-p06-02",
+      "text": "meaning 10 degrees below zero Fahrenheit or colder.",
+      "audio": "assets/audio/segments/s45-p06-02.mp3",
+      "sha256": "assets/audio/segments/s45-p06-02.mp3"
+    },
+    {
+      "id": "s45-p07",
       "text": "I didn't have the bubble things that come in a bottle, so I used dish-washing soap.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.013,
-      "raw_duration_seconds": 4.8,
-      "asr": "I didn't have the bubble things that come in a bottle, so I used dishwashing soap.",
-      "published_asr": "I didn't have the bubble things that come in a bottle, so I used dishwashing soap.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p07.mp3",
+      "sha256": "assets/audio/segments/s45-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s45-p08",
       "text": "I chose a place out of the wind, and blew bubbles the same way I always do.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "I chose a place out of the wind, and blue bubbles the same way I always do.",
-      "published_asr": "I chose a place out of the wind, and blue bubbles the same way I always do.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p08.mp3",
+      "sha256": "assets/audio/segments/s45-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s45-p09",
       "text": "Here's what I learned.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 2.33,
-      "raw_duration_seconds": 1.6,
-      "asr": "Here's what I learned",
-      "published_asr": "Here's what I learned.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p09.mp3",
+      "sha256": "assets/audio/segments/s45-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s45-p10",
       "text": "If the temperature is low enough, the skin of the bubble frosts over, becoming cloudy instead of clear.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.69,
-      "raw_duration_seconds": 5.92,
-      "asr": "If the temperature is low enough, the skin of the bubble frosts over, becoming cloudy instead of clear.",
-      "published_asr": "If the temperature is low enough, the skin of the bubble frosts over, becoming cloudy instead of clear.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p10.mp3",
+      "sha256": "assets/audio/segments/s45-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s45-p11",
       "text": "And what about those rainbow swirls that you see in soap bubbles?",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "And what about those rainbow swirls that you see in soap bubbles?",
-      "published_asr": "And what about those rainbow swirls that you see in soap bubbles?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p11.mp3",
+      "sha256": "assets/audio/segments/s45-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s45-p12",
       "text": "The rainbow colours stay even when the bubbles frost, but they don't spin any more.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.564,
-      "raw_duration_seconds": 4.48,
-      "asr": "The rainbow colors stay even when the bubbles frost, but they don't spin anymore.",
-      "published_asr": "The rainbow colors stay even when the bubbles frost, but they don't spin anymore.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p12.mp3",
+      "sha256": "assets/audio/segments/s45-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s45-p13",
       "text": "The bubbles still float in the air.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "The bubbles still float in the air.",
-      "published_asr": "The bubbles still float in the air.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p13.mp3",
+      "sha256": "assets/audio/segments/s45-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s45-p14",
       "text": "They don't fall to the ground any faster than they would on a summer day.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "They don't fall to the ground any faster than they would on a summer day.",
-      "published_asr": "They don't fall to the ground any faster than they would on a summer day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p14.mp3",
+      "sha256": "assets/audio/segments/s45-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s45-p15",
       "text": "When these bubbles break, they don't turn into tiny drops of soap.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "When these bubbles break, they don't turn into tiny drops of soap.",
-      "published_asr": "When these bubbles break, they don't turn into tiny drops of soap.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p15.mp3",
+      "sha256": "assets/audio/segments/s45-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s45-p16",
       "text": "They turn into shiny rainbow-coloured pieces and fly slowly to the ground.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.263,
-      "raw_duration_seconds": 4.96,
-      "asr": "They turn into shiny rainbow colored pieces and fly slowly to the ground.",
-      "published_asr": "They turn into shiny rainbow colored pieces and fly slowly to the ground.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p16.mp3",
+      "sha256": "assets/audio/segments/s45-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s45-p17",
       "text": "Sometimes a frozen bubble will roll across the snow without breaking.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.619,
-      "raw_duration_seconds": 3.84,
-      "asr": "Sometimes a frozen bubble will roll across the snow without breaking.",
-      "published_asr": "Sometimes a frozen bubble will roll across the snow without breaking.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p17.mp3",
+      "sha256": "assets/audio/segments/s45-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s45-p18",
       "text": "If it breaks, it may leave a strong bubble skin on the ground.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "If it breaks, it may leave a strong bubble skin on the ground.",
-      "published_asr": "If it breaks, it may leave a strong bubble skin on the ground.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s45-p18.mp3",
+      "sha256": "assets/audio/segments/s45-p18.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 18,
-    "raw_asr_exact_count": 18,
-    "published_asr_exact_count": 18,
-    "word_count": 135,
-    "word_accepted_count": 135,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

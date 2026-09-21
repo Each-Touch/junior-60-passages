@@ -1,218 +1,110 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s37-p01",
       "text": "The Double Ninth Festival is a special day for elderly people in China.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "The Double Ninth Festival is a special day for elderly people in China.",
-      "published_asr": "The Double Ninth Festival is a special day for elderly people in China.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p01.mp3",
+      "sha256": "assets/audio/segments/s37-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s37-p02",
       "text": "The festival is on the ninth day of the ninth month of the lunar calendar.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 6.075,
-      "raw_duration_seconds": 4.16,
-      "asr": "The festival is on the ninth day of the ninth month of the lunar calendar.",
-      "published_asr": "The festival is on the ninth day of the ninth month of the lunar calendar.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p02.mp3",
+      "sha256": "assets/audio/segments/s37-p02.mp3"
     },
     {
-      "id": 3,
-      "text": "As the Chinese word for nine has the same sound as the word for long, people take the Double Ninth Festival to show their wishes of long life for elderly people.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 12.667,
-      "raw_duration_seconds": 8.64,
-      "asr": "As the Chinese word for nine has the same sound as the word for long, people take the double ninth festival to show their wishes of long life for elderly people.",
-      "published_asr": "As the Chinese word for nine has the same sound as the word for long, people take the double ninth festival to show their wishes of long life for elderly people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s37-p03-01",
+      "text": "As the Chinese word for nine has the same sound as the word for long,",
+      "audio": "assets/audio/segments/s37-p03-01.mp3",
+      "sha256": "assets/audio/segments/s37-p03-01.mp3"
     },
     {
-      "id": 4,
+      "id": "s37-p03-02",
+      "text": "people take the Double Ninth Festival to show their wishes of long life for elderly people.",
+      "audio": "assets/audio/segments/s37-p03-02.mp3",
+      "sha256": "assets/audio/segments/s37-p03-02.mp3"
+    },
+    {
+      "id": "s37-p04",
       "text": "There are many traditions for this festival.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "There are many traditions for this festival.",
-      "published_asr": "There are many traditions for this festival.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p04.mp3",
+      "sha256": "assets/audio/segments/s37-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s37-p05",
       "text": "On that day, families get together and climb mountains for luck and in the hope that elderly people will live much longer.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 9.611,
-      "raw_duration_seconds": 6.56,
-      "asr": "On that day, families get together and climb mountains for luck and in the hope that elderly people will live much longer.",
-      "published_asr": "On that day, families get together and climb mountains for luck and in the hope that elderly people will live much longer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p05.mp3",
+      "sha256": "assets/audio/segments/s37-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s37-p06",
       "text": "They also drink chrysanthemum wine and wear a plant called zhuyu to celebrate it.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.047,
-      "raw_duration_seconds": 4.8,
-      "asr": "They also drink chrysanthemum wine and wear a plant called Zuyu to celebrate it.",
-      "published_asr": "They also drink chrysanthemum wine, and wear a plant called Zuyu to celebrate it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p06.mp3",
+      "sha256": "assets/audio/segments/s37-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s37-p07",
       "text": "Both chrysanthemum and zhuyu are regarded as clean plants that can clean houses and cure diseases.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "Both chrysanthemum and zuyu are regarded as clean plants that can clean houses and cure diseases.",
-      "published_asr": "Both chrysanthemum and zuyu are regarded as clean plants that can clean houses and cure diseases.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p07.mp3",
+      "sha256": "assets/audio/segments/s37-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s37-p08",
       "text": "Respecting elderly people is shown not only on this special day but also in daily life.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Respecting elderly people is shown not only on this special day but also in daily life.",
-      "published_asr": "Respecting elderly people is shown not only on this special day but also in daily life.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p08.mp3",
+      "sha256": "assets/audio/segments/s37-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s37-p09",
       "text": "For example, when an older person enters a room, everyone stands up as a mark of honour.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 7.966,
-      "raw_duration_seconds": 5.44,
-      "asr": "For example, when an older person enters a room, everyone stands up as a mark of honor.",
-      "published_asr": "For example, when an older person enters a room, everyone stands up as a mark of honor.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p09.mp3",
+      "sha256": "assets/audio/segments/s37-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s37-p10",
       "text": "When there are several guests at the table, the host shall introduce them from the oldest to the youngest.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.674,
-      "raw_duration_seconds": 5.92,
-      "asr": "When there are several guests at the table, the host shall introduce them from the oldest to the youngest.",
-      "published_asr": "When there are several guests at the table, the host shall introduce them from the oldest to the youngest.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p10.mp3",
+      "sha256": "assets/audio/segments/s37-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s37-p11",
       "text": "When a younger person is presenting something to an older person, two hands are used.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "When a younger person is presenting something to an older person, two hands are used.",
-      "published_asr": "When a younger person is presenting something to an older person, two hands are used.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p11.mp3",
+      "sha256": "assets/audio/segments/s37-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s37-p12",
       "text": "On a crowded subway or bus, younger people always offer their seats to elderly people.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 8.674,
-      "raw_duration_seconds": 5.92,
-      "asr": "on a crowded subway or bus. Younger people always offer their seats to elderly people.",
-      "published_asr": "On a crowded subway or bus, younger people always offer their seats to elderly people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p12.mp3",
+      "sha256": "assets/audio/segments/s37-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s37-p13",
       "text": "It is a traditional virtue in China to respect elderly people.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It is a traditional virtue in China to respect elderly people.",
-      "published_asr": "It is a traditional virtue in China to respect elderly people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p13.mp3",
+      "sha256": "assets/audio/segments/s37-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s37-p14",
       "text": "That's because the Chinese know that elderly people have knowledge and experience that young people can learn from.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "That's because the Chinese know, that elderly people have knowledge and experience, that young people can learn from.",
-      "published_asr": "That's because the Chinese know, that elderly people have knowledge and experience, that young people can learn from.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p14.mp3",
+      "sha256": "assets/audio/segments/s37-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s37-p15",
       "text": "So Chinese people are proud of being old.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "So Chinese people are proud of being old.",
-      "published_asr": "so Chinese people are proud of being old.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p15.mp3",
+      "sha256": "assets/audio/segments/s37-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s37-p16",
       "text": "Besides, to respect elderly people is to respect yourself tomorrow.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 6.796,
-      "raw_duration_seconds": 4.64,
-      "asr": "Besides, to respect elderly people is to respect yourself tomorrow.",
-      "published_asr": "Besides, to respect elderly people is to respect yourself tomorrow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s37-p16.mp3",
+      "sha256": "assets/audio/segments/s37-p16.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 16,
-    "raw_asr_exact_count": 16,
-    "published_asr_exact_count": 16,
-    "word_count": 129,
-    "word_accepted_count": 129,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

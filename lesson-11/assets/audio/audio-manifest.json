@@ -1,230 +1,122 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s11-p01",
       "text": "It's always a good thing to have a hobby, such as collecting stamps or baking.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.556,
-      "raw_duration_seconds": 4.48,
-      "asr": "It's always a good thing to have a hobby, such as collecting stamps or baking.",
-      "published_asr": "It's always a good thing to have a hobby, such as collecting stamps or baking.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p01.mp3",
+      "sha256": "assets/audio/segments/s11-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s11-p02",
       "text": "For Miss Patty, a school bus driver, her hobby of knitting has made her really touch the community.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "For Ms. Paddy, a school bus driver, her hobby of knitting has made her really touch the community.",
-      "published_asr": "For Miss Patty, a school bus driver, her hobby of knitting has made her really touch the community.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p02.mp3",
+      "sha256": "assets/audio/segments/s11-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s11-p03",
       "text": "Miss Patty always wanted to do something in her spare time to help the students.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.63,
-      "raw_duration_seconds": 3.84,
-      "asr": "Miss Patty always wanted to do something in her spare time to help the students.",
-      "published_asr": "Miss Patty always wanted to do something in her spare time to help the students.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p03.mp3",
+      "sha256": "assets/audio/segments/s11-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s11-p04",
       "text": "After a conversation with one of the students, things took a turn from knitting one hat to knitting more hats.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 8.672,
-      "raw_duration_seconds": 5.92,
-      "asr": "After a conversation with one of the students, things took a turn from knitting one hat to knitting more hats.",
-      "published_asr": "After a conversation with one of the students, things took a turn from knitting one hat to knitting more hats.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p04.mp3",
+      "sha256": "assets/audio/segments/s11-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s11-p05",
       "text": "The boy in the school uniform gets on the bus, and he goes, 'What are you doing?'",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "The boy in the school uniform gets on the bus and he goes, what are you doing?",
-      "published_asr": "The boy in the school uniform gets on the bus and he goes, what are you doing?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p05.mp3",
+      "sha256": "assets/audio/segments/s11-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s11-p06",
       "text": "I said, 'I'm making a hat.'",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "I said, I'm making a hat.",
-      "published_asr": "I said, I'm making a hat.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p06.mp3",
+      "sha256": "assets/audio/segments/s11-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s11-p07",
       "text": "He said, 'That would be great having such a warm hat in icy winter.'",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.084,
-      "raw_duration_seconds": 4.16,
-      "asr": "He said, that would be great having such a warm hat in icy winter.",
-      "published_asr": "He said that would be great having such a warm hat in icy winter.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p07.mp3",
+      "sha256": "assets/audio/segments/s11-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s11-p08",
       "text": "So I said, 'What colour would you like?'",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.984,
-      "raw_duration_seconds": 2.72,
-      "asr": "So I said, what color would you like?",
-      "published_asr": "So I said, what color would you like?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p08.mp3",
+      "sha256": "assets/audio/segments/s11-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s11-p09",
       "text": "That started everything.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "that started everything.",
-      "published_asr": "that started everything.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p09.mp3",
+      "sha256": "assets/audio/segments/s11-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s11-p10",
       "text": "Miss Patty told the local newspaper.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "Ms. Paddy told the local newspaper.",
-      "published_asr": "Ms. Paddy told the local newspaper.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p10.mp3",
+      "sha256": "assets/audio/segments/s11-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s11-p11",
       "text": "Several years have passed since that day, and Miss Patty has already knitted 7,083 hats, along with some gloves for students.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 12.667,
-      "raw_duration_seconds": 8.64,
-      "asr": "Several years have passed since that day, and Miss Patty has already knitted 7,083 hats, along with some gloves for students.",
-      "published_asr": "Several years have passed since that day and Miss Patty has already knitted 7,083 hats along with some gloves for students.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p11.mp3",
+      "sha256": "assets/audio/segments/s11-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s11-p12",
       "text": "Sometimes she will get the student's favourite colour before she begins the project.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "Sometimes she will get the student's favorite color before she begins the project.",
-      "published_asr": "Sometimes she will get the student's favorite color before she begins the project.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p12.mp3",
+      "sha256": "assets/audio/segments/s11-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s11-p13",
       "text": "What is more moving is that Miss Patty buys all the materials using her own cash.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 6.792,
-      "raw_duration_seconds": 4.64,
-      "asr": "What is more moving is that Ms. Patti buys all the materials using her own cash.",
-      "published_asr": "What is more moving is that Miss Patty buys all the materials using her own cash.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p13.mp3",
+      "sha256": "assets/audio/segments/s11-p13.mp3"
     },
     {
-      "id": 14,
-      "text": "Some people do give her gift cards around the Christmas holidays to help, but she still withdraws a lot of dollars from her own bank account.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 10.551,
-      "raw_duration_seconds": 7.2,
-      "asr": "Some people do give her gift cards around the Christmas holidays to help, but she still withdraws a lot of dollars from her own bank account.",
-      "published_asr": "Some people do give her gift cards around the Christmas holidays to help, but she still withdraws a lot of dollars from her own bank account.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s11-p14-01",
+      "text": "Some people do give her gift cards around the Christmas holidays to help,",
+      "audio": "assets/audio/segments/s11-p14-01.mp3",
+      "sha256": "assets/audio/segments/s11-p14-01.mp3"
     },
     {
-      "id": 15,
+      "id": "s11-p14-02",
+      "text": "but she still withdraws a lot of dollars from her own bank account.",
+      "audio": "assets/audio/segments/s11-p14-02.mp3",
+      "sha256": "assets/audio/segments/s11-p14-02.mp3"
+    },
+    {
+      "id": "s11-p15",
       "text": "She also manages her time well to keep her kitchen and bedroom tidy and even to visit the local museum for inspiration.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "She also manages her time well to keep her kitchen and bedroom tidy, and even to visit the local museum for inspiration.",
-      "published_asr": "She also manages her time well to keep her kitchen and bedroom tidy, and even to visit the local museum for inspiration.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p15.mp3",
+      "sha256": "assets/audio/segments/s11-p15.mp3"
     },
     {
-      "id": 16,
-      "text": "Along with the charity act of making pretty hats for the students that will keep them warm, Miss Patty also gets praise for being a trusted friend to the students.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 13.842,
-      "raw_duration_seconds": 9.44,
-      "asr": "along with the charity act of making pretty hats for the students that will keep them warm. Miss Patty also gets praise for being a trusted friend to the students.",
-      "published_asr": "along with the charity act of making pretty hats for the students that will keep them warm. Miss Patty also gets praise for being a trusted friend to the students.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s11-p16-01",
+      "text": "Along with the charity act of making pretty hats for the students that will keep them warm,",
+      "audio": "assets/audio/segments/s11-p16-01.mp3",
+      "sha256": "assets/audio/segments/s11-p16-01.mp3"
     },
     {
-      "id": 17,
+      "id": "s11-p16-02",
+      "text": "Miss Patty also gets praise for being a trusted friend to the students.",
+      "audio": "assets/audio/segments/s11-p16-02.mp3",
+      "sha256": "assets/audio/segments/s11-p16-02.mp3"
+    },
+    {
+      "id": "s11-p17",
       "text": "Of course, the kids can buy hats from a store, but they always like hers better.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Of course, the kids can buy hats from a store, but they always like hers better.",
-      "published_asr": "Of course, the kids can buy hats from a store, but they always like hers better.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s11-p17.mp3",
+      "sha256": "assets/audio/segments/s11-p17.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 17,
-    "raw_asr_exact_count": 17,
-    "published_asr_exact_count": 17,
-    "word_count": 146,
-    "word_accepted_count": 146,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

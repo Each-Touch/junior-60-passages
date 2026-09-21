@@ -1,350 +1,182 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s07-p01",
       "text": "Do you do team projects at school?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Do you do team projects at school?",
-      "published_asr": "Do you do team projects at school?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p01.mp3",
+      "sha256": "assets/audio/segments/s07-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s07-p02",
       "text": "I do a lot.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 2.083,
-      "raw_duration_seconds": 1.44,
-      "asr": "I do a lot.",
-      "published_asr": "I do a lot.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p02.mp3",
+      "sha256": "assets/audio/segments/s07-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s07-p03",
       "text": "I enjoy team projects because I like sharing ideas with other people.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.084,
-      "raw_duration_seconds": 4.16,
-      "asr": "I enjoy team projects because I like sharing ideas with other people.",
-      "published_asr": "I enjoy team projects because I like sharing ideas with other people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p03.mp3",
+      "sha256": "assets/audio/segments/s07-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s07-p04",
       "text": "Of course, team activities aren't always easy.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Of course, team activities aren't always easy.",
-      "published_asr": "Of course, team activities aren't always easy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p04.mp3",
+      "sha256": "assets/audio/segments/s07-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s07-p05",
       "text": "You need to know how to work well together.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "You need to know how to work well together.",
-      "published_asr": "You need to know how to work well together.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p05.mp3",
+      "sha256": "assets/audio/segments/s07-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s07-p06",
       "text": "Here are some suggestions to make team work easier.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Here are some suggestions to make teamwork easier.",
-      "published_asr": "Here are some suggestions to make teamwork easier.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p06.mp3",
+      "sha256": "assets/audio/segments/s07-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s07-p07",
       "text": "Know the goals.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "Know the goals.",
-      "published_asr": "Know the goals.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p07.mp3",
+      "sha256": "assets/audio/segments/s07-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s07-p08",
       "text": "Make sure everyone understands the goal of the project.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Make sure everyone understands the goal of the project.",
-      "published_asr": "Make sure everyone understands the goal of the project.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p08.mp3",
+      "sha256": "assets/audio/segments/s07-p08.mp3"
     },
     {
-      "id": 9,
-      "text": "If you're doing a class project, you need to check the teacher's instructions carefully and use a dictionary to help make everything clear.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 11.021,
-      "raw_duration_seconds": 7.52,
-      "asr": "If you're doing a class project, you need to check the teacher's instructions carefully and use a dictionary to help make everything clear.",
-      "published_asr": "If you're doing a class project, you need to check the teacher's instructions carefully and use a dictionary to help make everything clear.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s07-p09-01",
+      "text": "If you're doing a class project,",
+      "audio": "assets/audio/segments/s07-p09-01.mp3",
+      "sha256": "assets/audio/segments/s07-p09-01.mp3"
     },
     {
-      "id": 10,
+      "id": "s07-p09-02",
+      "text": "you need to check the teacher's instructions carefully and use a dictionary to help make everything clear.",
+      "audio": "assets/audio/segments/s07-p09-02.mp3",
+      "sha256": "assets/audio/segments/s07-p09-02.mp3"
+    },
+    {
+      "id": "s07-p10",
       "text": "There's a popular saying: If you don't know where you're going, you probably won't get there.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "There's a popular saying, if you don't know where you're going, you probably won't get there.",
-      "published_asr": "There's a popular saying if you don't know where you're going you probably won't get there",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p10.mp3",
+      "sha256": "assets/audio/segments/s07-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s07-p11",
       "text": "Assign roles.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "Assign roles.",
-      "published_asr": "Assign roles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p11.mp3",
+      "sha256": "assets/audio/segments/s07-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s07-p12",
       "text": "Everyone should have a role in the team.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Everyone should have a role in the team.",
-      "published_asr": "Everyone should have a role in the team.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p12.mp3",
+      "sha256": "assets/audio/segments/s07-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s07-p13",
       "text": "There should be a leader who helps everyone make decisions.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.144,
-      "raw_duration_seconds": 3.52,
-      "asr": "There should be a leader who helps everyone make decisions.",
-      "published_asr": "There should be a leader who helps everyone make decisions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p13.mp3",
+      "sha256": "assets/audio/segments/s07-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s07-p14",
       "text": "There might be a note-taker who writes things down during meetings, and a timekeeper.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.79,
-      "raw_duration_seconds": 4.64,
-      "asr": "There might be a note-taker who writes things down during meetings and a timekeeper.",
-      "published_asr": "There might be a note taker who writes things down during meetings and a timekeeper.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p14.mp3",
+      "sha256": "assets/audio/segments/s07-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s07-p15",
       "text": "There might also be a group speaker.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "There might also be a group speaker.",
-      "published_asr": "There might also be a group speaker.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p15.mp3",
+      "sha256": "assets/audio/segments/s07-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s07-p16",
       "text": "Divide the work.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 2.081,
-      "raw_duration_seconds": 1.44,
-      "asr": "Divide the work.",
-      "published_asr": "Divide the work.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p16.mp3",
+      "sha256": "assets/audio/segments/s07-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s07-p17",
       "text": "For large projects, the work can be divided into smaller tasks.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.614,
-      "raw_duration_seconds": 3.84,
-      "asr": "For large projects, the work can be divided into smaller tasks.",
-      "published_asr": "For large projects, the work can be divided into smaller tasks.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p17.mp3",
+      "sha256": "assets/audio/segments/s07-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s07-p18",
       "text": "Then you can choose tasks that you do well.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "then you can choose tasks that you do well.",
-      "published_asr": "then you can choose tasks that you do well.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p18.mp3",
+      "sha256": "assets/audio/segments/s07-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s07-p19",
       "text": "Of course, you shouldn't always do the same task, even if the new ones are difficult.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Of course, you shouldn't always do the same task, even if the new ones are difficult.",
-      "published_asr": "Of course, you shouldn't always do the same task, even if the new ones are difficult.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p19.mp3",
+      "sha256": "assets/audio/segments/s07-p19.mp3"
     },
     {
-      "id": 20,
-      "text": "Encourage each member to use their talents and try to assign a partner to each person, so that somebody can help if anyone is struggling.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "Encourage each member to use their talents and try to assign a partner to each person, so that somebody can help if anyone is struggling.",
-      "published_asr": "Encourage each member to use their talents and try to assign a partner to each person, so that somebody can help if anyone is struggling.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s07-p20-01",
+      "text": "Encourage each member to use their talents and try to assign a partner to each person,",
+      "audio": "assets/audio/segments/s07-p20-01.mp3",
+      "sha256": "assets/audio/segments/s07-p20-01.mp3"
     },
     {
-      "id": 21,
+      "id": "s07-p20-02",
+      "text": "so that somebody can help if anyone is struggling.",
+      "audio": "assets/audio/segments/s07-p20-02.mp3",
+      "sha256": "assets/audio/segments/s07-p20-02.mp3"
+    },
+    {
+      "id": "s07-p21",
       "text": "Make a plan.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 2.086,
-      "raw_duration_seconds": 1.44,
-      "asr": "Make a plan.",
-      "published_asr": "Make a plan.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p21.mp3",
+      "sha256": "assets/audio/segments/s07-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s07-p22",
       "text": "After you divide the work, write down a plan on paper.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "After you divide the work, write down a plan on paper.",
-      "published_asr": "After you divide the work, write down a plan on paper.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p22.mp3",
+      "sha256": "assets/audio/segments/s07-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s07-p23",
       "text": "You can use a calendar to help you.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "You can use a calendar to help you.",
-      "published_asr": "You can use a calendar to help you.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p23.mp3",
+      "sha256": "assets/audio/segments/s07-p23.mp3"
     },
     {
-      "id": 24,
+      "id": "s07-p24",
       "text": "List all the tasks and think about when each one must be finished.",
-      "file": "assets/audio/sentences/sentence-24.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "List all the tasks and think about when each one must be finished.",
-      "published_asr": "List all the tasks and think about when each one must be finished.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p24.mp3",
+      "sha256": "assets/audio/segments/s07-p24.mp3"
     },
     {
-      "id": 25,
+      "id": "s07-p25",
       "text": "It's important for everyone to follow the plan.",
-      "file": "assets/audio/sentences/sentence-25.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "It's important for everyone to follow the plan.",
-      "published_asr": "It's important for everyone to follow the plan.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p25.mp3",
+      "sha256": "assets/audio/segments/s07-p25.mp3"
     },
     {
-      "id": 26,
+      "id": "s07-p26",
       "text": "Please communicate via email to keep everyone updated.",
-      "file": "assets/audio/sentences/sentence-26.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Please communicate via email to keep everyone updated.",
-      "published_asr": "Please communicate via email to keep everyone updated.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p26.mp3",
+      "sha256": "assets/audio/segments/s07-p26.mp3"
     },
     {
-      "id": 27,
+      "id": "s07-p27",
       "text": "And don't forget to always cheer each other on.",
-      "file": "assets/audio/sentences/sentence-27.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "and don't forget to always cheer each other on.",
-      "published_asr": "and don't forget to always cheer each other on.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s07-p27.mp3",
+      "sha256": "assets/audio/segments/s07-p27.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 27,
-    "raw_asr_exact_count": 27,
-    "published_asr_exact_count": 27,
-    "word_count": 146,
-    "word_accepted_count": 146,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

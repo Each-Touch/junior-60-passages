@@ -1,290 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s43-p01",
       "text": "After it rains, we put away our umbrellas.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "After it rains, we put away our umbrellas.",
-      "published_asr": "After it rains, we put away our umbrellas.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p01.mp3",
+      "sha256": "assets/audio/segments/s43-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s43-p02",
       "text": "Then we may see rainbows in the sky above us.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.69,
-      "raw_duration_seconds": 3.2,
-      "asr": "Then we may see rainbows in the sky above us.",
-      "published_asr": "Then we may see rainbows in the sky above us.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p02.mp3",
+      "sha256": "assets/audio/segments/s43-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s43-p03",
       "text": "The conditions need to be just right to see a rainbow.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.669,
-      "raw_duration_seconds": 3.2,
-      "asr": "The conditions need to be just right to see a rainbow.",
-      "published_asr": "The conditions need to be just right to see a rainbow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p03.mp3",
+      "sha256": "assets/audio/segments/s43-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s43-p04",
       "text": "We need some water drops in the air, like rain, fog or clouds.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "We need some water drops in the air, like rain, fog or clouds.",
-      "published_asr": "We need some water drops in the air like rain fog or clouds",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p04.mp3",
+      "sha256": "assets/audio/segments/s43-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s43-p05",
       "text": "And we need the sun to be behind us and low to the ground, which often happens in the autumn.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "and we need the sun to be behind us and low to the ground, which often happens in the autumn.",
-      "published_asr": "and we need the sun to be behind us and low to the ground, which often happens in the autumn.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p05.mp3",
+      "sha256": "assets/audio/segments/s43-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s43-p06",
       "text": "Because a rainbow is created by light passing through water drops.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "because a rainbow is created by light passing through water drops.",
-      "published_asr": "Because a rainbow is created by light passing through water drops.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p06.mp3",
+      "sha256": "assets/audio/segments/s43-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s43-p07",
       "text": "As the name suggests, rainbows are supposed to be the shape of a bow.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "As the name suggests, rainbows are supposed to be the shape of a bow.",
-      "published_asr": "As the name suggests, rainbows are supposed to be the shape of a bow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p07.mp3",
+      "sha256": "assets/audio/segments/s43-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s43-p08",
       "text": "Neither the sun nor the water drops are the same every time, so each rainbow is unique.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "Neither the sun nor the water drops are the same every time, so each rainbow is unique.",
-      "published_asr": "Neither the sun nor the water drops are the same every time, so each rainbow is unique.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p08.mp3",
+      "sha256": "assets/audio/segments/s43-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s43-p09",
       "text": "Rainbows could also look like some colourful smoke.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.449,
-      "raw_duration_seconds": 3.04,
-      "asr": "Rainbows could also look like some colorful smoke.",
-      "published_asr": "Rainbows could also look like some colorful smoke.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p09.mp3",
+      "sha256": "assets/audio/segments/s43-p09.mp3"
     },
     {
-      "id": 10,
-      "text": "The light that comes from the sun seems white to us, but the white light is actually a mix of different colours.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "The light that comes from the sun seems white to us, but the white light is actually a mix of different colors.",
-      "published_asr": "The light that comes from the sun seems white to us, but the white light is actually a mix of different colors.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s43-p10-01",
+      "text": "The light that comes from the sun seems white to us,",
+      "audio": "assets/audio/segments/s43-p10-01.mp3",
+      "sha256": "assets/audio/segments/s43-p10-01.mp3"
     },
     {
-      "id": 11,
+      "id": "s43-p10-02",
+      "text": "but the white light is actually a mix of different colours.",
+      "audio": "assets/audio/segments/s43-p10-02.mp3",
+      "sha256": "assets/audio/segments/s43-p10-02.mp3"
+    },
+    {
+      "id": "s43-p11",
       "text": "When the light goes through a raindrop, these colours can separate out.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "When the light goes through a raindrop, these colors can separate out.",
-      "published_asr": "When the light goes through a raindrop, these colors can separate out.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p11.mp3",
+      "sha256": "assets/audio/segments/s43-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s43-p12",
       "text": "Raindrops look like little balls.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "Raindrops look like little balls.",
-      "published_asr": "Raindrops look like little balls.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p12.mp3",
+      "sha256": "assets/audio/segments/s43-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s43-p13",
       "text": "When light hits one of these little balls, it changes direction.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.631,
-      "raw_duration_seconds": 3.84,
-      "asr": "When light hits one of these little balls, it changes direction.",
-      "published_asr": "When light hits one of these little balls, it changes direction.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p13.mp3",
+      "sha256": "assets/audio/segments/s43-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s43-p14",
       "text": "We call this refraction.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "We call this refraction.",
-      "published_asr": "We call this refraction.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p14.mp3",
+      "sha256": "assets/audio/segments/s43-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s43-p15",
       "text": "Lights of different wavelengths are refracted differently, so they are separated out into different colours.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 8.22,
-      "raw_duration_seconds": 5.6,
-      "asr": "Lights of different wavelengths are refracted differently, so they are separated out into different colors.",
-      "published_asr": "Lights of different wavelengths are refracted differently, so they are separated out into different colors.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p15.mp3",
+      "sha256": "assets/audio/segments/s43-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s43-p16",
       "text": "In a rainbow, there are seven colours arranged in a row: red, orange, yellow, green, blue, indigo and violet.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 15.98,
-      "raw_duration_seconds": 10.88,
-      "asr": "In a rainbow, there are seven colors arranged in a row. Red, orange, yellow, green, blue, indigo and violet.",
-      "published_asr": "In a rainbow, there are seven colors arranged in a row. Red, orange, yellow, green, blue, indigo and violet.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p16.mp3",
+      "sha256": "assets/audio/segments/s43-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s43-p17",
       "text": "While colours like brown and pink are not usually seen.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "while colors like brown and pink are not usually seen.",
-      "published_asr": "while colors like brown and pink are not usually seen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p17.mp3",
+      "sha256": "assets/audio/segments/s43-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s43-p18",
       "text": "And we would never see black and white in a rainbow.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "and we would never see black and white in a rainbow.",
-      "published_asr": "and we would never see black and white in a rainbow.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p18.mp3",
+      "sha256": "assets/audio/segments/s43-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s43-p19",
       "text": "Black is what we see when there's no light, while white is a mix of all the colours together.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Black is what we see when there's no light, while white is a mix of all the colors together.",
-      "published_asr": "Black is what we see when there's no light, while white is a mix of all the colors together.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p19.mp3",
+      "sha256": "assets/audio/segments/s43-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s43-p20",
       "text": "The science of rainbows is fascinating.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "The science of rainbows is fascinating.",
-      "published_asr": "The science of rainbows is fascinating.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p20.mp3",
+      "sha256": "assets/audio/segments/s43-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s43-p21",
       "text": "Even on a busy weekday, we should look up to the sky.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Even on a busy weekday, we should look up to the sky.",
-      "published_asr": "Even on a busy weekday, we should look up to the sky.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p21.mp3",
+      "sha256": "assets/audio/segments/s43-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s43-p22",
       "text": "It's an easy way to appreciate the beauty of nature.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 4.904,
-      "raw_duration_seconds": 3.36,
-      "asr": "It's an easy way to appreciate the beauty of nature.",
-      "published_asr": "It's an easy way to appreciate the beauty of nature.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s43-p22.mp3",
+      "sha256": "assets/audio/segments/s43-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 145,
-    "word_accepted_count": 145,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

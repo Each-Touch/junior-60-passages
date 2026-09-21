@@ -1,230 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s09-p01",
       "text": "The scientific method is used for experiments you do in the classroom.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "The scientific method is used for experiments you do in the classroom.",
-      "published_asr": "The scientific method is used for experiments you do in the classroom.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p01.mp3",
+      "sha256": "assets/audio/segments/s09-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s09-p02",
       "text": "For example, you blow up a balloon to see how its size changes or use a candle to explore how different materials burn.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 10.551,
-      "raw_duration_seconds": 7.2,
-      "asr": "For example, you blow up a balloon to see how its size changes, or use a candle to explore how different materials burn.",
-      "published_asr": "For example, you blow up a balloon to see how its size changes, or use a candle to explore how different materials burn.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p02.mp3",
+      "sha256": "assets/audio/segments/s09-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s09-p03",
       "text": "Scientists all over the world use their background knowledge to do experiments, too.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Scientists all over the world use their background knowledge to do experiments too.",
-      "published_asr": "Scientists all over the world use their background knowledge to do experiments too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p03.mp3",
+      "sha256": "assets/audio/segments/s09-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s09-p04",
       "text": "It is a way to avoid drawing conclusions that aren't correct.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "It is a way to avoid drawing conclusions that aren't correct.",
-      "published_asr": "It is a way to avoid drawing conclusions that aren't correct.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p04.mp3",
+      "sha256": "assets/audio/segments/s09-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s09-p05",
       "text": "There are usually four steps in the scientific method, including observation, hypothesis, experiment, and conclusion.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 11.268,
-      "raw_duration_seconds": 7.68,
-      "asr": "There are usually four steps in the scientific method, including observation, hypothesis, experiment, and conclusion.",
-      "published_asr": "There are usually four steps in the scientific method including observation, hypothesis, experiment, and conclusion.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p05.mp3",
+      "sha256": "assets/audio/segments/s09-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "These may not always be completed in the same order, but the first step is usually to ask a question about your observation.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "These may not always be completed in the same order, but the first step is usually to ask a question about your observation.",
-      "published_asr": "These may not always be completed in the same order, but the first step is usually to ask a question about your observation.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s09-p06-01",
+      "text": "These may not always be completed in the same order,",
+      "audio": "assets/audio/segments/s09-p06-01.mp3",
+      "sha256": "assets/audio/segments/s09-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s09-p06-02",
+      "text": "but the first step is usually to ask a question about your observation.",
+      "audio": "assets/audio/segments/s09-p06-02.mp3",
+      "sha256": "assets/audio/segments/s09-p06-02.mp3"
+    },
+    {
+      "id": "s09-p07",
       "text": "You might organise your notes on a desk to make sure that the central idea remains focused.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "You might organize your notes on a desk to make sure that the central idea remains focused.",
-      "published_asr": "You might organize your notes on a desk to make sure that the central idea remains focused.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p07.mp3",
+      "sha256": "assets/audio/segments/s09-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s09-p08",
       "text": "The second step is to state a possible answer to the question.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "The second step is to state a possible answer to the question.",
-      "published_asr": "The second step is to state a possible answer to the question.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p08.mp3",
+      "sha256": "assets/audio/segments/s09-p08.mp3"
     },
     {
-      "id": 9,
-      "text": "A good hypothesis includes three things: the explanation for the observations, it is able to be tested, and it will usually predict new outcomes.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 15.018,
-      "raw_duration_seconds": 10.24,
-      "asr": "A good hypothesis includes three things. The explanation for the observations. It is able to be tested, and it will usually predict new outcomes.",
-      "published_asr": "A good hypothesis includes three things. The explanation for the observations. It is able to be tested, and it will usually predict new outcomes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s09-p09-01",
+      "text": "A good hypothesis includes three things: the explanation for the observations,",
+      "audio": "assets/audio/segments/s09-p09-01.mp3",
+      "sha256": "assets/audio/segments/s09-p09-01.mp3"
     },
     {
-      "id": 10,
+      "id": "s09-p09-02",
+      "text": "it is able to be tested,",
+      "audio": "assets/audio/segments/s09-p09-02.mp3",
+      "sha256": "assets/audio/segments/s09-p09-02.mp3"
+    },
+    {
+      "id": "s09-p09-03",
+      "text": "and it will usually predict new outcomes.",
+      "audio": "assets/audio/segments/s09-p09-03.mp3",
+      "sha256": "assets/audio/segments/s09-p09-03.mp3"
+    },
+    {
+      "id": "s09-p10",
       "text": "The third step is the experiment, a test which will either challenge or support your guess.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.437,
-      "raw_duration_seconds": 5.76,
-      "asr": "The third step is the experiment, a test which will either challenge or support your guess.",
-      "published_asr": "The third step is the experiment, a test which will either challenge or support your guess.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p10.mp3",
+      "sha256": "assets/audio/segments/s09-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s09-p11",
       "text": "The hypothesis will then be proved true or false.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.688,
-      "raw_duration_seconds": 3.2,
-      "asr": "The hypothesis will then be proved true or false.",
-      "published_asr": "The hypothesis will then be proved true or false.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p11.mp3",
+      "sha256": "assets/audio/segments/s09-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s09-p12",
       "text": "The final step is to think about what happened.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 4.196,
-      "raw_duration_seconds": 2.88,
-      "asr": "The final step is to think about what happened.",
-      "published_asr": "The final step is to think about what happened.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p12.mp3",
+      "sha256": "assets/audio/segments/s09-p12.mp3"
     },
     {
-      "id": 13,
-      "text": "If the results support the hypothesis, a conclusion can be written, and you can share it with the rest of the world, probably by publishing it on a website.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 12.453,
-      "raw_duration_seconds": 8.48,
-      "asr": "If the results support the hypothesis, a conclusion can be written and you can share it with the rest of the world, probably by publishing it on a website.",
-      "published_asr": "If the results support the hypothesis, a conclusion can be written, and you can share it with the rest of the world, probably by publishing it on a website.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s09-p13-01",
+      "text": "If the results support the hypothesis, a conclusion can be written,",
+      "audio": "assets/audio/segments/s09-p13-01.mp3",
+      "sha256": "assets/audio/segments/s09-p13-01.mp3"
     },
     {
-      "id": 14,
+      "id": "s09-p13-02",
+      "text": "and you can share it with the rest of the world,",
+      "audio": "assets/audio/segments/s09-p13-02.mp3",
+      "sha256": "assets/audio/segments/s09-p13-02.mp3"
+    },
+    {
+      "id": "s09-p13-03",
+      "text": "probably by publishing it on a website.",
+      "audio": "assets/audio/segments/s09-p13-03.mp3",
+      "sha256": "assets/audio/segments/s09-p13-03.mp3"
+    },
+    {
+      "id": "s09-p14",
       "text": "This allows anybody interested in the field to learn from your work.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "This allows anybody interested in the field to learn from your work.",
-      "published_asr": "This allows anybody interested in the field to learn from your work.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p14.mp3",
+      "sha256": "assets/audio/segments/s09-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s09-p15",
       "text": "Then they could conduct their own research anywhere in the world.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Then they could conduct their own research anywhere in the world.",
-      "published_asr": "Then they could conduct their own research anywhere in the world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p15.mp3",
+      "sha256": "assets/audio/segments/s09-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s09-p16",
       "text": "So don't forget to check your grammar to present your findings clearly.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "So don't forget to check your grammar to present your findings clearly.",
-      "published_asr": "So don't forget to check your grammar to present your findings clearly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p16.mp3",
+      "sha256": "assets/audio/segments/s09-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s09-p17",
       "text": "If the hypothesis is not supported, you may write a new hypothesis based on the results.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 8.212,
-      "raw_duration_seconds": 5.6,
-      "asr": "If the hypothesis is not supported, you may write a new hypothesis based on the results.",
-      "published_asr": "If the hypothesis is not supported, you may write a new hypothesis based on the results.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s09-p17.mp3",
+      "sha256": "assets/audio/segments/s09-p17.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 17,
-    "raw_asr_exact_count": 17,
-    "published_asr_exact_count": 17,
-    "word_count": 150,
-    "word_accepted_count": 150,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,230 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s24-p01",
       "text": "Body confidence is when someone accepts and behaves kindly towards their body.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "Body confidence is when someone accepts and behaves kindly towards their body.",
-      "published_asr": "Body confidence is when someone accepts and behaves kindly towards their body.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p01.mp3",
+      "sha256": "assets/audio/segments/s24-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s24-p02",
       "text": "That includes our size and shape, skin colour, appearance and any physical disabilities.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "That includes our size and shape, skin color, appearance and any physical disabilities.",
-      "published_asr": "That includes our size and shape, skin color, appearance and any physical disabilities.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p02.mp3",
+      "sha256": "assets/audio/segments/s24-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s24-p03",
       "text": "Jade Parnell from the Centre for Appearance Research says that having body confidence is about being accepting of your body and what it does for you.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 12.66,
-      "raw_duration_seconds": 8.64,
-      "asr": "Jade Parnell from the Center for Appearance Research says that having body confidence is about being accepting of your body and what it does for you.",
-      "published_asr": "Jade Parnell from the Center for Appearance Research says that having body confidence is about being accepting of your body and what it does for you.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p03.mp3",
+      "sha256": "assets/audio/segments/s24-p03.mp3"
     },
     {
-      "id": 4,
-      "text": "If you feel positively about your body, you are more likely to take part in activities and perform well in school.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 9.611,
-      "raw_duration_seconds": 6.56,
-      "asr": "If you feel positively about your body, you are more likely to take part in activities and perform well in school.",
-      "published_asr": "If you feel positively about your body, you are more likely to take part in activities and perform well in school.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s24-p04-01",
+      "text": "If you feel positively about your body,",
+      "audio": "assets/audio/segments/s24-p04-01.mp3",
+      "sha256": "assets/audio/segments/s24-p04-01.mp3"
     },
     {
-      "id": 5,
+      "id": "s24-p04-02",
+      "text": "you are more likely to take part in activities and perform well in school.",
+      "audio": "assets/audio/segments/s24-p04-02.mp3",
+      "sha256": "assets/audio/segments/s24-p04-02.mp3"
+    },
+    {
+      "id": "s24-p05",
       "text": "However, a sense of body shame could make you step back, do less well at school and even feel down.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 8.91,
-      "raw_duration_seconds": 6.08,
-      "asr": "However, a sense of body shame could make you step back, do less well at school, and even feel down.",
-      "published_asr": "However, a sense of body shame could make you step back, do less well at school, and even feel down.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p05.mp3",
+      "sha256": "assets/audio/segments/s24-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s24-p06",
       "text": "The cost of trying to achieve the perfect appearance is high and not worth the effort.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.799,
-      "raw_duration_seconds": 4.64,
-      "asr": "The cost of trying to achieve the perfect appearance is high and not worth the effort.",
-      "published_asr": "The cost of trying to achieve the perfect appearance is high and not worth the effort.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p06.mp3",
+      "sha256": "assets/audio/segments/s24-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s24-p07",
       "text": "Nobody is ever perfect.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.028,
-      "raw_duration_seconds": 2.08,
-      "asr": "Nobody is ever perfect.",
-      "published_asr": "Nobody is ever perfect.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p07.mp3",
+      "sha256": "assets/audio/segments/s24-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s24-p08",
       "text": "Even those who seem handsome or beautiful have things they hate about themselves.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.093,
-      "raw_duration_seconds": 4.16,
-      "asr": "Even those who seem handsome or beautiful have things they hate about themselves.",
-      "published_asr": "Even those who seem handsome or beautiful have things they hate about themselves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p08.mp3",
+      "sha256": "assets/audio/segments/s24-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s24-p09",
       "text": "Parnell says, \"If you're always trying to look a certain way, you will have less time to make important memories.\"",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 8.442,
-      "raw_duration_seconds": 5.76,
-      "asr": "Parnell says, if you're always trying to look a certain way, you will have less time to make important memories.",
-      "published_asr": "Parnell says, if you're always trying to look a certain way, you will have less time to make important memories.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p09.mp3",
+      "sha256": "assets/audio/segments/s24-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s24-p10",
       "text": "It's important to realise that everybody is different, and we all belong to this society.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "It's important to realize that everybody is different, and we all belong to this society.",
-      "published_asr": "It's important to realize that everybody is different, and we all belong to this society.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p10.mp3",
+      "sha256": "assets/audio/segments/s24-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s24-p11",
       "text": "To develop a positive body image, Parnell says, \"Try not to pay too much attention to the clothes you wear.\"",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "To develop a positive body image, Parnell says, Try not to pay too much attention to the clothes you wear.",
-      "published_asr": "To develop a positive body image, Parnell says, Try not to pay too much attention to the clothes you wear.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p11.mp3",
+      "sha256": "assets/audio/segments/s24-p11.mp3"
     },
     {
-      "id": 12,
-      "text": "Of course you can express your personal fashion, whether you prefer shirts and shorts, or something more classic like a suit.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 10.33,
-      "raw_duration_seconds": 7.04,
-      "asr": "Of course you can express your personal fashion, whether you prefer shirts and shorts, or something more classic like a suit.",
-      "published_asr": "Of course you can express your personal fashion, whether you prefer shirts and shorts, or something more classic like a suit.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s24-p12-01",
+      "text": "Of course you can express your personal fashion,",
+      "audio": "assets/audio/segments/s24-p12-01.mp3",
+      "sha256": "assets/audio/segments/s24-p12-01.mp3"
     },
     {
-      "id": 13,
+      "id": "s24-p12-02",
+      "text": "whether you prefer shirts and shorts,",
+      "audio": "assets/audio/segments/s24-p12-02.mp3",
+      "sha256": "assets/audio/segments/s24-p12-02.mp3"
+    },
+    {
+      "id": "s24-p12-03",
+      "text": "or something more classic like a suit.",
+      "audio": "assets/audio/segments/s24-p12-03.mp3",
+      "sha256": "assets/audio/segments/s24-p12-03.mp3"
+    },
+    {
+      "id": "s24-p13",
       "text": "But you may also think about what your body does for you.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "But you may also think about what your body does for you.",
-      "published_asr": "but you may also think about what your body does for you.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p13.mp3",
+      "sha256": "assets/audio/segments/s24-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s24-p14",
       "text": "Do your legs make you run really fast?",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Do your legs make you run really fast?",
-      "published_asr": "Do your legs make you run really fast?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p14.mp3",
+      "sha256": "assets/audio/segments/s24-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s24-p15",
       "text": "Are you good at sports like volleyball?",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.965,
-      "raw_duration_seconds": 2.72,
-      "asr": "Are you good at sports like volleyball?",
-      "published_asr": "Are you good at sports like volleyball?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p15.mp3",
+      "sha256": "assets/audio/segments/s24-p15.mp3"
     },
     {
-      "id": 16,
-      "text": "She also suggests treating your body well by doing training, having fun, going for a hike and getting plenty of sleep.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 10.551,
-      "raw_duration_seconds": 7.2,
-      "asr": "She also suggests treating your body well by doing training, having fun, going for a hike and getting plenty of sleep.",
-      "published_asr": "She also suggests treating your body well by doing training, having fun, going for a hike and getting plenty of sleep.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s24-p16-01",
+      "text": "She also suggests treating your body well by doing training, having fun,",
+      "audio": "assets/audio/segments/s24-p16-01.mp3",
+      "sha256": "assets/audio/segments/s24-p16-01.mp3"
     },
     {
-      "id": 17,
+      "id": "s24-p16-02",
+      "text": "going for a hike and getting plenty of sleep.",
+      "audio": "assets/audio/segments/s24-p16-02.mp3",
+      "sha256": "assets/audio/segments/s24-p16-02.mp3"
+    },
+    {
+      "id": "s24-p17",
       "text": "Remember that you are a lovely person no matter how you look.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.387,
-      "raw_duration_seconds": 3.68,
-      "asr": "Remember that you are a lovely person, no matter how you look.",
-      "published_asr": "Remember that you are a lovely person, no matter how you look.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s24-p17.mp3",
+      "sha256": "assets/audio/segments/s24-p17.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 17,
-    "raw_asr_exact_count": 17,
-    "published_asr_exact_count": 17,
-    "word_count": 158,
-    "word_accepted_count": 158,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,206 +1,110 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s47-p01",
       "text": "Squirrels are cute and interesting animals that can be found in many parts of the world.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.26,
-      "raw_duration_seconds": 4.96,
-      "asr": "Squirrels are cute and interesting animals that can be found in many parts of the world.",
-      "published_asr": "Squirrels are cute and interesting animals that can be found in many parts of the world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p01.mp3",
+      "sha256": "assets/audio/segments/s47-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s47-p02",
       "text": "They are known for their long tails, big teeth and the ability to climb trees.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "They are known for their long tails, big teeth and the ability to climb trees.",
-      "published_asr": "They are known for their long tails, big teeth and the ability to climb trees.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p02.mp3",
+      "sha256": "assets/audio/segments/s47-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s47-p03",
       "text": "They can jump up to about 3 metres in height, and they can run up to about 30 kilometres every hour.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "They can jump up to about 3 meters in height, and they can run up to about 30 kilometers every hour.",
-      "published_asr": "They can jump up to about 3 meters in height and they can run up to about 30 kilometers every hour.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p03.mp3",
+      "sha256": "assets/audio/segments/s47-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s47-p04",
       "text": "Squirrels have soft bodies.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "Squirrels have soft bodies.",
-      "published_asr": "Squirrels have soft bodies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p04.mp3",
+      "sha256": "assets/audio/segments/s47-p04.mp3"
     },
     {
-      "id": 5,
-      "text": "Their eyes are high on their small heads and are placed on each side, so they can see wide and far without having to turn around.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "Their eyes are high on their small heads and are placed on each side, so they can see wide and far without having to turn around.",
-      "published_asr": "Their eyes are high on their small heads and are placed on each side, so they can see wide and far without having to turn around.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s47-p05-01",
+      "text": "Their eyes are high on their small heads and are placed on each side,",
+      "audio": "assets/audio/segments/s47-p05-01.mp3",
+      "sha256": "assets/audio/segments/s47-p05-01.mp3"
     },
     {
-      "id": 6,
+      "id": "s47-p05-02",
+      "text": "so they can see wide and far without having to turn around.",
+      "audio": "assets/audio/segments/s47-p05-02.mp3",
+      "sha256": "assets/audio/segments/s47-p05-02.mp3"
+    },
+    {
+      "id": "s47-p06",
       "text": "This often helps them get out of danger from their enemies like foxes and wolves.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "This often helps them get out of danger from their enemies like foxes and wolves.",
-      "published_asr": "This often helps them get out of danger from their enemies like foxes and wolves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p06.mp3",
+      "sha256": "assets/audio/segments/s47-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s47-p07",
       "text": "Squirrels have four big teeth in the front of their mouth that keep growing all through their lives.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Squirrels have four big teeth in the front of their mouth that keep growing all through their lives.",
-      "published_asr": "Squirrels have four big teeth in the front of their mouth that keep growing all through their lives.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p07.mp3",
+      "sha256": "assets/audio/segments/s47-p07.mp3"
     },
     {
-      "id": 8,
-      "text": "They are known for their love of nuts, and they can eat as much food as their body weight each week.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "They are known for their love of nuts, and they can eat as much food as their body weight each week.",
-      "published_asr": "They are known for their love of nuts, and they can eat as much food as their body weight each week.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s47-p08-01",
+      "text": "They are known for their love of nuts,",
+      "audio": "assets/audio/segments/s47-p08-01.mp3",
+      "sha256": "assets/audio/segments/s47-p08-01.mp3"
     },
     {
-      "id": 9,
+      "id": "s47-p08-02",
+      "text": "and they can eat as much food as their body weight each week.",
+      "audio": "assets/audio/segments/s47-p08-02.mp3",
+      "sha256": "assets/audio/segments/s47-p08-02.mp3"
+    },
+    {
+      "id": "s47-p09",
       "text": "They often keep nuts in the ground for the long winter months.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "They often keep nuts in the ground for the long winter months.",
-      "published_asr": "They often keep nuts in the ground for the long winter months.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p09.mp3",
+      "sha256": "assets/audio/segments/s47-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s47-p10",
       "text": "Many people think that squirrels only eat nuts, but this isn't true.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.307,
-      "raw_duration_seconds": 4.32,
-      "asr": "Many people think that squirrels only eat nuts, but this isn't true.",
-      "published_asr": "Many people think that squirrels only eat nuts, but this isn't true.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p10.mp3",
+      "sha256": "assets/audio/segments/s47-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s47-p11",
       "text": "Their diet also includes plants, fruits, eggs, small animals and even young snakes.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "Their diet also includes plants, fruits, eggs, small animals and even young snakes.",
-      "published_asr": "Their diet also includes plants, fruits, eggs, small animals and even young snakes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p11.mp3",
+      "sha256": "assets/audio/segments/s47-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s47-p12",
       "text": "One funny thing is that squirrels are good at planting trees.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "One funny thing is that squirrels are good at planting trees.",
-      "published_asr": "One funny thing is that squirrels are good at planting trees.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p12.mp3",
+      "sha256": "assets/audio/segments/s47-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s47-p13",
       "text": "They hide the fruits of oak trees in the soil, but often forget where they put them.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.267,
-      "raw_duration_seconds": 4.96,
-      "asr": "They hide the fruits of oak trees in the soil, but often forget where they put them.",
-      "published_asr": "They hide the fruits of oak trees in the soil, but often forget where they put them.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p13.mp3",
+      "sha256": "assets/audio/segments/s47-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s47-p14",
       "text": "In the end, the forgotten fruits become big trees.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "In the end, the forgotten fruits become big trees.",
-      "published_asr": "In the end, the forgotten fruits become big trees.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p14.mp3",
+      "sha256": "assets/audio/segments/s47-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s47-p15",
       "text": "Sometimes we even find them in our yards.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Sometimes we even find them in our yards.",
-      "published_asr": "Sometimes we even find them in our yards.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s47-p15.mp3",
+      "sha256": "assets/audio/segments/s47-p15.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 15,
-    "raw_asr_exact_count": 15,
-    "published_asr_exact_count": 15,
-    "word_count": 124,
-    "word_accepted_count": 124,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,230 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s29-p01",
       "text": "When Albert Einstein was 16 years old, he imagined himself riding alongside a beam of light.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "When Albert Einstein was 16 years old, he imagined himself riding alongside a beam of light.",
-      "published_asr": "When Albert Einstein was 16 years old, he imagined himself riding alongside a beam of light.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p01.mp3",
+      "sha256": "assets/audio/segments/s29-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s29-p02",
       "text": "He used this picture in mind to help him when working out the theory of relativity.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 6.099,
-      "raw_duration_seconds": 4.16,
-      "asr": "He used this picture in mind to help him when working out the theory of relativity.",
-      "published_asr": "He used this picture in mind to help him when working out the theory of relativity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p02.mp3",
+      "sha256": "assets/audio/segments/s29-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s29-p03",
       "text": "Daydreaming, called Thought Experiments by Einstein, can make you have wild imaginings.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 7.742,
-      "raw_duration_seconds": 5.28,
-      "asr": "Daydreaming, called Thought Experiments by Einstein, can make you have wild imaginings.",
-      "published_asr": "Daydreaming, called Thought Experiments by Einstein, can make you have wild imaginings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p03.mp3",
+      "sha256": "assets/audio/segments/s29-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s29-p04",
       "text": "We can imagine different landscapes, like mountains and forests.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "We can imagine different landscapes, like mountains and forests.",
-      "published_asr": "We can imagine different landscapes, like mountains and forests.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p04.mp3",
+      "sha256": "assets/audio/segments/s29-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s29-p05",
       "text": "It lets your mind walk slowly around things that aren't happening right now.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "It lets your mind walk slowly around things that aren't happening right now.",
-      "published_asr": "It lets your mind walk slowly around things that aren't happening right now.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p05.mp3",
+      "sha256": "assets/audio/segments/s29-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s29-p06",
       "text": "It means thinking ahead to a holiday or a birthday party.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "It means thinking ahead to a holiday or a birthday party.",
-      "published_asr": "It means thinking ahead to a holiday or a birthday party.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p06.mp3",
+      "sha256": "assets/audio/segments/s29-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s29-p07",
       "text": "Disappearing into a daydream lets your mind escape when things are difficult.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Disappearing into a daydream lets your mind escape when things are difficult.",
-      "published_asr": "Disappearing into a daydream lets your mind escape when things are difficult.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p07.mp3",
+      "sha256": "assets/audio/segments/s29-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s29-p08",
       "text": "It helps you deal with worries and fears.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "It helps you deal with worries and fears.",
-      "published_asr": "It helps you deal with worries and fears.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p08.mp3",
+      "sha256": "assets/audio/segments/s29-p08.mp3"
     },
     {
-      "id": 9,
-      "text": "For example, imagining how you're going to speak up in class is like practising the scene in your head, which can make you feel calmer.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 10.551,
-      "raw_duration_seconds": 7.2,
-      "asr": "For example, imagining how you're going to speak up in class is like practicing the scene in your head, which can make you feel calmer.",
-      "published_asr": "For example, imagining how you're going to speak up in class is like practicing the scene in your head, which can make you feel calmer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s29-p09-01",
+      "text": "For example, imagining how you're going to speak up in class is like practising the scene in your head,",
+      "audio": "assets/audio/segments/s29-p09-01.mp3",
+      "sha256": "assets/audio/segments/s29-p09-01.mp3"
     },
     {
-      "id": 10,
+      "id": "s29-p09-02",
+      "text": "which can make you feel calmer.",
+      "audio": "assets/audio/segments/s29-p09-02.mp3",
+      "sha256": "assets/audio/segments/s29-p09-02.mp3"
+    },
+    {
+      "id": "s29-p10",
       "text": "Imagining graduating encourages you to work harder towards your learning goals.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.56,
-      "raw_duration_seconds": 4.48,
-      "asr": "Imagining graduating encourages you to work harder towards your learning goals.",
-      "published_asr": "Imagining graduating encourages you to work harder towards your learning goals.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p10.mp3",
+      "sha256": "assets/audio/segments/s29-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s29-p11",
       "text": "Reading literature also inspires our creativity in daydreaming.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "Reading literature also inspires our creativity in daydreaming.",
-      "published_asr": "Reading literature also inspires our creativity in daydreaming.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p11.mp3",
+      "sha256": "assets/audio/segments/s29-p11.mp3"
     },
     {
-      "id": 12,
-      "text": "When we picture ourselves as a princess or a queen wearing a beautiful dress, we let our minds wander in a fairy tale that brings us courage.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 12.197,
-      "raw_duration_seconds": 8.32,
-      "asr": "When we picture ourselves as a princess or a queen wearing a beautiful dress, we let our minds wander in a fairy tale that brings us courage.",
-      "published_asr": "When we picture ourselves as a princess or a queen wearing a beautiful dress, we let our minds wander in a fairy tale that brings us courage.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s29-p12-01",
+      "text": "When we picture ourselves as a princess or a queen wearing a beautiful dress,",
+      "audio": "assets/audio/segments/s29-p12-01.mp3",
+      "sha256": "assets/audio/segments/s29-p12-01.mp3"
     },
     {
-      "id": 13,
+      "id": "s29-p12-02",
+      "text": "we let our minds wander in a fairy tale that brings us courage.",
+      "audio": "assets/audio/segments/s29-p12-02.mp3",
+      "sha256": "assets/audio/segments/s29-p12-02.mp3"
+    },
+    {
+      "id": "s29-p13",
       "text": "Then we may pick up our pens to write our own paragraphs.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Then, we may pick up our pens to write our own paragraphs.",
-      "published_asr": "Then, we may pick up our pens to write our own paragraphs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p13.mp3",
+      "sha256": "assets/audio/segments/s29-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s29-p14",
       "text": "However, try not to let your mind be absent when you need to focus in class or cross the road.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "However, try not to let your mind be absent when you need to focus in class or cross the road.",
-      "published_asr": "However, try not to let your mind be absent when you need to focus in class or cross the road.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p14.mp3",
+      "sha256": "assets/audio/segments/s29-p14.mp3"
     },
     {
-      "id": 15,
-      "text": "Instead, find a time when you don't have to focus on anything, like going for a walk or brushing your teeth.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "Instead, find a time when you don't have to focus on anything, like going for a walk or brushing your teeth.",
-      "published_asr": "Instead, find a time when you don't have to focus on anything, like going for a walk or brushing your teeth.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s29-p15-01",
+      "text": "Instead, find a time when you don't have to focus on anything,",
+      "audio": "assets/audio/segments/s29-p15-01.mp3",
+      "sha256": "assets/audio/segments/s29-p15-01.mp3"
     },
     {
-      "id": 16,
-      "text": "Research shows that people often come up with more solutions to problems after daydreaming because it is similar to staying at a hotel, where we can take a break.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 12.681,
-      "raw_duration_seconds": 8.64,
-      "asr": "Research shows that people often come up with more solutions to problems after daydreaming, because it is similar to staying at a hotel, where we can take a break.",
-      "published_asr": "Research shows that people often come up with more solutions to problems after daydreaming because it is similar to staying at a hotel where we can take a break.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s29-p15-02",
+      "text": "like going for a walk or brushing your teeth.",
+      "audio": "assets/audio/segments/s29-p15-02.mp3",
+      "sha256": "assets/audio/segments/s29-p15-02.mp3"
     },
     {
-      "id": 17,
+      "id": "s29-p16-01",
+      "text": "Research shows that people often come up with more solutions to problems after daydreaming because it is similar to staying at a hotel,",
+      "audio": "assets/audio/segments/s29-p16-01.mp3",
+      "sha256": "assets/audio/segments/s29-p16-01.mp3"
+    },
+    {
+      "id": "s29-p16-02",
+      "text": "where we can take a break.",
+      "audio": "assets/audio/segments/s29-p16-02.mp3",
+      "sha256": "assets/audio/segments/s29-p16-02.mp3"
+    },
+    {
+      "id": "s29-p17",
       "text": "So next time you're stuck on homework, stop for a moment and see where your daydreams take you.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "So next time you're stuck on homework, stop for a moment and see where your daydreams take you.",
-      "published_asr": "So next time you're stuck on homework stop for a moment and see where your daydreams take you",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s29-p17.mp3",
+      "sha256": "assets/audio/segments/s29-p17.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 17,
-    "raw_asr_exact_count": 17,
-    "published_asr_exact_count": 17,
-    "word_count": 170,
-    "word_accepted_count": 170,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,182 +1,110 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s51-p01",
       "text": "A zero-waste life is a lifestyle that hardly creates any rubbish.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "A zero waste life is a lifestyle that hardly creates any rubbish.",
-      "published_asr": "A zero waste life is a lifestyle that hardly creates any rubbish.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p01.mp3",
+      "sha256": "assets/audio/segments/s51-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s51-p02",
       "text": "Zero waste was first suggested by a French woman called B. Johnson.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "Zero waste was first suggested by a French woman called B. Johnson.",
-      "published_asr": "Zero waste was first suggested by a French woman called B. Johnson.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p02.mp3",
+      "sha256": "assets/audio/segments/s51-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s51-p03",
       "text": "Her idea is to live a life and try not to create any rubbish.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Her idea is to live a life and try not to create any rubbish.",
-      "published_asr": "Her idea is to live a life and try not to create any rubbish.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p03.mp3",
+      "sha256": "assets/audio/segments/s51-p03.mp3"
     },
     {
-      "id": 4,
-      "text": "Use different kinds of ways to save the environment, such as stopping the use of one-off objects, giving unwanted things to others or donating these things to organisations like the Red Cross.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 15.495,
-      "raw_duration_seconds": 10.56,
-      "asr": "Use different kinds of ways to save the environment, such as stopping the use of one-off objects, giving unwanted things to others or donating these things to organizations like the Red Cross.",
-      "published_asr": "Use different kinds of ways to save the environment, such as stopping the use of one-off objects, giving unwanted things to others or donating these things to organizations like the Red Cross.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s51-p04-01",
+      "text": "Use different kinds of ways to save the environment,",
+      "audio": "assets/audio/segments/s51-p04-01.mp3",
+      "sha256": "assets/audio/segments/s51-p04-01.mp3"
     },
     {
-      "id": 5,
+      "id": "s51-p04-02",
+      "text": "such as stopping the use of one-off objects,",
+      "audio": "assets/audio/segments/s51-p04-02.mp3",
+      "sha256": "assets/audio/segments/s51-p04-02.mp3"
+    },
+    {
+      "id": "s51-p04-03",
+      "text": "giving unwanted things to others or donating these things to organisations like the Red Cross.",
+      "audio": "assets/audio/segments/s51-p04-03.mp3",
+      "sha256": "assets/audio/segments/s51-p04-03.mp3"
+    },
+    {
+      "id": "s51-p05",
       "text": "A zero-waste life follows the 6R rule—Refuse, Reduce, Reuse, Repair, Recycle and Rot.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "A zero-waste life follows the 6R rule. Refuse, Reduce, Reuse, Repair, Recycle and Rot.",
-      "published_asr": "A zero waste life follows the 6R rule, Refuse, Reduce, Reuse, Repair, Recycle and Rot.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p05.mp3",
+      "sha256": "assets/audio/segments/s51-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s51-p06",
       "text": "Chen Yuan, 27, is deeply interested in this idea.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 6.091,
-      "raw_duration_seconds": 4.16,
-      "asr": "Chen Yuan, 27, is deeply interested in this idea.",
-      "published_asr": "Chen Yuan, 27, is deeply interested in this idea.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p06.mp3",
+      "sha256": "assets/audio/segments/s51-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s51-p07",
       "text": "She and her boyfriend Joe have lived in Beijing for many years.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "She and her boyfriend Joe have lived in Beijing for many years.",
-      "published_asr": "She and her boyfriend Joe have lived in Beijing for many years.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p07.mp3",
+      "sha256": "assets/audio/segments/s51-p07.mp3"
     },
     {
-      "id": 8,
-      "text": "Over August-October when Chen followed the rule of zero waste 6R, she and her boyfriend both produced only two cans of rubbish.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 10.786,
-      "raw_duration_seconds": 7.36,
-      "asr": "Over August-October when Chen followed the rule of zero-waste 6R, she and her boyfriend both produced only two cans of rubbish.",
-      "published_asr": "Over August-October when Chen followed the rule of zero-waste 6R, she and her boyfriend both produced only two cans of rubbish.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s51-p08-01",
+      "text": "Over August-October when Chen followed the rule of zero waste 6R,",
+      "audio": "assets/audio/segments/s51-p08-01.mp3",
+      "sha256": "assets/audio/segments/s51-p08-01.mp3"
     },
     {
-      "id": 9,
-      "text": "Now the couple have opened a small shop in Beijing, where they use wood products to take the place of plastic ones and cloth bags printed with environmental logos.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 13.861,
-      "raw_duration_seconds": 9.44,
-      "asr": "Now the couple have opened a small shop in Beijing, where they use wood products to take the place of plastic ones and cloth bags printed with environmental logos.",
-      "published_asr": "Now the couple have opened a small shop in Beijing, where they use wood products to take the place of plastic ones and cloth bags printed with environmental logos.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s51-p08-02",
+      "text": "she and her boyfriend both produced only two cans of rubbish.",
+      "audio": "assets/audio/segments/s51-p08-02.mp3",
+      "sha256": "assets/audio/segments/s51-p08-02.mp3"
     },
     {
-      "id": 10,
+      "id": "s51-p09-01",
+      "text": "Now the couple have opened a small shop in Beijing,",
+      "audio": "assets/audio/segments/s51-p09-01.mp3",
+      "sha256": "assets/audio/segments/s51-p09-01.mp3"
+    },
+    {
+      "id": "s51-p09-02",
+      "text": "where they use wood products to take the place of plastic ones and cloth bags printed with environmental logos.",
+      "audio": "assets/audio/segments/s51-p09-02.mp3",
+      "sha256": "assets/audio/segments/s51-p09-02.mp3"
+    },
+    {
+      "id": "s51-p10",
       "text": "The store also has second-hand books and CDs to make the best of the used things.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "The store also has second-hand books and CDs to make the best of the used things.",
-      "published_asr": "The store also has second-hand books and CDs to make the best of the used things.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p10.mp3",
+      "sha256": "assets/audio/segments/s51-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s51-p11",
       "text": "The zero-waste lifestyle is not for ascetics. It is just around us.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "the zero-waste lifestyle is not for ascetics. It is just around us.",
-      "published_asr": "The zero-waste lifestyle is not for ascetics. It is just around us.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p11.mp3",
+      "sha256": "assets/audio/segments/s51-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s51-p12",
       "text": "Chen is devoting herself to the zero-waste lifestyle.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Chen is devoting herself to the zero-waste lifestyle.",
-      "published_asr": "Chen is devoting herself to the zero-waste lifestyle.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p12.mp3",
+      "sha256": "assets/audio/segments/s51-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s51-p13",
       "text": "She expects some of her friends to join her on the road to zero waste.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 5.849,
-      "raw_duration_seconds": 4,
-      "asr": "She expects some of her friends to join her on the road to Zero Waste.",
-      "published_asr": "She expects some of her friends to join her on the road to Zero Waste.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s51-p13.mp3",
+      "sha256": "assets/audio/segments/s51-p13.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 13,
-    "raw_asr_exact_count": 13,
-    "published_asr_exact_count": 13,
-    "word_count": 128,
-    "word_accepted_count": 128,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

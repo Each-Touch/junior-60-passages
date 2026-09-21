@@ -1,218 +1,116 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s36-p01",
       "text": "The dog days, also called sanfu tian in Chinese, refer to the hottest and most humid days of the year.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 9.861,
-      "raw_duration_seconds": 6.72,
-      "asr": "The dog days, also called sanfu tian in Chinese, refer to the hottest and most humid days of the year.",
-      "published_asr": "The dog days, also called sanfu tian in Chinese, refer to the hottest and most humid days of the year.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p01.mp3",
+      "sha256": "assets/audio/segments/s36-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s36-p02",
       "text": "This hottest period can be different from year to year.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "This hottest period can be different from year to year.",
-      "published_asr": "This hottest period can be different from year to year.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p02.mp3",
+      "sha256": "assets/audio/segments/s36-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s36-p03",
       "text": "It starts in July and lasts for about 30 to 40 days.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It starts in July and lasts for about 30 to 40 days.",
-      "published_asr": "It starts in July and lasts for about 30 to 40 days.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p03.mp3",
+      "sha256": "assets/audio/segments/s36-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s36-p04",
       "text": "It has three stages: chufu, zhongfu and mofu.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "It has three stages, Chu Fu, Zhong Fu, and Mo Fu.",
-      "published_asr": "It has three stages, Chu Fu, Zhong Fu, and Mo Fu.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p04.mp3",
+      "sha256": "assets/audio/segments/s36-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s36-p05",
       "text": "Zhongfu is usually the hottest of the three.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Zhongfu is usually the hottest of the three.",
-      "published_asr": "Zhongfu is usually the hottest of the three.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p05.mp3",
+      "sha256": "assets/audio/segments/s36-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s36-p06",
       "text": "Because of the high temperatures, people may feel uncomfortable and have a poor appetite.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.031,
-      "raw_duration_seconds": 4.8,
-      "asr": "Because of the high temperatures, people may feel uncomfortable and have a poor appetite.",
-      "published_asr": "Because of the high temperatures, people may feel uncomfortable and have a poor appetite.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p06.mp3",
+      "sha256": "assets/audio/segments/s36-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s36-p07",
       "text": "Some even get sick from eating too many cold foods, like ice cream, watermelons or cucumbers.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "Some even get sick from eating too many cold foods like ice cream, watermelons or cucumbers.",
-      "published_asr": "Some even get sick from eating too many cold foods, like ice cream, watermelons, or cucumbers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p07.mp3",
+      "sha256": "assets/audio/segments/s36-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s36-p08",
       "text": "What's more, too much onion can also upset the stomach during the dog days.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "What's more, too much onion can also upset the stomach during the dog days.",
-      "published_asr": "What's more, too much onion can also upset the stomach during the dog days.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p08.mp3",
+      "sha256": "assets/audio/segments/s36-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s36-p09",
       "text": "It is important to choose the proper foods during the dog days.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 5.383,
-      "raw_duration_seconds": 3.68,
-      "asr": "It is important to choose the proper foods during the dog days.",
-      "published_asr": "It is important to choose the proper foods during the dog days.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p09.mp3",
+      "sha256": "assets/audio/segments/s36-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s36-p10",
       "text": "Foods which are easy to digest and full of protein are good choices, such as vegetables, chicken, eggs, peanuts and tofu.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 11.978,
-      "raw_duration_seconds": 8.16,
-      "asr": "Foods which are easy to digest and full of protein are good choices, such as vegetables, chicken, eggs, peanuts and tofu.",
-      "published_asr": "Foods which are easy to digest and full of protein are good choices, such as vegetables, chicken, eggs, peanuts and tofu.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p10.mp3",
+      "sha256": "assets/audio/segments/s36-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s36-p11",
       "text": "It's better not to eat uncooked, cold or spicy foods.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.618,
-      "raw_duration_seconds": 3.84,
-      "asr": "It's better not to eat uncooked, cold, or spicy foods.",
-      "published_asr": "It's better not to eat uncooked, cold, or spicy foods.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p11.mp3",
+      "sha256": "assets/audio/segments/s36-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s36-p12",
       "text": "Besides choosing the proper foods, the taste of a dish is also important.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "Besides choosing the proper foods, the taste of a dish is also important.",
-      "published_asr": "Besides choosing the proper foods, the taste of a dish is also important.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p12.mp3",
+      "sha256": "assets/audio/segments/s36-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s36-p13",
       "text": "Sour taste can improve the appetite and bitter taste makes people feel refreshed.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "Sour taste can improve the appetite, and bitter taste makes people feel refreshed.",
-      "published_asr": "Sour taste can improve the appetite and bitter taste makes people feel refreshed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p13.mp3",
+      "sha256": "assets/audio/segments/s36-p13.mp3"
     },
     {
-      "id": 14,
-      "text": "For example, you can enhance the sour flavour by adding a squeeze of lemon, while fresh pepper can give flavour to the food without making it too spicy.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 11.962,
-      "raw_duration_seconds": 8.16,
-      "asr": "For example, you can enhance the sour flavor by adding a squeeze of lemon, while fresh pepper can give flavor to the food without making it too spicy.",
-      "published_asr": "For example, you can enhance the sour flavor by adding a squeeze of lemon, while fresh pepper can give flavor to the food without making it too spicy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s36-p14-01",
+      "text": "For example, you can enhance the sour flavour by adding a squeeze of lemon,",
+      "audio": "assets/audio/segments/s36-p14-01.mp3",
+      "sha256": "assets/audio/segments/s36-p14-01.mp3"
     },
     {
-      "id": 15,
+      "id": "s36-p14-02",
+      "text": "while fresh pepper can give flavour to the food without making it too spicy.",
+      "audio": "assets/audio/segments/s36-p14-02.mp3",
+      "sha256": "assets/audio/segments/s36-p14-02.mp3"
+    },
+    {
+      "id": "s36-p15",
       "text": "As a saying goes, 'Eating a chicken at the beginning of the dog days will keep you healthy for a whole year.'",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 9.14,
-      "raw_duration_seconds": 6.24,
-      "asr": "As a saying goes, eating a chicken at the beginning of the dog days will keep you healthy for a whole year.",
-      "published_asr": "As a saying goes, eating a chicken at the beginning of the dog days will keep you healthy for a whole year.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s36-p15.mp3",
+      "sha256": "assets/audio/segments/s36-p15.mp3"
     },
     {
-      "id": 16,
-      "text": "Therefore, as soon as the dog days arrive, it will be better for you to choose proper foods to keep healthy.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "Therefore, as soon as the dog days arrive, it will be better for you to choose proper foods to keep healthy.",
-      "published_asr": "Therefore, as soon as the dog days arrive, it will be better for you to choose proper foods to keep healthy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s36-p16-01",
+      "text": "Therefore, as soon as the dog days arrive,",
+      "audio": "assets/audio/segments/s36-p16-01.mp3",
+      "sha256": "assets/audio/segments/s36-p16-01.mp3"
+    },
+    {
+      "id": "s36-p16-02",
+      "text": "it will be better for you to choose proper foods to keep healthy.",
+      "audio": "assets/audio/segments/s36-p16-02.mp3",
+      "sha256": "assets/audio/segments/s36-p16-02.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 16,
-    "raw_asr_exact_count": 16,
-    "published_asr_exact_count": 16,
-    "word_count": 129,
-    "word_accepted_count": 129,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

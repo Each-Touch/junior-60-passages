@@ -1,302 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s16-p01",
       "text": "Asking for advice is not so easy.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.753,
-      "raw_duration_seconds": 2.56,
-      "asr": "Asking for advice is not so easy.",
-      "published_asr": "Asking for advice is not so easy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p01.mp3",
+      "sha256": "assets/audio/segments/s16-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s16-p02",
       "text": "In a recent study, 74% of people said they were afraid to ask for advice.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.25,
-      "raw_duration_seconds": 4.96,
-      "asr": "In a recent study, 74% of people said they were afraid to ask for advice.",
-      "published_asr": "In a recent study, 74% of people said they were afraid to ask for advice.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p02.mp3",
+      "sha256": "assets/audio/segments/s16-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s16-p03",
       "text": "The same also applies to case studies.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "The same also applies to case studies.",
-      "published_asr": "The same also applies to case studies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p03.mp3",
+      "sha256": "assets/audio/segments/s16-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s16-p04",
       "text": "But people who ask for advice are more likely to succeed at a task.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "But people who ask for advice are more likely to succeed at a task.",
-      "published_asr": "But people who ask for advice are more likely to succeed at a task.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p04.mp3",
+      "sha256": "assets/audio/segments/s16-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s16-p05",
       "text": "So how do you ask for advice?",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.493,
-      "raw_duration_seconds": 2.4,
-      "asr": "So how do you ask for advice?",
-      "published_asr": "So how do you ask for advice?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p05.mp3",
+      "sha256": "assets/audio/segments/s16-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s16-p06",
       "text": "Look for the best person to give you advice.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 3.752,
-      "raw_duration_seconds": 2.56,
-      "asr": "Look for the best person to give you advice.",
-      "published_asr": "Look for the best person to give you advice.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p06.mp3",
+      "sha256": "assets/audio/segments/s16-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s16-p07",
       "text": "It's just like choosing the right belt for an outfit.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 4.21,
-      "raw_duration_seconds": 2.88,
-      "asr": "It's just like choosing the right belt for an outfit.",
-      "published_asr": "It's just like choosing the right belt for an outfit.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p07.mp3",
+      "sha256": "assets/audio/segments/s16-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s16-p08",
       "text": "It might be easy to ask all your dear friends on social media for advice at once.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.554,
-      "raw_duration_seconds": 4.48,
-      "asr": "It might be easy to ask all your dear friends on social media for advice at once.",
-      "published_asr": "It might be easy to ask all your dear friends on social media for advice at once.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p08.mp3",
+      "sha256": "assets/audio/segments/s16-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s16-p09",
       "text": "But will you value all the advice equally?",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "But will you value all the advice equally?",
-      "published_asr": "But will you value all the advice equally?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p09.mp3",
+      "sha256": "assets/audio/segments/s16-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s16-p10",
       "text": "Probably not.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 1.611,
-      "raw_duration_seconds": 1.12,
-      "asr": "Probably not.",
-      "published_asr": "Probably not.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p10.mp3",
+      "sha256": "assets/audio/segments/s16-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s16-p11",
       "text": "It might be better to choose one or two people whose opinions you value most.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "It might be better to choose one or two people whose opinions you value most.",
-      "published_asr": "It might be better to choose one or two people whose opinions you value most.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p11.mp3",
+      "sha256": "assets/audio/segments/s16-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s16-p12",
       "text": "Ideally, you can have a dialogue with people who have experience in the topic you're asking about.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Ideally, you can have a dialogue with people who have experience in the topic you're asking about.",
-      "published_asr": "Ideally, you can have a dialogue with people who have experience in the topic you're asking about.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p12.mp3",
+      "sha256": "assets/audio/segments/s16-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s16-p13",
       "text": "For example, in playing chess, provide enough information clearly.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "For example, in playing chess, provide enough information clearly.",
-      "published_asr": "For example, in playing chess, provide enough information clearly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p13.mp3",
+      "sha256": "assets/audio/segments/s16-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s16-p14",
       "text": "For example, imagine you can't decide how to organise a club activity.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.564,
-      "raw_duration_seconds": 4.48,
-      "asr": "For example, imagine you can't decide how to organize a club activity.",
-      "published_asr": "For example, imagine you can't decide how to organize a club activity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p14.mp3",
+      "sha256": "assets/audio/segments/s16-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s16-p15",
       "text": "You should provide the topic, the place and the time.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "You should provide the topic, the place and the time.",
-      "published_asr": "You should provide the topic, the place and the time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p15.mp3",
+      "sha256": "assets/audio/segments/s16-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s16-p16",
       "text": "You should also consider when to ask.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "You should also consider when to ask.",
-      "published_asr": "You should also consider when to ask.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p16.mp3",
+      "sha256": "assets/audio/segments/s16-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s16-p17",
       "text": "If your questions require a lot of thought, ask the person when he or she is clear-headed.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 8.673,
-      "raw_duration_seconds": 5.92,
-      "asr": "If your questions require a lot of thought, ask the person when he or she is clear-headed.",
-      "published_asr": "If your questions require a lot of thought, ask the person when he or she is clear-headed.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p17.mp3",
+      "sha256": "assets/audio/segments/s16-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s16-p18",
       "text": "Remember to double your efforts in checking the information and not to hurry your decisions.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.011,
-      "raw_duration_seconds": 4.8,
-      "asr": "Remember to double your efforts in checking the information and not to hurry your decisions.",
-      "published_asr": "Remember to double your efforts in checking the information and not to hurry your decisions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p18.mp3",
+      "sha256": "assets/audio/segments/s16-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s16-p19",
       "text": "Be specific when you ask questions.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Be specific when you ask questions.",
-      "published_asr": "Be specific when you ask questions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p19.mp3",
+      "sha256": "assets/audio/segments/s16-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s16-p20",
       "text": "Imagine you want to start a business and you find a business owner.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.368,
-      "raw_duration_seconds": 3.68,
-      "asr": "Imagine you want to start a business, and you find a business owner.",
-      "published_asr": "Imagine you want to start a business and you find a business owner.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p20.mp3",
+      "sha256": "assets/audio/segments/s16-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s16-p21",
       "text": "Instead of asking, 'What advice do you have for me?'",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 4.916,
-      "raw_duration_seconds": 3.36,
-      "asr": "Instead of asking, what advice do you have for me?",
-      "published_asr": "Instead of asking, what advice do you have for me?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p21.mp3",
+      "sha256": "assets/audio/segments/s16-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s16-p22",
       "text": "Try asking, 'What college classes did you find helpful for starting a business?'",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 7.012,
-      "raw_duration_seconds": 4.8,
-      "asr": "Try asking, what college classes did you find helpful for starting a business?",
-      "published_asr": "Try asking, what college classes did you find helpful for starting a business?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p22.mp3",
+      "sha256": "assets/audio/segments/s16-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s16-p23",
       "text": "Anyway, don't let the fear of being judged stop you from seeking advice.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Anyway, don't let the fear of being judged stop you from seeking advice.",
-      "published_asr": "Anyway, don't let the fear of being judged stop you from seeking advice.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s16-p23.mp3",
+      "sha256": "assets/audio/segments/s16-p23.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 23,
-    "raw_asr_exact_count": 23,
-    "published_asr_exact_count": 23,
-    "word_count": 138,
-    "word_accepted_count": 138,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

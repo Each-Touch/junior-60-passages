@@ -1,242 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s34-p01",
       "text": "The world's best athletes get together for the Olympic Games every four years.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 6.804,
-      "raw_duration_seconds": 4.64,
-      "asr": "The world's best athletes get together for the Olympic Games every four years.",
-      "published_asr": "The world's best athletes get together for the Olympic Games every four years.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p01.mp3",
+      "sha256": "assets/audio/segments/s34-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s34-p02",
       "text": "The 2024 Olympic Games took place in Paris, France.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "The 2024 Olympic Games took place in Paris, France.",
-      "published_asr": "The 2024 Olympic Games took place in Paris, France.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p02.mp3",
+      "sha256": "assets/audio/segments/s34-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s34-p03",
       "text": "For the first time, people watched breaking as a new event at the Olympics.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "For the first time, people watched Breaking as a new event at the Olympics.",
-      "published_asr": "For the first time, people watched breaking as a new event at the Olympics.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p03.mp3",
+      "sha256": "assets/audio/segments/s34-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s34-p04",
       "text": "Breaking is also called break dancing.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Breaking is also called break dancing.",
-      "published_asr": "Breaking is also called break dancing.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p04.mp3",
+      "sha256": "assets/audio/segments/s34-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s34-p05",
       "text": "It is popular among the youth today.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "It is popular among the youth today.",
-      "published_asr": "It is popular among the youth today.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p05.mp3",
+      "sha256": "assets/audio/segments/s34-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s34-p06",
       "text": "The high-energy, skillful dance includes moves such as Top Rock, Footwork, Go Down, Freeze and so on.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 10.793,
-      "raw_duration_seconds": 7.36,
-      "asr": "The high-energy skillful dance includes moves such as top rock, footwork, go down, freeze, and so on.",
-      "published_asr": "The high-energy skillful dance includes moves such as top rock, footwork, go down, freeze, and so on.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p06.mp3",
+      "sha256": "assets/audio/segments/s34-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s34-p07",
       "text": "The dancers need to think and show the moves of the hands and feet quickly.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.853,
-      "raw_duration_seconds": 4,
-      "asr": "The dancers need to think and show the moves of the hands and feet quickly.",
-      "published_asr": "The dancers need to think and show the moves of the hands and feet quickly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p07.mp3",
+      "sha256": "assets/audio/segments/s34-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s34-p08",
       "text": "Break dance battles are a common way to find out who is the best dancer.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Break dance battles are a common way to find out who is the best dancer.",
-      "published_asr": "Break dance battles are a common way to find out who is the best dancer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p08.mp3",
+      "sha256": "assets/audio/segments/s34-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s34-p09",
       "text": "In the 1970s in New York City, fighting with others among teenage girls and boys became more and more serious.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "In the 1970s in New York City, fighting with others among teenage girls and boys became more and more serious.",
-      "published_asr": "In the 1970s in New York City, fighting with others among teenage girls and boys became more and more serious.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p09.mp3",
+      "sha256": "assets/audio/segments/s34-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s34-p10",
       "text": "Some of them began to deal with the problem through dance instead.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "Some of them began to deal with the problem through dance instead",
-      "published_asr": "Some of them began to deal with the problem through dance instead.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p10.mp3",
+      "sha256": "assets/audio/segments/s34-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s34-p11",
       "text": "Just then, the dance style first showed up on the streets.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "Just then, the dance style first showed up on the streets.",
-      "published_asr": "Just then, the dance style first showed up on the streets.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p11.mp3",
+      "sha256": "assets/audio/segments/s34-p11.mp3"
     },
     {
-      "id": 12,
-      "text": "In a \"battle\" like this, one dancer will show off his kicks and spins, and then the next will continue to compete.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "In a battle like this, one dancer will show off his kicks and spins, and then the next will continue to compete.",
-      "published_asr": "In a battle like this, one dancer will show off his kicks and spins, and then the next will continue to compete.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s34-p12-01",
+      "text": "In a \"battle\" like this, one dancer will show off his kicks and spins,",
+      "audio": "assets/audio/segments/s34-p12-01.mp3",
+      "sha256": "assets/audio/segments/s34-p12-01.mp3"
     },
     {
-      "id": 13,
+      "id": "s34-p12-02",
+      "text": "and then the next will continue to compete.",
+      "audio": "assets/audio/segments/s34-p12-02.mp3",
+      "sha256": "assets/audio/segments/s34-p12-02.mp3"
+    },
+    {
+      "id": "s34-p13",
       "text": "Everyone keeps their spirits up.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 2.558,
-      "raw_duration_seconds": 1.76,
-      "asr": "everyone keeps their spirits up.",
-      "published_asr": "Everyone keeps their spirits up.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p13.mp3",
+      "sha256": "assets/audio/segments/s34-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s34-p14",
       "text": "The best dancer will finally be picked out and gain his grand victory.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "The best dancer will finally be picked out and gain his grand victory.",
-      "published_asr": "The best dancer will finally be picked out and gain his grand victory.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p14.mp3",
+      "sha256": "assets/audio/segments/s34-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s34-p15",
       "text": "Today, there are battles held in a local hall, where dancers are scored and voted for based on their performance.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "Today, there are battles held in a local hall, where dancers are scored and voted for based on their performance.",
-      "published_asr": "Today, there are battles held in a local hall, where dancers are scored and voted for based on their performance.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p15.mp3",
+      "sha256": "assets/audio/segments/s34-p15.mp3"
     },
     {
-      "id": 16,
-      "text": "The planners added breaking to the Olympics, because it meets the standard of being widely practised by men and women in a large number of countries.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 11.257,
-      "raw_duration_seconds": 7.68,
-      "asr": "The planners added breaking to the Olympics, because it meets the standard of being widely practiced by men and women in a large number of countries.",
-      "published_asr": "The planners added breaking to the Olympics, because it meets the standard of being widely practiced by men and women in a large number of countries.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s34-p16-01",
+      "text": "The planners added breaking to the Olympics,",
+      "audio": "assets/audio/segments/s34-p16-01.mp3",
+      "sha256": "assets/audio/segments/s34-p16-01.mp3"
     },
     {
-      "id": 17,
+      "id": "s34-p16-02",
+      "text": "because it meets the standard of being widely practised by men and women in a large number of countries.",
+      "audio": "assets/audio/segments/s34-p16-02.mp3",
+      "sha256": "assets/audio/segments/s34-p16-02.mp3"
+    },
+    {
+      "id": "s34-p17",
       "text": "\"Breaking has been accepted as a sport. I really feel proud,\" said Xiaoyu, one breakdancer.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 11.029,
-      "raw_duration_seconds": 7.52,
-      "asr": "Breaking has been accepted as a sport. I really feel proud, said Shaoyu, one break dancer.",
-      "published_asr": "Breaking has been accepted as a sport. I really feel proud, said Shaoyu, one break dancer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p17.mp3",
+      "sha256": "assets/audio/segments/s34-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s34-p18",
       "text": "\"And for the Olympics, it will get more attention from young people who may not follow some of the traditional sports.\"",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 8.45,
-      "raw_duration_seconds": 5.76,
-      "asr": "And for the Olympics, it will get more attention from young people who may not follow some of the traditional sports.",
-      "published_asr": "And for the Olympics, it will get more attention from young people who may not follow some of the traditional sports.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s34-p18.mp3",
+      "sha256": "assets/audio/segments/s34-p18.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 18,
-    "raw_asr_exact_count": 18,
-    "published_asr_exact_count": 18,
-    "word_count": 159,
-    "word_accepted_count": 159,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

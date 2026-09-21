@@ -1,326 +1,158 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s19-p01",
       "text": "Has a person ever warmly held a door open for you?",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.901,
-      "raw_duration_seconds": 3.36,
-      "asr": "Has a person ever warmly held a door open for you?",
-      "published_asr": "Has a person ever warmly held a door open for you?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p01.mp3",
+      "sha256": "assets/audio/segments/s19-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s19-p02",
       "text": "How do you feel after playing with friends?",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "How do you feel after playing with friends?",
-      "published_asr": "How do you feel after playing with friends?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p02.mp3",
+      "sha256": "assets/audio/segments/s19-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s19-p03",
       "text": "And what is your favourite family memory?",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "And what is your favorite family memory?",
-      "published_asr": "And what is your favorite family memory?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p03.mp3",
+      "sha256": "assets/audio/segments/s19-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s19-p04",
       "text": "These questions have one thing in common.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.733,
-      "raw_duration_seconds": 2.56,
-      "asr": "These questions have one thing in common.",
-      "published_asr": "These questions have one thing in common.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p04.mp3",
+      "sha256": "assets/audio/segments/s19-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s19-p05",
       "text": "They're all about connecting with people.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "They're all about connecting with people.",
-      "published_asr": "They're all about connecting with people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p05.mp3",
+      "sha256": "assets/audio/segments/s19-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s19-p06",
       "text": "'Let's Connect' is a theme of Children's Mental Health Week.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Let's connect, is a theme of children's mental health week.",
-      "published_asr": "Let's Connect is a theme of Children's Mental Health Week.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p06.mp3",
+      "sha256": "assets/audio/segments/s19-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s19-p07",
       "text": "It improves mental health by building healthy social connections.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "It improves mental health by building healthy social connections.",
-      "published_asr": "It improves mental health by building healthy social connections.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p07.mp3",
+      "sha256": "assets/audio/segments/s19-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s19-p08",
       "text": "Humans naturally connect with others.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 3.732,
-      "raw_duration_seconds": 2.56,
-      "asr": "Humans naturally connect with others.",
-      "published_asr": "Humans naturally connect with others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p08.mp3",
+      "sha256": "assets/audio/segments/s19-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s19-p09",
       "text": "But it doesn't mean people should always feel that they are glued together.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 5.849,
-      "raw_duration_seconds": 4,
-      "asr": "But it doesn't mean people should always feel that they are glued together.",
-      "published_asr": "But it doesn't mean people should always feel that they are glued together.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p09.mp3",
+      "sha256": "assets/audio/segments/s19-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s19-p10",
       "text": "Healthy connections give people energy and support.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.687,
-      "raw_duration_seconds": 3.2,
-      "asr": "Healthy connections give people energy and support.",
-      "published_asr": "Healthy connections give people energy and support.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p10.mp3",
+      "sha256": "assets/audio/segments/s19-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s19-p11",
       "text": "We all need people to share our worries with.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.45,
-      "raw_duration_seconds": 3.04,
-      "asr": "We all need people to share our worries with.",
-      "published_asr": "We all need people to share our worries with.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p11.mp3",
+      "sha256": "assets/audio/segments/s19-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s19-p12",
       "text": "Social connections aren't just about mental health; they improve physical health too.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Social connections aren't just about mental health. They improve physical health, too.",
-      "published_asr": "Social connections aren't just about mental health. They improve physical health, too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p12.mp3",
+      "sha256": "assets/audio/segments/s19-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s19-p13",
       "text": "Research suggests being lonely can slowly harm your health.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "Research suggests being lonely can slowly harm your health.",
-      "published_asr": "Research suggests being lonely can slowly harm your health.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p13.mp3",
+      "sha256": "assets/audio/segments/s19-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s19-p14",
       "text": "What's important is not how many relationships you have, but how good they are.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "What's important is not how many relationships you have, but how good they are.",
-      "published_asr": "What's important is not how many relationships you have, but how good they are.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p14.mp3",
+      "sha256": "assets/audio/segments/s19-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s19-p15",
       "text": "Then how to connect with others?",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "then how to connect with others",
-      "published_asr": "Then how to connect with others?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p15.mp3",
+      "sha256": "assets/audio/segments/s19-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s19-p16",
       "text": "You can reach out and connect with people in many different ways.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.395,
-      "raw_duration_seconds": 3.68,
-      "asr": "You can reach out and connect with people in many different ways.",
-      "published_asr": "You can reach out and connect with people in many different ways.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p16.mp3",
+      "sha256": "assets/audio/segments/s19-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s19-p17",
       "text": "You can connect with your friends or parents by sharing a pizza or visiting the zoo together to see penguins, elephants and other animals.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 10.571,
-      "raw_duration_seconds": 7.2,
-      "asr": "You can connect with your friends or parents by sharing a pizza or visiting the zoo together to see penguins, elephants and other animals.",
-      "published_asr": "You can connect with your friends or parents by sharing a pizza or visiting the zoo together to see penguins, elephants and other animals.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p17.mp3",
+      "sha256": "assets/audio/segments/s19-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s19-p18",
       "text": "Organising a picnic with hamburgers or setting up a tent at a camping site can also be good ways to find shared adventures.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 10.551,
-      "raw_duration_seconds": 7.2,
-      "asr": "Organizing a picnic with hamburgers or setting up a tent at a camping site can also be good ways to find shared adventures.",
-      "published_asr": "Organizing a picnic with hamburgers or setting up a tent at a camping site can also be good ways to find shared adventures.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p18.mp3",
+      "sha256": "assets/audio/segments/s19-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s19-p19",
       "text": "It's not just people, either.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "It's not just people, either.",
-      "published_asr": "It's not just people, either.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p19.mp3",
+      "sha256": "assets/audio/segments/s19-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s19-p20",
       "text": "Some people feel connected with their pets when spending time at the park.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.855,
-      "raw_duration_seconds": 4,
-      "asr": "Some people feel connected with their pets when spending time at the park.",
-      "published_asr": "Some people feel connected with their pets when spending time at the park.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p20.mp3",
+      "sha256": "assets/audio/segments/s19-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s19-p21",
       "text": "It is recommended to build more connections through actions as well as words.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 6.544,
-      "raw_duration_seconds": 4.48,
-      "asr": "It is recommended to build more connections through actions as well as words.",
-      "published_asr": "It is recommended to build more connections through actions as well as words.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p21.mp3",
+      "sha256": "assets/audio/segments/s19-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s19-p22",
       "text": "Listening to others and trying new experiences are good tools.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "listening to others and trying new experiences are good tools.",
-      "published_asr": "Listening to others and trying new experiences are good tools.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p22.mp3",
+      "sha256": "assets/audio/segments/s19-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s19-p23",
       "text": "Everybody may feel lonely sometimes and refuse to talk to others.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Everybody may feel lonely sometimes and refuse to talk to others.",
-      "published_asr": "Everybody may feel lonely sometimes and refuse to talk to others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p23.mp3",
+      "sha256": "assets/audio/segments/s19-p23.mp3"
     },
     {
-      "id": 24,
+      "id": "s19-p24",
       "text": "But remember that there are always people that care for you.",
-      "file": "assets/audio/sentences/sentence-24.mp3",
-      "exists": true,
-      "duration_seconds": 5.158,
-      "raw_duration_seconds": 3.52,
-      "asr": "But remember that there are always people that care for you.",
-      "published_asr": "But remember that there are always people that care for you",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p24.mp3",
+      "sha256": "assets/audio/segments/s19-p24.mp3"
     },
     {
-      "id": 25,
+      "id": "s19-p25",
       "text": "It's important to tell someone you trust about your feelings.",
-      "file": "assets/audio/sentences/sentence-25.mp3",
-      "exists": true,
-      "duration_seconds": 4.66,
-      "raw_duration_seconds": 3.2,
-      "asr": "It's important to tell someone you trust about your feelings.",
-      "published_asr": "It's important to tell someone you trust about your feelings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s19-p25.mp3",
+      "sha256": "assets/audio/segments/s19-p25.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 25,
-    "raw_asr_exact_count": 25,
-    "published_asr_exact_count": 25,
-    "word_count": 157,
-    "word_accepted_count": 157,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

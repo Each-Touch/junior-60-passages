@@ -1,290 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s53-p01",
       "text": "Look at the Earth from space.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Look at the Earth from space.",
-      "published_asr": "Look at the Earth from space.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p01.mp3",
+      "sha256": "assets/audio/segments/s53-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s53-p02",
       "text": "Our planet looks so blue, because water covers nearly three quarters of its surface.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Our planet looks so blue, because water covers nearly three-quarters of its surface.",
-      "published_asr": "Our planet looks so blue because water covers nearly three quarters of its surface.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p02.mp3",
+      "sha256": "assets/audio/segments/s53-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s53-p03",
       "text": "Water is an important part of our body, too.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Water is an important part of our body too.",
-      "published_asr": "Water is an important part of our body too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p03.mp3",
+      "sha256": "assets/audio/segments/s53-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s53-p04",
       "text": "More than half of our total body weight is water.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "More than half of our total body weight is water.",
-      "published_asr": "More than half of our total body weight is water.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p04.mp3",
+      "sha256": "assets/audio/segments/s53-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s53-p05",
       "text": "Our body loses water whenever we play sports like football, or go to the toilet.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 7.735,
-      "raw_duration_seconds": 5.28,
-      "asr": "Our body loses water whenever we play sports like football, or go to the toilet.",
-      "published_asr": "Our body loses water whenever we play sports like football or go to the toilet.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p05.mp3",
+      "sha256": "assets/audio/segments/s53-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s53-p06",
       "text": "That's why we need to drink plenty of water every day.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "That's why we need to drink plenty of water every day.",
-      "published_asr": "That's why we need to drink plenty of water every day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p06.mp3",
+      "sha256": "assets/audio/segments/s53-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s53-p07",
       "text": "We use water to cook, clean, and we then carry waste out of our homes.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "We use water to cook, clean, and we then carry waste out of our homes.",
-      "published_asr": "We use water to cook, clean, and we then carry waste out of our homes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p07.mp3",
+      "sha256": "assets/audio/segments/s53-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s53-p08",
       "text": "We use it to take a bath or wash dishes and chopsticks in the kitchen.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "We use it to take a bath or wash dishes and chopsticks in the kitchen.",
-      "published_asr": "We use it to take a bath or wash dishes and chopsticks in the kitchen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p08.mp3",
+      "sha256": "assets/audio/segments/s53-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s53-p09",
       "text": "Farmers use it to grow crops like rice, corn, carrots and tomatoes; factories use it to make products.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 10.081,
-      "raw_duration_seconds": 6.88,
-      "asr": "Farmers use it to grow crops like rice, corn, carrots and tomatoes. Factories use it to make products.",
-      "published_asr": "Farmers use it to grow crops like rice, corn, carrots and tomatoes. Factories use it to make products.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p09.mp3",
+      "sha256": "assets/audio/segments/s53-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s53-p10",
       "text": "Since the 1950s, as the population grew, the amount of water that people have used has increased by three times.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "Since the 1950s, as the population grew, the amount of water that people have used has increased by three times.",
-      "published_asr": "Since the 1950s, as the population grew, the amount of water that people have used has increased by three times.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p10.mp3",
+      "sha256": "assets/audio/segments/s53-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s53-p11",
       "text": "But the water supply hasn't.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "But the water supply hasn't.",
-      "published_asr": "But the water supply hasn't.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p11.mp3",
+      "sha256": "assets/audio/segments/s53-p11.mp3"
     },
     {
-      "id": 12,
-      "text": "Scientists worry that soon there won't be enough water for us, as well as for the animals and plants that share our world.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 9.376,
-      "raw_duration_seconds": 6.4,
-      "asr": "Scientists worry that soon there won't be enough water for us, as well as for the animals and plants that share our world.",
-      "published_asr": "Scientists worry that soon there won't be enough water for us, as well as for the animals and plants that share our world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s53-p12-01",
+      "text": "Scientists worry that soon there won't be enough water for us,",
+      "audio": "assets/audio/segments/s53-p12-01.mp3",
+      "sha256": "assets/audio/segments/s53-p12-01.mp3"
     },
     {
-      "id": 13,
+      "id": "s53-p12-02",
+      "text": "as well as for the animals and plants that share our world.",
+      "audio": "assets/audio/segments/s53-p12-02.mp3",
+      "sha256": "assets/audio/segments/s53-p12-02.mp3"
+    },
+    {
+      "id": "s53-p13",
       "text": "What can we do to help?",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "What can we do to help?",
-      "published_asr": "What can we do to help?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p13.mp3",
+      "sha256": "assets/audio/segments/s53-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s53-p14",
       "text": "Use water wisely.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 2.551,
-      "raw_duration_seconds": 1.76,
-      "asr": "Use water wisely.",
-      "published_asr": "Use water wisely.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p14.mp3",
+      "sha256": "assets/audio/segments/s53-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s53-p15",
       "text": "Not having enough water isn't the only problem that we need to solve.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 6.09,
-      "raw_duration_seconds": 4.16,
-      "asr": "Not having enough water isn't the only problem that we need to solve.",
-      "published_asr": "Not having enough water isn't the only problem that we need to solve.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p15.mp3",
+      "sha256": "assets/audio/segments/s53-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s53-p16",
       "text": "We also need it to be clean.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 3.035,
-      "raw_duration_seconds": 2.08,
-      "asr": "We also need it to be clean.",
-      "published_asr": "We also need it to be clean.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p16.mp3",
+      "sha256": "assets/audio/segments/s53-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s53-p17",
       "text": "Right now, ships and factories are putting wastes into seas, rivers and lakes.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Right now, ships and factories are putting wastes into seas, rivers and lakes.",
-      "published_asr": "Right now, ships and factories are putting wastes into seas, rivers and lakes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p17.mp3",
+      "sha256": "assets/audio/segments/s53-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s53-p18",
       "text": "Even chemicals that farmers use are running into rivers and lakes.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Even chemicals that farmers use are running into rivers and lakes.",
-      "published_asr": "Even chemicals that farmers use are running into rivers and lakes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p18.mp3",
+      "sha256": "assets/audio/segments/s53-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s53-p19",
       "text": "All this pollution can make the water dangerous to drink and cause diseases like cancer.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "All this pollution can make the water dangerous to drink and cause diseases like cancer.",
-      "published_asr": "All this pollution can make the water dangerous to drink and cause diseases like cancer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p19.mp3",
+      "sha256": "assets/audio/segments/s53-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s53-p20",
       "text": "It can also harm fish, whales and other aquatic life.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "It can also harm fish, whales and other aquatic life.",
-      "published_asr": "It can also harm fish, whales, and other aquatic life.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p20.mp3",
+      "sha256": "assets/audio/segments/s53-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s53-p21",
       "text": "We must do something to stop pollution.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 3.263,
-      "raw_duration_seconds": 2.24,
-      "asr": "We must do something to stop pollution.",
-      "published_asr": "We must do something to stop pollution.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p21.mp3",
+      "sha256": "assets/audio/segments/s53-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s53-p22",
       "text": "It's the best way to protect our world's most valuable natural resource.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 6.319,
-      "raw_duration_seconds": 4.32,
-      "asr": "It's the best way to protect our world's most valuable natural resource.",
-      "published_asr": "It's the best way to protect our world's most valuable natural resource.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s53-p22.mp3",
+      "sha256": "assets/audio/segments/s53-p22.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 22,
-    "raw_asr_exact_count": 22,
-    "published_asr_exact_count": 22,
-    "word_count": 156,
-    "word_accepted_count": 156,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,266 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s57-p01",
       "text": "Here is the car of the future!",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "Here is the car of the future.",
-      "published_asr": "Here is the car of the future.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p01.mp3",
+      "sha256": "assets/audio/segments/s57-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s57-p02",
       "text": "This car is very different from today's cars: It is quiet and clean.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 6.559,
-      "raw_duration_seconds": 4.48,
-      "asr": "This car is very different from today's cars. It is quiet and clean.",
-      "published_asr": "This car is very different from today's cars. It is quiet and clean.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p02.mp3",
+      "sha256": "assets/audio/segments/s57-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s57-p03",
       "text": "Unlike the average car today, which has wheels, this one does not.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.849,
-      "raw_duration_seconds": 4,
-      "asr": "Unlike the average car today, which has wheels, this one does not.",
-      "published_asr": "Unlike the average car today, which has wheels, this one does not.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p03.mp3",
+      "sha256": "assets/audio/segments/s57-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s57-p04",
       "text": "It moves like a snail, but is much faster than a snail!",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.387,
-      "raw_duration_seconds": 3.68,
-      "asr": "It moves like a snail, but is much faster than a snail.",
-      "published_asr": "It moves like a snail, but is much faster than a snail.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p04.mp3",
+      "sha256": "assets/audio/segments/s57-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s57-p05",
       "text": "This car will use electricity.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "This car will use electricity.",
-      "published_asr": "This car will use electricity.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p05.mp3",
+      "sha256": "assets/audio/segments/s57-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s57-p06",
       "text": "It will use digital technology such as cameras to navigate.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.379,
-      "raw_duration_seconds": 3.68,
-      "asr": "It will use digital technology such as cameras to navigate.",
-      "published_asr": "It will use digital technology such as cameras to navigate.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p06.mp3",
+      "sha256": "assets/audio/segments/s57-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s57-p07",
       "text": "It will drive itself, like a robot.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.749,
-      "raw_duration_seconds": 2.56,
-      "asr": "It will drive itself, like a robot.",
-      "published_asr": "It will drive itself like a robot.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p07.mp3",
+      "sha256": "assets/audio/segments/s57-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s57-p08",
       "text": "You just need to tell it your destination, and the car will go there.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.389,
-      "raw_duration_seconds": 3.68,
-      "asr": "You just need to tell it your destination, and the car will go there.",
-      "published_asr": "You just need to tell it your destination and the car will go there",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p08.mp3",
+      "sha256": "assets/audio/segments/s57-p08.mp3"
     },
     {
-      "id": 9,
-      "text": "Therefore, people who are often busy with work, such as presidents or lawyers, are free to make phone calls on the way.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "Therefore, people who are often busy with work, such as presidents or lawyers, are free to make phone calls on the way.",
-      "published_asr": "Therefore, people who are often busy with work, such as presidents or lawyers, are free to make phone calls on the way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s57-p09-01",
+      "text": "Therefore, people who are often busy with work, such as presidents or lawyers,",
+      "audio": "assets/audio/segments/s57-p09-01.mp3",
+      "sha256": "assets/audio/segments/s57-p09-01.mp3"
     },
     {
-      "id": 10,
+      "id": "s57-p09-02",
+      "text": "are free to make phone calls on the way.",
+      "audio": "assets/audio/segments/s57-p09-02.mp3",
+      "sha256": "assets/audio/segments/s57-p09-02.mp3"
+    },
+    {
+      "id": "s57-p10",
       "text": "And there will be self-driving 'taxis' available all day and night.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.253,
-      "raw_duration_seconds": 4.96,
-      "asr": "and there will be self-driving taxis available all day and night.",
-      "published_asr": "and there will be self-driving taxis available all day and night",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p10.mp3",
+      "sha256": "assets/audio/segments/s57-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s57-p11",
       "text": "Also, due to its rapid movement, it will reach the location very quickly.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 7.025,
-      "raw_duration_seconds": 4.8,
-      "asr": "Also, due to its rapid movement, it will reach the location very quickly.",
-      "published_asr": "Also, due to its rapid movement, it will reach the location very quickly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p11.mp3",
+      "sha256": "assets/audio/segments/s57-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s57-p12",
       "text": "It will also be very safe and comfortable — a smooth ride that feels like magic.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "It will also be very safe and comfortable. A smooth ride that feels like magic.",
-      "published_asr": "It will also be very safe and comfortable. A smooth ride that feels like magic.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p12.mp3",
+      "sha256": "assets/audio/segments/s57-p12.mp3"
     },
     {
-      "id": 13,
-      "text": "Passengers can relax during the journey, perhaps reading a magazine, watching a movie, or playing games like an online version of ping-pong.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 11.962,
-      "raw_duration_seconds": 8.16,
-      "asr": "Passengers can relax during the journey, perhaps reading a magazine, watching a movie, or playing games like an online version of Ping Pong.",
-      "published_asr": "Passengers can relax during the journey, perhaps reading a magazine, watching a movie, or playing games like an online version of ping-pong.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s57-p13-01",
+      "text": "Passengers can relax during the journey, perhaps reading a magazine, watching a movie,",
+      "audio": "assets/audio/segments/s57-p13-01.mp3",
+      "sha256": "assets/audio/segments/s57-p13-01.mp3"
     },
     {
-      "id": 14,
-      "text": "The car can also reduce the risk of accidents, providing safe transport for firemen and police officers on their way to work.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "The car can also reduce the risk of accidents, providing safe transport for firemen and police officers on their way to work.",
-      "published_asr": "The car can also reduce the risk of accidents, providing safe transport for firemen and police officers on their way to work.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s57-p13-02",
+      "text": "or playing games like an online version of ping-pong.",
+      "audio": "assets/audio/segments/s57-p13-02.mp3",
+      "sha256": "assets/audio/segments/s57-p13-02.mp3"
     },
     {
-      "id": 15,
+      "id": "s57-p14-01",
+      "text": "The car can also reduce the risk of accidents,",
+      "audio": "assets/audio/segments/s57-p14-01.mp3",
+      "sha256": "assets/audio/segments/s57-p14-01.mp3"
+    },
+    {
+      "id": "s57-p14-02",
+      "text": "providing safe transport for firemen and police officers on their way to work.",
+      "audio": "assets/audio/segments/s57-p14-02.mp3",
+      "sha256": "assets/audio/segments/s57-p14-02.mp3"
+    },
+    {
+      "id": "s57-p15",
       "text": "A lot of the technology has already appeared, but it is at the experimental stage.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "A lot of the technology has already appeared, but it is at the experimental stage.",
-      "published_asr": "A lot of the technology has already appeared, but it is at the experimental stage.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p15.mp3",
+      "sha256": "assets/audio/segments/s57-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s57-p16",
       "text": "As an exciting development, fifty years from now, some new roads will have solar panels for cars to use.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 9.846,
-      "raw_duration_seconds": 6.72,
-      "asr": "As an exciting development, 50 years from now, some new roads will have solar panels for cars to use.",
-      "published_asr": "As an exciting development, 50 years from now, some new roads will have solar panels for cars to use.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p16.mp3",
+      "sha256": "assets/audio/segments/s57-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s57-p17",
       "text": "However, you won't be able to drive a 'snail car', even if you're under 20 today.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "However, you won't be able to drive a snail car, even if you're under 20 today.",
-      "published_asr": "However, you won't be able to drive a snail car, even if you're under 20 today.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p17.mp3",
+      "sha256": "assets/audio/segments/s57-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s57-p18",
       "text": "Maybe this is the car of the year 2100, and your grandchildren may drive it.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "Maybe this is the car of the year 2100, and your grandchildren may drive it.",
-      "published_asr": "Maybe this is the car of the year 2100 and your grandchildren may drive it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p18.mp3",
+      "sha256": "assets/audio/segments/s57-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s57-p19",
       "text": "No pollution, no traffic jams, and no stress.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "No pollution, no traffic jams, and no stress.",
-      "published_asr": "No pollution, no traffic jams, and no stress.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p19.mp3",
+      "sha256": "assets/audio/segments/s57-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s57-p20",
       "text": "It will be interesting to see what the cars look like many years from now.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 5.627,
-      "raw_duration_seconds": 3.84,
-      "asr": "It will be interesting to see what the cars look like many years from now.",
-      "published_asr": "It will be interesting to see what the cars look like many years from now.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s57-p20.mp3",
+      "sha256": "assets/audio/segments/s57-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 159,
-    "word_accepted_count": 159,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

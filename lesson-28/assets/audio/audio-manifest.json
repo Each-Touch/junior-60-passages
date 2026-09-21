@@ -1,254 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s28-p01",
       "text": "People know animals do have feelings.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "People know animals do have feelings.",
-      "published_asr": "People know animals do have feelings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p01.mp3",
+      "sha256": "assets/audio/segments/s28-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s28-p02",
       "text": "Scientists have done research about the feelings of cows, frogs and pandas.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Scientists have done research about the feelings of cows, frogs, and pandas.",
-      "published_asr": "Scientists have done research about the feelings of cows, frogs, and pandas.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p02.mp3",
+      "sha256": "assets/audio/segments/s28-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s28-p03",
       "text": "A new study adds chickens to the list.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.439,
-      "raw_duration_seconds": 3.04,
-      "asr": "A new study adds chickens to the list.",
-      "published_asr": "A new study adds chickens to the list.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p03.mp3",
+      "sha256": "assets/audio/segments/s28-p03.mp3"
     },
     {
-      "id": 4,
-      "text": "We know that during a storm with thunder and lightning, these animals get shocked and stay close together near the bottom of the barn.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "We know that during a storm with thunder and lightning, these animals get shocked and stay close together near the bottom of the barn.",
-      "published_asr": "We know that during a storm with thunder and lightning, these animals get shocked and stay close together near the bottom of the barn.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s28-p04-01",
+      "text": "We know that during a storm with thunder and lightning,",
+      "audio": "assets/audio/segments/s28-p04-01.mp3",
+      "sha256": "assets/audio/segments/s28-p04-01.mp3"
     },
     {
-      "id": 5,
+      "id": "s28-p04-02",
+      "text": "these animals get shocked and stay close together near the bottom of the barn.",
+      "audio": "assets/audio/segments/s28-p04-02.mp3",
+      "sha256": "assets/audio/segments/s28-p04-02.mp3"
+    },
+    {
+      "id": "s28-p05",
       "text": "But what do they say?",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "But, what do they say?",
-      "published_asr": "But what do they say?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p05.mp3",
+      "sha256": "assets/audio/segments/s28-p05.mp3"
     },
     {
-      "id": 6,
-      "text": "It seems that humans can tell whether hens and roosters are happy or sad by listening to their calls, just like hearing other people say \"hello\" or \"goodbye\" with different tones.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 13.842,
-      "raw_duration_seconds": 9.44,
-      "asr": "It seems that humans can tell whether hens and roosters are happy or sad by listening to their calls, just like hearing other people say, hello, or goodbye, with different tones.",
-      "published_asr": "It seems that humans can tell whether hens and roosters are happy or sad by listening to their calls, just like hearing other people say, hello, or goodbye, with different tones.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s28-p06-01",
+      "text": "It seems that humans can tell whether hens and roosters are happy or sad by listening to their calls,",
+      "audio": "assets/audio/segments/s28-p06-01.mp3",
+      "sha256": "assets/audio/segments/s28-p06-01.mp3"
     },
     {
-      "id": 7,
+      "id": "s28-p06-02",
+      "text": "just like hearing other people say \"hello\" or \"goodbye\" with different tones.",
+      "audio": "assets/audio/segments/s28-p06-02.mp3",
+      "sha256": "assets/audio/segments/s28-p06-02.mp3"
+    },
+    {
+      "id": "s28-p07",
       "text": "The researchers put a bowl behind a door.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "The researchers put a bowl behind a door.",
-      "published_asr": "The researchers put a bowl behind a door.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p07.mp3",
+      "sha256": "assets/audio/segments/s28-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s28-p08",
       "text": "Sometimes, there was something chickens love to eat in the bowl, such as rice, sweet porridge or insects.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 8.905,
-      "raw_duration_seconds": 6.08,
-      "asr": "Sometimes, there was something chickens love to eat in the bowl, such as rice, sweet porridge or insects.",
-      "published_asr": "Sometimes, there was something chickens love to eat in the bowl, such as rice, sweet porridge, or insects.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p08.mp3",
+      "sha256": "assets/audio/segments/s28-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s28-p09",
       "text": "Sometimes, the bowl was empty.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "Sometimes, the bowl was empty.",
-      "published_asr": "Sometimes, the bowl was empty.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p09.mp3",
+      "sha256": "assets/audio/segments/s28-p09.mp3"
     },
     {
-      "id": 10,
-      "text": "Chickens that saw food seemed happy and produced fast and loud sounds, which they also do when playing with a new toy.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 9.611,
-      "raw_duration_seconds": 6.56,
-      "asr": "Chickens that saw food seemed happy and produced fast and loud sounds, which they also do when playing with a new toy.",
-      "published_asr": "Chickens that saw food seemed happy and produced fast and loud sounds, which they also do when playing with a new toy.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s28-p10-01",
+      "text": "Chickens that saw food seemed happy and produced fast and loud sounds,",
+      "audio": "assets/audio/segments/s28-p10-01.mp3",
+      "sha256": "assets/audio/segments/s28-p10-01.mp3"
     },
     {
-      "id": 11,
+      "id": "s28-p10-02",
+      "text": "which they also do when playing with a new toy.",
+      "audio": "assets/audio/segments/s28-p10-02.mp3",
+      "sha256": "assets/audio/segments/s28-p10-02.mp3"
+    },
+    {
+      "id": "s28-p11",
       "text": "Chickens that saw an empty bowl made low and long noises to express disappointment.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Chickens that saw an empty bowl made low and long noises to express disappointment.",
-      "published_asr": "Chickens that saw an empty bowl made low and long noises to express disappointment.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p11.mp3",
+      "sha256": "assets/audio/segments/s28-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s28-p12",
       "text": "The researchers recorded all these sounds and studied their waves.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.602,
-      "raw_duration_seconds": 3.84,
-      "asr": "The researchers recorded all these sounds and studied their waves.",
-      "published_asr": "The researchers recorded all these sounds and studied their waves.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p12.mp3",
+      "sha256": "assets/audio/segments/s28-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s28-p13",
       "text": "The researchers played 16 recordings of such chicken noises to 194 volunteers.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "The researchers played 16 recordings of such chicken noises to 194 volunteers.",
-      "published_asr": "The researchers played 16 recordings of such chicken noises to 194 volunteers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p13.mp3",
+      "sha256": "assets/audio/segments/s28-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s28-p14",
       "text": "Half were from the chickens seeing the food, and half were from the chickens finding no food.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.563,
-      "raw_duration_seconds": 4.48,
-      "asr": "Half were from the chickens, seeing the food, and half were from the chickens finding no food.",
-      "published_asr": "Half were from the chickens, seeing the food, and half were from the chickens finding no food.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p14.mp3",
+      "sha256": "assets/audio/segments/s28-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s28-p15",
       "text": "Sixty-nine per cent of the volunteers correctly understood the chickens' emotions.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 7.039,
-      "raw_duration_seconds": 4.8,
-      "asr": "69% of the volunteers correctly understood the chicken's emotions.",
-      "published_asr": "69% of the volunteers correctly understood the chicken's emotions.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p15.mp3",
+      "sha256": "assets/audio/segments/s28-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s28-p16",
       "text": "The result shows that humans have the natural ability to understand the feelings of chickens.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "The result shows that humans have the natural ability to understand the feelings of chickens.",
-      "published_asr": "The result shows that humans have the natural ability to understand the feelings of chickens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p16.mp3",
+      "sha256": "assets/audio/segments/s28-p16.mp3"
     },
     {
-      "id": 17,
-      "text": "Hopefully, this finding can bring about new technology to help bosses of farms in raising chickens, a big industry in many countries.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 11.726,
-      "raw_duration_seconds": 8,
-      "asr": "Hopefully, this finding can bring about new technology to help bosses of farms in raising chickens, a big industry in many countries.",
-      "published_asr": "Hopefully, this finding can bring about new technology to help bosses of farms in raising chickens, a big industry in many countries.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s28-p17-01",
+      "text": "Hopefully, this finding can bring about new technology to help bosses of farms in raising chickens,",
+      "audio": "assets/audio/segments/s28-p17-01.mp3",
+      "sha256": "assets/audio/segments/s28-p17-01.mp3"
     },
     {
-      "id": 18,
+      "id": "s28-p17-02",
+      "text": "a big industry in many countries.",
+      "audio": "assets/audio/segments/s28-p17-02.mp3",
+      "sha256": "assets/audio/segments/s28-p17-02.mp3"
+    },
+    {
+      "id": "s28-p18",
       "text": "Scientists are working on a smart computer program that can identify chickens' feelings.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Scientists are working on a smart computer program that can identify chicken's feelings.",
-      "published_asr": "Scientists are working on a smart computer program that can identify chicken's feelings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p18.mp3",
+      "sha256": "assets/audio/segments/s28-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s28-p19",
       "text": "Good news for farmers who want to make the birds happier and healthier.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.839,
-      "raw_duration_seconds": 4,
-      "asr": "Good news for farmers who want to make the birds happier and healthier.",
-      "published_asr": "Good news for farmers who want to make the birds happier and healthier.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s28-p19.mp3",
+      "sha256": "assets/audio/segments/s28-p19.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 19,
-    "raw_asr_exact_count": 19,
-    "published_asr_exact_count": 19,
-    "word_count": 159,
-    "word_accepted_count": 159,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

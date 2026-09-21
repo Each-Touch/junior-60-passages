@@ -1,302 +1,146 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s46-p01",
       "text": "Laughter is a universal language for humans.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Laughter is a universal language for humans.",
-      "published_asr": "Laughter is a universal language for humans.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p01.mp3",
+      "sha256": "assets/audio/segments/s46-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s46-p02",
       "text": "It can help people to get on well with others.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.204,
-      "raw_duration_seconds": 2.88,
-      "asr": "It can help people to get on well with others.",
-      "published_asr": "It can help people to get on well with others.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p02.mp3",
+      "sha256": "assets/audio/segments/s46-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s46-p03",
       "text": "As children, we laugh when our parents make faces.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "As children, we laugh when our parents make faces.",
-      "published_asr": "As children, we laugh when our parents make faces.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p03.mp3",
+      "sha256": "assets/audio/segments/s46-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s46-p04",
       "text": "Then we start to make others laugh like this.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.283,
-      "raw_duration_seconds": 2.24,
-      "asr": "Then we start to make others laugh like this.",
-      "published_asr": "Then we start to make others laugh like this.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p04.mp3",
+      "sha256": "assets/audio/segments/s46-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s46-p05",
       "text": "That's how we learn to play jokes.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "that's how we learn to play jokes?",
-      "published_asr": "That's how we learn to play jokes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p05.mp3",
+      "sha256": "assets/audio/segments/s46-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s46-p06",
       "text": "But is playing jokes only humans' ability?",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "But is playing jokes only humans ability?",
-      "published_asr": "But is playing jokes only humans ability?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p06.mp3",
+      "sha256": "assets/audio/segments/s46-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s46-p07",
       "text": "Scientists believe that some animals also have the ability.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 5.383,
-      "raw_duration_seconds": 3.68,
-      "asr": "Scientists believe that some animals also have the ability.",
-      "published_asr": "Scientists believe that some animals also have the ability.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p07.mp3",
+      "sha256": "assets/audio/segments/s46-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s46-p08",
       "text": "Dogs are smart animals with a good nose.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Dogs are smart animals with a good nose.",
-      "published_asr": "Dogs are smart animals with a good nose.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p08.mp3",
+      "sha256": "assets/audio/segments/s46-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s46-p09",
       "text": "They often help people.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 2.779,
-      "raw_duration_seconds": 1.92,
-      "asr": "They often help people.",
-      "published_asr": "They often help people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p09.mp3",
+      "sha256": "assets/audio/segments/s46-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s46-p10",
       "text": "But sometimes we see dogs play jokes on people.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "But sometimes we see dogs play jokes on people.",
-      "published_asr": "But sometimes we see dogs play jokes on people.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p10.mp3",
+      "sha256": "assets/audio/segments/s46-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s46-p11",
       "text": "They come near slowly and then quickly run away.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "They come near slowly, and then quickly run away.",
-      "published_asr": "They come near slowly and then quickly run away.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p11.mp3",
+      "sha256": "assets/audio/segments/s46-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s46-p12",
       "text": "This act seems silly.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 2.788,
-      "raw_duration_seconds": 1.92,
-      "asr": "This act seems silly.",
-      "published_asr": "This act seems silly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p12.mp3",
+      "sha256": "assets/audio/segments/s46-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s46-p13",
       "text": "But they may just want to have fun.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.263,
-      "raw_duration_seconds": 2.24,
-      "asr": "But they may just want to have fun.",
-      "published_asr": "But they may just want to have fun.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p13.mp3",
+      "sha256": "assets/audio/segments/s46-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s46-p14",
       "text": "When dogs are guarding, they sometimes hide behind a door to scare visitors in a playful way.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.508,
-      "raw_duration_seconds": 5.12,
-      "asr": "When dogs are guarding, they sometimes hide behind a door to scare visitors in a playful way.",
-      "published_asr": "When dogs are guarding, they sometimes hide behind a door to scare visitors in a playful way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p14.mp3",
+      "sha256": "assets/audio/segments/s46-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s46-p15",
       "text": "They fool their owners too.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "They fool their owners too.",
-      "published_asr": "They fool their owners, too.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p15.mp3",
+      "sha256": "assets/audio/segments/s46-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s46-p16",
       "text": "But after a joke, they lick their owner, which is like giving a kiss to show they are friendly.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 8.435,
-      "raw_duration_seconds": 5.76,
-      "asr": "But after a joke, they lick their owner, which is like giving a kiss to show they are friendly.",
-      "published_asr": "But after a joke they lick their owner which is like giving a kiss to show they are friendly",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p16.mp3",
+      "sha256": "assets/audio/segments/s46-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s46-p17",
       "text": "Scientists say they have watched young apes play jokes.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 5.361,
-      "raw_duration_seconds": 3.68,
-      "asr": "Scientists say they have watched young apes play jokes.",
-      "published_asr": "Scientists say they have watched young apes play jokes.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p17.mp3",
+      "sha256": "assets/audio/segments/s46-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s46-p18",
       "text": "The young apes quietly follow adult apes and touch them secretly to surprise them.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "The young apes quietly follow adult apes and touch them secretly to surprise them.",
-      "published_asr": "The young apes quietly follow adult apes and touch them secretly to surprise them.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p18.mp3",
+      "sha256": "assets/audio/segments/s46-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s46-p19",
       "text": "Then they playfully wait and watch what the adults would do.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 4.918,
-      "raw_duration_seconds": 3.36,
-      "asr": "Then they playfully wait and watch what the adults would do.",
-      "published_asr": "Then they playfully wait and watch what the adults would do.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p19.mp3",
+      "sha256": "assets/audio/segments/s46-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s46-p20",
       "text": "This action is similar to what human children do.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "This action is similar to what human children do.",
-      "published_asr": "This action is similar to what human children do.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p20.mp3",
+      "sha256": "assets/audio/segments/s46-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s46-p21",
       "text": "Next time, when you find your pets doing something strange around you, maybe they are having jokes with you.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 8.682,
-      "raw_duration_seconds": 5.92,
-      "asr": "Next time, when you find your pets doing something strange around you, maybe they are having jokes with you.",
-      "published_asr": "Next time, when you find your pets doing something strange around you, maybe they are having jokes with you.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p21.mp3",
+      "sha256": "assets/audio/segments/s46-p21.mp3"
     },
     {
-      "id": 22,
+      "id": "s46-p22",
       "text": "So don't be mad if your dog borrows your shoe or your cat hides your sock.",
-      "file": "assets/audio/sentences/sentence-22.mp3",
-      "exists": true,
-      "duration_seconds": 5.854,
-      "raw_duration_seconds": 4,
-      "asr": "So don't be mad if your dog borrows your shoe or your cat hides your sock.",
-      "published_asr": "So don't be mad if your dog borrows your shoe or your cat hides your sock.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p22.mp3",
+      "sha256": "assets/audio/segments/s46-p22.mp3"
     },
     {
-      "id": 23,
+      "id": "s46-p23",
       "text": "They might just be trying to make you laugh.",
-      "file": "assets/audio/sentences/sentence-23.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "They might just be trying to make you laugh.",
-      "published_asr": "They might just be trying to make you laugh.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s46-p23.mp3",
+      "sha256": "assets/audio/segments/s46-p23.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 23,
-    "raw_asr_exact_count": 23,
-    "published_asr_exact_count": 23,
-    "word_count": 139,
-    "word_accepted_count": 139,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

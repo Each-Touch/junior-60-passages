@@ -1,0 +1,2042 @@
+{
+  "course": "初中60短文",
+  "passage": 12,
+  "title": "Passage 12",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "sentences": [
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s12-p01",
+      "image": "assets/images/01.png",
+      "audio": "assets/audio/segments/s12-p01.mp3",
+      "en": "If you love reading books, you must know about The Little Prince.",
+      "cn": "如果你喜欢读书，你一定知道《小王子》。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s12-p02",
+      "image": "assets/images/02.png",
+      "audio": "assets/audio/segments/s12-p02.mp3",
+      "en": "It's a famous novel written by a French writer.",
+      "cn": "这是由一位法国作家写的一本著名小说。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s12-p03-01",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s12-p03-01.mp3",
+      "en": "As one of the best-selling books in history,",
+      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 3,
+      "chunkId": "s12-p03-02",
+      "image": "assets/images/03.png",
+      "audio": "assets/audio/segments/s12-p03-02.mp3",
+      "en": "it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 4,
+      "chunkId": "s12-p04-01",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s12-p04-01.mp3",
+      "en": "Around 70 years after the birth of the book,",
+      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 4,
+      "chunkId": "s12-p04-02",
+      "image": "assets/images/04.png",
+      "audio": "assets/audio/segments/s12-p04-02.mp3",
+      "en": "an American director has found a way to make it into a 3D animated film.",
+      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 5,
+      "chunkId": "s12-p05",
+      "image": "assets/images/05.png",
+      "audio": "assets/audio/segments/s12-p05.mp3",
+      "en": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "cn": "这本书讲述了一位飞行员的故事，他被称为“飞行员”，坠机在沙漠中，而非机场。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 6,
+      "chunkId": "s12-p06",
+      "image": "assets/images/06.png",
+      "audio": "assets/audio/segments/s12-p06.mp3",
+      "en": "In the film, the story starts years after the crash, when The Aviator is much older.",
+      "cn": "在电影中，故事开始于坠机的多年后，此时的“飞行员”已经老去。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 7,
+      "chunkId": "s12-p07",
+      "image": "assets/images/07.png",
+      "audio": "assets/audio/segments/s12-p07.mp3",
+      "en": "He has got a new neighbour called The Little Girl.",
+      "cn": "他有了一个叫“小女孩”的新邻居。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 8,
+      "chunkId": "s12-p08",
+      "image": "assets/images/08.png",
+      "audio": "assets/audio/segments/s12-p08.mp3",
+      "en": "He tells The Little Girl about his time in the desert.",
+      "cn": "他向“小女孩”讲述了自己在沙漠中的时光。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 9,
+      "chunkId": "s12-p09",
+      "image": "assets/images/09.png",
+      "audio": "assets/audio/segments/s12-p09.mp3",
+      "en": "His story takes her to an amazing world.",
+      "cn": "他的故事带她进入了一个奇妙的世界。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 10,
+      "chunkId": "s12-p10",
+      "image": "assets/images/10.png",
+      "audio": "assets/audio/segments/s12-p10.mp3",
+      "en": "China is the first country in the world to see the film in two versions, in Chinese and English.",
+      "cn": "中国是世界上第一个看到这部电影中英两种版本的国家。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 11,
+      "chunkId": "s12-p11",
+      "image": "assets/images/11.png",
+      "audio": "assets/audio/segments/s12-p11.mp3",
+      "en": "The film tells The Little Prince's story in a beautiful way.",
+      "cn": "影片以一种优美的方式讲述了小王子的故事。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 12,
+      "chunkId": "s12-p12",
+      "image": "assets/images/12.png",
+      "audio": "assets/audio/segments/s12-p12.mp3",
+      "en": "Film tickets were quickly sold out in many cinemas and local theatres across the country.",
+      "cn": "电影票在全国许多电影院和地方剧院迅速售罄。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 13,
+      "chunkId": "s12-p13-01",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s12-p13-01.mp3",
+      "en": "The film has received a prize,",
+      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 13,
+      "chunkId": "s12-p13-02",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s12-p13-02.mp3",
+      "en": "for it is like a childhood dream,",
+      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 13,
+      "chunkId": "s12-p13-03",
+      "image": "assets/images/13.png",
+      "audio": "assets/audio/segments/s12-p13-03.mp3",
+      "en": "which is lost by most adults in this stressed-out society.",
+      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 14,
+      "chunkId": "s12-p14",
+      "image": "assets/images/14.png",
+      "audio": "assets/audio/segments/s12-p14.mp3",
+      "en": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "cn": "广播电台也对配音的男女演员们进行了采访，演员们表达了感激之情。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 15,
+      "chunkId": "s12-p15",
+      "image": "assets/images/15.png",
+      "audio": "assets/audio/segments/s12-p15.mp3",
+      "en": "And the most touching part is that every adult was a good-natured kid like The Little Prince.",
+      "cn": "最动人的部分在于，每个成年人都曾是像小王子那样善良的孩子。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 16,
+      "chunkId": "s12-p16",
+      "image": "assets/images/16.png",
+      "audio": "assets/audio/segments/s12-p16.mp3",
+      "en": "And it's a pity that this good characteristic goes away, as time flies.",
+      "cn": "但遗憾的是，随着时间的流逝，这种美好的特质逐渐消失。"
+    }
+  ],
+  "cover": {
+    "file": "assets/images/00.png",
+    "label": "绘本封面"
+  },
+  "images": [
+    {
+      "page": 0,
+      "label": "绘本封面",
+      "file": "assets/images/00.png"
+    },
+    {
+      "page": 1,
+      "label": "第01听力小节",
+      "file": "assets/images/01.png"
+    },
+    {
+      "page": 2,
+      "label": "第02听力小节",
+      "file": "assets/images/02.png"
+    },
+    {
+      "page": 3,
+      "label": "第03听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 4,
+      "label": "第04听力小节",
+      "file": "assets/images/03.png"
+    },
+    {
+      "page": 5,
+      "label": "第05听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 6,
+      "label": "第06听力小节",
+      "file": "assets/images/04.png"
+    },
+    {
+      "page": 7,
+      "label": "第07听力小节",
+      "file": "assets/images/05.png"
+    },
+    {
+      "page": 8,
+      "label": "第08听力小节",
+      "file": "assets/images/06.png"
+    },
+    {
+      "page": 9,
+      "label": "第09听力小节",
+      "file": "assets/images/07.png"
+    },
+    {
+      "page": 10,
+      "label": "第10听力小节",
+      "file": "assets/images/08.png"
+    },
+    {
+      "page": 11,
+      "label": "第11听力小节",
+      "file": "assets/images/09.png"
+    },
+    {
+      "page": 12,
+      "label": "第12听力小节",
+      "file": "assets/images/10.png"
+    },
+    {
+      "page": 13,
+      "label": "第13听力小节",
+      "file": "assets/images/11.png"
+    },
+    {
+      "page": 14,
+      "label": "第14听力小节",
+      "file": "assets/images/12.png"
+    },
+    {
+      "page": 15,
+      "label": "第15听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 16,
+      "label": "第16听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 17,
+      "label": "第17听力小节",
+      "file": "assets/images/13.png"
+    },
+    {
+      "page": 18,
+      "label": "第18听力小节",
+      "file": "assets/images/14.png"
+    },
+    {
+      "page": 19,
+      "label": "第19听力小节",
+      "file": "assets/images/15.png"
+    },
+    {
+      "page": 20,
+      "label": "第20听力小节",
+      "file": "assets/images/16.png"
+    }
+  ],
+  "dictionary": {
+    "if": {
+      "word": "If",
+      "phonetic": "/ɪf/",
+      "translation": "如果",
+      "core": false
+    },
+    "you": {
+      "word": "you",
+      "phonetic": "/juː/",
+      "translation": "你；你们",
+      "core": false
+    },
+    "love": {
+      "word": "love",
+      "phonetic": "/ləv/",
+      "translation": "爱",
+      "core": false
+    },
+    "reading": {
+      "word": "reading",
+      "phonetic": "/ˈrɛdɪŋ/",
+      "translation": "阅读",
+      "core": true,
+      "coreWord": "read"
+    },
+    "books": {
+      "word": "books",
+      "phonetic": "/bʊks/",
+      "translation": "图书",
+      "core": false
+    },
+    "must": {
+      "word": "must",
+      "phonetic": "/məst/",
+      "translation": "必须",
+      "core": false
+    },
+    "know": {
+      "word": "know",
+      "phonetic": "/noʊ/",
+      "translation": "知道",
+      "core": false
+    },
+    "about": {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "translation": "关于",
+      "core": false
+    },
+    "the": {
+      "word": "The",
+      "phonetic": "/ðə/",
+      "translation": "这个；那个",
+      "core": false
+    },
+    "little": {
+      "word": "Little",
+      "phonetic": "/ˈlɪtəl/",
+      "translation": "小的",
+      "core": false
+    },
+    "prince": {
+      "word": "Prince",
+      "phonetic": "/prɪns/",
+      "translation": "王子",
+      "core": true,
+      "coreWord": "prince"
+    },
+    "its": {
+      "word": "It's",
+      "phonetic": "/ɪts/",
+      "translation": "它的；它是",
+      "core": false
+    },
+    "a": {
+      "word": "a",
+      "phonetic": "/ə/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "famous": {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "translation": "著名的",
+      "core": false
+    },
+    "novel": {
+      "word": "novel",
+      "phonetic": "/ˈnɑvəl/",
+      "translation": "小说",
+      "core": true,
+      "coreWord": "novel"
+    },
+    "written": {
+      "word": "written",
+      "phonetic": "/ˈrɪtən/",
+      "translation": "书面",
+      "core": false
+    },
+    "by": {
+      "word": "by",
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边",
+      "core": false
+    },
+    "french": {
+      "word": "French",
+      "phonetic": "/frɛnʧ/",
+      "translation": "法语",
+      "core": false
+    },
+    "writer": {
+      "word": "writer",
+      "phonetic": "/ˈraɪtər/",
+      "translation": "作家",
+      "core": true,
+      "coreWord": "writer"
+    },
+    "as": {
+      "word": "As",
+      "phonetic": "/æz/",
+      "translation": "作为；像",
+      "core": false
+    },
+    "one": {
+      "word": "one",
+      "phonetic": "/wən/",
+      "translation": "一",
+      "core": false
+    },
+    "of": {
+      "word": "of",
+      "phonetic": "/əv/",
+      "translation": "……的",
+      "core": false
+    },
+    "best": {
+      "word": "best",
+      "phonetic": "/bɛst/",
+      "translation": "最好的",
+      "core": false
+    },
+    "selling": {
+      "word": "selling",
+      "phonetic": "/ˈsɛlɪŋ/",
+      "translation": "卖",
+      "core": false
+    },
+    "in": {
+      "word": "in",
+      "phonetic": "/ɪn/",
+      "translation": "在……里",
+      "core": false
+    },
+    "history": {
+      "word": "history",
+      "phonetic": "/ˈhɪstəri/",
+      "translation": "历史",
+      "core": true,
+      "coreWord": "history"
+    },
+    "it": {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "translation": "它",
+      "core": false
+    },
+    "has": {
+      "word": "has",
+      "phonetic": "/həz/",
+      "translation": "有",
+      "core": false
+    },
+    "been": {
+      "word": "been",
+      "phonetic": "/bɪn/",
+      "translation": "到过",
+      "core": false
+    },
+    "sold": {
+      "word": "sold",
+      "phonetic": "/soʊld/",
+      "translation": "卖",
+      "core": true,
+      "coreWord": "sell"
+    },
+    "many": {
+      "word": "many",
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多",
+      "core": false
+    },
+    "million": {
+      "word": "million",
+      "phonetic": "/ˈmɪljən/",
+      "translation": "百万",
+      "core": false
+    },
+    "copies": {
+      "word": "copies",
+      "phonetic": "/ˈkɑpiz/",
+      "translation": "副本",
+      "core": true,
+      "coreWord": "copy"
+    },
+    "languages": {
+      "word": "languages",
+      "phonetic": "/ˈlæŋgwɪʤɪz/",
+      "translation": "语言",
+      "core": false
+    },
+    "and": {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "translation": "和",
+      "core": false
+    },
+    "dialects": {
+      "word": "dialects",
+      "phonetic": "/ˈdaɪəˌlɛkts/",
+      "translation": "方言",
+      "core": true,
+      "coreWord": "dialect"
+    },
+    "around": {
+      "word": "Around",
+      "phonetic": "/əraʊnd/",
+      "translation": "大约",
+      "core": false
+    },
+    "years": {
+      "word": "years",
+      "phonetic": "/jɪrz/",
+      "translation": "年",
+      "core": false
+    },
+    "after": {
+      "word": "after",
+      "phonetic": "/ˈæftər/",
+      "translation": "后",
+      "core": false
+    },
+    "birth": {
+      "word": "birth",
+      "phonetic": "/bərθ/",
+      "translation": "出生",
+      "core": false
+    },
+    "book": {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "translation": "书",
+      "core": false
+    },
+    "an": {
+      "word": "an",
+      "phonetic": "/ən/",
+      "translation": "一个；一",
+      "core": false
+    },
+    "american": {
+      "word": "American",
+      "phonetic": "/əˈmɛrɪkən/",
+      "translation": "美国人",
+      "core": false
+    },
+    "director": {
+      "word": "director",
+      "phonetic": "/dɪˈrɛktər/",
+      "translation": "导演",
+      "core": true,
+      "coreWord": "director"
+    },
+    "found": {
+      "word": "found",
+      "phonetic": "/faʊnd/",
+      "translation": "成立",
+      "core": false
+    },
+    "way": {
+      "word": "way",
+      "phonetic": "/weɪ/",
+      "translation": "方式",
+      "core": false
+    },
+    "to": {
+      "word": "to",
+      "phonetic": "/tuː/",
+      "translation": "到；向",
+      "core": false
+    },
+    "make": {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "translation": "制作",
+      "core": false
+    },
+    "into": {
+      "word": "into",
+      "phonetic": "/ˈɪntu/",
+      "translation": "进入",
+      "core": false
+    },
+    "animated": {
+      "word": "animated",
+      "phonetic": "/ˈænəˌmeɪtɪd/",
+      "translation": "动画",
+      "core": false
+    },
+    "film": {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "translation": "电影",
+      "core": true,
+      "coreWord": "film"
+    },
+    "tells": {
+      "word": "tells",
+      "phonetic": "/tɛlz/",
+      "translation": "告诉",
+      "core": true,
+      "coreWord": "tell"
+    },
+    "story": {
+      "word": "story",
+      "phonetic": "/ˈstɔri/",
+      "translation": "故事",
+      "core": true,
+      "coreWord": "story"
+    },
+    "pilot": {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "translation": "飞行员",
+      "core": true,
+      "coreWord": "pilot"
+    },
+    "called": {
+      "word": "called",
+      "phonetic": "/kɔld/",
+      "translation": "被称为",
+      "core": true,
+      "coreWord": "call"
+    },
+    "aviator": {
+      "word": "Aviator",
+      "phonetic": "/ˈeɪviˌeɪtər/",
+      "translation": "飞行员",
+      "core": false
+    },
+    "who": {
+      "word": "who",
+      "phonetic": "/hu/",
+      "translation": "WHO",
+      "core": false
+    },
+    "crashes": {
+      "word": "crashes",
+      "phonetic": "/ˈkræʃɪz/",
+      "translation": "崩溃",
+      "core": true,
+      "coreWord": "crash"
+    },
+    "desert": {
+      "word": "desert",
+      "phonetic": "/ˈdɛzərt/",
+      "translation": "沙漠",
+      "core": true,
+      "coreWord": "desert"
+    },
+    "rather": {
+      "word": "rather",
+      "phonetic": "/ˈrəðər/",
+      "translation": "相当",
+      "core": true,
+      "coreWord": "rather"
+    },
+    "than": {
+      "word": "than",
+      "phonetic": "/ðən/",
+      "translation": "比",
+      "core": false
+    },
+    "airport": {
+      "word": "airport",
+      "phonetic": "/ˈɛrˌpɔrt/",
+      "translation": "飞机场",
+      "core": true,
+      "coreWord": "airport"
+    },
+    "starts": {
+      "word": "starts",
+      "phonetic": "/stɑrts/",
+      "translation": "开始",
+      "core": false
+    },
+    "crash": {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "translation": "碰撞",
+      "core": true,
+      "coreWord": "crash"
+    },
+    "when": {
+      "word": "when",
+      "phonetic": "/wɪn/",
+      "translation": "什么时候",
+      "core": false
+    },
+    "is": {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "translation": "是",
+      "core": false
+    },
+    "much": {
+      "word": "much",
+      "phonetic": "/məʧ/",
+      "translation": "很多",
+      "core": false
+    },
+    "older": {
+      "word": "older",
+      "phonetic": "/ˈoʊldər/",
+      "translation": "较老的",
+      "core": false
+    },
+    "he": {
+      "word": "He",
+      "phonetic": "/hiː/",
+      "translation": "他",
+      "core": false
+    },
+    "got": {
+      "word": "got",
+      "phonetic": "/gɑt/",
+      "translation": "得到",
+      "core": false
+    },
+    "new": {
+      "word": "new",
+      "phonetic": "/nu/",
+      "translation": "新的",
+      "core": false
+    },
+    "neighbour": {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbər/",
+      "translation": "邻居",
+      "core": true,
+      "coreWord": "neighbour"
+    },
+    "girl": {
+      "word": "Girl",
+      "phonetic": "/gərl/",
+      "translation": "女孩",
+      "core": false
+    },
+    "his": {
+      "word": "his",
+      "phonetic": "/hɪz/",
+      "translation": "他的",
+      "core": false
+    },
+    "time": {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "translation": "时间",
+      "core": false
+    },
+    "takes": {
+      "word": "takes",
+      "phonetic": "/teɪks/",
+      "translation": "需要",
+      "core": false
+    },
+    "her": {
+      "word": "her",
+      "phonetic": "/hər/",
+      "translation": "她",
+      "core": false
+    },
+    "amazing": {
+      "word": "amazing",
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "translation": "惊人的",
+      "core": false
+    },
+    "world": {
+      "word": "world",
+      "phonetic": "/wərld/",
+      "translation": "世界",
+      "core": false
+    },
+    "china": {
+      "word": "China",
+      "phonetic": "/ˈʧaɪnə/",
+      "translation": "中国",
+      "core": false
+    },
+    "first": {
+      "word": "first",
+      "phonetic": "/fərst/",
+      "translation": "第一的",
+      "core": false
+    },
+    "country": {
+      "word": "country",
+      "phonetic": "/ˈkəntri/",
+      "translation": "国家",
+      "core": true,
+      "coreWord": "country"
+    },
+    "see": {
+      "word": "see",
+      "phonetic": "/si/",
+      "translation": "看",
+      "core": false
+    },
+    "two": {
+      "word": "two",
+      "phonetic": "/tu/",
+      "translation": "二",
+      "core": false
+    },
+    "versions": {
+      "word": "versions",
+      "phonetic": "/ˈvərʒənz/",
+      "translation": "版本",
+      "core": true,
+      "coreWord": "version"
+    },
+    "chinese": {
+      "word": "Chinese",
+      "phonetic": "/ʧaɪˈniz/",
+      "translation": "中国人",
+      "core": false
+    },
+    "english": {
+      "word": "English",
+      "phonetic": "/ˈɪŋlɪʃ/",
+      "translation": "英语",
+      "core": false
+    },
+    "princes": {
+      "word": "Prince's",
+      "phonetic": "/ˈprɪnsɪz/",
+      "translation": "王子",
+      "core": true,
+      "coreWord": "prince"
+    },
+    "beautiful": {
+      "word": "beautiful",
+      "phonetic": "/ˈbjutəfəl/",
+      "translation": "美丽的",
+      "core": true,
+      "coreWord": "beautiful"
+    },
+    "tickets": {
+      "word": "tickets",
+      "phonetic": "/ˈtɪkɪts/",
+      "translation": "门票",
+      "core": true,
+      "coreWord": "ticket"
+    },
+    "were": {
+      "word": "were",
+      "phonetic": "/wər/",
+      "translation": "是",
+      "core": false
+    },
+    "quickly": {
+      "word": "quickly",
+      "phonetic": "/kˈwɪkli/",
+      "translation": "迅速地",
+      "core": false
+    },
+    "out": {
+      "word": "out",
+      "phonetic": "/aʊt/",
+      "translation": "出去",
+      "core": false
+    },
+    "cinemas": {
+      "word": "cinemas",
+      "phonetic": "/ˈsɪnəməz/",
+      "translation": "电影院",
+      "core": true,
+      "coreWord": "cinema"
+    },
+    "local": {
+      "word": "local",
+      "phonetic": "/ˈloʊkəl/",
+      "translation": "当地的",
+      "core": false
+    },
+    "theatres": {
+      "word": "theatres",
+      "phonetic": "/ˈθiətərz/",
+      "translation": "剧院",
+      "core": true,
+      "coreWord": "theatre"
+    },
+    "across": {
+      "word": "across",
+      "phonetic": "/əˈkrɔs/",
+      "translation": "穿过",
+      "core": false
+    },
+    "received": {
+      "word": "received",
+      "phonetic": "/rɪˈsivd/",
+      "translation": "已收到",
+      "core": false
+    },
+    "prize": {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "translation": "奖",
+      "core": true,
+      "coreWord": "prize"
+    },
+    "for": {
+      "word": "for",
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给",
+      "core": false
+    },
+    "like": {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "translation": "喜欢",
+      "core": false
+    },
+    "childhood": {
+      "word": "childhood",
+      "phonetic": "/ˈʧaɪlˌdhʊd/",
+      "translation": "童年",
+      "core": true,
+      "coreWord": "childhood"
+    },
+    "dream": {
+      "word": "dream",
+      "phonetic": "/drim/",
+      "translation": "梦",
+      "core": false
+    },
+    "which": {
+      "word": "which",
+      "phonetic": "/wɪʧ/",
+      "translation": "哪个",
+      "core": false
+    },
+    "lost": {
+      "word": "lost",
+      "phonetic": "/lɔst/",
+      "translation": "丢失的",
+      "core": false
+    },
+    "most": {
+      "word": "most",
+      "phonetic": "/moʊst/",
+      "translation": "最多",
+      "core": false
+    },
+    "adults": {
+      "word": "adults",
+      "phonetic": "/ˈædəlts/",
+      "translation": "成年人",
+      "core": true,
+      "coreWord": "adult"
+    },
+    "this": {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "translation": "这",
+      "core": false
+    },
+    "stressed": {
+      "word": "stressed",
+      "phonetic": "/strɛst/",
+      "translation": "强调",
+      "core": false
+    },
+    "society": {
+      "word": "society",
+      "phonetic": "/soʊˈsaɪɪti/",
+      "translation": "社会",
+      "core": true,
+      "coreWord": "society"
+    },
+    "radio": {
+      "word": "radio",
+      "phonetic": "/ˈreɪdiˌoʊ/",
+      "translation": "收音机",
+      "core": true,
+      "coreWord": "radio"
+    },
+    "stations": {
+      "word": "stations",
+      "phonetic": "/ˈsteɪʃənz/",
+      "translation": "车站",
+      "core": false
+    },
+    "also": {
+      "word": "also",
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还",
+      "core": false
+    },
+    "did": {
+      "word": "did",
+      "phonetic": "/dɪd/",
+      "translation": "做过",
+      "core": false
+    },
+    "interviews": {
+      "word": "interviews",
+      "phonetic": "/ˈɪntərvˌjuz/",
+      "translation": "采访",
+      "core": true,
+      "coreWord": "interview"
+    },
+    "with": {
+      "word": "with",
+      "phonetic": "/wɪð/",
+      "translation": "和；带有",
+      "core": false
+    },
+    "voice": {
+      "word": "voice",
+      "phonetic": "/vɔɪs/",
+      "translation": "嗓音",
+      "core": false
+    },
+    "actors": {
+      "word": "actors",
+      "phonetic": "/ˈæktərz/",
+      "translation": "演员",
+      "core": true,
+      "coreWord": "actor"
+    },
+    "actresses": {
+      "word": "actresses",
+      "phonetic": "/ˈæktrəsɪz/",
+      "translation": "女演员",
+      "core": true,
+      "coreWord": "actress"
+    },
+    "addressed": {
+      "word": "addressed",
+      "phonetic": "/əˈdrɛst/",
+      "translation": "已解决",
+      "core": true,
+      "coreWord": "address"
+    },
+    "their": {
+      "word": "their",
+      "phonetic": "/ðɛr/",
+      "translation": "他们的",
+      "core": false
+    },
+    "thankfulness": {
+      "word": "thankfulness",
+      "phonetic": "/thankfulness/",
+      "translation": "感恩",
+      "core": false
+    },
+    "touching": {
+      "word": "touching",
+      "phonetic": "/ˈtəʧɪŋ/",
+      "translation": "接触",
+      "core": true,
+      "coreWord": "touching"
+    },
+    "part": {
+      "word": "part",
+      "phonetic": "/pɑrt/",
+      "translation": "部分",
+      "core": false
+    },
+    "that": {
+      "word": "that",
+      "phonetic": "/ðət/",
+      "translation": "那",
+      "core": false
+    },
+    "every": {
+      "word": "every",
+      "phonetic": "/ˈɛvəri/",
+      "translation": "每一个",
+      "core": false
+    },
+    "adult": {
+      "word": "adult",
+      "phonetic": "/ˈædəlt/",
+      "translation": "成人",
+      "core": true,
+      "coreWord": "adult"
+    },
+    "was": {
+      "word": "was",
+      "phonetic": "/wɑz/",
+      "translation": "曾是",
+      "core": false
+    },
+    "good": {
+      "word": "good",
+      "phonetic": "/gʊd/",
+      "translation": "好的",
+      "core": false
+    },
+    "natured": {
+      "word": "natured",
+      "phonetic": "/ˈneɪʧərd/",
+      "translation": "自然的",
+      "core": false
+    },
+    "kid": {
+      "word": "kid",
+      "phonetic": "/kɪd/",
+      "translation": "孩子",
+      "core": false
+    },
+    "pity": {
+      "word": "pity",
+      "phonetic": "/ˈpɪti/",
+      "translation": "遗憾",
+      "core": true,
+      "coreWord": "pity"
+    },
+    "characteristic": {
+      "word": "characteristic",
+      "phonetic": "/ˌkɛrɪktərˈɪstɪk/",
+      "translation": "特征",
+      "core": true,
+      "coreWord": "characteristic"
+    },
+    "goes": {
+      "word": "goes",
+      "phonetic": "/goʊz/",
+      "translation": "去",
+      "core": false
+    },
+    "away": {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "translation": "离开",
+      "core": true,
+      "coreWord": "away"
+    },
+    "flies": {
+      "word": "flies",
+      "phonetic": "/flaɪz/",
+      "translation": "苍蝇",
+      "core": true,
+      "coreWord": "fly"
+    }
+  },
+  "coreCards": [
+    {
+      "word": "read",
+      "phonetic": "/ri:d/",
+      "translation": "v.读，阅读；懂得，理解；读到n.阅读，read\n读书",
+      "definition": "/ri:d/ v.读，阅读；懂得，理解；读到n.阅读，read\n读书",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：低下head（头），开始read（读）"
+        },
+        {
+          "label": "用",
+          "text": "过去式：read 过去分词：read\n拍\nreadable（adi. 易读懂的）reader（n. 读者）"
+        }
+      ],
+      "example": "If you love reading books, you must know about The Little Prince.",
+      "aliases": [
+        "reading"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "prince",
+      "phonetic": "/prɪns/",
+      "translation": "n. 王子；亲王",
+      "definition": "/prɪns/ n. 王子；亲王",
+      "sections": [],
+      "example": "If you love reading books, you must know about The Little Prince.",
+      "aliases": [
+        "Prince",
+        "prince",
+        "Prince's",
+        "princes"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "novel",
+      "phonetic": "/ˈnɑvəl/",
+      "translation": "小说",
+      "definition": "/ˈnɑvəl/ 小说",
+      "sections": [],
+      "example": "It's a famous novel written by a French writer.",
+      "aliases": [
+        "novel"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "writer",
+      "phonetic": "/ˈraɪtər/",
+      "translation": "n. 作者，作家",
+      "definition": "/ˈraɪtər/ n. 作者，作家",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：write（写）+r（相当于 er，\n表人，因为write 以e 结尾，所以只加\n上「即可） 写东西的人一作家"
+        }
+      ],
+      "example": "It's a famous novel written by a French writer.",
+      "aliases": [
+        "writer"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "history",
+      "phonetic": "/ˈhɪstəri/",
+      "translation": "n. 历史；历史学",
+      "definition": "/ˈhɪstəri/ n. 历史；历史学",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "a history museum 一座历史博物馆"
+        }
+      ],
+      "example": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "aliases": [
+        "history"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "sell",
+      "phonetic": "",
+      "translation": "v. 荬，出售；推销",
+      "definition": "v. 荬，出售；推销",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：sell（卖）shell（贝売）\n撘\nsell at 以·\n价格出售 sell out / be\nsold out 售完\nshell"
+        },
+        {
+          "label": "用",
+          "text": "过去式：sold"
+        },
+        {
+          "label": "用",
+          "text": "过去分词：sold"
+        }
+      ],
+      "example": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "aliases": [
+        "sold"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "copy",
+      "phonetic": "/kppi/",
+      "translation": "n. 复印件，复制品；一本，一份v.抄写；复印；抄袭；\n模仿",
+      "definition": "/kppi/ n. 复印件，复制品；一本，一份v.抄写；复印；抄袭；\n模仿",
+      "sections": [
+        {
+          "label": "用",
+          "text": "第三人称单数：copies\nElephants learn by watching and\ncopying other elephants, and also learn\nfrom life. 大象通过观察和模仿其他大象\n来学习，也从生活中学习。"
+        }
+      ],
+      "example": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "aliases": [
+        "copies"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "dialect",
+      "phonetic": "/'daralekt/",
+      "translation": "n. 方言，地方话",
+      "definition": "/'daralekt/ n. 方言，地方话",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：dia（相对）+lect（讲） 讲方言相对于讲普通话\n更亲切 方言"
+        }
+      ],
+      "example": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "aliases": [
+        "dialects"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "director",
+      "phonetic": "/dɪˈrɛktər/",
+      "translation": "n. 主管，主任；董事；导演\n3D\n［，Oriz'dix］ n.（影片或图片）三维，立体",
+      "definition": "/dɪˈrɛktər/ n. 主管，主任；董事；导演\n3D\n［，Oriz'dix］ n.（影片或图片）三维，立体",
+      "sections": [],
+      "example": "Around 70 years after the birth of the book, an American director has found a way to make it into a 3D animated film.",
+      "aliases": [
+        "director"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "3D",
+      "phonetic": "/ˌθriː ˈdiː/",
+      "translation": "n.（影片或图片）三维，立体",
+      "definition": "/ˌθriː ˈdiː/ n.（影片或图片）三维，立体",
+      "sections": [],
+      "example": "Around 70 years after the birth of the book, an American director has found a way to make it into a 3D animated film.",
+      "aliases": [],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "translation": "n. 电影；胶卷v.拍摄电影",
+      "definition": "/fɪlm/ n. 电影；胶卷v.拍摄电影",
+      "sections": [],
+      "example": "Around 70 years after the birth of the book, an American director has found a way to make it into a 3D animated film.",
+      "aliases": [
+        "film"
+      ],
+      "sourcePhoto": "IMG_3635.JPG"
+    },
+    {
+      "word": "tell",
+      "phonetic": "/tɛl/",
+      "translation": "tellv讲述；告诉；吩咐；显示；区分",
+      "definition": "/tɛl/ tellv讲述；告诉；吩咐；显示；区分",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：个子高（tall）的人，讲话（tell）\n嗓门大"
+        },
+        {
+          "label": "搭",
+          "text": "tell from区分"
+        },
+        {
+          "label": "用",
+          "text": "过去式：told 过去分词：told"
+        },
+        {
+          "label": "拓",
+          "text": "teller （n. 叙述者；提款机）"
+        }
+      ],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "tells"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "story",
+      "phonetic": "/ˈstɔri/",
+      "translation": "n. 故事；小说；叙述；新闻报道",
+      "definition": "/ˈstɔri/ n. 故事；小说；叙述；新闻报道",
+      "sections": [],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "story"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "translation": "n. 飞行员",
+      "definition": "/ˈpaɪlət/ n. 飞行员",
+      "sections": [],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "pilot"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "call",
+      "phonetic": "/ko:l/",
+      "translation": "v. 称呼，把：\n···山做；（给⋯⋯打\n电话；拜访 n.通话；拜访；喊叫（禽、兽的）\n叫声",
+      "definition": "/ko:l/ v. 称呼，把：\n···山做；（给⋯⋯打\n电话；拜访 n.通话；拜访；喊叫（禽、兽的）\n叫声",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "call back 回电话 call for sb.（去）接\n某人 call for sth. 需要 call off 取消，\n放弃 call sth.up 使回忆起\nI was taking a shower when you called.\n你打电话来的时候我正在洗澡。"
+        }
+      ],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "called"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "translation": "n. 碰撞",
+      "definition": "/kræʃ/ n. 碰撞",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "a car/plane crash 汽车撞车事故；飞机\n失事\ndessert"
+        }
+      ],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "crash",
+        "crashes"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "desert",
+      "phonetic": "/ˈdɛzərt/",
+      "translation": "n. 沙漠",
+      "definition": "/ˈdɛzərt/ n. 沙漠",
+      "sections": [],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "desert"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "rather",
+      "phonetic": "/ˈrəðər/",
+      "translation": "相当",
+      "definition": "/ˈrəðər/ 相当",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：和 dessert（n. 甜点）一起记"
+        },
+        {
+          "label": "搭",
+          "text": "［'ra:0a（r）］ adv相当；有点儿；相反，反而\n做某事）\nwouldhad rather do sth. （than do sth.） 宁愿做某事（也不愿\nrather than 而不是"
+        }
+      ],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "rather"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈɛrˌpɔrt/",
+      "translation": "n. 机场；航空港\n词合成词：air（天空）+port（港口）一航\n空港",
+      "definition": "/ˈɛrˌpɔrt/ n. 机场；航空港\n词合成词：air（天空）+port（港口）一航\n空港",
+      "sections": [],
+      "example": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "aliases": [
+        "airport"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbər/",
+      "translation": "n.邻居；邻国；身边的人",
+      "definition": "/ˈneɪbər/ n.邻居；邻国；身边的人",
+      "sections": [
+        {
+          "label": "用",
+          "text": "美式写法：neighbor"
+        }
+      ],
+      "example": "He has got a new neighbour called The Little Girl.",
+      "aliases": [
+        "neighbour"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkəntri/",
+      "translation": "国家",
+      "definition": "/ˈkəntri/ 国家",
+      "sections": [],
+      "example": "China is the first country in the world to see the film in two versions, in Chinese and English.",
+      "aliases": [
+        "country"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "version",
+      "phonetic": "/version/",
+      "translation": "n. 国家；（the country）国民；乡村\n［v3:/nl n.（电影、剧本、乐曲等的）版本；变体",
+      "definition": "/version/ n. 国家；（the country）国民；乡村\n［v3:/nl n.（电影、剧本、乐曲等的）版本；变体",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：vers（转） +ion 不同版本之间转換一版本"
+        }
+      ],
+      "example": "China is the first country in the world to see the film in two versions, in Chinese and English.",
+      "aliases": [
+        "versions"
+      ],
+      "sourcePhoto": "IMG_3636.JPG"
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjutəfəl/",
+      "translation": "adj. 美丽的；出色的\nbeautiful",
+      "definition": "/ˈbjutəfəl/ adj. 美丽的；出色的\nbeautiful",
+      "sections": [
+        {
+          "label": "用",
+          "text": "比较级：more beautiful"
+        },
+        {
+          "label": "用",
+          "text": "最高级：the most beautiful"
+        }
+      ],
+      "example": "The film tells The Little Prince's story in a beautiful way.",
+      "aliases": [
+        "beautiful"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/tikrt/",
+      "translation": "n. 票；入场券；车票",
+      "definition": "/tikrt/ n. 票；入场券；车票",
+      "sections": [],
+      "example": "Film tickets were quickly sold out in many cinemas and local theatres across the country.",
+      "aliases": [
+        "tickets"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "cinema",
+      "phonetic": "/'sinama/",
+      "translation": "n.电影院\n9o to the cinema 去看电影",
+      "definition": "/'sinama/ n.电影院\n9o to the cinema 去看电影",
+      "sections": [],
+      "example": "Film tickets were quickly sold out in many cinemas and local theatres across the country.",
+      "aliases": [
+        "cinemas"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "theatre",
+      "phonetic": "/'Orete（r）/",
+      "translation": "n. 戏院，剧场；电影院",
+      "definition": "/'Orete（r）/ n. 戏院，剧场；电影院",
+      "sections": [
+        {
+          "label": "用",
+          "text": "美式写法：theater"
+        }
+      ],
+      "example": "Film tickets were quickly sold out in many cinemas and local theatres across the country.",
+      "aliases": [
+        "theatres"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "translation": "n. 奖赏，奖金，奖品",
+      "definition": "/praɪz/ n. 奖赏，奖金，奖品",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：不顾price（代价）\n获得 prize\n（奖品），感到 pride（自豪）"
+        },
+        {
+          "label": "用",
+          "text": "注意 prize 与 price 的区别：prize 表示“奖\n赏，奖金，奖品”\n，price 表示“价格，价\n钱”。"
+        }
+      ],
+      "example": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
+      "aliases": [
+        "prize"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "childhood",
+      "phonetic": "/ˈʧaɪlˌdhʊd/",
+      "translation": "n.童年，孩童时期\nprize",
+      "definition": "/ˈʧaɪlˌdhʊd/ n.童年，孩童时期\nprize",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：child（儿童）+hood（表名词）\n儿童时期一童年"
+        }
+      ],
+      "example": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
+      "aliases": [
+        "childhood"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "adult",
+      "phonetic": "/ˈædəlt/",
+      "translation": "n. 成年人 adj. 成年的\n竞赛奖",
+      "definition": "/ˈædəlt/ n. 成年人 adj. 成年的\n竞赛奖",
+      "sections": [],
+      "example": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
+      "aliases": [
+        "adult",
+        "adults"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "society",
+      "phonetic": "/soʊˈsaɪɪti/",
+      "translation": "n. 社会；社团，协会",
+      "definition": "/soʊˈsaɪɪti/ n. 社会；社团，协会",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：soci（社会）+ety（表性质）—社会"
+        }
+      ],
+      "example": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
+      "aliases": [
+        "society"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "radio",
+      "phonetic": "/ˈreɪdiˌoʊ/",
+      "translation": "n. 无线电广播；收音机",
+      "definition": "/ˈreɪdiˌoʊ/ n. 无线电广播；收音机",
+      "sections": [
+        {
+          "label": "搭",
+          "text": "radio station广播电台"
+        }
+      ],
+      "example": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "aliases": [
+        "radio"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "interview",
+      "phonetic": "/intavju：/",
+      "translation": "n.面试，面谈；记者采访v面试；采访",
+      "definition": "/intavju：/ n.面试，面谈；记者采访v面试；采访",
+      "sections": [
+        {
+          "label": "记",
+          "text": "词根记忆：inter（相互）+view（看） 相互观察一面试"
+        },
+        {
+          "label": "拓",
+          "text": "interviewer（n. 主持面试者；采访者）"
+        }
+      ],
+      "example": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "aliases": [
+        "interviews"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "actor",
+      "phonetic": "/'zkta（r）/",
+      "translation": "n. 演员\naddress",
+      "definition": "/'zkta（r）/ n. 演员\naddress",
+      "sections": [],
+      "example": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "aliases": [
+        "actors"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "actress",
+      "phonetic": "/'aektras/",
+      "translation": "n. 女演员",
+      "definition": "/'aektras/ n. 女演员",
+      "sections": [],
+      "example": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "aliases": [
+        "actresses"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "address",
+      "phonetic": "/o'dres/",
+      "translation": "n.地址v.写（收信人）姓名地址；\n演讲；向··说话；设法解决",
+      "definition": "/o'dres/ n.地址v.写（收信人）姓名地址；\n演讲；向··说话；设法解决",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：地址（address）出错，衣服\n（dress）没收到"
+        }
+      ],
+      "example": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "aliases": [
+        "addressed"
+      ],
+      "sourcePhoto": "IMG_3637.JPG"
+    },
+    {
+      "word": "touching",
+      "phonetic": "/ˈtəʧɪŋ/",
+      "translation": "接触",
+      "definition": "/ˈtəʧɪŋ/ 接触",
+      "sections": [],
+      "example": "And the most touching part is that every adult was a good-natured kid like The Little Prince.",
+      "aliases": [
+        "touching"
+      ],
+      "sourcePhoto": "IMG_3638.JPG"
+    },
+    {
+      "word": "pity",
+      "phonetic": "/ˈpɪti/",
+      "translation": "n. 同情心；怜悯；遗憾的事v同情，怜悯",
+      "definition": "/ˈpɪti/ n. 同情心；怜悯；遗憾的事v同情，怜悯",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：离开一座 city（城），是 pity（遗憾的事）\nfeel pity for ⋯⋯感到可惜/同情"
+        }
+      ],
+      "example": "And it's a pity that this good characteristic goes away, as time flies.",
+      "aliases": [
+        "pity"
+      ],
+      "sourcePhoto": "IMG_3638.JPG"
+    },
+    {
+      "word": "characteristic",
+      "phonetic": "/ˌkɛrɪktərˈɪstɪk/",
+      "translation": "特征",
+      "definition": "/ˌkɛrɪktərˈɪstɪk/ 特征",
+      "sections": [],
+      "example": "And it's a pity that this good characteristic goes away, as time flies.",
+      "aliases": [
+        "characteristic"
+      ],
+      "sourcePhoto": "IMG_3638.JPG"
+    },
+    {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "translation": "adv.离开；去别处；直到完全消失",
+      "definition": "/əˈweɪ/ adv.离开；去别处；直到完全消失",
+      "sections": [
+        {
+          "label": "记",
+          "text": "联想记忆：离开（away）这里只有一条（a）路线（way）"
+        },
+        {
+          "label": "搭",
+          "text": "right away立刻\nrun away 跑开 break\naway from 摆脱："
+        }
+      ],
+      "example": "And it's a pity that this good characteristic goes away, as time flies.",
+      "aliases": [
+        "away"
+      ],
+      "sourcePhoto": "IMG_3638.JPG"
+    },
+    {
+      "word": "fly",
+      "phonetic": "",
+      "translation": "flarl v 飞；飞行；飞逝；驾驶（飞机等）\nn. 苍蝇",
+      "definition": "flarl v 飞；飞行；飞逝；驾驶（飞机等）\nn. 苍蝇",
+      "sections": [
+        {
+          "label": "用",
+          "text": "过去式：flew 过去分词：flown"
+        }
+      ],
+      "example": "And it's a pity that this good characteristic goes away, as time flies.",
+      "aliases": [
+        "flies"
+      ],
+      "sourcePhoto": "IMG_3638.JPG"
+    }
+  ],
+  "coreWordCount": 40,
+  "revision": "20260921-comma-chunks",
+  "readingPolicy": {
+    "model": "IndexTeam/IndexTTS-2.5",
+    "durationFactor": 1.18,
+    "pauseSeconds": 0.7,
+    "wordAudio": "browser-en-GB",
+    "sentenceAudio": "independently-generated-chunks"
+  },
+  "pages": [
+    {
+      "cover": true,
+      "sentenceId": 0,
+      "image": "assets/images/00.webp",
+      "audio": "",
+      "en": "",
+      "cn": ""
+    },
+    {
+      "cover": false,
+      "sentenceId": 1,
+      "sourceSentenceId": 1,
+      "chunkId": "s12-p01",
+      "image": "assets/images/01.webp",
+      "audio": "assets/audio/segments/s12-p01.mp3",
+      "en": "If you love reading books, you must know about The Little Prince.",
+      "cn": "如果你喜欢读书，你一定知道《小王子》。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 2,
+      "sourceSentenceId": 2,
+      "chunkId": "s12-p02",
+      "image": "assets/images/02.webp",
+      "audio": "assets/audio/segments/s12-p02.mp3",
+      "en": "It's a famous novel written by a French writer.",
+      "cn": "这是由一位法国作家写的一本著名小说。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 3,
+      "sourceSentenceId": 3,
+      "chunkId": "s12-p03-01",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s12-p03-01.mp3",
+      "en": "As one of the best-selling books in history,",
+      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 4,
+      "sourceSentenceId": 3,
+      "chunkId": "s12-p03-02",
+      "image": "assets/images/03.webp",
+      "audio": "assets/audio/segments/s12-p03-02.mp3",
+      "en": "it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 5,
+      "sourceSentenceId": 4,
+      "chunkId": "s12-p04-01",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s12-p04-01.mp3",
+      "en": "Around 70 years after the birth of the book,",
+      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 6,
+      "sourceSentenceId": 4,
+      "chunkId": "s12-p04-02",
+      "image": "assets/images/04.webp",
+      "audio": "assets/audio/segments/s12-p04-02.mp3",
+      "en": "an American director has found a way to make it into a 3D animated film.",
+      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 7,
+      "sourceSentenceId": 5,
+      "chunkId": "s12-p05",
+      "image": "assets/images/05.webp",
+      "audio": "assets/audio/segments/s12-p05.mp3",
+      "en": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
+      "cn": "这本书讲述了一位飞行员的故事，他被称为“飞行员”，坠机在沙漠中，而非机场。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 8,
+      "sourceSentenceId": 6,
+      "chunkId": "s12-p06",
+      "image": "assets/images/06.webp",
+      "audio": "assets/audio/segments/s12-p06.mp3",
+      "en": "In the film, the story starts years after the crash, when The Aviator is much older.",
+      "cn": "在电影中，故事开始于坠机的多年后，此时的“飞行员”已经老去。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 9,
+      "sourceSentenceId": 7,
+      "chunkId": "s12-p07",
+      "image": "assets/images/07.webp",
+      "audio": "assets/audio/segments/s12-p07.mp3",
+      "en": "He has got a new neighbour called The Little Girl.",
+      "cn": "他有了一个叫“小女孩”的新邻居。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 10,
+      "sourceSentenceId": 8,
+      "chunkId": "s12-p08",
+      "image": "assets/images/08.webp",
+      "audio": "assets/audio/segments/s12-p08.mp3",
+      "en": "He tells The Little Girl about his time in the desert.",
+      "cn": "他向“小女孩”讲述了自己在沙漠中的时光。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 11,
+      "sourceSentenceId": 9,
+      "chunkId": "s12-p09",
+      "image": "assets/images/09.webp",
+      "audio": "assets/audio/segments/s12-p09.mp3",
+      "en": "His story takes her to an amazing world.",
+      "cn": "他的故事带她进入了一个奇妙的世界。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 12,
+      "sourceSentenceId": 10,
+      "chunkId": "s12-p10",
+      "image": "assets/images/10.webp",
+      "audio": "assets/audio/segments/s12-p10.mp3",
+      "en": "China is the first country in the world to see the film in two versions, in Chinese and English.",
+      "cn": "中国是世界上第一个看到这部电影中英两种版本的国家。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 13,
+      "sourceSentenceId": 11,
+      "chunkId": "s12-p11",
+      "image": "assets/images/11.webp",
+      "audio": "assets/audio/segments/s12-p11.mp3",
+      "en": "The film tells The Little Prince's story in a beautiful way.",
+      "cn": "影片以一种优美的方式讲述了小王子的故事。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 14,
+      "sourceSentenceId": 12,
+      "chunkId": "s12-p12",
+      "image": "assets/images/12.webp",
+      "audio": "assets/audio/segments/s12-p12.mp3",
+      "en": "Film tickets were quickly sold out in many cinemas and local theatres across the country.",
+      "cn": "电影票在全国许多电影院和地方剧院迅速售罄。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 15,
+      "sourceSentenceId": 13,
+      "chunkId": "s12-p13-01",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s12-p13-01.mp3",
+      "en": "The film has received a prize,",
+      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 16,
+      "sourceSentenceId": 13,
+      "chunkId": "s12-p13-02",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s12-p13-02.mp3",
+      "en": "for it is like a childhood dream,",
+      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 17,
+      "sourceSentenceId": 13,
+      "chunkId": "s12-p13-03",
+      "image": "assets/images/13.webp",
+      "audio": "assets/audio/segments/s12-p13-03.mp3",
+      "en": "which is lost by most adults in this stressed-out society.",
+      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 18,
+      "sourceSentenceId": 14,
+      "chunkId": "s12-p14",
+      "image": "assets/images/14.webp",
+      "audio": "assets/audio/segments/s12-p14.mp3",
+      "en": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
+      "cn": "广播电台也对配音的男女演员们进行了采访，演员们表达了感激之情。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 19,
+      "sourceSentenceId": 15,
+      "chunkId": "s12-p15",
+      "image": "assets/images/15.webp",
+      "audio": "assets/audio/segments/s12-p15.mp3",
+      "en": "And the most touching part is that every adult was a good-natured kid like The Little Prince.",
+      "cn": "最动人的部分在于，每个成年人都曾是像小王子那样善良的孩子。"
+    },
+    {
+      "cover": false,
+      "sentenceId": 20,
+      "sourceSentenceId": 16,
+      "chunkId": "s12-p16",
+      "image": "assets/images/16.webp",
+      "audio": "assets/audio/segments/s12-p16.mp3",
+      "en": "And it's a pity that this good characteristic goes away, as time flies.",
+      "cn": "但遗憾的是，随着时间的流逝，这种美好的特质逐渐消失。"
+    }
+  ]
+}

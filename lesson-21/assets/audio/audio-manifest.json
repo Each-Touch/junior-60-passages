@@ -1,278 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s21-p01",
       "text": "You are always told to wash your hands before dining.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 4.443,
-      "raw_duration_seconds": 3.04,
-      "asr": "You are always told to wash your hands before dining.",
-      "published_asr": "You are always told to wash your hands before dining.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p01.mp3",
+      "sha256": "assets/audio/segments/s21-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s21-p02",
       "text": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
-      "published_asr": "You know you must wash your hands after going to the bathroom or touching a litter bin.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p02.mp3",
+      "sha256": "assets/audio/segments/s21-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s21-p03",
       "text": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
-      "published_asr": "Do you know how to wash your hands correctly to keep away from germs and flu virus?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p03.mp3",
+      "sha256": "assets/audio/segments/s21-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s21-p04",
       "text": "Always use soap to wash your hands.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "Always use soap to wash your hands.",
-      "published_asr": "Always use soap to wash your hands.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p04.mp3",
+      "sha256": "assets/audio/segments/s21-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s21-p05",
       "text": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
-      "published_asr": "After turning on the tap and wetting your hands, you can rub your hands with soap.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p05.mp3",
+      "sha256": "assets/audio/segments/s21-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s21-p06",
       "text": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.034,
-      "raw_duration_seconds": 4.8,
-      "asr": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
-      "published_asr": "Soap may not kill all the germs, but it can wash away the grease on your skin.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p06.mp3",
+      "sha256": "assets/audio/segments/s21-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s21-p07",
       "text": "As the grease is washed away, the germs will leave your hands and go away.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "As the grease is washed away, the germs will leave your hands and go away.",
-      "published_asr": "As the grease is washed away, the germs will leave your hands and go away.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p07.mp3",
+      "sha256": "assets/audio/segments/s21-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s21-p08",
       "text": "You should wash your hands for 15-20 seconds.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "You should wash your hands for 15-20 seconds.",
-      "published_asr": "You should wash your hands for 15-20 seconds.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p08.mp3",
+      "sha256": "assets/audio/segments/s21-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s21-p09",
       "text": "How do you know the length of 15-20 seconds?",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "How do you know the length of 15-20 seconds?",
-      "published_asr": "How do you know the length of 15-20 seconds?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p09.mp3",
+      "sha256": "assets/audio/segments/s21-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s21-p10",
       "text": "You can sing ABC Song.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 3.029,
-      "raw_duration_seconds": 2.08,
-      "asr": "You can sing ABC song.",
-      "published_asr": "You can sing ABC song.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p10.mp3",
+      "sha256": "assets/audio/segments/s21-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s21-p11",
       "text": "By the time you get to the last note, your hands will be clean.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "By the time you get to the last note, your hands will be clean.",
-      "published_asr": "By the time you get to the last note your hands will be clean",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p11.mp3",
+      "sha256": "assets/audio/segments/s21-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s21-p12",
       "text": "Then you can pull your hands out from under the tap.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 3.976,
-      "raw_duration_seconds": 2.72,
-      "asr": "Then you can pull your hands out from under the tap.",
-      "published_asr": "Then you can pull your hands out from under the tap",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p12.mp3",
+      "sha256": "assets/audio/segments/s21-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s21-p13",
       "text": "Rub your hands together.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "Rub your hands together.",
-      "published_asr": "Rub your hands together.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p13.mp3",
+      "sha256": "assets/audio/segments/s21-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s21-p14",
       "text": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.975,
-      "raw_duration_seconds": 5.44,
-      "asr": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
-      "published_asr": "You can use one hand to rub the back of the other hand and then exchange two hands to repeat this.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p14.mp3",
+      "sha256": "assets/audio/segments/s21-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s21-p15",
       "text": "You also need to rub between your fingers.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "You also need to rub between your fingers.",
-      "published_asr": "You also need to rub between your fingers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p15.mp3",
+      "sha256": "assets/audio/segments/s21-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s21-p16",
       "text": "Don't forget to rub under and around your fingernails.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.677,
-      "raw_duration_seconds": 3.2,
-      "asr": "Don't forget to rub under and around your fingernails.",
-      "published_asr": "Don't forget to rub under and around your fingernails.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p16.mp3",
+      "sha256": "assets/audio/segments/s21-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s21-p17",
       "text": "Maybe your hands don't look dirty, but there are germs on them.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "Maybe your hands don't look dirty, but there are germs on them.",
-      "published_asr": "Maybe your hands don't look dirty, but there are germs on them.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p17.mp3",
+      "sha256": "assets/audio/segments/s21-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s21-p18",
       "text": "Germs are too small for you to see.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "Germs are too small for you to see.",
-      "published_asr": "Germs are too small for you to see.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p18.mp3",
+      "sha256": "assets/audio/segments/s21-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s21-p19",
       "text": "They are on your hands all the time.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 3.515,
-      "raw_duration_seconds": 2.4,
-      "asr": "They are on your hands all the time.",
-      "published_asr": "They are on your hands all the time.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p19.mp3",
+      "sha256": "assets/audio/segments/s21-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s21-p20",
       "text": "Many illnesses are caused by germs.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 3.954,
-      "raw_duration_seconds": 2.72,
-      "asr": "Many illnesses are caused by germs.",
-      "published_asr": "Many illnesses are caused by germs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p20.mp3",
+      "sha256": "assets/audio/segments/s21-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s21-p21",
       "text": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes or potato salad!",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes, or potato salad.",
-      "published_asr": "Therefore, wash your hands carefully before enjoying your strawberries, pancakes, or potato salad.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s21-p21.mp3",
+      "sha256": "assets/audio/segments/s21-p21.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 21,
-    "raw_asr_exact_count": 21,
-    "published_asr_exact_count": 21,
-    "word_count": 109,
-    "word_accepted_count": 109,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

@@ -1,266 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
-      "text": "Tea and coffee are two of the most popular drinks in the world, however, people usually prefer one more than the other.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "Tea and coffee are two of the most popular drinks in the world, however, people usually prefer one more than the other.",
-      "published_asr": "Tea and coffee are two of the most popular drinks in the world. However, people usually prefer one more than the other.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s32-p01-01",
+      "text": "Tea and coffee are two of the most popular drinks in the world, however,",
+      "audio": "assets/audio/segments/s32-p01-01.mp3",
+      "sha256": "assets/audio/segments/s32-p01-01.mp3"
     },
     {
-      "id": 2,
+      "id": "s32-p01-02",
+      "text": "people usually prefer one more than the other.",
+      "audio": "assets/audio/segments/s32-p01-02.mp3",
+      "sha256": "assets/audio/segments/s32-p01-02.mp3"
+    },
+    {
+      "id": "s32-p02",
       "text": "Sometimes people argue about which is better.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "Sometimes people argue about which is better.",
-      "published_asr": "Sometimes people argue about which is better.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p02.mp3",
+      "sha256": "assets/audio/segments/s32-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s32-p03",
       "text": "Tea drinking started in China over 4,000 years ago.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "Tea drinking started in China over 4,000 years ago.",
-      "published_asr": "Tea drinking started in China over 4,000 years ago.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p03.mp3",
+      "sha256": "assets/audio/segments/s32-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s32-p04",
       "text": "These days, some people drink tea for health or losing weight.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "These days, some people drink tea for health or losing weight.",
-      "published_asr": "These days, some people drink tea for health or losing weight.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p04.mp3",
+      "sha256": "assets/audio/segments/s32-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s32-p05",
       "text": "However, most people think of tea as more than just a healthy drink.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "However, most people think of tea as more than just a healthy drink.",
-      "published_asr": "However, most people think of tea as more than just a healthy drink.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p05.mp3",
+      "sha256": "assets/audio/segments/s32-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s32-p06",
       "text": "In fact, tea drinking has become a kind of culture.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 5.391,
-      "raw_duration_seconds": 3.68,
-      "asr": "In fact, tea drinking has become a kind of culture.",
-      "published_asr": "In fact, tea drinking has become a kind of culture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p06.mp3",
+      "sha256": "assets/audio/segments/s32-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s32-p07",
       "text": "Tourists are often happy to be part of the local tea culture.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "Tourists are often happy to be part of the local tea culture.",
-      "published_asr": "Tourists are often happy to be part of the local tea culture.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p07.mp3",
+      "sha256": "assets/audio/segments/s32-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s32-p08",
       "text": "You might imagine that in the past, people gathered in a noble person's house at 3 o'clock p.m.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 8.211,
-      "raw_duration_seconds": 5.6,
-      "asr": "You might imagine that in the past, people gathered in a noble person's house at 3 o'clock p.m.",
-      "published_asr": "You might imagine that in the past, people gathered in a noble person's house at 3 o'clock p.m.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p08.mp3",
+      "sha256": "assets/audio/segments/s32-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s32-p09",
       "text": "The hostess greets each guest and begins to pour tea into their cups.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 6.091,
-      "raw_duration_seconds": 4.16,
-      "asr": "The hostess greets each guest and begins to pour tea into their cups.",
-      "published_asr": "The hostess greets each guest and begins to pour tea into their cups.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p09.mp3",
+      "sha256": "assets/audio/segments/s32-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s32-p10",
       "text": "In Turkey, tea is always there when people meet, whether offered in someone's home, a company or at a restaurant.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 9.634,
-      "raw_duration_seconds": 6.56,
-      "asr": "In Turkey, tea is always there when people meet, whether offered in someone's home, a company or at a restaurant.",
-      "published_asr": "In Turkey, tea is always there when people meet, whether offered in someone's home, a company or at a restaurant.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p10.mp3",
+      "sha256": "assets/audio/segments/s32-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s32-p11",
       "text": "In the UK, homes and offices usually have afternoon tea time when tea and other snacks are served.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "In the UK, homes and offices usually have afternoon tea time when tea and other snacks are served.",
-      "published_asr": "In the UK, homes and offices usually have afternoon tea time when tea and other snacks are served.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p11.mp3",
+      "sha256": "assets/audio/segments/s32-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s32-p12",
       "text": "People may use a spoon to mix milk and tea together and enjoy it with biscuits.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "People may use a spoon to mix milk and tea together and enjoy it with biscuits.",
-      "published_asr": "People may use a spoon to mix milk and tea together and enjoy it with biscuits.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p12.mp3",
+      "sha256": "assets/audio/segments/s32-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s32-p13",
       "text": "It is a way of relaxing with friends or co-workers.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 4.674,
-      "raw_duration_seconds": 3.2,
-      "asr": "It is a way of relaxing with friends or co-workers.",
-      "published_asr": "It is a way of relaxing with friends or co-workers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p13.mp3",
+      "sha256": "assets/audio/segments/s32-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s32-p14",
       "text": "Coffee came just over 1,000 years ago.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "Coffee came just over 1,000 years ago.",
-      "published_asr": "Coffee came just over 1,000 years ago.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p14.mp3",
+      "sha256": "assets/audio/segments/s32-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s32-p15",
       "text": "Coffee is made from beans.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.256,
-      "raw_duration_seconds": 2.24,
-      "asr": "Coffee is made from beans.",
-      "published_asr": "Coffee is made from beans.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p15.mp3",
+      "sha256": "assets/audio/segments/s32-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s32-p16",
       "text": "Something in the coffee beans makes a person feel active.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Something in the coffee beans makes a person feel active.",
-      "published_asr": "Something in the coffee beans makes a person feel active.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p16.mp3",
+      "sha256": "assets/audio/segments/s32-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s32-p17",
       "text": "Many people drink coffee in the morning to help them wake up before going to their jobs.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 7.274,
-      "raw_duration_seconds": 4.96,
-      "asr": "Many people drink coffee in the morning to help them wake up before going to their jobs.",
-      "published_asr": "Many people drink coffee in the morning to help them wake up before going to their jobs.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p17.mp3",
+      "sha256": "assets/audio/segments/s32-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s32-p18",
       "text": "Others also drink coffee in the afternoon to keep going through the working day.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 6.33,
-      "raw_duration_seconds": 4.32,
-      "asr": "Others also drink coffee in the afternoon to keep going through the working day.",
-      "published_asr": "Others also drink coffee in the afternoon to keep going through the working day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p18.mp3",
+      "sha256": "assets/audio/segments/s32-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s32-p19",
       "text": "Some people may visit coffee shops just to meet and talk with friends.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 6.09,
-      "raw_duration_seconds": 4.16,
-      "asr": "Some people may visit coffee shops just to meet and talk with friends.",
-      "published_asr": "Some people may visit coffee shops just to meet and talk with friends.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p19.mp3",
+      "sha256": "assets/audio/segments/s32-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s32-p20",
       "text": "However, many people in coffee shops drink coffee while working on their computers or reading some articles.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 8.674,
-      "raw_duration_seconds": 5.92,
-      "asr": "However, many people in coffee shops drink coffee while working on their computers or reading some articles.",
-      "published_asr": "However, many people in coffee shops drink coffee while working on their computers or reading some articles.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s32-p20.mp3",
+      "sha256": "assets/audio/segments/s32-p20.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 146,
-    "word_accepted_count": 146,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

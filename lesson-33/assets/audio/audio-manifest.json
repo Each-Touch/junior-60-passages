@@ -1,254 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s33-p01",
       "text": "We use pencils to write and erasers to erase what we've written.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "We use pencils to write and erasers to erase what we've written.",
-      "published_asr": "We use pencils to write and erasers to erase what we've written.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p01.mp3",
+      "sha256": "assets/audio/segments/s33-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s33-p02",
       "text": "But no one knows who invented the pencil or when it was invented.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.139,
-      "raw_duration_seconds": 3.52,
-      "asr": "But no one knows who invented the pencil or when it was invented.",
-      "published_asr": "But no one knows who invented the pencil or when it was invented",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p02.mp3",
+      "sha256": "assets/audio/segments/s33-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s33-p03",
       "text": "The Swiss Conrad Gesner described a pencil in a book in 1565.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.807,
-      "raw_duration_seconds": 4.64,
-      "asr": "The Swiss Conrad Gesner described a pencil in a book in 1565.",
-      "published_asr": "The Swiss Conrad Gesner described a pencil in a book in 1565.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p03.mp3",
+      "sha256": "assets/audio/segments/s33-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s33-p04",
       "text": "Mr Gesner said it was a piece of wood or bamboo with lead inside it.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "Mr. Gesner said it was a piece of wood or bamboo with lead inside it.",
-      "published_asr": "Mr. Gesner said it was a piece of wood or bamboo with lead inside it.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p04.mp3",
+      "sha256": "assets/audio/segments/s33-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s33-p05",
       "text": "Pencils weren't popular, and people continued to write with pens.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Pencils weren't popular and people continued to write with pens.",
-      "published_asr": "Pencils weren't popular and people continued to write with pens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p05.mp3",
+      "sha256": "assets/audio/segments/s33-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s33-p06",
       "text": "They used bird feathers as pens.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 3.491,
-      "raw_duration_seconds": 2.4,
-      "asr": "They used bird feathers as pens.",
-      "published_asr": "They used bird feathers as pens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p06.mp3",
+      "sha256": "assets/audio/segments/s33-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s33-p07",
       "text": "Then, in 1795, some pioneers founded the pencil industry when they started making pencils from graphite chips, and pencils became very popular.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 14.097,
-      "raw_duration_seconds": 9.6,
-      "asr": "Then, in 1795, some pioneers founded the pencil industry when they started making pencils from graphite chips, and pencils became very popular.",
-      "published_asr": "Then in 1795, some pioneers founded the pencil industry when they started making pencils from graphite chips, and pencils became very popular.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p07.mp3",
+      "sha256": "assets/audio/segments/s33-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s33-p08",
       "text": "One pencil can make a line as long as 55 kilometres.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "One pencil can make a line as long as 55 kilometers.",
-      "published_asr": "One pencil can make a line as long as 55 kilometers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p08.mp3",
+      "sha256": "assets/audio/segments/s33-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s33-p09",
       "text": "People then used pens with metal points.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.746,
-      "raw_duration_seconds": 2.56,
-      "asr": "People then used pens with metal points.",
-      "published_asr": "People then used pens with metal points.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p09.mp3",
+      "sha256": "assets/audio/segments/s33-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s33-p10",
       "text": "They had to dip the point into ink after every few letters.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 4.918,
-      "raw_duration_seconds": 3.36,
-      "asr": "They had to dip the point into ink after every few letters.",
-      "published_asr": "They had to dip the point into ink after every few letters.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p10.mp3",
+      "sha256": "assets/audio/segments/s33-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s33-p11",
       "text": "Next, someone invented a fountain pen that could hold ink inside.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 6.096,
-      "raw_duration_seconds": 4.16,
-      "asr": "Next, someone invented a fountain pen that could hold ink inside.",
-      "published_asr": "Next, someone invented a fountain pen that could hold ink inside.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p11.mp3",
+      "sha256": "assets/audio/segments/s33-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s33-p12",
       "text": "A fountain pen can write several pages before you have to fill it again.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 5.833,
-      "raw_duration_seconds": 4,
-      "asr": "A fountain pen can write several pages before you have to fill it again.",
-      "published_asr": "A fountain pen can write several pages before you have to fill it again.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p12.mp3",
+      "sha256": "assets/audio/segments/s33-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s33-p13",
       "text": "Nowadays, there are purple or silver inks that allow you to write in fancy colours.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.029,
-      "raw_duration_seconds": 4.8,
-      "asr": "Nowadays, there are purple or silver inks that allow you to write in fancy colors.",
-      "published_asr": "Nowadays, there are purple or silver inks that allow you to write in fancy colors.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p13.mp3",
+      "sha256": "assets/audio/segments/s33-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s33-p14",
       "text": "Two brothers, Ladislao and Georg Biro, invented the ballpoint pen.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "Two brothers, Ladislao and Georg Biro, invented the ballpoint pen.",
-      "published_asr": "Two brothers, Ladislao and Georg Biro, invented the ballpoint pen.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p14.mp3",
+      "sha256": "assets/audio/segments/s33-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s33-p15",
       "text": "Pilots liked the pens.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.027,
-      "raw_duration_seconds": 2.08,
-      "asr": "Pilots liked the pens.",
-      "published_asr": "Pilots liked the pens.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p15.mp3",
+      "sha256": "assets/audio/segments/s33-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s33-p16",
       "text": "They couldn't write with fountain pens in planes because the ink leaked out.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 5.614,
-      "raw_duration_seconds": 3.84,
-      "asr": "They couldn't write with fountain pens in planes because the ink leaked out.",
-      "published_asr": "They couldn't write with fountain pens in planes, because the ink leaked out.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p16.mp3",
+      "sha256": "assets/audio/segments/s33-p16.mp3"
     },
     {
-      "id": 17,
-      "text": "Some of today's ballpoint pens have a spring inside, so that you can hide the point when you are not writing.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 8.916,
-      "raw_duration_seconds": 6.08,
-      "asr": "Some of today's ballpoint pens have a spring inside, so that you can hide the point when you are not writing.",
-      "published_asr": "Some of today's ballpoint pens have a spring inside so that you can hide the point when you are not writing.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s33-p17-01",
+      "text": "Some of today's ballpoint pens have a spring inside,",
+      "audio": "assets/audio/segments/s33-p17-01.mp3",
+      "sha256": "assets/audio/segments/s33-p17-01.mp3"
     },
     {
-      "id": 18,
+      "id": "s33-p17-02",
+      "text": "so that you can hide the point when you are not writing.",
+      "audio": "assets/audio/segments/s33-p17-02.mp3",
+      "sha256": "assets/audio/segments/s33-p17-02.mp3"
+    },
+    {
+      "id": "s33-p18",
       "text": "Companies use colourful packs, maybe printed with cute animals like rabbits or giraffes, to attract customers.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 9.611,
-      "raw_duration_seconds": 6.56,
-      "asr": "Companies use colorful packs, maybe printed with cute animals like rabbits or giraffes, to attract customers.",
-      "published_asr": "Companies use colorful packs, maybe printed with cute animals like rabbits or giraffes, to attract customers.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p18.mp3",
+      "sha256": "assets/audio/segments/s33-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s33-p19",
       "text": "Whatever they look like, we see them everywhere on sale and use them every day.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Whatever they look like, we see them everywhere on sale and use them every day.",
-      "published_asr": "Whatever they look like, we see them everywhere on sale and use them every day.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s33-p19.mp3",
+      "sha256": "assets/audio/segments/s33-p19.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 19,
-    "raw_asr_exact_count": 19,
-    "published_asr_exact_count": 19,
-    "word_count": 139,
-    "word_accepted_count": 139,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

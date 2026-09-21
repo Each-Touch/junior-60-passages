@@ -1,278 +1,134 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s35-p01",
       "text": "When a child first picked up a crayon, a line might have been the first mark he made.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 7.495,
-      "raw_duration_seconds": 5.12,
-      "asr": "When a child first picked up a crayon, a line might have been the first mark he made.",
-      "published_asr": "When a child first picked up a crayon, a line might have been the first mark he made.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p01.mp3",
+      "sha256": "assets/audio/segments/s35-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s35-p02",
       "text": "Then he learned to draw a straight line with the help of a ruler.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.153,
-      "raw_duration_seconds": 3.52,
-      "asr": "Then he learned to draw a straight line with the help of a ruler.",
-      "published_asr": "Then he learned to draw a straight line with the help of a ruler.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p02.mp3",
+      "sha256": "assets/audio/segments/s35-p02.mp3"
     },
     {
-      "id": 3,
+      "id": "s35-p03",
       "text": "He used lines to write numbers, symbols, and the letters of the alphabet.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 6.783,
-      "raw_duration_seconds": 4.64,
-      "asr": "He used lines to write numbers, symbols, and the letters of the alphabet.",
-      "published_asr": "He used lines to write numbers, symbols, and the letters of the alphabet.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p03.mp3",
+      "sha256": "assets/audio/segments/s35-p03.mp3"
     },
     {
-      "id": 4,
+      "id": "s35-p04",
       "text": "The lines on a map helped him find the best route from one place to another.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 6.077,
-      "raw_duration_seconds": 4.16,
-      "asr": "The lines on a map helped him find the best route from one place to another.",
-      "published_asr": "The lines on a map helped him find the best route from one place to another.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p04.mp3",
+      "sha256": "assets/audio/segments/s35-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s35-p05",
       "text": "He also used lines to draw pictures.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 3.733,
-      "raw_duration_seconds": 2.56,
-      "asr": "He also used lines to draw pictures.",
-      "published_asr": "He also used lines to draw pictures.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p05.mp3",
+      "sha256": "assets/audio/segments/s35-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s35-p06",
       "text": "Lines are everywhere.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 2.786,
-      "raw_duration_seconds": 1.92,
-      "asr": "Lines are everywhere.",
-      "published_asr": "Lines are everywhere.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p06.mp3",
+      "sha256": "assets/audio/segments/s35-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s35-p07",
       "text": "You can see lines in the grain of a piece of wood or in the cracks on a narrow sidewalk.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 6.794,
-      "raw_duration_seconds": 4.64,
-      "asr": "You can see lines in the grain of a piece of wood or in the cracks on a narrow sidewalk.",
-      "published_asr": "You can see lines in the grain of a piece of wood or in the cracks on a narrow sidewalk.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p07.mp3",
+      "sha256": "assets/audio/segments/s35-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s35-p08",
       "text": "You can see lines outside a building or in the field.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.667,
-      "raw_duration_seconds": 3.2,
-      "asr": "you can see lines outside a building or in the field.",
-      "published_asr": "you can see lines outside a building or in the field.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p08.mp3",
+      "sha256": "assets/audio/segments/s35-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s35-p09",
       "text": "Lines are also used to create art.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "Lines are also used to create art.",
-      "published_asr": "Lines are also used to create art.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p09.mp3",
+      "sha256": "assets/audio/segments/s35-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s35-p10",
       "text": "In drawing, line is an element of art that is the path of a moving point through space.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 7.965,
-      "raw_duration_seconds": 5.44,
-      "asr": "In drawing, line is an element of art that is the path of a moving point through space.",
-      "published_asr": "In drawing, line is an element of art that is the path of a moving point through space.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p10.mp3",
+      "sha256": "assets/audio/segments/s35-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s35-p11",
       "text": "Artists use lines to lead your eyes through a work of art.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 4.902,
-      "raw_duration_seconds": 3.36,
-      "asr": "Artists use lines to lead your eyes through a work of art.",
-      "published_asr": "Artists use lines to lead your eyes through a work of art.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p11.mp3",
+      "sha256": "assets/audio/segments/s35-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s35-p12",
       "text": "A line can be drawn on paper with a pencil or scratched into wet clay with a stick.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 6.804,
-      "raw_duration_seconds": 4.64,
-      "asr": "A line can be drawn on paper with a pencil or scratched into wet clay with a stick.",
-      "published_asr": "A line can be drawn on paper with a pencil or scratched into wet clay with a stick.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p12.mp3",
+      "sha256": "assets/audio/segments/s35-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s35-p13",
       "text": "Depending on its direction, a line can express different ideas or feelings.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "Depending on its direction, a line can express different ideas or feelings.",
-      "published_asr": "Depending on its direction, a line can express different ideas or feelings.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p13.mp3",
+      "sha256": "assets/audio/segments/s35-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s35-p14",
       "text": "Lines are used to express different images in Chinese calligraphic drawing.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "Lines are used to express different images in Chinese calligraphic drawing.",
-      "published_asr": "Lines are used to express different images in Chinese calligraphic drawing.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p14.mp3",
+      "sha256": "assets/audio/segments/s35-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s35-p15",
       "text": "The word calligraphy means beautiful handwriting.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 5.137,
-      "raw_duration_seconds": 3.52,
-      "asr": "The word calligraphy means beautiful handwriting.",
-      "published_asr": "The word calligraphy means beautiful handwriting.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p15.mp3",
+      "sha256": "assets/audio/segments/s35-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s35-p16",
       "text": "In China, calligraphy is used to form characters that represent the language.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "In China, calligraphy is used to form characters that represent the language.",
-      "published_asr": "In China, calligraphy is used to form characters that represent the language.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p16.mp3",
+      "sha256": "assets/audio/segments/s35-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s35-p17",
       "text": "Characters are more than just a letter of the alphabet.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 4.448,
-      "raw_duration_seconds": 3.04,
-      "asr": "Characters are more than just a letter of the alphabet.",
-      "published_asr": "Characters are more than just a letter of the alphabet.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p17.mp3",
+      "sha256": "assets/audio/segments/s35-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s35-p18",
       "text": "They can represent an idea, an object, or a verbal sound.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "They can represent an idea, an object, or a verbal sound.",
-      "published_asr": "They can represent an idea, an object, or a verbal sound.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p18.mp3",
+      "sha256": "assets/audio/segments/s35-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s35-p19",
       "text": "Calligraphic lines are usually made with brush strokes that change from thin to thick in one stroke.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "Calligraphic lines are usually made with brush strokes that change from thin to thick in one stroke.",
-      "published_asr": "Calligraphic lines are usually made with brush strokes that change from thin to thick in one stroke.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p19.mp3",
+      "sha256": "assets/audio/segments/s35-p19.mp3"
     },
     {
-      "id": 20,
+      "id": "s35-p20",
       "text": "To make a thin line, artists use the tip of the brush.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 4.918,
-      "raw_duration_seconds": 3.36,
-      "asr": "To make a thin line, artists use the tip of the brush.",
-      "published_asr": "To make a thin line, artists use the tip of the brush.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p20.mp3",
+      "sha256": "assets/audio/segments/s35-p20.mp3"
     },
     {
-      "id": 21,
+      "id": "s35-p21",
       "text": "As you press on the brush and more of it touches the paper, the line becomes wider.",
-      "file": "assets/audio/sentences/sentence-21.mp3",
-      "exists": true,
-      "duration_seconds": 6.773,
-      "raw_duration_seconds": 4.64,
-      "asr": "As you press on the brush and more of it touches the paper, the line becomes wider.",
-      "published_asr": "As you press on the brush and more of it touches the paper, the line becomes wider.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s35-p21.mp3",
+      "sha256": "assets/audio/segments/s35-p21.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 21,
-    "raw_asr_exact_count": 21,
-    "published_asr_exact_count": 21,
-    "word_count": 132,
-    "word_accepted_count": 132,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

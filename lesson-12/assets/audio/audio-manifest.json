@@ -1,218 +1,128 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s12-p01",
       "text": "If you love reading books, you must know about The Little Prince.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 5.607,
-      "raw_duration_seconds": 3.84,
-      "asr": "If you love reading books, you must know about the little prince.",
-      "published_asr": "If you love reading books, you must know about the little prince.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p01.mp3",
+      "sha256": "assets/audio/segments/s12-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s12-p02",
       "text": "It's a famous novel written by a French writer.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 4.432,
-      "raw_duration_seconds": 3.04,
-      "asr": "It's a famous novel written by a French writer.",
-      "published_asr": "It's a famous novel written by a French writer.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p02.mp3",
+      "sha256": "assets/audio/segments/s12-p02.mp3"
     },
     {
-      "id": 3,
-      "text": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 12.432,
-      "raw_duration_seconds": 8.48,
-      "asr": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
-      "published_asr": "As one of the best-selling books in history, it has been sold as many as 200 million copies in 253 languages and dialects.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s12-p03-01",
+      "text": "As one of the best-selling books in history,",
+      "audio": "assets/audio/segments/s12-p03-01.mp3",
+      "sha256": "assets/audio/segments/s12-p03-01.mp3"
     },
     {
-      "id": 4,
-      "text": "Around 70 years after the birth of the book, an American director has found a way to make it into a 3D animated film.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 10.316,
-      "raw_duration_seconds": 7.04,
-      "asr": "Around 70 years after the birth of the book, an American director has found a way to make it into a 3D animated film.",
-      "published_asr": "Around 70 years after the birth of the book, an American director has found a way to make it into a 3D animated film.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s12-p03-02",
+      "text": "it has been sold as many as 200 million copies in 253 languages and dialects.",
+      "audio": "assets/audio/segments/s12-p03-02.mp3",
+      "sha256": "assets/audio/segments/s12-p03-02.mp3"
     },
     {
-      "id": 5,
+      "id": "s12-p04-01",
+      "text": "Around 70 years after the birth of the book,",
+      "audio": "assets/audio/segments/s12-p04-01.mp3",
+      "sha256": "assets/audio/segments/s12-p04-01.mp3"
+    },
+    {
+      "id": "s12-p04-02",
+      "text": "an American director has found a way to make it into a 3D animated film.",
+      "audio": "assets/audio/segments/s12-p04-02.mp3",
+      "sha256": "assets/audio/segments/s12-p04-02.mp3"
+    },
+    {
+      "id": "s12-p05",
       "text": "The book tells the story of a pilot, called The Aviator, who crashes in a desert, rather than an airport.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 9.393,
-      "raw_duration_seconds": 6.4,
-      "asr": "The book tells the story of a pilot, called the aviator, who crashes in a desert, rather than an airport.",
-      "published_asr": "The book tells the story of a pilot called the aviator who crashes in a desert rather than an airport.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p05.mp3",
+      "sha256": "assets/audio/segments/s12-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s12-p06",
       "text": "In the film, the story starts years after the crash, when The Aviator is much older.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "In the film, the story starts years after the crash, when the aviator is much older.",
-      "published_asr": "In the film, the story starts years after the crash, when the aviator is much older.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p06.mp3",
+      "sha256": "assets/audio/segments/s12-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s12-p07",
       "text": "He has got a new neighbour called The Little Girl.",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "He has got a new neighbor called the Little Girl.",
-      "published_asr": "He has got a new neighbor called the little girl.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p07.mp3",
+      "sha256": "assets/audio/segments/s12-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s12-p08",
       "text": "He tells The Little Girl about his time in the desert.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 4.913,
-      "raw_duration_seconds": 3.36,
-      "asr": "He tells the little girl about his time in the desert.",
-      "published_asr": "He tells the little girl about his time in the desert.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p08.mp3",
+      "sha256": "assets/audio/segments/s12-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s12-p09",
       "text": "His story takes her to an amazing world.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 4.197,
-      "raw_duration_seconds": 2.88,
-      "asr": "His story takes her to an amazing world.",
-      "published_asr": "His story takes her to an amazing world.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p09.mp3",
+      "sha256": "assets/audio/segments/s12-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s12-p10",
       "text": "China is the first country in the world to see the film in two versions, in Chinese and English.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 8.2,
-      "raw_duration_seconds": 5.6,
-      "asr": "China is the first country in the world to see the film in two versions, in Chinese and English.",
-      "published_asr": "China is the first country in the world to see the film in two versions, in Chinese and English.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p10.mp3",
+      "sha256": "assets/audio/segments/s12-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s12-p11",
       "text": "The film tells The Little Prince's story in a beautiful way.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 5.372,
-      "raw_duration_seconds": 3.68,
-      "asr": "The film tells the little prince's story in a beautiful way.",
-      "published_asr": "The film tells the little prince's story in a beautiful way.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p11.mp3",
+      "sha256": "assets/audio/segments/s12-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s12-p12",
       "text": "Film tickets were quickly sold out in many cinemas and local theatres across the country.",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "Film tickets were quickly sold out in many cinemas and local theaters across the country.",
-      "published_asr": "Film tickets were quickly sold out in many cinemas and local theaters across the country.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p12.mp3",
+      "sha256": "assets/audio/segments/s12-p12.mp3"
     },
     {
-      "id": 13,
-      "text": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 11.021,
-      "raw_duration_seconds": 7.52,
-      "asr": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
-      "published_asr": "The film has received a prize, for it is like a childhood dream, which is lost by most adults in this stressed-out society.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s12-p13-01",
+      "text": "The film has received a prize,",
+      "audio": "assets/audio/segments/s12-p13-01.mp3",
+      "sha256": "assets/audio/segments/s12-p13-01.mp3"
     },
     {
-      "id": 14,
+      "id": "s12-p13-02",
+      "text": "for it is like a childhood dream,",
+      "audio": "assets/audio/segments/s12-p13-02.mp3",
+      "sha256": "assets/audio/segments/s12-p13-02.mp3"
+    },
+    {
+      "id": "s12-p13-03",
+      "text": "which is lost by most adults in this stressed-out society.",
+      "audio": "assets/audio/segments/s12-p13-03.mp3",
+      "sha256": "assets/audio/segments/s12-p13-03.mp3"
+    },
+    {
+      "id": "s12-p14",
       "text": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 8.67,
-      "raw_duration_seconds": 5.92,
-      "asr": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
-      "published_asr": "The radio stations also did interviews with the voice actors and actresses who addressed their thankfulness.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p14.mp3",
+      "sha256": "assets/audio/segments/s12-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s12-p15",
       "text": "And the most touching part is that every adult was a good-natured kid like The Little Prince.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 7.73,
-      "raw_duration_seconds": 5.28,
-      "asr": "And the most touching part is that every adult was a good-natured kid like the little prince.",
-      "published_asr": "And the most touching part is that every adult was a good-natured kid like the little prince.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p15.mp3",
+      "sha256": "assets/audio/segments/s12-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s12-p16",
       "text": "And it's a pity that this good characteristic goes away, as time flies.",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "And it's a pity that this good characteristic goes away, as time flies.",
-      "published_asr": "And it's a pity that this good characteristic goes away as time flies.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s12-p16.mp3",
+      "sha256": "assets/audio/segments/s12-p16.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 16,
-    "raw_asr_exact_count": 16,
-    "published_asr_exact_count": 16,
-    "word_count": 136,
-    "word_accepted_count": 136,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }

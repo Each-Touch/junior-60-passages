@@ -1,266 +1,140 @@
 {
-  "voice": "柔和清晰女声｜初中慢读",
-  "reference": "/Users/zhaozixu/Desktop/小组/小洋人小组/40短文/19/voice-samples/quality-test/regen-wav/phonics_clean_soft.wav",
-  "cfg_value": 1.6,
-  "inference_timesteps": 10,
-  "normalize": false,
-  "sentence_method": "independent sentence generation; raw WAV and final slowed MP3 both exact-ASR checked",
-  "word_method": "browser SpeechSynthesisUtterance; en-GB; rate 0.72; independent word utterance",
-  "sentences": [
+  "model": "IndexTeam/IndexTTS-2.5",
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "pause_seconds": 0.7,
+  "chunks": [
     {
-      "id": 1,
+      "id": "s13-p01",
       "text": "Bob likes climbing.",
-      "file": "assets/audio/sentences/sentence-01.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "Bob likes climbing",
-      "published_asr": "Bob likes climbing",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p01.mp3",
+      "sha256": "assets/audio/segments/s13-p01.mp3"
     },
     {
-      "id": 2,
+      "id": "s13-p02",
       "text": "But he was sad that there wasn't a climbing club in his school at first.",
-      "file": "assets/audio/sentences/sentence-02.mp3",
-      "exists": true,
-      "duration_seconds": 5.625,
-      "raw_duration_seconds": 3.84,
-      "asr": "But he was sad that there wasn't a climbing club in his school at first.",
-      "published_asr": "But he was sad that there wasn't a climbing club in his school at first.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p02.mp3",
+      "sha256": "assets/audio/segments/s13-p02.mp3"
     },
     {
-      "id": 3,
-      "text": "At the beginning of the second year of middle school, his school offered rock climbing lessons in order to encourage students to exercise.",
-      "file": "assets/audio/sentences/sentence-03.mp3",
-      "exists": true,
-      "duration_seconds": 11.027,
-      "raw_duration_seconds": 7.52,
-      "asr": "At the beginning of the second year of middle school, his school offered rock climbing lessons in order to encourage students to exercise.",
-      "published_asr": "At the beginning of the second year of middle school, his school offered rock climbing lessons in order to encourage students to exercise.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s13-p03-01",
+      "text": "At the beginning of the second year of middle school,",
+      "audio": "assets/audio/segments/s13-p03-01.mp3",
+      "sha256": "assets/audio/segments/s13-p03-01.mp3"
     },
     {
-      "id": 4,
+      "id": "s13-p03-02",
+      "text": "his school offered rock climbing lessons in order to encourage students to exercise.",
+      "audio": "assets/audio/segments/s13-p03-02.mp3",
+      "sha256": "assets/audio/segments/s13-p03-02.mp3"
+    },
+    {
+      "id": "s13-p04",
       "text": "He joined at once.",
-      "file": "assets/audio/sentences/sentence-04.mp3",
-      "exists": true,
-      "duration_seconds": 2.555,
-      "raw_duration_seconds": 1.76,
-      "asr": "He joined at once.",
-      "published_asr": "He joined at once.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p04.mp3",
+      "sha256": "assets/audio/segments/s13-p04.mp3"
     },
     {
-      "id": 5,
+      "id": "s13-p05",
       "text": "He had planned to wear a jacket, a pair of jeans and a T-shirt.",
-      "file": "assets/audio/sentences/sentence-05.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "He had planned to wear a jacket, a pair of jeans and a t-shirt.",
-      "published_asr": "He had planned to wear a jacket, a pair of jeans and a t-shirt.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p05.mp3",
+      "sha256": "assets/audio/segments/s13-p05.mp3"
     },
     {
-      "id": 6,
+      "id": "s13-p06",
       "text": "But before the first class, he was notified to wear hiking boots and prepare warm clothing, such as a sweater.",
-      "file": "assets/audio/sentences/sentence-06.mp3",
-      "exists": true,
-      "duration_seconds": 10.559,
-      "raw_duration_seconds": 7.2,
-      "asr": "But before the first class, he was notified to wear hiking boots and prepare warm clothing, such as a sweater.",
-      "published_asr": "But before the first class, he was notified to wear hiking boots and prepare warm clothing such as a sweater.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p06.mp3",
+      "sha256": "assets/audio/segments/s13-p06.mp3"
     },
     {
-      "id": 7,
+      "id": "s13-p07",
       "text": "In class, the coach said, \"Rock climbing needs strength, speed, courage and persistence.\"",
-      "file": "assets/audio/sentences/sentence-07.mp3",
-      "exists": true,
-      "duration_seconds": 8.214,
-      "raw_duration_seconds": 5.6,
-      "asr": "In class, the coach said, rock climbing needs strength, speed, courage and persistence.",
-      "published_asr": "In class, the coach said rock climbing needs strength, speed, courage, and persistence.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p07.mp3",
+      "sha256": "assets/audio/segments/s13-p07.mp3"
     },
     {
-      "id": 8,
+      "id": "s13-p08",
       "text": "It interested him.",
-      "file": "assets/audio/sentences/sentence-08.mp3",
-      "exists": true,
-      "duration_seconds": 2.316,
-      "raw_duration_seconds": 1.6,
-      "asr": "It interested him.",
-      "published_asr": "It interested him.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p08.mp3",
+      "sha256": "assets/audio/segments/s13-p08.mp3"
     },
     {
-      "id": 9,
+      "id": "s13-p09",
       "text": "The students were asked to run 1,000 metres first, and then climb with a rope.",
-      "file": "assets/audio/sentences/sentence-09.mp3",
-      "exists": true,
-      "duration_seconds": 7.018,
-      "raw_duration_seconds": 4.8,
-      "asr": "The students were asked to run 1000 meters first, and then climb with a rope.",
-      "published_asr": "The students were asked to run 1,000 meters first and then climb with a rope.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p09.mp3",
+      "sha256": "assets/audio/segments/s13-p09.mp3"
     },
     {
-      "id": 10,
+      "id": "s13-p10",
       "text": "When Bob finished running, he almost lost his breath and got bored.",
-      "file": "assets/audio/sentences/sentence-10.mp3",
-      "exists": true,
-      "duration_seconds": 6.313,
-      "raw_duration_seconds": 4.32,
-      "asr": "When Bob finished running, he almost lost his breath and got bored.",
-      "published_asr": "When Bob finished running, he almost lost his breath and got bored.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p10.mp3",
+      "sha256": "assets/audio/segments/s13-p10.mp3"
     },
     {
-      "id": 11,
+      "id": "s13-p11",
       "text": "He thought it was less interesting than before.",
-      "file": "assets/audio/sentences/sentence-11.mp3",
-      "exists": true,
-      "duration_seconds": 3.727,
-      "raw_duration_seconds": 2.56,
-      "asr": "He thought it was less interesting than before.",
-      "published_asr": "He thought it was less interesting than before.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p11.mp3",
+      "sha256": "assets/audio/segments/s13-p11.mp3"
     },
     {
-      "id": 12,
+      "id": "s13-p12",
       "text": "The coach noticed that and asked him, \"Why do you want to take rock climbing lessons?\"",
-      "file": "assets/audio/sentences/sentence-12.mp3",
-      "exists": true,
-      "duration_seconds": 7.025,
-      "raw_duration_seconds": 4.8,
-      "asr": "The coach noticed that and asked him, why do you want to take rock climbing lessons?",
-      "published_asr": "The coach noticed that and asked him, why do you want to take rock climbing lessons?",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p12.mp3",
+      "sha256": "assets/audio/segments/s13-p12.mp3"
     },
     {
-      "id": 13,
+      "id": "s13-p13",
       "text": "\"I come for fun, sir.\"",
-      "file": "assets/audio/sentences/sentence-13.mp3",
-      "exists": true,
-      "duration_seconds": 3.962,
-      "raw_duration_seconds": 2.72,
-      "asr": "I come for fun, sir.",
-      "published_asr": "I come for fun, sir.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p13.mp3",
+      "sha256": "assets/audio/segments/s13-p13.mp3"
     },
     {
-      "id": 14,
+      "id": "s13-p14",
       "text": "\"Is that fun?\" he asked.",
-      "file": "assets/audio/sentences/sentence-14.mp3",
-      "exists": true,
-      "duration_seconds": 3.269,
-      "raw_duration_seconds": 2.24,
-      "asr": "Is that fun?\" he asked.",
-      "published_asr": "Is that fun?\" he asked.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p14.mp3",
+      "sha256": "assets/audio/segments/s13-p14.mp3"
     },
     {
-      "id": 15,
+      "id": "s13-p15",
       "text": "Bob shook his head slowly.",
-      "file": "assets/audio/sentences/sentence-15.mp3",
-      "exists": true,
-      "duration_seconds": 3.021,
-      "raw_duration_seconds": 2.08,
-      "asr": "Bob shook his head slowly.",
-      "published_asr": "Bob shook his head slowly.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p15.mp3",
+      "sha256": "assets/audio/segments/s13-p15.mp3"
     },
     {
-      "id": 16,
+      "id": "s13-p16",
       "text": "The coach then explained patiently, \"That's because you stop halfway. You know, beautiful sights are always on the top.\"",
-      "file": "assets/audio/sentences/sentence-16.mp3",
-      "exists": true,
-      "duration_seconds": 11.27,
-      "raw_duration_seconds": 7.68,
-      "asr": "The coach then explained patiently, that's because you stop halfway. You know, beautiful sights are always on the top.",
-      "published_asr": "The coach then explained patiently, that's because you stop halfway. You know, beautiful sights are always on the top.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p16.mp3",
+      "sha256": "assets/audio/segments/s13-p16.mp3"
     },
     {
-      "id": 17,
+      "id": "s13-p17",
       "text": "After hearing his words, Bob made up his mind to finish his journey.",
-      "file": "assets/audio/sentences/sentence-17.mp3",
-      "exists": true,
-      "duration_seconds": 6.548,
-      "raw_duration_seconds": 4.48,
-      "asr": "After hearing his words, Bob made up his mind to finish his journey.",
-      "published_asr": "After hearing his words, Bob made up his mind to finish his journey.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p17.mp3",
+      "sha256": "assets/audio/segments/s13-p17.mp3"
     },
     {
-      "id": 18,
+      "id": "s13-p18",
       "text": "When he got to the top in the end, he felt really excited.",
-      "file": "assets/audio/sentences/sentence-18.mp3",
-      "exists": true,
-      "duration_seconds": 5.141,
-      "raw_duration_seconds": 3.52,
-      "asr": "When he got to the top in the end, he felt really excited.",
-      "published_asr": "When he got to the top in the end, he felt really excited.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p18.mp3",
+      "sha256": "assets/audio/segments/s13-p18.mp3"
     },
     {
-      "id": 19,
+      "id": "s13-p19",
       "text": "Although feeling sore in his muscles, he was determined to keep going.",
-      "file": "assets/audio/sentences/sentence-19.mp3",
-      "exists": true,
-      "duration_seconds": 5.842,
-      "raw_duration_seconds": 4,
-      "asr": "Although feeling sore in his muscles, he was determined to keep going.",
-      "published_asr": "Although feeling sore in his muscles, he was determined to keep going.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "audio": "assets/audio/segments/s13-p19.mp3",
+      "sha256": "assets/audio/segments/s13-p19.mp3"
     },
     {
-      "id": 20,
-      "text": "Sometimes it's hard to reach the top of the mountain, especially on windy days, but it's a pity to stop halfway, so don't give up.",
-      "file": "assets/audio/sentences/sentence-20.mp3",
-      "exists": true,
-      "duration_seconds": 11.491,
-      "raw_duration_seconds": 7.84,
-      "asr": "Sometimes it's hard to reach the top of the mountain, especially on windy days, but it's a pity to stop halfway, so don't give up.",
-      "published_asr": "Sometimes it's hard to reach the top of the mountain, especially on windy days, but it's a pity to stop halfway, so don't give up.",
-      "raw_asr_exact": true,
-      "published_asr_exact": true
+      "id": "s13-p20-01",
+      "text": "Sometimes it's hard to reach the top of the mountain, especially on windy days,",
+      "audio": "assets/audio/segments/s13-p20-01.mp3",
+      "sha256": "assets/audio/segments/s13-p20-01.mp3"
+    },
+    {
+      "id": "s13-p20-02",
+      "text": "but it's a pity to stop halfway, so don't give up.",
+      "audio": "assets/audio/segments/s13-p20-02.mp3",
+      "sha256": "assets/audio/segments/s13-p20-02.mp3"
     }
   ],
-  "words": [],
-  "model": "VoxCPM2",
-  "sentence_atempo": 0.68,
-  "word_atempo": 0.82,
-  "qa": {
-    "sentence_count": 20,
-    "raw_asr_exact_count": 20,
-    "published_asr_exact_count": 20,
-    "word_count": 142,
-    "word_accepted_count": 142,
-    "all_files_decode": true,
-    "checksums_verified": true,
-    "word_audio_mode": "browser_tts",
-    "extracted_word_audio_removed": true
-  }
+  "word_audio": "browser speech synthesis en-GB"
 }
