@@ -12,7 +12,7 @@
       "image": "assets/images/01.png",
       "audio": "assets/audio/segments/s32-p01-01.mp3",
       "en": "Tea and coffee are two of the most popular drinks in the world, however,",
-      "cn": "茶和咖啡是世界上最受欢迎的两种饮品，不过，人们通常会更偏爱其中一种。"
+      "cn": "茶和咖啡是世界上最受欢迎的两种饮品，不过，"
     },
     {
       "cover": false,
@@ -22,7 +22,7 @@
       "image": "assets/images/01.png",
       "audio": "assets/audio/segments/s32-p01-02.mp3",
       "en": "people usually prefer one more than the other.",
-      "cn": "茶和咖啡是世界上最受欢迎的两种饮品，不过，人们通常会更偏爱其中一种。"
+      "cn": "人们通常会更偏爱其中一种。"
     },
     {
       "cover": false,
@@ -1791,7 +1791,7 @@
       "image": "assets/images/01.webp",
       "audio": "assets/audio/segments/s32-p01-01.mp3",
       "en": "Tea and coffee are two of the most popular drinks in the world, however,",
-      "cn": "茶和咖啡是世界上最受欢迎的两种饮品，不过，人们通常会更偏爱其中一种。"
+      "cn": "茶和咖啡是世界上最受欢迎的两种饮品，不过，"
     },
     {
       "cover": false,
@@ -1801,7 +1801,7 @@
       "image": "assets/images/01.webp",
       "audio": "assets/audio/segments/s32-p01-02.mp3",
       "en": "people usually prefer one more than the other.",
-      "cn": "茶和咖啡是世界上最受欢迎的两种饮品，不过，人们通常会更偏爱其中一种。"
+      "cn": "人们通常会更偏爱其中一种。"
     },
     {
       "cover": false,

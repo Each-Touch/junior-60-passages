@@ -142,7 +142,7 @@
       "image": "assets/images/14.png",
       "audio": "assets/audio/segments/s36-p14-01.mp3",
       "en": "For example, you can enhance the sour flavour by adding a squeeze of lemon,",
-      "cn": "比如，加入柠檬汁可以增加酸味，而新鲜的胡椒可以在不使食物太辣的情况下为其增添风味。"
+      "cn": "比如，你可以挤入一些柠檬汁来增加酸味，"
     },
     {
       "cover": false,
@@ -152,7 +152,7 @@
       "image": "assets/images/14.png",
       "audio": "assets/audio/segments/s36-p14-02.mp3",
       "en": "while fresh pepper can give flavour to the food without making it too spicy.",
-      "cn": "比如，加入柠檬汁可以增加酸味，而新鲜的胡椒可以在不使食物太辣的情况下为其增添风味。"
+      "cn": "而新鲜的胡椒能为食物增添风味，又不会让它太辣。"
     },
     {
       "cover": false,
@@ -172,7 +172,7 @@
       "image": "assets/images/16.png",
       "audio": "assets/audio/segments/s36-p16-01.mp3",
       "en": "Therefore, as soon as the dog days arrive,",
-      "cn": "因此，一到三伏天，就最好选择合适的食物来保持身体健康。"
+      "cn": "因此，一到三伏天，"
     },
     {
       "cover": false,
@@ -182,7 +182,7 @@
       "image": "assets/images/16.png",
       "audio": "assets/audio/segments/s36-p16-02.mp3",
       "en": "it will be better for you to choose proper foods to keep healthy.",
-      "cn": "因此，一到三伏天，就最好选择合适的食物来保持身体健康。"
+      "cn": "你最好选择合适的食物来保持健康。"
     }
   ],
   "cover": {
@@ -1719,7 +1719,7 @@
       "image": "assets/images/14.webp",
       "audio": "assets/audio/segments/s36-p14-01.mp3",
       "en": "For example, you can enhance the sour flavour by adding a squeeze of lemon,",
-      "cn": "比如，加入柠檬汁可以增加酸味，而新鲜的胡椒可以在不使食物太辣的情况下为其增添风味。"
+      "cn": "比如，你可以挤入一些柠檬汁来增加酸味，"
     },
     {
       "cover": false,
@@ -1729,7 +1729,7 @@
       "image": "assets/images/14.webp",
       "audio": "assets/audio/segments/s36-p14-02.mp3",
       "en": "while fresh pepper can give flavour to the food without making it too spicy.",
-      "cn": "比如，加入柠檬汁可以增加酸味，而新鲜的胡椒可以在不使食物太辣的情况下为其增添风味。"
+      "cn": "而新鲜的胡椒能为食物增添风味，又不会让它太辣。"
     },
     {
       "cover": false,
@@ -1749,7 +1749,7 @@
       "image": "assets/images/16.webp",
       "audio": "assets/audio/segments/s36-p16-01.mp3",
       "en": "Therefore, as soon as the dog days arrive,",
-      "cn": "因此，一到三伏天，就最好选择合适的食物来保持身体健康。"
+      "cn": "因此，一到三伏天，"
     },
     {
       "cover": false,
@@ -1759,7 +1759,7 @@
       "image": "assets/images/16.webp",
       "audio": "assets/audio/segments/s36-p16-02.mp3",
       "en": "it will be better for you to choose proper foods to keep healthy.",
-      "cn": "因此，一到三伏天，就最好选择合适的食物来保持身体健康。"
+      "cn": "你最好选择合适的食物来保持健康。"
     }
   ]
 }

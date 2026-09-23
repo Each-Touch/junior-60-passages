@@ -42,7 +42,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s40-p04-01.mp3",
       "en": "According to Confucius, a wise and respected teacher,",
-      "cn": "孔子是一位充满智慧且备受尊敬的老师，在他看来，“仁”是我们对他人应怀有的关爱之情。"
+      "cn": "在孔子这位充满智慧、备受尊敬的老师看来，"
     },
     {
       "cover": false,
@@ -52,7 +52,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s40-p04-02.mp3",
       "en": "Ren is the feeling of care and love we should have for others.",
-      "cn": "孔子是一位充满智慧且备受尊敬的老师，在他看来，“仁”是我们对他人应怀有的关爱之情。"
+      "cn": "“仁”就是我们对他人应怀有的关爱之情。"
     },
     {
       "cover": false,
@@ -62,7 +62,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s40-p05-01.mp3",
       "en": "It can be as simple as giving care to a neighbour who has a fever,",
-      "cn": "这可以简单到照顾一位发烧的邻居，但它能增进友谊与和谐，从而也许可以避免一些冲突。"
+      "cn": "这可以是像照顾一位发烧的邻居这样简单的事，"
     },
     {
       "cover": false,
@@ -72,7 +72,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s40-p05-02.mp3",
       "en": "but it promotes friendship and harmony so that some wars may be avoided.",
-      "cn": "这可以简单到照顾一位发烧的邻居，但它能增进友谊与和谐，从而也许可以避免一些冲突。"
+      "cn": "但它能增进友谊与和谐，从而可能避免一些战争。"
     },
     {
       "cover": false,
@@ -1926,7 +1926,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s40-p04-01.mp3",
       "en": "According to Confucius, a wise and respected teacher,",
-      "cn": "孔子是一位充满智慧且备受尊敬的老师，在他看来，“仁”是我们对他人应怀有的关爱之情。"
+      "cn": "在孔子这位充满智慧、备受尊敬的老师看来，"
     },
     {
       "cover": false,
@@ -1936,7 +1936,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s40-p04-02.mp3",
       "en": "Ren is the feeling of care and love we should have for others.",
-      "cn": "孔子是一位充满智慧且备受尊敬的老师，在他看来，“仁”是我们对他人应怀有的关爱之情。"
+      "cn": "“仁”就是我们对他人应怀有的关爱之情。"
     },
     {
       "cover": false,
@@ -1946,7 +1946,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s40-p05-01.mp3",
       "en": "It can be as simple as giving care to a neighbour who has a fever,",
-      "cn": "这可以简单到照顾一位发烧的邻居，但它能增进友谊与和谐，从而也许可以避免一些冲突。"
+      "cn": "这可以是像照顾一位发烧的邻居这样简单的事，"
     },
     {
       "cover": false,
@@ -1956,7 +1956,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s40-p05-02.mp3",
       "en": "but it promotes friendship and harmony so that some wars may be avoided.",
-      "cn": "这可以简单到照顾一位发烧的邻居，但它能增进友谊与和谐，从而也许可以避免一些冲突。"
+      "cn": "但它能增进友谊与和谐，从而可能避免一些战争。"
     },
     {
       "cover": false,

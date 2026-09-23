@@ -122,7 +122,7 @@
       "image": "assets/images/12.png",
       "audio": "assets/audio/segments/s54-p12-01.mp3",
       "en": "They want to make a machine that can use the sunlight to make fuel from water,",
-      "cn": "他们想制造一种机器，可以利用阳光从水中制造燃料，从而使我们能够使用清洁能源。"
+      "cn": "他们想制造一种能利用阳光从水中制造燃料的机器，"
     },
     {
       "cover": false,
@@ -132,7 +132,7 @@
       "image": "assets/images/12.png",
       "audio": "assets/audio/segments/s54-p12-02.mp3",
       "en": "which will allow us to use clean energy.",
-      "cn": "他们想制造一种机器，可以利用阳光从水中制造燃料，从而使我们能够使用清洁能源。"
+      "cn": "这将使我们能够使用清洁能源。"
     },
     {
       "cover": false,
@@ -252,7 +252,7 @@
       "image": "assets/images/24.png",
       "audio": "assets/audio/segments/s54-p24-01.mp3",
       "en": "By using clean energy and lending support to its development,",
-      "cn": "通过使用清洁能源并对其发展给予支持，我们可以保护我们的星球，并确保子孙后代也能拥有所需的能源。"
+      "cn": "通过使用清洁能源并支持它的发展，"
     },
     {
       "cover": false,
@@ -262,7 +262,7 @@
       "image": "assets/images/24.png",
       "audio": "assets/audio/segments/s54-p24-02.mp3",
       "en": "we can protect our planet and ensure that future generations have the energy they need.",
-      "cn": "通过使用清洁能源并对其发展给予支持，我们可以保护我们的星球，并确保子孙后代也能拥有所需的能源。"
+      "cn": "我们可以保护我们的星球，并确保子孙后代拥有他们所需的能源。"
     }
   ],
   "cover": {
@@ -1878,7 +1878,7 @@
       "image": "assets/images/12.webp",
       "audio": "assets/audio/segments/s54-p12-01.mp3",
       "en": "They want to make a machine that can use the sunlight to make fuel from water,",
-      "cn": "他们想制造一种机器，可以利用阳光从水中制造燃料，从而使我们能够使用清洁能源。"
+      "cn": "他们想制造一种能利用阳光从水中制造燃料的机器，"
     },
     {
       "cover": false,
@@ -1888,7 +1888,7 @@
       "image": "assets/images/12.webp",
       "audio": "assets/audio/segments/s54-p12-02.mp3",
       "en": "which will allow us to use clean energy.",
-      "cn": "他们想制造一种机器，可以利用阳光从水中制造燃料，从而使我们能够使用清洁能源。"
+      "cn": "这将使我们能够使用清洁能源。"
     },
     {
       "cover": false,
@@ -2008,7 +2008,7 @@
       "image": "assets/images/24.webp",
       "audio": "assets/audio/segments/s54-p24-01.mp3",
       "en": "By using clean energy and lending support to its development,",
-      "cn": "通过使用清洁能源并对其发展给予支持，我们可以保护我们的星球，并确保子孙后代也能拥有所需的能源。"
+      "cn": "通过使用清洁能源并支持它的发展，"
     },
     {
       "cover": false,
@@ -2018,7 +2018,7 @@
       "image": "assets/images/24.webp",
       "audio": "assets/audio/segments/s54-p24-02.mp3",
       "en": "we can protect our planet and ensure that future generations have the energy they need.",
-      "cn": "通过使用清洁能源并对其发展给予支持，我们可以保护我们的星球，并确保子孙后代也能拥有所需的能源。"
+      "cn": "我们可以保护我们的星球，并确保子孙后代拥有他们所需的能源。"
     }
   ]
 }

@@ -193,8 +193,8 @@
 
     .chinese-translation {
       flex: 1;
-      max-height: 140px;
-      overflow: hidden;
+      max-height: none;
+      overflow: visible;
       opacity: 1;
       color: var(--muted);
       font-size: 17px;
@@ -202,7 +202,7 @@
       transition: max-height 0.25s ease, opacity 0.2s ease;
     }
 
-    .chinese-translation.hidden { max-height: 0; opacity: 0; }
+    .chinese-translation.hidden { max-height: 0; overflow: hidden; opacity: 0; }
 
     .translation-eye {
       width: 34px;

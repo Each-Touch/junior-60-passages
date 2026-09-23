@@ -42,7 +42,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s38-p04.mp3",
       "en": "It is different from Western string instruments because it has no board to hold the strings down.",
-      "cn": "它不同于西方的弦乐器，因为它没有固定琴弦的指板。"
+      "cn": "它不同于西方的弦乐器，因为它没有供手指按弦的指板。"
     },
     {
       "cover": false,
@@ -172,7 +172,7 @@
       "image": "assets/images/13.png",
       "audio": "assets/audio/segments/s38-p13-01.mp3",
       "en": "As the erhu was mainly played by common people and the playing skills were passed down orally from father to son,",
-      "cn": "由于二胡的演奏者主要是普通百姓，演奏技巧也是从父到子世代口头相传，因此有关二胡的文字记载很少。"
+      "cn": "由于二胡主要由普通百姓演奏，演奏技巧也是从父亲到儿子口头传授的，"
     },
     {
       "cover": false,
@@ -182,7 +182,7 @@
       "image": "assets/images/13.png",
       "audio": "assets/audio/segments/s38-p13-02.mp3",
       "en": "there are few written records about the erhu that can be found.",
-      "cn": "由于二胡的演奏者主要是普通百姓，演奏技巧也是从父到子世代口头相传，因此有关二胡的文字记载很少。"
+      "cn": "因此，能够找到的有关二胡的文字记载很少。"
     },
     {
       "cover": false,
@@ -202,7 +202,7 @@
       "image": "assets/images/15.png",
       "audio": "assets/audio/segments/s38-p15.mp3",
       "en": "In Yulin Caves and Eastern Thousand Buddha Caves in Gansu Province, five erhu pictures were discovered on murals.",
-      "cn": "在甘肃省的榆林窟和东干佛洞中的壁画上，就发现了五幅二胡图画。"
+      "cn": "在甘肃省的榆林窟和东千佛洞中的壁画上，就发现了五幅二胡图画。"
     }
   ],
   "cover": {
@@ -1698,7 +1698,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s38-p04.mp3",
       "en": "It is different from Western string instruments because it has no board to hold the strings down.",
-      "cn": "它不同于西方的弦乐器，因为它没有固定琴弦的指板。"
+      "cn": "它不同于西方的弦乐器，因为它没有供手指按弦的指板。"
     },
     {
       "cover": false,
@@ -1828,7 +1828,7 @@
       "image": "assets/images/13.webp",
       "audio": "assets/audio/segments/s38-p13-01.mp3",
       "en": "As the erhu was mainly played by common people and the playing skills were passed down orally from father to son,",
-      "cn": "由于二胡的演奏者主要是普通百姓，演奏技巧也是从父到子世代口头相传，因此有关二胡的文字记载很少。"
+      "cn": "由于二胡主要由普通百姓演奏，演奏技巧也是从父亲到儿子口头传授的，"
     },
     {
       "cover": false,
@@ -1838,7 +1838,7 @@
       "image": "assets/images/13.webp",
       "audio": "assets/audio/segments/s38-p13-02.mp3",
       "en": "there are few written records about the erhu that can be found.",
-      "cn": "由于二胡的演奏者主要是普通百姓，演奏技巧也是从父到子世代口头相传，因此有关二胡的文字记载很少。"
+      "cn": "因此，能够找到的有关二胡的文字记载很少。"
     },
     {
       "cover": false,
@@ -1858,7 +1858,7 @@
       "image": "assets/images/15.webp",
       "audio": "assets/audio/segments/s38-p15.mp3",
       "en": "In Yulin Caves and Eastern Thousand Buddha Caves in Gansu Province, five erhu pictures were discovered on murals.",
-      "cn": "在甘肃省的榆林窟和东干佛洞中的壁画上，就发现了五幅二胡图画。"
+      "cn": "在甘肃省的榆林窟和东千佛洞中的壁画上，就发现了五幅二胡图画。"
     }
   ]
 }

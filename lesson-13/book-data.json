@@ -32,7 +32,7 @@
       "image": "assets/images/03.png",
       "audio": "assets/audio/segments/s13-p03-01.mp3",
       "en": "At the beginning of the second year of middle school,",
-      "cn": "在初中二年级开始的时候，学校为了鼓励学生锻炼身体，开设了攀岩课。"
+      "cn": "在初中二年级开始的时候，"
     },
     {
       "cover": false,
@@ -42,7 +42,7 @@
       "image": "assets/images/03.png",
       "audio": "assets/audio/segments/s13-p03-02.mp3",
       "en": "his school offered rock climbing lessons in order to encourage students to exercise.",
-      "cn": "在初中二年级开始的时候，学校为了鼓励学生锻炼身体，开设了攀岩课。"
+      "cn": "他的学校为了鼓励学生锻炼身体，开设了攀岩课。"
     },
     {
       "cover": false,
@@ -212,7 +212,7 @@
       "image": "assets/images/20.png",
       "audio": "assets/audio/segments/s13-p20-01.mp3",
       "en": "Sometimes it's hard to reach the top of the mountain, especially on windy days,",
-      "cn": "有时候，登上山顶很难，尤其是在刮风的日子，但是半途而废就太可惜了，所以请不要放弃。"
+      "cn": "有时候，登上山顶很难，尤其是在刮风的日子里，"
     },
     {
       "cover": false,
@@ -222,7 +222,7 @@
       "image": "assets/images/20.png",
       "audio": "assets/audio/segments/s13-p20-02.mp3",
       "en": "but it's a pity to stop halfway, so don't give up.",
-      "cn": "有时候，登上山顶很难，尤其是在刮风的日子，但是半途而废就太可惜了，所以请不要放弃。"
+      "cn": "但半途而废太可惜了，所以不要放弃。"
     }
   ],
   "cover": {
@@ -1840,7 +1840,7 @@
       "image": "assets/images/03.webp",
       "audio": "assets/audio/segments/s13-p03-01.mp3",
       "en": "At the beginning of the second year of middle school,",
-      "cn": "在初中二年级开始的时候，学校为了鼓励学生锻炼身体，开设了攀岩课。"
+      "cn": "在初中二年级开始的时候，"
     },
     {
       "cover": false,
@@ -1850,7 +1850,7 @@
       "image": "assets/images/03.webp",
       "audio": "assets/audio/segments/s13-p03-02.mp3",
       "en": "his school offered rock climbing lessons in order to encourage students to exercise.",
-      "cn": "在初中二年级开始的时候，学校为了鼓励学生锻炼身体，开设了攀岩课。"
+      "cn": "他的学校为了鼓励学生锻炼身体，开设了攀岩课。"
     },
     {
       "cover": false,
@@ -2020,7 +2020,7 @@
       "image": "assets/images/20.webp",
       "audio": "assets/audio/segments/s13-p20-01.mp3",
       "en": "Sometimes it's hard to reach the top of the mountain, especially on windy days,",
-      "cn": "有时候，登上山顶很难，尤其是在刮风的日子，但是半途而废就太可惜了，所以请不要放弃。"
+      "cn": "有时候，登上山顶很难，尤其是在刮风的日子里，"
     },
     {
       "cover": false,
@@ -2030,7 +2030,7 @@
       "image": "assets/images/20.webp",
       "audio": "assets/audio/segments/s13-p20-02.mp3",
       "en": "but it's a pity to stop halfway, so don't give up.",
-      "cn": "有时候，登上山顶很难，尤其是在刮风的日子，但是半途而废就太可惜了，所以请不要放弃。"
+      "cn": "但半途而废太可惜了，所以不要放弃。"
     }
   ]
 }

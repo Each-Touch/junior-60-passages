@@ -42,7 +42,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s02-p04.mp3",
       "en": "It was an old woman, and she was paying for her things with only coins.",
-      "cn": "她只用硬币在付钱。"
+      "cn": "那是一位老妇人，她只用硬币在付钱。"
     },
     {
       "cover": false,
@@ -52,7 +52,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s02-p05.mp3",
       "en": "After a long day at work, I thought the woman was very terrible.",
-      "cn": "我觉得这位老妇人真是太麻烦了。"
+      "cn": "在漫长的一天工作后，我觉得这位老妇人真是太麻烦了。"
     },
     {
       "cover": false,
@@ -72,7 +72,7 @@
       "image": "assets/images/07.png",
       "audio": "assets/audio/segments/s02-p07.mp3",
       "en": "He helped her count her coins, ever so kindly taking them from her shaking hands.",
-      "cn": "十分友好地从老妇人颤抖的手中接过硬币。"
+      "cn": "他帮她数硬币，十分友好地从老妇人颤抖的手中接过硬币。"
     },
     {
       "cover": false,
@@ -82,7 +82,7 @@
       "image": "assets/images/08.png",
       "audio": "assets/audio/segments/s02-p08.mp3",
       "en": "He repeatedly said and nodded: \"Yes, ma'am.\"",
-      "cn": "女士。”"
+      "cn": "他连连点头并反复地说着：“对的，女士。”"
     },
     {
       "cover": false,
@@ -92,7 +92,7 @@
       "image": "assets/images/09.png",
       "audio": "assets/audio/segments/s02-p09.mp3",
       "en": "When she asked if she had enough money to buy a bag, he told her she did.",
-      "cn": "售货员告诉她可以。"
+      "cn": "当老妇人询问她的钱是否足够买一个袋子时，售货员告诉她可以。"
     },
     {
       "cover": false,
@@ -132,7 +132,7 @@
       "image": "assets/images/13.png",
       "audio": "assets/audio/segments/s02-p13.mp3",
       "en": "As I was watching him, I saw Lingling was too.",
-      "cn": "我发现玲玲也在看他。"
+      "cn": "当我观察他时，我发现玲玲也在看他。"
     },
     {
       "cover": false,
@@ -182,7 +182,7 @@
       "image": "assets/images/18.png",
       "audio": "assets/audio/segments/s02-p18-01.mp3",
       "en": "Then we left the supermarket with a full basket,",
-      "cn": "然后，我们离开了超市，带着装得满满的购物篮，也带着满怀感恩的心，因为上了如此重要的一课。"
+      "cn": "然后，我们带着装得满满的购物篮离开了超市，"
     },
     {
       "cover": false,
@@ -192,7 +192,7 @@
       "image": "assets/images/18.png",
       "audio": "assets/audio/segments/s02-p18-02.mp3",
       "en": "but also with a heart full of thankfulness for such an important lesson.",
-      "cn": "然后，我们离开了超市，带着装得满满的购物篮，也带着满怀感恩的心，因为上了如此重要的一课。"
+      "cn": "也因学到了如此重要的一课而满怀感激。"
     }
   ],
   "cover": {
@@ -1743,7 +1743,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s02-p04.mp3",
       "en": "It was an old woman, and she was paying for her things with only coins.",
-      "cn": "她只用硬币在付钱。"
+      "cn": "那是一位老妇人，她只用硬币在付钱。"
     },
     {
       "cover": false,
@@ -1753,7 +1753,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s02-p05.mp3",
       "en": "After a long day at work, I thought the woman was very terrible.",
-      "cn": "我觉得这位老妇人真是太麻烦了。"
+      "cn": "在漫长的一天工作后，我觉得这位老妇人真是太麻烦了。"
     },
     {
       "cover": false,
@@ -1773,7 +1773,7 @@
       "image": "assets/images/07.webp",
       "audio": "assets/audio/segments/s02-p07.mp3",
       "en": "He helped her count her coins, ever so kindly taking them from her shaking hands.",
-      "cn": "十分友好地从老妇人颤抖的手中接过硬币。"
+      "cn": "他帮她数硬币，十分友好地从老妇人颤抖的手中接过硬币。"
     },
     {
       "cover": false,
@@ -1783,7 +1783,7 @@
       "image": "assets/images/08.webp",
       "audio": "assets/audio/segments/s02-p08.mp3",
       "en": "He repeatedly said and nodded: \"Yes, ma'am.\"",
-      "cn": "女士。”"
+      "cn": "他连连点头并反复地说着：“对的，女士。”"
     },
     {
       "cover": false,
@@ -1793,7 +1793,7 @@
       "image": "assets/images/09.webp",
       "audio": "assets/audio/segments/s02-p09.mp3",
       "en": "When she asked if she had enough money to buy a bag, he told her she did.",
-      "cn": "售货员告诉她可以。"
+      "cn": "当老妇人询问她的钱是否足够买一个袋子时，售货员告诉她可以。"
     },
     {
       "cover": false,
@@ -1833,7 +1833,7 @@
       "image": "assets/images/13.webp",
       "audio": "assets/audio/segments/s02-p13.mp3",
       "en": "As I was watching him, I saw Lingling was too.",
-      "cn": "我发现玲玲也在看他。"
+      "cn": "当我观察他时，我发现玲玲也在看他。"
     },
     {
       "cover": false,
@@ -1883,7 +1883,7 @@
       "image": "assets/images/18.webp",
       "audio": "assets/audio/segments/s02-p18-01.mp3",
       "en": "Then we left the supermarket with a full basket,",
-      "cn": "然后，我们离开了超市，带着装得满满的购物篮，也带着满怀感恩的心，因为上了如此重要的一课。"
+      "cn": "然后，我们带着装得满满的购物篮离开了超市，"
     },
     {
       "cover": false,
@@ -1893,7 +1893,7 @@
       "image": "assets/images/18.webp",
       "audio": "assets/audio/segments/s02-p18-02.mp3",
       "en": "but also with a heart full of thankfulness for such an important lesson.",
-      "cn": "然后，我们离开了超市，带着装得满满的购物篮，也带着满怀感恩的心，因为上了如此重要的一课。"
+      "cn": "也因学到了如此重要的一课而满怀感激。"
     }
   ]
 }

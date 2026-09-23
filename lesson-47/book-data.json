@@ -52,7 +52,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s47-p05-01.mp3",
       "en": "Their eyes are high on their small heads and are placed on each side,",
-      "cn": "它们的眼睛长在小脑袋上较高的位置，每侧各有一只，因此它们无需转身就能看得又广又远。"
+      "cn": "它们的眼睛长在小脑袋上较高的位置，两侧各有一只，"
     },
     {
       "cover": false,
@@ -62,7 +62,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s47-p05-02.mp3",
       "en": "so they can see wide and far without having to turn around.",
-      "cn": "它们的眼睛长在小脑袋上较高的位置，每侧各有一只，因此它们无需转身就能看得又广又远。"
+      "cn": "因此，它们不用转身就能看得又广又远。"
     },
     {
       "cover": false,
@@ -1455,7 +1455,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s47-p05-01.mp3",
       "en": "Their eyes are high on their small heads and are placed on each side,",
-      "cn": "它们的眼睛长在小脑袋上较高的位置，每侧各有一只，因此它们无需转身就能看得又广又远。"
+      "cn": "它们的眼睛长在小脑袋上较高的位置，两侧各有一只，"
     },
     {
       "cover": false,
@@ -1465,7 +1465,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s47-p05-02.mp3",
       "en": "so they can see wide and far without having to turn around.",
-      "cn": "它们的眼睛长在小脑袋上较高的位置，每侧各有一只，因此它们无需转身就能看得又广又远。"
+      "cn": "因此，它们不用转身就能看得又广又远。"
     },
     {
       "cover": false,

@@ -52,7 +52,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s33-p05.mp3",
       "en": "Pencils weren't popular, and people continued to write with pens.",
-      "cn": "铅笔当时并不流行，人们继续用钢笔书写。"
+      "cn": "铅笔当时并不流行，人们继续用墨水笔书写。"
     },
     {
       "cover": false,
@@ -62,7 +62,7 @@
       "image": "assets/images/06.png",
       "audio": "assets/audio/segments/s33-p06.mp3",
       "en": "They used bird feathers as pens.",
-      "cn": "他们把鸟羽作为钢笔使用。"
+      "cn": "他们用鸟的羽毛当笔写字。"
     },
     {
       "cover": false,
@@ -1771,7 +1771,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s33-p05.mp3",
       "en": "Pencils weren't popular, and people continued to write with pens.",
-      "cn": "铅笔当时并不流行，人们继续用钢笔书写。"
+      "cn": "铅笔当时并不流行，人们继续用墨水笔书写。"
     },
     {
       "cover": false,
@@ -1781,7 +1781,7 @@
       "image": "assets/images/06.webp",
       "audio": "assets/audio/segments/s33-p06.mp3",
       "en": "They used bird feathers as pens.",
-      "cn": "他们把鸟羽作为钢笔使用。"
+      "cn": "他们用鸟的羽毛当笔写字。"
     },
     {
       "cover": false,

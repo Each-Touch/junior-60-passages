@@ -12,7 +12,7 @@
       "image": "assets/images/01.png",
       "audio": "assets/audio/segments/s04-p01.mp3",
       "en": "At an early age, we start learning how to manage money by watching our parents' spending habits.",
-      "cn": "我们就开始通过观察父母的消费习惯来学习如何管理金钱。"
+      "cn": "在年纪很小的时候，我们就开始通过观察父母的消费习惯来学习如何管理金钱。"
     },
     {
       "cover": false,
@@ -62,7 +62,7 @@
       "image": "assets/images/06.png",
       "audio": "assets/audio/segments/s04-p06-01.mp3",
       "en": "We need to think about how much money we have for the monthly bills and what we really want to spend money on,",
-      "cn": "我们需要考虑我们有多少钱来支付每月的账单，以及我们真正想把钱花在什么东西上，要意识到零花钱不能买下我们想要的一切。"
+      "cn": "我们需要考虑有多少钱来支付每月的账单，以及我们真正想把钱花在什么东西上，"
     },
     {
       "cover": false,
@@ -72,7 +72,7 @@
       "image": "assets/images/06.png",
       "audio": "assets/audio/segments/s04-p06-02.mp3",
       "en": "realising that our pocket money can't cover everything we want.",
-      "cn": "我们需要考虑我们有多少钱来支付每月的账单，以及我们真正想把钱花在什么东西上，要意识到零花钱不能买下我们想要的一切。"
+      "cn": "同时要意识到，零花钱不能买下我们想要的一切。"
     },
     {
       "cover": false,
@@ -102,7 +102,7 @@
       "image": "assets/images/09.png",
       "audio": "assets/audio/segments/s04-p09.mp3",
       "en": "If we wish to own a new bicycle but can't afford it, we can save our pocket money.",
-      "cn": "我们可以攒零花钱。"
+      "cn": "如果我们想要拥有一辆新自行车但又买不起，我们可以攒零花钱。"
     },
     {
       "cover": false,
@@ -132,7 +132,7 @@
       "image": "assets/images/12.png",
       "audio": "assets/audio/segments/s04-p12.mp3",
       "en": "After we have enough, we can buy that wonderful bicycle we've dreamed about.",
-      "cn": "我们就可以买下那辆梦寐以求的漂亮自行车了！"
+      "cn": "等攒够了钱之后，我们就可以买下那辆梦寐以求的漂亮自行车了！"
     },
     {
       "cover": false,
@@ -172,7 +172,7 @@
       "image": "assets/images/16.png",
       "audio": "assets/audio/segments/s04-p16.mp3",
       "en": "Without doubt, we should treat money in a right way.",
-      "cn": "我们应该以正确的方式对待金钱。"
+      "cn": "毫无疑问，我们应该以正确的方式对待金钱。"
     },
     {
       "cover": false,
@@ -182,7 +182,7 @@
       "image": "assets/images/17.png",
       "audio": "assets/audio/segments/s04-p17.mp3",
       "en": "Actually, learning about money isn't a hard job.",
-      "cn": "学习金钱知识并不是一件难事。"
+      "cn": "事实上，学习金钱知识并不是一件难事。"
     },
     {
       "cover": false,
@@ -192,7 +192,7 @@
       "image": "assets/images/18.png",
       "audio": "assets/audio/segments/s04-p18.mp3",
       "en": "From these lessons, we can get a sense of money management and right money values step by step.",
-      "cn": "我们可以逐步树立理财的意识和正确的金钱观！"
+      "cn": "通过这些学习，我们可以逐步树立理财的意识和正确的金钱观！"
     }
   ],
   "cover": {
@@ -1702,7 +1702,7 @@
       "image": "assets/images/01.webp",
       "audio": "assets/audio/segments/s04-p01.mp3",
       "en": "At an early age, we start learning how to manage money by watching our parents' spending habits.",
-      "cn": "我们就开始通过观察父母的消费习惯来学习如何管理金钱。"
+      "cn": "在年纪很小的时候，我们就开始通过观察父母的消费习惯来学习如何管理金钱。"
     },
     {
       "cover": false,
@@ -1752,7 +1752,7 @@
       "image": "assets/images/06.webp",
       "audio": "assets/audio/segments/s04-p06-01.mp3",
       "en": "We need to think about how much money we have for the monthly bills and what we really want to spend money on,",
-      "cn": "我们需要考虑我们有多少钱来支付每月的账单，以及我们真正想把钱花在什么东西上，要意识到零花钱不能买下我们想要的一切。"
+      "cn": "我们需要考虑有多少钱来支付每月的账单，以及我们真正想把钱花在什么东西上，"
     },
     {
       "cover": false,
@@ -1762,7 +1762,7 @@
       "image": "assets/images/06.webp",
       "audio": "assets/audio/segments/s04-p06-02.mp3",
       "en": "realising that our pocket money can't cover everything we want.",
-      "cn": "我们需要考虑我们有多少钱来支付每月的账单，以及我们真正想把钱花在什么东西上，要意识到零花钱不能买下我们想要的一切。"
+      "cn": "同时要意识到，零花钱不能买下我们想要的一切。"
     },
     {
       "cover": false,
@@ -1792,7 +1792,7 @@
       "image": "assets/images/09.webp",
       "audio": "assets/audio/segments/s04-p09.mp3",
       "en": "If we wish to own a new bicycle but can't afford it, we can save our pocket money.",
-      "cn": "我们可以攒零花钱。"
+      "cn": "如果我们想要拥有一辆新自行车但又买不起，我们可以攒零花钱。"
     },
     {
       "cover": false,
@@ -1822,7 +1822,7 @@
       "image": "assets/images/12.webp",
       "audio": "assets/audio/segments/s04-p12.mp3",
       "en": "After we have enough, we can buy that wonderful bicycle we've dreamed about.",
-      "cn": "我们就可以买下那辆梦寐以求的漂亮自行车了！"
+      "cn": "等攒够了钱之后，我们就可以买下那辆梦寐以求的漂亮自行车了！"
     },
     {
       "cover": false,
@@ -1862,7 +1862,7 @@
       "image": "assets/images/16.webp",
       "audio": "assets/audio/segments/s04-p16.mp3",
       "en": "Without doubt, we should treat money in a right way.",
-      "cn": "我们应该以正确的方式对待金钱。"
+      "cn": "毫无疑问，我们应该以正确的方式对待金钱。"
     },
     {
       "cover": false,
@@ -1872,7 +1872,7 @@
       "image": "assets/images/17.webp",
       "audio": "assets/audio/segments/s04-p17.mp3",
       "en": "Actually, learning about money isn't a hard job.",
-      "cn": "学习金钱知识并不是一件难事。"
+      "cn": "事实上，学习金钱知识并不是一件难事。"
     },
     {
       "cover": false,
@@ -1882,7 +1882,7 @@
       "image": "assets/images/18.webp",
       "audio": "assets/audio/segments/s04-p18.mp3",
       "en": "From these lessons, we can get a sense of money management and right money values step by step.",
-      "cn": "我们可以逐步树立理财的意识和正确的金钱观！"
+      "cn": "通过这些学习，我们可以逐步树立理财的意识和正确的金钱观！"
     }
   ]
 }

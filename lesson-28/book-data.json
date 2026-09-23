@@ -42,7 +42,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s28-p04-01.mp3",
       "en": "We know that during a storm with thunder and lightning,",
-      "cn": "我们知道，在雷电交加的暴风雨中，这些动物会受惊，并紧紧聚集在畜棚底部附近。"
+      "cn": "我们知道，在雷电交加的暴风雨中，"
     },
     {
       "cover": false,
@@ -52,7 +52,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s28-p04-02.mp3",
       "en": "these animals get shocked and stay close together near the bottom of the barn.",
-      "cn": "我们知道，在雷电交加的暴风雨中，这些动物会受惊，并紧紧聚集在畜棚底部附近。"
+      "cn": "这些动物会受惊，并紧紧聚集在畜棚底部附近。"
     },
     {
       "cover": false,
@@ -122,7 +122,7 @@
       "image": "assets/images/10.png",
       "audio": "assets/audio/segments/s28-p10-01.mp3",
       "en": "Chickens that saw food seemed happy and produced fast and loud sounds,",
-      "cn": "看到食物的鸡似乎很高兴，并发出快速而响亮的叫声，它们在玩新玩具时也会如此。"
+      "cn": "看到食物的鸡似乎很高兴，会发出又快又响亮的叫声，"
     },
     {
       "cover": false,
@@ -132,7 +132,7 @@
       "image": "assets/images/10.png",
       "audio": "assets/audio/segments/s28-p10-02.mp3",
       "en": "which they also do when playing with a new toy.",
-      "cn": "看到食物的鸡似乎很高兴，并发出快速而响亮的叫声，它们在玩新玩具时也会如此。"
+      "cn": "它们在玩新玩具时也会这样。"
     },
     {
       "cover": false,
@@ -1941,7 +1941,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s28-p04-01.mp3",
       "en": "We know that during a storm with thunder and lightning,",
-      "cn": "我们知道，在雷电交加的暴风雨中，这些动物会受惊，并紧紧聚集在畜棚底部附近。"
+      "cn": "我们知道，在雷电交加的暴风雨中，"
     },
     {
       "cover": false,
@@ -1951,7 +1951,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s28-p04-02.mp3",
       "en": "these animals get shocked and stay close together near the bottom of the barn.",
-      "cn": "我们知道，在雷电交加的暴风雨中，这些动物会受惊，并紧紧聚集在畜棚底部附近。"
+      "cn": "这些动物会受惊，并紧紧聚集在畜棚底部附近。"
     },
     {
       "cover": false,
@@ -2021,7 +2021,7 @@
       "image": "assets/images/10.webp",
       "audio": "assets/audio/segments/s28-p10-01.mp3",
       "en": "Chickens that saw food seemed happy and produced fast and loud sounds,",
-      "cn": "看到食物的鸡似乎很高兴，并发出快速而响亮的叫声，它们在玩新玩具时也会如此。"
+      "cn": "看到食物的鸡似乎很高兴，会发出又快又响亮的叫声，"
     },
     {
       "cover": false,
@@ -2031,7 +2031,7 @@
       "image": "assets/images/10.webp",
       "audio": "assets/audio/segments/s28-p10-02.mp3",
       "en": "which they also do when playing with a new toy.",
-      "cn": "看到食物的鸡似乎很高兴，并发出快速而响亮的叫声，它们在玩新玩具时也会如此。"
+      "cn": "它们在玩新玩具时也会这样。"
     },
     {
       "cover": false,

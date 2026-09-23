@@ -92,7 +92,7 @@
       "image": "assets/images/09.png",
       "audio": "assets/audio/segments/s20-p09-01.mp3",
       "en": "A researcher said that when he is feeling nervous during a flight, he talks to himself,",
-      "cn": "一位研究人员说，当他在飞行途中感到紧张时，他会跟自己说：“没关系的，杰森他已经坐过成千上万次飞机了。”"
+      "cn": "一位研究人员说，当他在飞行途中感到紧张时，他会对自己说，"
     },
     {
       "cover": false,
@@ -102,7 +102,7 @@
       "image": "assets/images/09.png",
       "audio": "assets/audio/segments/s20-p09-02.mp3",
       "en": "'It's OK, Jason has been on thousands of flights.'",
-      "cn": "一位研究人员说，当他在飞行途中感到紧张时，他会跟自己说：“没关系的，杰森他已经坐过成千上万次飞机了。”"
+      "cn": "‘没关系，杰森已经坐过成千上万次飞机了。’"
     },
     {
       "cover": false,
@@ -182,7 +182,7 @@
       "image": "assets/images/17.png",
       "audio": "assets/audio/segments/s20-p17-01.mp3",
       "en": "Researchers tested four different ways to memorise things: reading silently, reading aloud, listening to someone else read,",
-      "cn": "研究人员测试了四种不同的记忆方法：默读、大声朗读、听别人朗读以及听自己朗读的录音。"
+      "cn": "研究人员测试了四种不同的记忆方法：默读、大声朗读、听别人朗读，"
     },
     {
       "cover": false,
@@ -192,7 +192,7 @@
       "image": "assets/images/17.png",
       "audio": "assets/audio/segments/s20-p17-02.mp3",
       "en": "and listening to a recording of oneself reading.",
-      "cn": "研究人员测试了四种不同的记忆方法：默读、大声朗读、听别人朗读以及听自己朗读的录音。"
+      "cn": "以及听自己朗读的录音。"
     },
     {
       "cover": false,
@@ -2021,7 +2021,7 @@
       "image": "assets/images/09.webp",
       "audio": "assets/audio/segments/s20-p09-01.mp3",
       "en": "A researcher said that when he is feeling nervous during a flight, he talks to himself,",
-      "cn": "一位研究人员说，当他在飞行途中感到紧张时，他会跟自己说：“没关系的，杰森他已经坐过成千上万次飞机了。”"
+      "cn": "一位研究人员说，当他在飞行途中感到紧张时，他会对自己说，"
     },
     {
       "cover": false,
@@ -2031,7 +2031,7 @@
       "image": "assets/images/09.webp",
       "audio": "assets/audio/segments/s20-p09-02.mp3",
       "en": "'It's OK, Jason has been on thousands of flights.'",
-      "cn": "一位研究人员说，当他在飞行途中感到紧张时，他会跟自己说：“没关系的，杰森他已经坐过成千上万次飞机了。”"
+      "cn": "‘没关系，杰森已经坐过成千上万次飞机了。’"
     },
     {
       "cover": false,
@@ -2111,7 +2111,7 @@
       "image": "assets/images/17.webp",
       "audio": "assets/audio/segments/s20-p17-01.mp3",
       "en": "Researchers tested four different ways to memorise things: reading silently, reading aloud, listening to someone else read,",
-      "cn": "研究人员测试了四种不同的记忆方法：默读、大声朗读、听别人朗读以及听自己朗读的录音。"
+      "cn": "研究人员测试了四种不同的记忆方法：默读、大声朗读、听别人朗读，"
     },
     {
       "cover": false,
@@ -2121,7 +2121,7 @@
       "image": "assets/images/17.webp",
       "audio": "assets/audio/segments/s20-p17-02.mp3",
       "en": "and listening to a recording of oneself reading.",
-      "cn": "研究人员测试了四种不同的记忆方法：默读、大声朗读、听别人朗读以及听自己朗读的录音。"
+      "cn": "以及听自己朗读的录音。"
     },
     {
       "cover": false,

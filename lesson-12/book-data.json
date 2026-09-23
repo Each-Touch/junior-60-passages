@@ -32,7 +32,7 @@
       "image": "assets/images/03.png",
       "audio": "assets/audio/segments/s12-p03-01.mp3",
       "en": "As one of the best-selling books in history,",
-      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+      "cn": "作为历史上最畅销的图书之一，"
     },
     {
       "cover": false,
@@ -42,7 +42,7 @@
       "image": "assets/images/03.png",
       "audio": "assets/audio/segments/s12-p03-02.mp3",
       "en": "it has been sold as many as 200 million copies in 253 languages and dialects.",
-      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+      "cn": "它有253种语言和方言的版本，销量已高达2亿册。"
     },
     {
       "cover": false,
@@ -52,7 +52,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s12-p04-01.mp3",
       "en": "Around 70 years after the birth of the book,",
-      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+      "cn": "在这本书问世大约70年后，"
     },
     {
       "cover": false,
@@ -62,7 +62,7 @@
       "image": "assets/images/04.png",
       "audio": "assets/audio/segments/s12-p04-02.mp3",
       "en": "an American director has found a way to make it into a 3D animated film.",
-      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+      "cn": "一位美国导演找到了一种方法，将它制作成3D动画电影。"
     },
     {
       "cover": false,
@@ -152,7 +152,7 @@
       "image": "assets/images/13.png",
       "audio": "assets/audio/segments/s12-p13-01.mp3",
       "en": "The film has received a prize,",
-      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+      "cn": "这部电影获得了奖项，"
     },
     {
       "cover": false,
@@ -162,7 +162,7 @@
       "image": "assets/images/13.png",
       "audio": "assets/audio/segments/s12-p13-02.mp3",
       "en": "for it is like a childhood dream,",
-      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+      "cn": "因为它就像一个童年的梦想，"
     },
     {
       "cover": false,
@@ -172,7 +172,7 @@
       "image": "assets/images/13.png",
       "audio": "assets/audio/segments/s12-p13-03.mp3",
       "en": "which is lost by most adults in this stressed-out society.",
-      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+      "cn": "而在这个压力过大的社会中，大多数成年人已经失去了这样的梦想。"
     },
     {
       "cover": false,
@@ -1866,7 +1866,7 @@
       "image": "assets/images/03.webp",
       "audio": "assets/audio/segments/s12-p03-01.mp3",
       "en": "As one of the best-selling books in history,",
-      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+      "cn": "作为历史上最畅销的图书之一，"
     },
     {
       "cover": false,
@@ -1876,7 +1876,7 @@
       "image": "assets/images/03.webp",
       "audio": "assets/audio/segments/s12-p03-02.mp3",
       "en": "it has been sold as many as 200 million copies in 253 languages and dialects.",
-      "cn": "作为历史上最畅销的图书之一，它已被翻译成253种语言和方言，销量多达2亿册。"
+      "cn": "它有253种语言和方言的版本，销量已高达2亿册。"
     },
     {
       "cover": false,
@@ -1886,7 +1886,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s12-p04-01.mp3",
       "en": "Around 70 years after the birth of the book,",
-      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+      "cn": "在这本书问世大约70年后，"
     },
     {
       "cover": false,
@@ -1896,7 +1896,7 @@
       "image": "assets/images/04.webp",
       "audio": "assets/audio/segments/s12-p04-02.mp3",
       "en": "an American director has found a way to make it into a 3D animated film.",
-      "cn": "在这本书问世大约70年后，一位美国导演找到了一种方法，将其制作成3D动画电影。"
+      "cn": "一位美国导演找到了一种方法，将它制作成3D动画电影。"
     },
     {
       "cover": false,
@@ -1986,7 +1986,7 @@
       "image": "assets/images/13.webp",
       "audio": "assets/audio/segments/s12-p13-01.mp3",
       "en": "The film has received a prize,",
-      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+      "cn": "这部电影获得了奖项，"
     },
     {
       "cover": false,
@@ -1996,7 +1996,7 @@
       "image": "assets/images/13.webp",
       "audio": "assets/audio/segments/s12-p13-02.mp3",
       "en": "for it is like a childhood dream,",
-      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+      "cn": "因为它就像一个童年的梦想，"
     },
     {
       "cover": false,
@@ -2006,7 +2006,7 @@
       "image": "assets/images/13.webp",
       "audio": "assets/audio/segments/s12-p13-03.mp3",
       "en": "which is lost by most adults in this stressed-out society.",
-      "cn": "这部电影获了奖，因为它就像一个童年梦想，在这个压力过大的社会中，大多数成年人都失去了这个梦想。"
+      "cn": "而在这个压力过大的社会中，大多数成年人已经失去了这样的梦想。"
     },
     {
       "cover": false,

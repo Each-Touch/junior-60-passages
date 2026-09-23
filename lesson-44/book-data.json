@@ -202,7 +202,7 @@
       "image": "assets/images/20.png",
       "audio": "assets/audio/segments/s44-p20-01.mp3",
       "en": "Therefore, many voluntary groups work to protect wetlands by providing different services,",
-      "cn": "因此，许多志愿团体通过提供不同的服务，如清洁活动和公众教育，来保护湿地。"
+      "cn": "因此，许多志愿团体通过提供不同的服务来保护湿地，"
     },
     {
       "cover": false,
@@ -212,7 +212,7 @@
       "image": "assets/images/20.png",
       "audio": "assets/audio/segments/s44-p20-02.mp3",
       "en": "such as clean-up events and educating the public.",
-      "cn": "因此，许多志愿团体通过提供不同的服务，如清洁活动和公众教育，来保护湿地。"
+      "cn": "比如开展清洁活动和公众教育。"
     }
   ],
   "cover": {
@@ -1968,7 +1968,7 @@
       "image": "assets/images/20.webp",
       "audio": "assets/audio/segments/s44-p20-01.mp3",
       "en": "Therefore, many voluntary groups work to protect wetlands by providing different services,",
-      "cn": "因此，许多志愿团体通过提供不同的服务，如清洁活动和公众教育，来保护湿地。"
+      "cn": "因此，许多志愿团体通过提供不同的服务来保护湿地，"
     },
     {
       "cover": false,
@@ -1978,7 +1978,7 @@
       "image": "assets/images/20.webp",
       "audio": "assets/audio/segments/s44-p20-02.mp3",
       "en": "such as clean-up events and educating the public.",
-      "cn": "因此，许多志愿团体通过提供不同的服务，如清洁活动和公众教育，来保护湿地。"
+      "cn": "比如开展清洁活动和公众教育。"
     }
   ]
 }

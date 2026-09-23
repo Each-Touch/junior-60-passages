@@ -182,7 +182,7 @@
       "image": "assets/images/16.png",
       "audio": "assets/audio/segments/s56-p16-01.mp3",
       "en": "We have made great progress in space technology and have built our own space station,",
-      "cn": "我们在航天技术上取得了巨大进步，建成了自己的空间站，这让我们倍感自豪。"
+      "cn": "我们在航天技术上取得了巨大进步，建成了自己的空间站，"
     },
     {
       "cover": false,
@@ -192,7 +192,7 @@
       "image": "assets/images/16.png",
       "audio": "assets/audio/segments/s56-p16-02.mp3",
       "en": "which fills us with great pride.",
-      "cn": "我们在航天技术上取得了巨大进步，建成了自己的空间站，这让我们倍感自豪。"
+      "cn": "这让我们倍感自豪。"
     }
   ],
   "cover": {
@@ -1822,7 +1822,7 @@
       "image": "assets/images/16.webp",
       "audio": "assets/audio/segments/s56-p16-01.mp3",
       "en": "We have made great progress in space technology and have built our own space station,",
-      "cn": "我们在航天技术上取得了巨大进步，建成了自己的空间站，这让我们倍感自豪。"
+      "cn": "我们在航天技术上取得了巨大进步，建成了自己的空间站，"
     },
     {
       "cover": false,
@@ -1832,7 +1832,7 @@
       "image": "assets/images/16.webp",
       "audio": "assets/audio/segments/s56-p16-02.mp3",
       "en": "which fills us with great pride.",
-      "cn": "我们在航天技术上取得了巨大进步，建成了自己的空间站，这让我们倍感自豪。"
+      "cn": "这让我们倍感自豪。"
     }
   ]
 }

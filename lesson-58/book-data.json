@@ -52,7 +52,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s58-p05-01.mp3",
       "en": "According to Journey to the West,",
-      "cn": "根据《西游记》，美猴王（孙悟空）有一双敏锐的眼睛，能辨出善恶之别。"
+      "cn": "根据《西游记》，"
     },
     {
       "cover": false,
@@ -62,7 +62,7 @@
       "image": "assets/images/05.png",
       "audio": "assets/audio/segments/s58-p05-02.mp3",
       "en": "Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
-      "cn": "根据《西游记》，美猴王（孙悟空）有一双敏锐的眼睛，能辨出善恶之别。"
+      "cn": "美猴王（孙悟空）有一双敏锐的眼睛，能够分辨善恶。"
     },
     {
       "cover": false,
@@ -182,7 +182,7 @@
       "image": "assets/images/17.png",
       "audio": "assets/audio/segments/s58-p17-01.mp3",
       "en": "Scientists, from junior members to experienced leaders,",
-      "cn": "科学家们，从基层成员到经验丰富的领导者，都在努力工作，消除障碍，不因任何挑战而感到挫败。"
+      "cn": "科学家们，从基层成员到经验丰富的领导者，"
     },
     {
       "cover": false,
@@ -192,7 +192,7 @@
       "image": "assets/images/17.png",
       "audio": "assets/audio/segments/s58-p17-02.mp3",
       "en": "are also working hard to sweep away setbacks,",
-      "cn": "科学家们，从基层成员到经验丰富的领导者，都在努力工作，消除障碍，不因任何挑战而感到挫败。"
+      "cn": "也都在努力工作，克服障碍，"
     },
     {
       "cover": false,
@@ -202,7 +202,7 @@
       "image": "assets/images/17.png",
       "audio": "assets/audio/segments/s58-p17-03.mp3",
       "en": "without letting any challenges disappoint them.",
-      "cn": "科学家们，从基层成员到经验丰富的领导者，都在努力工作，消除障碍，不因任何挑战而感到挫败。"
+      "cn": "不让任何挑战使他们灰心。"
     },
     {
       "cover": false,
@@ -1720,7 +1720,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s58-p05-01.mp3",
       "en": "According to Journey to the West,",
-      "cn": "根据《西游记》，美猴王（孙悟空）有一双敏锐的眼睛，能辨出善恶之别。"
+      "cn": "根据《西游记》，"
     },
     {
       "cover": false,
@@ -1730,7 +1730,7 @@
       "image": "assets/images/05.webp",
       "audio": "assets/audio/segments/s58-p05-02.mp3",
       "en": "Monkey King has a pair of sharp eyes which can tell the difference between good and evil.",
-      "cn": "根据《西游记》，美猴王（孙悟空）有一双敏锐的眼睛，能辨出善恶之别。"
+      "cn": "美猴王（孙悟空）有一双敏锐的眼睛，能够分辨善恶。"
     },
     {
       "cover": false,
@@ -1850,7 +1850,7 @@
       "image": "assets/images/17.webp",
       "audio": "assets/audio/segments/s58-p17-01.mp3",
       "en": "Scientists, from junior members to experienced leaders,",
-      "cn": "科学家们，从基层成员到经验丰富的领导者，都在努力工作，消除障碍，不因任何挑战而感到挫败。"
+      "cn": "科学家们，从基层成员到经验丰富的领导者，"
     },
     {
       "cover": false,
@@ -1860,7 +1860,7 @@
       "image": "assets/images/17.webp",
       "audio": "assets/audio/segments/s58-p17-02.mp3",
       "en": "are also working hard to sweep away setbacks,",
-      "cn": "科学家们，从基层成员到经验丰富的领导者，都在努力工作，消除障碍，不因任何挑战而感到挫败。"
+      "cn": "也都在努力工作，克服障碍，"
     },
     {
       "cover": false,
@@ -1870,7 +1870,7 @@
       "image": "assets/images/17.webp",
       "audio": "assets/audio/segments/s58-p17-03.mp3",
       "en": "without letting any challenges disappoint them.",
-      "cn": "科学家们，从基层成员到经验丰富的领导者，都在努力工作，消除障碍，不因任何挑战而感到挫败。"
+      "cn": "不让任何挑战使他们灰心。"
     },
     {
       "cover": false,
